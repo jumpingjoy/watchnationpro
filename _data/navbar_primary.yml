@@ -5,32 +5,18 @@ center:
   - title: Home
     url: /
 
+  - title: Watch Buyer Guides
+    dropdown:
+      - title: Smart Watch Buyers Guide
+        url: /smart-watch-buyers-guide/
+
   - title: All Posts
     url: /blog/
 
-  - title: Business
-    url: /category/business/
+  - title: Smartwatch
+    url: /category/smartwatch/
 
-  - title: Culture
-    url: /category/culture/
-
-  - title: Travel
-    url: /category/travel/
-
-  - title: Sport
-    url: /category/sport/
-
-  - title: Pages
-    dropdown:
-      - title: Blog
-        url: /blog/
-      - title: Contact
-        url: /contact/
-      - title: Sidebar Left
-        url: /sidebar-left/
-      - title: Sidebar Right
-        url: /sidebar-right/
-      - title: 404
-        url: /404/
+  - title: Contact
+    url: /contact/
 
 right:
