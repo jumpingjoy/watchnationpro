@@ -1,5 +1,5 @@
 ---
-image: https://unsplash.com/photos/glpYh1cWf0o/1000x750
+image: https://unsplash.com/glpYh1cWf0o/1000x750
 title: Best Smartwatches for Elderly👴
 description: Do you know how Elderly👴 people at your home can be taken better care using smartwatches? Here is Top 5 best smartwatches for elderly people to track their health indicators, save money and time.
 excerpt: Do you know how Elderly👴 people at your home can be taken better care using smartwatches? Here is Top 5 best smartwatches for elderly people to track their health indicators, save money and time.
