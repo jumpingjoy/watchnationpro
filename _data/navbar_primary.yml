@@ -1,22 +1,14 @@
 # Navbar menu navigation links
 left:
+  - title: Home
+    url: /
 
 center:
   - title: Home
     url: /
-
-  - title: Watch Buyer Guides
-    dropdown:
-      - title: Smart Watch Buyers Guide
-        url: /smart-watch-buyers-guide/
-
-  - title: All Posts
-    url: /blog/
-
-  - title: Smartwatch
-    url: /category/smartwatch/
-
   - title: Contact
     url: /contact/
 
 right:
+  - title: Home
+    url: /

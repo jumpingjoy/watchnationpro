@@ -36,20 +36,23 @@ published: true
 # Smartwatches for Women
 
 ## Problems Faced By Women in day-to-day life
-
 Jenny is a working woman who travels by local transport. Whenever she is traveling, answering important office calls through mobile is difficult for her. Jenny finds it difficult to reach out to her smartphone because of the crowd around her bus.
 
 Holding a grip on bags and a mobile phone is very tough for her while traveling amid congestion in the local both in the morning and evening rush hours. Even if jenny uses a headset, she has to maintain the wire length between her ear and smartphone. While using a headset, one cannot initiate calls through the headset.
 
 We all have women like Jenny at our home who faces the following kinds of problems:
 
-**Difficulty in tracking menstrual cycle:** Jenny is used to missing her reminder on her menstrual cycle's dates. She suffers from stress, inability to work efficiently during office hours. She shouts at everyone. If she could remember the dates, she would have applied for leave for that day and would have taken rest at home.
+### Do you find it difficult to track menstrual cycle?
+You can be missing your reminder on your menstrual cycle's dates. Most of the women suffers from stress during their menstrual time, which may result in decreased work productivity during office hours. If you could remember the dates or have a gadget like smartwatch that can remind you, you can pre-plan your leaves and rest at home.
 
-**Lack of exercise**: She is finding no time to check her health. On the weekend also, she has to plan other shopping for household things and caring for children. She wishes to take a walk in the late evening. But she is not able to find whether the distance she walked is enough to burn the calories. Because of their office job, she got obese. She needs some exercises. While doing exercises, she needs to know how long she has walked.
+## Does your busy schedule make you miss your exercise?
+You may find no time to exercise her health. On the weekend also, she has to plan other shopping for household things and caring for children. She wishes to take a walk in the late evening. But she is not able to find whether the distance she walked is enough to burn the calories. Because of their office job, she got obese. She needs some exercises. While doing exercises, she needs to know how long she has walked.
 
-**Missing out on reminders** Jenny plans to purchase things she requires while coming back from the office for dinner; she puts reminders in her smartphone for everything, like purchasing a list of groceries, vegetables, fruits, and other things.  But she misses most of the reminders and notifications as the phone is not with her all the time.
+## Do you  miss out on purchase reminders
+Jenny plans to purchase things she requires while coming back from the office for dinner; she puts reminders in her smartphone for everything, like purchasing a list of groceries, vegetables, fruits, and other things.  But she misses most of the reminders and notifications as the phone is not with her all the time.
 
-**Watch mismatch with outfits:** It is necessary to wear watches that looks good with women's outfits. Some watches do not have the option to change the strap according to the outfits or it is difficult to change it as and when required.
+## Does your Watch look odd with your clothing outfits?
+It is necessary to wear watches that looks good with women's outfits. Some watches do not have the option to change the strap according to the outfits or it is difficult to change it as and when required.
 
 > Finally, Jenny's friend Mary suggested to use smartwatches to solve all the problems faced by women.
 

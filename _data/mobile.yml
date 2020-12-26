@@ -2,14 +2,5 @@
 - title: Home
   url: /
 
-- title: Blog
-  url: /blog/
-
-- title: Smartwatch
-  url: /category/smartwatch/
-
 - title: Contact
   url: /contact/
-
-- title: 404
-  url: /404/
