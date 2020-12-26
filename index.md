@@ -243,19 +243,7 @@ With so many misleading platforms online, our aim is to help you find the most t
 
 We are certain that with us you’ll find the one that’s right for you.
 
-So, Should I Give it a Shot?
-Orange fruit and Obagi
-CTA best price
-Of course, they work! In addition to being ranked the top-rated anti-aging product in user reviews, the science proves it. Clinical trials have proven vitamin C face serums is the unsurpassed natural solution to rejuvenating and repairing the skin.
+## So, Should I Give it a Shot?
+Of course, they work! In addition to being ranked the top-rated smartwatch product in user reviews, the science proves it. Performance tests have proven smartwatches is the unsurpassed solution which improves life style apart from smartphones.
 
-The anti-aging potential has been long studied. A recent six-month-long clinical trial studied the effects of vitamin C face serums in reversing the damages to skin caused by overexposure to the sun.
-
-The patients who received the topical cream showed significant reductions in wrinkles and overall improvements to the appearance and texture of their skin compared to the control group.
-
-In another similar three-month clinical trial, researchers used photographic assessments to reveal that subjects who received daily topical treatments experienced a 57.9% improvement in their skin’s appearance and elasticity.
-
-As research continues to show on its effectiveness, we are learning more about the various facets of this product’s anti-aging potentials, all while garnering proactive results in the process.
-
-In addition to reducing wrinkles and improving skin’s firmness, these miracle products have been shown to reverse age spotting or lentigines. Age spotting is often a result of UV-damage, as oxidation causes melanin to pool in the top layer of the skin—leaving behind discolored spots on the face and body.
-
-Because some of the Best Vitamin C serums are capable of synthesizing collagen production, they combat the damages to skin incurred by aging or even acne.
+The people who is using the smartwatch showed significant improvement in work, family and health factors and overall improvements to the lifestyle compared to the control group.
