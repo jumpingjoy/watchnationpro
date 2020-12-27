@@ -24,25 +24,29 @@ We all have women like Jenny at our home who faces the following kinds of proble
 You can be missing your reminder on your menstrual cycle's dates. Most of the women suffers from stress during their menstrual time, which may result in decreased work productivity during office hours. If you could remember the dates or have a gadget like smartwatch that can remind you, you can pre-plan your leaves and rest at home.
 
 ## Does your busy schedule make you miss your exercise?
+{% include image.html img="women-missing-exercise.jpg" alt="Women-missing-exercise" caption="Missing Exercise?" align="left" %}
 You may find no time to exercise her health. On the weekend also, she has to plan other shopping for household things and caring for children. She wishes to take a walk in the late evening. But she is not able to find whether the distance she walked is enough to burn the calories. Because of their office job, she got obese. She needs some exercises. While doing exercises, she needs to know how long she has walked.
 
 ## Do you  miss out on purchase reminders?
+{% include image.html img="missing-grocery.jpg" alt="Women-missing-exercise" caption="Missing Grocery?" align="right" %}
 You might plans to purchase things  while coming back from the office; You may put reminders in your smartphone on a list of groceries, vegetables, fruits, and other things.  But you might miss it because cant hear your phone notification when it is in your bag or away from you and is not possible to hold it all the time.
 
-## Does yor Watch mismatch with your clothing outfits?
-You may go to a party and have you been in an embarassing situation when someone notices your watch look odd to your outfits. Some watches do not have the option to change the strap according to the outfits or it is difficult to change it as and when required.
+## Does your Watch is too loose with your wrist or looks odd with your clothes?
+{% include image.html img="misfit-watch.jpg" alt="misfit-watch" caption="Misfit Watch?" align="left" %}
+You may go to a party and have you been in an embarassing situation when someone notices your watch look odd to your wrist size or outfits. Some watches do not have the option to change the strap according to the outfits or it is difficult to change it as and when required.
 
 ### Who are the people in your circle you care for?
+{% include image.html img="caring-family.jpg" alt="caring-family" caption="Difficult Taking Care of Loved One?" align="right" %}
 It can be your husband, kids, parents, grandparents, or your friends or colleagues.
 What is the difficulty you are facing while taking care of them?
 
 * Do you know that your kid is safely reaching home from school every day? Will it be great if you can keep a track of them, right?
 
-* Do you know that your grandmother suffering from fever is safe at home? Is her body temperature normal? How about you being alerted on her body temparature to your smartwatch and you can keep a track of her body temperature?
+* Do you know that your grandmother suffering from fever is safe at home? Is her body temperature normal? How about you being alerted on her body temperature to your smartwatch and you can keep a track of her body temperature?
 
 > The problems that smartwatches solve are countless!! Read on the full guide to know why you need a smartwatch and what smartwatch you must get for you or your women family members, relatives and female friends.
 
-**But, where is the problem in selecting the best smartwatch suiting to your needs?**
+## Where is the problem in selecting the best smartwatch suiting to your needs?
 
 As a women, you might be knowing about a normal watch ⌚and its types and how to select them. But, buying smartwatches is entirely a different ballgame because of the huge number of features and technical specifications available in these smartwatches, which might be overwhelming as a beginner.
 
