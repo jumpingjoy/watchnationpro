@@ -5,7 +5,7 @@ sidebar: right
 ---
 # What's the Best Smartwatch for Women?<br>Reviews, Ratings & Buying Guide
 
-{% include image.html img="https://source.unsplash.com/qX9Ie7ieb1E/900x500" alt="Alt for image" %}
+{% include image.html img="smartwatch-for-women.png" alt="Alt for image" %}
 
 Are you looking for reviews of the best smartwatches for women that can help you be better at work and family life?
 
@@ -25,10 +25,10 @@ You can be missing your reminder on your menstrual cycle's dates. Most of the wo
 You may find no time to exercise her health. On the weekend also, she has to plan other shopping for household things and caring for children. She wishes to take a walk in the late evening. But she is not able to find whether the distance she walked is enough to burn the calories. Because of their office job, she got obese. She needs some exercises. While doing exercises, she needs to know how long she has walked.
 
 ## Do you  miss out on purchase reminders?
-Jenny plans to purchase things she requires while coming back from the office for dinner; she puts reminders in her smartphone for everything, like purchasing a list of groceries, vegetables, fruits, and other things.  But she misses most of the reminders and notifications as the phone is not with her all the time.
+You might plans to purchase things  while coming back from the office; You may put reminders in your smartphone on a list of groceries, vegetables, fruits, and other things.  But you might miss it because cant hear your phone notification when it is in your bag or away from you and is not possible to hold it all the time.
 
-## Does your Watch mismatch with your clothing outfits?
-It is necessary to wear watches that looks good with women's outfits. Some watches do not have the option to change the strap according to the outfits or it is difficult to change it as and when required.
+## Does yor Watch mismatch with your clothing outfits?
+You may go to a party and have you been in an embarassing situation when someone notices your watch look odd to your outfits. Some watches do not have the option to change the strap according to the outfits or it is difficult to change it as and when required.
 
 ### Who are the people in your circle you care for?
 It can be your husband, kids, parents, grandparents, or your friends or colleagues.
@@ -36,7 +36,7 @@ What is the difficulty you are facing while taking care of them?
 
 * Do you know that your kid is safely reaching home from school every day? Will it be great if you can keep a track of them, right?
 
-* Do you know that your grandmother suffering from fever is safe at home? Is her body temperature normal? Will you feel good if you can keep a track of her body temperature?
+* Do you know that your grandmother suffering from fever is safe at home? Is her body temperature normal? How about you being alerted on her body temparature to your smartwatch and you can keep a track of her body temperature?
 
 > The problems that smartwatches solve are countless!! Read on the full guide to know why you need a smartwatch and what smartwatch you must get for you or your women family members, relatives and female friends.
 
