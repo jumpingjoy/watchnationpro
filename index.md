@@ -25,7 +25,7 @@ We all have women like Jenny at our home who faces the following kinds of proble
 You can be missing your reminder on your menstrual cycle's dates. Most of the women suffers from stress during their menstrual time, which may result in decreased work productivity during office hours. If you could remember the dates or have a gadget like smartwatch that can remind you, you can pre-plan your leaves and rest at home.
 
 ## Does your busy schedule make you miss your exercise?
-{% include image.html img="women-missing-exercise.png" alt="Women-missing-exercise" caption="Missing Exercise?" align="left" %}
+{% include image.html img="women-missing-exercise.jpg" alt="Women-missing-exercise" caption="Missing Exercise?" align="left" %}
 You may find no time to exercise her health. On the weekend also, she has to plan other shopping for household things and caring for children. She wishes to take a walk in the late evening. But she is not able to find whether the distance she walked is enough to burn the calories. Because of their office job, she got obese. She needs some exercises. While doing exercises, she needs to know how long she has walked.
 
 ## Do you  miss out on purchase reminders?
