@@ -1,14 +1,12 @@
 # Navbar menu navigation links
 left:
-  - title: Home
-    url: /
 
 center:
   - title: Home
     url: /
-  - title: Contact
-    url: /contact/
+  - title: Reviews
+    dropdown:
+      - title: Apple Watch Series 6
+        url: /apple-watch-series-6/
 
 right:
-  - title: Home
-    url: /
