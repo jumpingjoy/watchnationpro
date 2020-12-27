@@ -12,9 +12,10 @@ Are you looking for reviews of the best smartwatches for women that can help you
 You can be looking for the best smartwatches to solve any of the following problems with your current work and family responsibilities.
 
 ## Do you need a smartwatch as a Women?<br>What problems/challenges you face at work or managing your family?
+{% include image.html img="multitasking-women.jpg" alt="multitasking-women" caption="Finding difficult to multitask?" align="right" %}
 Jenny is a working woman who travels by local transport. Whenever she is traveling, answering important office calls through mobile is difficult for her. Jenny finds it difficult to reach out to her smartphone because of the crowd around her bus.
 
-Holding a grip on bags and a mobile phone is very tough for her while traveling amid congestion in the local both in the morning and evening rush hours. Even if jenny uses a headset, she has to maintain the wire length between her ear and smartphone. While using a headset, one cannot initiate calls through the headset.
+Jenny finds it difficult to hold her kid, her bag and a mobile phone very tough for her while at home and while travelling amid congestion in the local both in the morning and evening rush hours. Even if jenny uses a headset, she has to maintain the wire length between her ear and smartphone. While using a headset, one cannot initiate calls through the headset.
 
 We all have women like Jenny at our home who faces the following kinds of problems:
 
@@ -24,7 +25,7 @@ We all have women like Jenny at our home who faces the following kinds of proble
 You can be missing your reminder on your menstrual cycle's dates. Most of the women suffers from stress during their menstrual time, which may result in decreased work productivity during office hours. If you could remember the dates or have a gadget like smartwatch that can remind you, you can pre-plan your leaves and rest at home.
 
 ## Does your busy schedule make you miss your exercise?
-{% include image.html img="women-missing-exercise.jpg" alt="Women-missing-exercise" caption="Missing Exercise?" align="left" %}
+{% include image.html img="women-missing-exercise.png" alt="Women-missing-exercise" caption="Missing Exercise?" align="left" %}
 You may find no time to exercise her health. On the weekend also, she has to plan other shopping for household things and caring for children. She wishes to take a walk in the late evening. But she is not able to find whether the distance she walked is enough to burn the calories. Because of their office job, she got obese. She needs some exercises. While doing exercises, she needs to know how long she has walked.
 
 ## Do you  miss out on purchase reminders?
