@@ -19,7 +19,7 @@ Holding a grip on bags and a mobile phone is very tough for her while traveling 
 We all have women like Jenny at our home who faces the following kinds of problems:
 
 ### Do you find it difficult to track menstrual cycle?
-{% include image.html img="menstruation.jpg/900x60" alt="Alt for image" caption="Right aligned image" align="right" %}
+{% include image.html img="menstruation.jpg" alt="Alt for image" caption="Right aligned image" align="right" %}
 
 You can be missing your reminder on your menstrual cycle's dates. Most of the women suffers from stress during their menstrual time, which may result in decreased work productivity during office hours. If you could remember the dates or have a gadget like smartwatch that can remind you, you can pre-plan your leaves and rest at home.
 
