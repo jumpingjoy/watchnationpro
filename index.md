@@ -5,7 +5,7 @@ sidebar: right
 ---
 # What's the Best Smartwatch for Women?<br>Reviews, Ratings & Buying Guide
 
-{% include image.html img="smartwatch-for-women.png" alt="Alt for image" %}
+{% include image.html img="smartwatch-for-women.png" alt="Alt for image" caption="Smartwatch for women" align="center" %}
 
 Are you looking for reviews of the best smartwatches for women that can help you be better at work and family life?
 
