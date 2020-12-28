@@ -5,6 +5,10 @@ center:
   - title: Home
     url: /
   - title: Reviews
+    url: /#/
+    dropdown:
+      - title: Apple Watch Series 6
+        url: /apple-watch-series-6/
     dropdown:
       - title: Apple Watch Series 6
         url: /apple-watch-series-6/

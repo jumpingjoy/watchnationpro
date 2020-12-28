@@ -11,7 +11,7 @@ page:
   - widget: authors
     title: CONTRIBUTORS
     count: 5
-    
+
 # Footer sidebar widgets
 footer:
   - widget: recent
