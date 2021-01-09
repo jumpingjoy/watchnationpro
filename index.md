@@ -125,7 +125,7 @@ Few models support Sports activities, and these smartwatches track the wearer's 
 ### How smartwatch is different from standalone fitness bands?
 Smartwatches have all the sensors of fitness bands. The only difference between the smartwatch and the standalone watches is that smartwatches can be connected with smartphones and operated, whereas standalone watches can be operated independently.
 
-## What are the Key Features?<br> How to Use it in Your Daily Life
+### What are the Key Features?<br> How to Use it in Your Daily Life
 
 As a leading source for the best smartwatch reviews on the web, we believe you should know about all the major features for when searching out the products, not just the headline ones.  (1) So, before you look into our evaluations, here is a glossary of the most common features you should familiarize yourself with and also know the basics of how to use them:
 
