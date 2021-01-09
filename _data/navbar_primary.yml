@@ -12,5 +12,13 @@ center:
     dropdown:
       - title: Apple Watch Series 6
         url: /apple-watch-series-6/
+  - title: Benefits
+    url: /#/
+    dropdown:
+      - title: Apple Watch Series 6
+        url: /apple-watch-series-6/
+    dropdown:
+      - title: Apple Watch Series 6
+        url: /apple-watch-series-6/
 
 right:
