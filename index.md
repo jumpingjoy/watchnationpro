@@ -7,7 +7,11 @@ sidebar: right
 
 # What's the Best Smartwatch for Women?<br>Reviews, Ratings & Buying Guide
 
-Are you looking for reviews of the best smartwatches for women that can help you be better at work and family life?
+Do you know that 25% of women have responded favourably that they are more  into the smartwatch when compared to only 18% of men? Look at the following infographic to know how many women are increasingly using smartwatches year on year based on the sales statistics on smartwatches!
+
+![Smartwatch-infographic]({{site.baseurl}}/uploads/smartwatch-infographic.png)
+
+Are you looking for reviews of the best smartwatches for women and buy one that can help you be better at work and family life?
 
 Inorder to have a better understanding of the benefits of smartwatches for women, it is imperative that we know about the various problems that women faces in day to day life and know how smartwatches help in resolving these problems.
 
@@ -19,15 +23,15 @@ You can be missing your reminder on your menstrual cycle's dates. Most of the wo
 
 <!--include an internal link to the detailed page-->
 ## 2. Do you travel alone and some strangers stalks you?: Inform your whereabouts to friends/family and police
-{% include image.html img="women-missing-exercise.jpg" alt="Women-missing-exercise" caption="Missing Exercise?" align="left" %}
-You may find no time to exercise her health. On the weekend also, she has to plan other shopping for household things and caring for children. She wishes to take a walk in the late evening. But she is not able to find whether the distance she walked is enough to burn the calories. Because of their office job, she got obese. She needs some exercises. While doing exercises, she needs to know how long she has walked.
+{% include image.html img="stranger-danger.jpg" alt="Stranger danger" caption="dangers of stranger?" align="left" %}
+You may be stalked by someone when you return from office or travel alone. ____ number of women are reported to stalk on a daily basis. --- number of women are kidnapped and raped daily worldover. Satety is the most important concern for women.
 
 ## 3. Miss your health?: Track health and Get reminded to exercise
-{% include image.html img="women-missing-exercise.jpg" alt="Women-missing-exercise" caption="Missing Exercise?" align="left" %}
+{% include image.html img="women-missing-exercise.jpg" alt="Women-missing-exercise" caption="Missing Exercise?" align="right" %}
 You may find no time to exercise her health. On the weekend also, she has to plan other shopping for household things and caring for children. She wishes to take a walk in the late evening. But she is not able to find whether the distance she walked is enough to burn the calories. Because of their office job, she got obese. She needs some exercises. While doing exercises, she needs to know how long she has walked.
 
 ### 4. Do you find it difficult to hold smartphone and multi-task?: Avoid using phone to the maximum
-{% include image.html img="multitasking-women.jpg" alt="multitasking-women" caption="Finding difficult to multitask?" align="right" %}
+{% include image.html img="multitasking-women.jpg" alt="multitasking-women" caption="Finding difficult to multitask?" align="left" %}
 Are you a working woman who travels by local transport. Whenever you are traveling, answering important office calls through mobile is difficult for you. You can finds it difficult to reach out your smartphone because of being stuck in crowd.
 
 You may find it difficult to handle your kid, your bag and your mobile phone very tough at home and while travelling amid congestion during rush hours. Even if you use your earphone headset, you might find it difficult to handle it. While using a headset, you cannot initiate calls through the headset.
@@ -41,9 +45,6 @@ What is the difficulty you are facing while taking care of them?
 
 * Do you know that your grandmother suffering from fever is safe at home? Is her body temperature normal? How about you being alerted on her body temperature to your smartwatch and you can keep a track of her body temperature?
 
-Look into the smartwatch infographic to know how many women are increasingly using smartwatches year on year and know more about sales statistics on smartwatches!
-
-![Smartwatch-infographic]({{site.baseurl}}/uploads/smartwatch-infographic.png)
 
 > The problems that smartwatches solve are countless!! Read on the full guide to know why you need a smartwatch and what smartwatch you must get for you or your women family members, relatives and female friends.
 
@@ -54,7 +55,16 @@ You can be looking for the best smartwatches to solve any of the following probl
 ## Our Reviews for the Top Rated Smartwatches for Women 2020
 ​If you are looking for a quick list of the best smartwatches for women reviews, check out our top five reviews to buy the one that suits you today.
 
-<!--Insert comparison Table Here-->
+<!--Insert comparison Table Here
+Best smartwatch for women overall: 40mm Apple Watch Series 4
+Best smartwatch with a feminine design: Kate Spade Scallop 2
+Best smartwatch with a classic design: Fossil Q Venture HR
+Best smartwatch with a minimalist design: Skagen Falster 2
+Best smartwatch for fitness lovers: Fitbit Versa
+
+-->
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------
 
