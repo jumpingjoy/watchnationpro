@@ -3,18 +3,16 @@ title: Best Smartwatch for Women | Our Honest Review
 description:  While there are many outstanding smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 18 of 20 of the online reviews available, Apple Watch Series 6 comes out on top.
 sidebar: right
 ---
-# Apple Watch Series 6 Review<br>6 vs SE vs 3
+{% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="
+Apple Watch Series 6 Review" align="center" %}
 
-{% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="Smartwatch for women" align="center" %}
+# Apple Watch Series 6 Review<br>6 vs SE vs 3
 
 While there are many outstanding smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 18 of 20 of the online reviews available, Apple Watch Series 6 comes out on top.
 
 And its no surprise why, as you’ll soon learn.
 
-## How does it work?
-
-Apple watch Series 6 comes from the well known brand of apple loaded with sensible features for women.
-### Key Features and Product Application
+### What are Key Features of Apple Watch Series 6 and its Benefits?
 <table class="uk-table uk-table-striped">
 <thead>
 		<tr>
@@ -62,15 +60,21 @@ Apple watch Series 6 comes from the well known brand of apple loaded with sensib
 </tbody>
 </table>
 
+### What is the Style Quotient of Apple Watch Series 6?
 Different materials are used for finishes. You can choose from a collection of aluminum, titanium, and stainless steel. Get these in two colors in new blue and red.
 
 Wrist band comes with an attractive range of varieties - leather strap, silicone band, stainless steel band, and woven sport band. Other than these, different materials and colors are available in the market by third-party.
 
+### What is the Performance Quotient of Apple Watch Series 6?
 The sensor for measuring blood oxygen, advanced heart monitor of ECG are provided. The metrics of all the sensors are verified as accurate.
 
 **Cons**:
 
 Pricey. Works seemlessly only with iPhone smartphones.
+
+## How does it work?
+Apple watch Series 6 comes from the well known brand of apple loaded with sensible features for women.
+<!--Insert  1 Youtube Video here-->
 
 ## Where can I buy this Product?
 
