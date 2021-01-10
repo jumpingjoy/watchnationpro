@@ -1,6 +1,6 @@
 ---
 title: Best Smartwatch for Women | Our Honest Review
-description:  While there are many outstanding smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 18 of 20 of the online reviews available, Apple Watch Series 6 comes out on top.
+description:  We have reviewed the Kate spade scallop 2 and found that ....
 sidebar: right
 ---
 {% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="
@@ -16,62 +16,6 @@ And its no surprise why, as you’ll soon learn.
 
 <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
 <div class="commonninja_component" comp-type="comparison_table" comp-id="3daac1c8-76cc-4fc2-bd70-9527a967b40c"></div>
-<!--
-<table class="uk-table uk-table-striped">
-<thead>
-		<tr>
-				<th>Feature</th>
-				<th>Benefit</th>
-		</tr>
-</thead>
-<tbody>
-		<tr>
-				<td>40mm & 44mm sizes with 10.74 depth casing</td>
-				<td>Suitable for slim and tiny wrists of women</td>
-		</tr>
-    <tr>
-				<td>Always ON Retina Display</td>
-				<td>Allow you to customize your screens to show battery status, notification, time, date and more.</td>
-		</tr>
-		<tr>
-				<td>In-built LTE</td>
-				<td>Initiate calls from the watch</td>
-		</tr>
-		<tr>
-				<td>Optical Heart sensor/ECG sensor</td>
-				<td>Check hearts rhythm and electrical activity for every beat to provide critical data of the generated electrocardiogram to doctors</td>
-		</tr>
-    <tr>
-				<td>Menstrual tracker</td>
-				<td>Early notification about menstrual cycle dates through Health app or Cycle tracking app</td>
-		</tr>
-    <tr>
-				<td>Fall detection</td>
-				<td>When users fall down on the ground, watch detects it and the SOS alert function alerts you friends/family members</td>
-		</tr>
-		<tr>
-				<td>Waterproof to 50 metres</td>
-				<td>Long life even if frequently exposed to water</td>
-		</tr>
-    <tr>
-				<td>Blood oxygen sensor</td>
-				<td>Can measure on-demand how well your body absorbs oxygen</td>
-		</tr>
-    <tr>
-				<td>Digital Crown with haptic feedback</td>
-				<td>Press digital crown to return to home screen. Rotate to zoom and scroll without need to pinch, swipe as in a smartwatch to view the screen. Haptic feedback makes your watch vibrate similar to your phone when it receives notifications.</td>
-		</tr>
-</tbody>
-</table>
-
-### What is the Style Quotient of Apple Watch Series 6?
-Different materials are used for finishes. You can choose from a collection of aluminum, titanium, and stainless steel. Get these in two colors in new blue and red.
-
-Wrist band comes with an attractive range of varieties - leather strap, silicone band, stainless steel band, and woven sport band. Other than these, different materials and colors are available in the market by third-party.
-
-### What is the Performance Quotient of Apple Watch Series 6?
-The sensor for measuring blood oxygen, advanced heart monitor of ECG are provided. The metrics of all the sensors are verified as accurate.
--->
 
 **Cons**:
 
