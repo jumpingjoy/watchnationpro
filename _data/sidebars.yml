@@ -14,20 +14,10 @@ page:
 
 # Footer sidebar widgets
 footer:
-  - widget: recent
-    title: RECENT POSTS
-    count: 4
-
   - widget: links
     title: ABOUT
     links:
       - title: "About Us"
-        url: /#/
-      - title: "Our Story"
-        url: /#/
-      - title: "Contribute"
-        url: /#/
-      - title: "Terms"
         url: /#/
       - title: "Contact"
         url: /contact/
