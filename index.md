@@ -22,7 +22,7 @@ Inorder to have a better understanding of the benefits of smartwatches for women
 You can be missing your reminder on your menstrual cycle's dates. Most of the women suffers from stress during their menstrual time, which may result in decreased work productivity during office hours. If you could remember the dates or have a gadget like smartwatch that can remind you, you can pre-plan your leaves and rest at home.
 
 <!--include an internal link to the detailed page-->
-## 2. Do you travel alone and some strangers stalks you?: Inform your whereabouts to friends/family and police
+## 2. Do you travel alone and some strangers stalks you?: Emergency alert your friends/family and police
 {% include image.html img="stranger-danger.jpg" alt="Stranger danger" caption="dangers of stranger?" align="left" %}
 You may be stalked by someone when you return from office or travel alone. ____ number of women are reported to stalk on a daily basis. --- number of women are kidnapped and raped daily worldover. Satety is the most important concern for women and ensure all precautions are taken care while travelling.
 
@@ -233,7 +233,7 @@ It tracks the body temperature. It indicates even a slight change in the body te
 
 #### Sleep Tracking sensor
 
-It tracks the sleep cycle. 
+It tracks the sleep cycle.
 
 #### Heart Rate Sensor
 It calculates the heartbeats per minute. It measures light on the wrist. The heart puts blood into the artery when it beats. So the light sent on the wrist is reflected back with less light after reaching the blood vessels. In this manner, the optical heart rate sensor calculates heartbeats per minute.

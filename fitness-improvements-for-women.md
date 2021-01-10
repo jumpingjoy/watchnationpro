@@ -1,6 +1,6 @@
 ---
-title: Best Smartwatch for Women | Our Honest Review
-description:  While there are many outstanding smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 18 of 20 of the online reviews available, Apple Watch Series 6 comes out on top.
+title: Improve Your Fitness with Smartwatch in 2021
+description:  We tried using the fitness features of smartwatches and found out that...
 sidebar: right
 ---
 {% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="
