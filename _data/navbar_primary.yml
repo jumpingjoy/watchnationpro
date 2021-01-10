@@ -4,14 +4,18 @@ left:
 center:
   - title: Home
     url: /
+
+
   - title: Reviews
-    url: /#/
+    url: /
     dropdown:
       - title: Apple Watch Series 6
-        url: /apple-watch-series-6-review/
+      url: /apple-watch-series-6-review/
     dropdown:
       - title: Kate Spade Scallop 2
-        url: /kate-spade-scallop-2-review/
+      url: /kate-spade-scallop-2-review/
+
+      
   - title: Benefits
     url: /smartwatch-for-women-benefits/
     dropdown:
