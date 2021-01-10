@@ -11,5 +11,11 @@ center:
         url: /apple-watch-6-review/
       - title: Kate Spade Scallop 2 Review
         url: /kate-spade-scallop-2-review/
+  - title: How To Guides
+    dropdown:
+      - title: Menstrual Tracking
+        url: /menstrual-tracking-in-smartwatch/
+      - title: Emergency Alerts
+        url: /emergency-alerts-in-smartwatch/
 
 right:
