@@ -23,24 +23,16 @@ footer:
         url: /contact/
 
   - widget: links
-    title: PRODUCTS
+    title: POLICIES/TERMS
     links:
-      - title: "Advertising"
+      - title: "Privacy Policy"
         url: /#/
-      - title: "Featured Story"
+      - title: "Terms and Conditions of Use"
         url: /#/
-      - title: "Donations"
-        url: /#/
-      - title: "Charity"
-        url: /#/
-
-  - widget: categories
-    title: CATEGORIES
-    count: 5
 
   - widget: authors
     title: CONTRIBUTORS
-    count: 5
+    count: 3
 
   - widget: about
     # content: Content of some sort..
