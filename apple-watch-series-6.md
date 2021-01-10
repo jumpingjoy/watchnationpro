@@ -16,7 +16,7 @@ And its no surprise why, as you’ll soon learn.
 
 <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
 <div class="commonninja_component" comp-type="comparison_table" comp-id="3daac1c8-76cc-4fc2-bd70-9527a967b40c"></div>
-
+<!--
 <table class="uk-table uk-table-striped">
 <thead>
 		<tr>
@@ -71,6 +71,7 @@ Wrist band comes with an attractive range of varieties - leather strap, silicone
 
 ### What is the Performance Quotient of Apple Watch Series 6?
 The sensor for measuring blood oxygen, advanced heart monitor of ECG are provided. The metrics of all the sensors are verified as accurate.
+-->
 
 **Cons**:
 
