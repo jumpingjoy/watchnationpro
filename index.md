@@ -24,7 +24,7 @@ You can be missing your reminder on your menstrual cycle's dates. Most of the wo
 <!--include an internal link to the detailed page-->
 ## 2. Do you travel alone and some strangers stalks you?: Inform your whereabouts to friends/family and police
 {% include image.html img="stranger-danger.jpg" alt="Stranger danger" caption="dangers of stranger?" align="left" %}
-You may be stalked by someone when you return from office or travel alone. ____ number of women are reported to stalk on a daily basis. --- number of women are kidnapped and raped daily worldover. Satety is the most important concern for women.
+You may be stalked by someone when you return from office or travel alone. ____ number of women are reported to stalk on a daily basis. --- number of women are kidnapped and raped daily worldover. Satety is the most important concern for women and ensure all precautions are taken care while travelling.
 
 ## 3. Miss your health?: Track health and Get reminded to exercise
 {% include image.html img="women-missing-exercise.jpg" alt="Women-missing-exercise" caption="Missing Exercise?" align="right" %}
@@ -53,14 +53,6 @@ Do you face any other problems faced as a women which can be solved through smar
 ## Our Reviews for the Top Rated Smartwatches for Women 2020
 ​If you are looking for a quick list of the best smartwatches for women reviews, check out our top five reviews to buy the one that suits you today.
 
-<!--Insert comparison Table Here
-Best smartwatch for women overall: 40mm Apple Watch Series 4
-Best smartwatch with a feminine design: Kate Spade Scallop 2
-Best smartwatch with a classic design: Fossil Q Venture HR
-Best smartwatch with a minimalist design: Skagen Falster 2
-Best smartwatch for fitness lovers: Fitbit Versa
-
--->
 <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
 <div class="commonninja_component" comp-type="comparison_table" comp-id="e557f962-6598-41b2-a3b9-364388e513a8"></div>
 
@@ -136,7 +128,7 @@ Few models support Sports activities, and these smartwatches track the wearer's 
 ### How smartwatch is different from standalone fitness bands?
 Smartwatches have all the sensors of fitness bands. The only difference between the smartwatch and the standalone watches is that smartwatches can be connected with smartphones and operated, whereas standalone watches can be operated independently.
 
-## What are the Key Features?<br> How to Use it in Your Daily Life
+## What are the Key Features?<br> How to Use it in Your Daily Life?
 
 As a leading source for the best smartwatch reviews on the web, we believe you should know about all the major features for when searching out the products, not just the headline ones.  (1) So, before you look into our evaluations, here is a glossary of the most common features you should familiarize yourself with and also know the basics of how to use them:
 
@@ -159,10 +151,33 @@ Fossil watches available in the market are designed well to be compatible with y
 Samsung galaxy watch active 2 and Tizen powered galaxy watch has the capability to work with multiple Android as well as iPhone mobiles.
 The fit Pulsar 2 works equally well with Android and iPhone.
 
-### Can you Access Calls?
+### ✅Is it battery operated or must be charged?
+Some of the smart watches like Samsung gear sport and apple watch has wireless charging feature. In order to charge these devices, you cannot plug your device directly into a charger, but you can lay it on a charging puck.
+
+### ✅How is the Battery Backup?
+And also, you need to consider the battery life of a smartwatch. Being a work professional, you will use the watch most of the time in a day, so purchasing a smartwatch with good battery life is very important.
+Otherwise, it is not meaningful when it needs charging very often. You can do it with your smartphone alone. You don't need a smartwatch. So please be concerned about battery life when you go shopping for a smartwatch.
+
+Nowadays, smartwatches are available with ten days of battery life. Unlike a smartphone, we don't need to charge daily.Most color screen smartwatches tend to last for a day or two. You decide and consider how often you are willing to plug in your watch for charging often.
+
+Smartwatches with voice capabilities will not have charge last long as expected. The charge of the Apple watch lasts around 18 hours.
+
+### ✅How many Apps are available for Usage?
+Samsung smartwatch models have hundreds or even thousands of App currently.
+Apple watch consists of the most well-rounded applications till now. It consists of 20000 apps available, which have a capacity to do everything from controlling your smart lights and other home devices 92 the accent of ordering lunch out using seamless.
+
+### ✅Can you Access Phone Calls?
 You can attend to the phone calls through your smartwatches. You don't need to take your smartphone from your pocket or bag. Smartwatches come with a dial pad and also syncing the contacts. In such cases, you can make calls from your smartwatches. Smartwatches having call features will have built-in LTE. Features like AT&T number sink and Verizon's number share lets you use the same number on your watch and your mobile phone.
 
 You can operate it and call from your smartwatch even if your mobile phone is turned off. You may have to pay for a separate data plan for your smartwatch to which might cost around $10 per month in case if you want it to have the advantage of a calling option.
+
+### ✅Can You Make Video Calls?
+Some smartwatches are designed with inbuilt cameras. You can shoot video from your wrist or attend video calling for meeting purposes.
+
+You must check out whether the smartwatch has the following sensors too!!
+
+* Smartwatch Camera
+* Voice sensor
 
 ### ✅Can You See Message Notification?
 If you use a smartwatch, you can answer calls and can reply to messages and emails instantly. You can't miss important calls and emails.
@@ -177,37 +192,18 @@ SOS Alerts is indeed such an important feature that you should check for while p
 
 You can input up to three or more phone numbers that can be called in an emergency for your children. This SOS will initiate emergency calls to all the emergency numbers that you have saved. It will keep on calling until the call is answered. If you miss the call to pick, other people whose phone numbers that you have given in the App can pick the call and save the child.
 
-### ✅Can You Make Video Calls?
-Some smartwatches are designed with inbuilt cameras. You can shoot video from your wrist or attend video calling for meeting purposes.
+### ✅Can You Make Payments Using Smartwatch?
+You can use your smartwatches to pay for steps even if your mobile phone is switched off. NFC chips embedded in these smartwatches help you in payment.
 
-You must check out whether the smartwatch has the following sensors too!!
+Apple pay is enabled in all the Apple Watch models. Apple pay works even if you do not have your phone with you or if you do not have an LTE connection.
 
-* Smartwatch Camera
-* Voice sensor
+Android pay is supported in wear OS watches dance like LG watch sport Huawei watch 2 you and tag Heuer connected modular 45.
 
-### ✅How is the Battery Backup?
-And also, you need to consider the battery life of a smartwatch. Being a work professional, you will use the watch most of the time in a day, so purchasing a smartwatch with good battery life is very important.
-Otherwise, it is not meaningful when it needs charging very often. You can do it with your smartphone alone. You don't need a smartwatch. So please be concerned about battery life when you go shopping for a smartwatch.
+Samsung pay also has its own mobile payment system, and it works in all of its newest models.
 
-Nowadays, smartwatches are available with ten days of battery life. Unlike a smartphone, we don't need to charge daily.Most color screen smartwatches tend to last for a day or two. You decide and consider how often you are willing to plug in your watch for charging often.
+Even fitness watches like Garmin and Fitbit have had mobile payments to the year's latest Smartwatch collections too.
 
-Smartwatches with voice capabilities will not have charge last long as expected. The charge of the Apple watch lasts around 18 hours.
-
-### ✅How to Charge the smartwatch?
-Some of the smart watches like Samsung gear sport and apple watch has wireless charging feature. In order to charge these devices, you cannot plug your device directly into a charger, but you can lay it on a charging puck.
-
-### ✅Can it detect whether I am wearing it or not?
-Proximity sensor helps in increased battery saving. It checks whether the smartwatch is worn by the user or not. If you are not wearing it, it will turn on the display screen and background functions to save the battery. If you are wearing it, it will turn on the display screen.
-
-### ✅How many Apps are available for Usage?
-Samsung smartwatch models have hundreds or even thousands of App currently.
-Apple watch consists of the most well-rounded applications till now. It consists of 20000 apps available, which have a capacity to do everything from controlling your smart lights and other home devices 92 the accent of ordering lunch out using seamless.
-
-### ✅How does it Fit to Wrist properly?
-Ensure that the display fits the small wrist of women. If not, it will look unfit and uncomfortable.
-
-### ✅Can it be customized for style?
-Women are always concerned with designs and colors and cautious that suit their clothing for events. Look whether the smartwatch you choose have the option to change the strap easily to suit your various office and party outfits.
+Eventhough the list of features to be considered is large, the choice of products depends on how you can use them and incorporate it into your life and daily routine. Luckily, click here to look at how these features can be best used to overcome the problems and have benefits.
 
 ### ✅Does it have Navigation Facilities?
 
@@ -235,6 +231,10 @@ It senses the UV rays and their harmfulness. If you are going on a sunny day, it
 #### Skin Temperature Sensor
 It tracks the body temperature. It indicates even a slight change in the body temperature to alert you of falling sickness like fever and allergies. And also, it helps in tracking menstrual phases.
 
+#### Sleep Tracking sensor
+
+It tracks the sleep cycle. 
+
 #### Heart Rate Sensor
 It calculates the heartbeats per minute. It measures light on the wrist. The heart puts blood into the artery when it beats. So the light sent on the wrist is reflected back with less light after reaching the blood vessels. In this manner, the optical heart rate sensor calculates heartbeats per minute.
 
@@ -250,19 +250,22 @@ It is helpful to indicate whether you are stress or not. It can find it using th
 #### SPO2 Monitor
 It measures the oxygen level using the color of blood. It traces the color change by the reflection of red and infrared light from the blood through your wrist. Now I hope you can understand how fitness bands are very useful in the health care industry and also in Sports & Fitness.
 
-### ✅Can You Make Payments Using Smartwatch?
-You can use your smartwatches to pay for steps even if your mobile phone is switched off. NFC chips embedded in these smartwatches help you in payment.
+### ✅How comfortable is it while wearing on wrist?
+Ensure that the display fits the small wrist of women. If not, it will look unfit and uncomfortable.
 
-Apple pay is enabled in all the Apple Watch models. Apple pay works even if you do not have your phone with you or if you do not have an LTE connection.
+### ✅How Stylish does it look?
+Women are always concerned with designs and colors and cautious that suit their clothing for events. Look whether the smartwatch you choose have the option to change the strap easily to suit your various office and party outfits.
 
-Android pay is supported in wear OS watches dance like LG watch sport Huawei watch 2 you and tag Heuer connected modular 45.
+### ✅Can it detect whether I am wearing it or not?
+Proximity sensor helps in increased battery saving. It checks whether the smartwatch is worn by the user or not. If you are not wearing it, it will turn on the display screen and background functions to save the battery. If you are wearing it, it will turn on the display screen.
 
-Samsung pay also has its own mobile payment system, and it works in all of its newest models.
+## What are the entertainment facilites available?
 
-Even fitness watches like Garmin and Fitbit have had mobile payments to the year's latest Smartwatch collections too.
-
-Eventhough the list of features to be considered is large, the choice of products depends on how you can use them and incorporate it into your life and daily routine. Luckily, click here to look at how these features can be best used to overcome the problems and have benefits.
-<!--internal link to main benefits page-->
+Video recording
+Video and movie playing
+Audio recording
+Music
+Gaming
 
 ## Where to Buy it?
 The best place to buy smartwatch for women is directly from the manufacturer or on Amazon, as this:
