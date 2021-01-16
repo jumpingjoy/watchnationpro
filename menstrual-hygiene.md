@@ -1,5 +1,5 @@
 ---
-title: Track Menstrual Cycle and Maintain Hygiene - Facts and Solutions
+title: Track Menstrual Cycle to Maintain Hygiene
 description:  There are limited choice of good menstrual trackers in the market. Find out the FREE...
 sidebar: right
 ---
