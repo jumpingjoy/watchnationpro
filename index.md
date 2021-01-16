@@ -1,5 +1,5 @@
 ---
-title: Best Smartwatches for Women and girls | Our Honest Review
+title: Best Smartwatches for Women and girls
 description:  Find Out Which is the BEST Smartwatches for Women and girls on the Market in 2021. See Which Ones Have FREE...shipping. Women's smartwatch help ladies to be better at family, work, health, sports, using smartwatch apps. But, not all are designed the same. We've reviewed and found that..
 sidebar: right
 ---
@@ -15,7 +15,7 @@ Are you looking for best smartwatches for women reviews? smartwatch for girls ca
 
 Inorder to have a better understanding of the benefits of smartwatches for women and girls, it is imperative that we know about the various problems that women and girls faces in day to day life and know how smartwatches help in resolving these problems.
 
-## What are the TOP 6 Problems for Women and girls solved by ladies smart watch instantly?
+## What are the TOP 5 Problems for Women and girls solved by ladies smart watch instantly?
 
 ### 1. Difficulty with irregular cycle?: Get reminded of menstrual dates with smartwatch
 {% include image.html img="menstruation.jpg" alt="problem-menstruation" caption="Problem Tracking Menstrual Cycle" align="right" %}
