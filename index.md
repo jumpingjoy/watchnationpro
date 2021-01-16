@@ -22,11 +22,11 @@ Inorder to have a better understanding of the benefits of smartwatches for women
 You can be missing your reminder on your menstrual cycle's dates. Most of the women suffers from stress during their menstrual time, which may result in decreased work productivity during office hours. Maintaining hygiene during menstruation is a critical factor. If not properly maintained may lead to medical complications such as uterine fibroids, endometriosis, PMDD, menorrhagia etc. If a gadget like a girls smartwatch can remind you, you can pre-plan your leaves and rest at home to maintain your hygiene.
 
 <!--include an internal link to the detailed page-->
-## 2. Do you travel alone and some strangers stalks you?: Emergency alert your friends/family and police
+### 2. Do you travel alone and some strangers stalks you?: Emergency alert your friends/family and police
 {% include image.html img="stranger-danger.jpg" alt="Stranger danger" caption="dangers of stranger?" align="left" %}
 You may be stalked by someone when you return from office or travel alone. ____ number of women are reported to stalk on a daily basis. --- number of women are kidnapped and raped daily worldover. Satety is the most important concern for women and ensure all precautions are taken care while travelling.
 
-## 3. Miss your health?: Track health and Get reminded to exercise
+### 3. Miss your health?: Track health and Get reminded to exercise
 {% include image.html img="women-missing-exercise.jpg" alt="Women-missing-exercise" caption="Missing Exercise?" align="right" %}
 You may find no time to exercise her health. On the weekend also, she has to plan other shopping for household things and caring for children. She wishes to take a walk in the late evening. But she is not able to find whether the distance she walked is enough to burn the calories. Because of their office job, she got obese. She needs some exercises. While doing exercises, she needs to know how long she has walked.
 
@@ -35,15 +35,6 @@ You may find no time to exercise her health. On the weekend also, she has to pla
 Are you a working woman who travels by local transport. Whenever you are traveling, answering important office calls through mobile is difficult for you. You can finds it difficult to reach out your smartphone because of being stuck in crowd.
 
 You may find it difficult to handle your kid, your bag and your mobile phone very tough at home and while travelling amid congestion during rush hours. Even if you use your earphone headset, you might find it difficult to handle it. While using a headset, you cannot initiate calls through the headset.
-
-### 5. Taking care of loved ones?: Track their activity/health
-{% include image.html img="caring-family.jpg" alt="caring-family" caption="Difficult Taking Care of Loved One?" align="right" %}
-It can be your husband, kids, parents, grandparents, or your friends or colleagues.
-What is the difficulty you are facing while taking care of them?
-
-* Do you know that your kid is safely reaching home from school every day? Will it be great if you can keep a track of them, right?
-
-* Do you know that your grandmother suffering from fever is safe at home? Is her body temperature normal? How about you being alerted on her body temperature to your smartwatch and you can keep a track of her body temperature?
 
 ## 5. Does your Watch is too tight or loose with your wrist or looks odd with your clothes?
 {% include image.html img="misfit-watch.jpg" alt="misfit-watch" caption="Misfit Watch?" align="left" %}
@@ -54,7 +45,6 @@ If you wear your watch too tight, you have the following Problems
 * Maybe the worst thing about having your watch to tight is that you dramatically increase the risk of breaking the bracelet, since wearing it that way means an increased stress on the bracelet.
 
 You may go to a party and have you been in an embarassing situation when someone notices your watch look odd to your wrist size or outfits. Some watches do not have the option to change the strap according to the outfits or it is difficult to change it as and when required.
-
 
 > The problems that smartwatches solve are countless!! Read on the full guide to know why you need a smartwatch and what smartwatch you must get for you or your women family members, relatives and female friends.
 
