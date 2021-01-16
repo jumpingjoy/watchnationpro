@@ -1,8 +1,10 @@
 ---
-title: Menstrual Hygiene: Track Menstrual Cycle and Maintain Hygiene
+title: Menstrual Hygiene Track Menstrual Cycle and Maintain Hygiene
 description:  There are limited choice of good menstrual trackers in the market. Find out the FREE...
 sidebar: right
 ---
+{% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="
+Apple Watch Series 6 Review" align="center" %}
 # Menstrual Cycle Tracking and Hygiene
 
 ## What are the period-related Medical Conditions?
