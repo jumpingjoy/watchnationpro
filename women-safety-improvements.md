@@ -5,11 +5,9 @@ sidebar: right
 ---
 {% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="
 Apple Watch Series 6 Review" align="center" %}
-# How to Improve Safety Using Smartwatches
+# How Important is to Use Smartwatch to Improve Ladies safety?
 
-## How Important is to Use Smartwatch to Improve Womens safety?
-
-### Dangers and Facts about Falling
+## Dangers and Facts about Falling
 
 <a href="https://www.cdc.gov/homeandrecreationalsafety/falls/adultfalls.html" target="_blank">Falling</a> is considered more dangerous which can bring a family to a standstill.
 
@@ -21,7 +19,7 @@ Apple Watch Series 6 Review" align="center" %}
 * Every year at least 300,000 older people are hospitalized for hip fractures.
 * In 2015, the total medical costs for falls totaled more than $50 billion.
 
-### Dangers and Facts about Stalking and Sexual Violence
+## Dangers and Facts about Stalking and Sexual Violence
 
 * 15% of women in the United States have experienced stalking. (CDC, 2014)
 * More than 50% of female stalking survivors were first stalked before they were 25 years old. (CDC, 2010)
@@ -76,7 +74,7 @@ Whether you have a drop sensor or not, you'll find things you can do in order to
 * Wear shoes, slipper, or socks with nonslip grips at the floor.
 * Keep on landscaping as well as other external care such as fallen leaves and snow removal.
 
-#### Ways to prevent falls from house
+#### Ways to prevent falls Outside Your Home
 * Wear sturdy shoes with good grip that match nicely.
 * Take your own time. You are more likely to trip or stumble if you are in a rush.
 * Be conscious of your environment. Avoid walking and speaking on the telephone at precisely the exact same time, and be aware of cracks in sidewalks and other irregular surfaces.
