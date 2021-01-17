@@ -60,11 +60,6 @@ Do you face any other problems faced as a women which can be solved through smar
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-<!--### Product 1 Name Review summary-->
-
-    <!-- one link to product 1 review page-->
-    <!-- one link to product 1 promo code page-->
-
 # No.1 Apple Watch Series 6
 It is available in 40mm & 44mm sizes like series 5. Best for tiny wrists as it has a 10.74mm depth casing only.
 
@@ -129,27 +124,6 @@ Untethered GPS is convenient for runners who wish to keep their phones at home. 
 It's also a solid smartwatch with everything you'd expect from a wearable running Wear OS, including NFC for Google Pay, email, notifications, and app alerts.
 
 <button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
-
-
-
-
-
-
-<!--### Product 2 Name Review summary-->
-    <!-- one link to product 2 review page-->
-    <!-- one link to product 2 promo code page-->
-
-<!--### Product 3 Name Review summary-->
-    <!-- one link to product 3 review page-->
-    <!-- one link to product 3 promo code page-->
-
-<!--### Product 3 Name Review summary-->
-    <!-- one link to product 4 review page-->
-    <!-- one link to product 4 promo code page-->
-
-<!--### Product 1 Name Review summary-->
-    <!-- one link to product 5 review page-->
-    <!-- one link to product 5 promo code page-->
 
 As a women, you might be knowing about a normal watch ⌚and its types and how to select them. But, selecting best women's smartwatches among the huge number of branded smart watches names and varieties is entirely a different ballgame. The smartwatch brands have number of features and technical specifications available in these smartwatches, which might be overwhelming as a beginner.
 
