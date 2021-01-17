@@ -139,13 +139,7 @@ Unlike other sites which baffle the readers with women's tech suits features and
   1. Example, What is the 5 star rating for smartwatch battery
   2. What is the 5 star rating of the heart rate function in the smartwatch?
 * Provide detailed Buying Guide for buying the best ladies smartwatches
-* Provide How-to Guides on basic/advanced operation in a smartwatch:
-  1. how to switch on the smartwatch
-  2. How to connect watch to phone?
-
-We will ensure that the new smartwatch introduced in the market are also tested and the list will be updated accordingly.
-
-### What is the best smartwatch?
+* Provide How-to Guides to get the best benefits out of the smartwatches
 
 We recognize that all the smart watches available in the market are NOT the same, so whatever your need might be, whether that your need for tracking your fitness activities or menstruation cycle, our reviews will cover a wide variety of smartwatch products to suit your needs, including all flagship version to feature-rich yet budget friendly options.
 
@@ -165,7 +159,7 @@ Smartwatches are lightweight and compact. Wearable smartwatches give more comfor
 
 If you are not aware of how find a good smart watch and baffled by its intricate technical details, then this buyer’s guide is for your rescue to ease things out.
 
-## Smartwatch How it works and kinds of smartwatches?
+## Smartwatch: What are the kinds of smartwatches and How does it work?
 
 Smart are two kinds of smartwatches available in the market:
 
@@ -193,9 +187,9 @@ Smartwatches have all the sensors of fitness bands. The only difference between 
 
 Now I hope you can understand how fitness bands are very useful in the health care industry and also in Sports & Fitness.
 
-## What are the Key Features?<br> How to Use Smart Watch in Your Daily Life?
+## What are the Key Features?<br> How to Use Smart Watch Features in Your Daily Life?
 
-As a leading source for the best smartwatch reviews on the web, we believe you should know about all the major features for when searching out the products, not just the headline ones.  (1) So, before you look into our evaluations, here is a glossary of the most common features you should familiarize yourself with and also know the basics of how to select smartwatch women:
+As a leading source for the best smartwatch reviews on the web, we believe you should know about all the major features for when searching out the products, not just the headline ones. So, before you look into our evaluations, here is a glossary of the most common features you should familiarize yourself with and also know the basics of how to select smartwatch women:
 
 ### How is the watch display?
 
@@ -207,13 +201,15 @@ Check the following to ensure you get the best out of the mobile display watch.
 
 * What is the shape of the display?
 1. Is it a square smartwatch display?
+2. Is it a round shaped display?
 
 * Does it have smartwatch with always on display?
 This might be a necessary feature for old women who might find it difficult to switch on the display everytime she needs it. The cool always on display has its downside. The always on smartwatch feature might drain the battery quite quickly.
 
 * Check for the clarity of the display
 1. Is it smartwatch with big display for easy viewing?
-2. Is it visible under bright sunlight? Is it bright enough when viewed in the dark?
+2. Is it visible under bright sunlight?
+3. Is it bright enough when viewed in the dark?
 3. View the watch from different angles and different distance from your eyes and ensure that the clarity is uncopromised.
 
 ### ✅How to Connect Watch to Phone: Check Compatible of smartwatch with Mobile OS?
