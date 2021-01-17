@@ -1,5 +1,5 @@
 ---
-title: How to Use Smartwatches to Improve Safety - Facts and Solutions
+title: How to Use Smartwatches to Improve Safety
 description:  We tested out various safety related smartwatch apps available. Find out the FREE...
 sidebar: right
 ---
@@ -60,7 +60,7 @@ You can follow the instruction provided <a href="https://support.apple.com/en-us
 
 ## What Precautions Women Must Take When Having Safety Issues?
 
-### Tips to Reduce falling Dangers
+### Tips to Reduce Dangers in Falling
 Whether you have a drop sensor or not, you'll find things you can do in order to stop falling in and outside of the home.
 
 #### Ways to prevent drops in your home

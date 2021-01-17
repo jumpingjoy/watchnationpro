@@ -26,7 +26,52 @@ The most common <a href="https://www.healthline.com/health/facts-statistics-mens
 * Premenstrual syndrome (PMS)
 * Premenstrual dysphoric disorder (PMDD)
 
+## Apple Health
+
+Remember when Apple HealthKit launched in 2014 claiming to provide "your entire health picture" by measuring heart rate, sleep routines, blood alcohol level, etc.. Still, it forgot to add a period and fertility tracker, one of the most fundamental steps of women's health?
+
+The backlash was swift as consumers predicted out the iPhone maker for overlooking the needs of the female half of its client base. Apple learned from its mistakes.
+
+When iOS 9 rolled out a year after, it upgraded the HealthKit program to track menstrual period, also.   
+
+The Apple Health app now lets women input their reproductive health data, such as:
+* Menstruation cycles
+* Spotting
+* Sexual activity
+* Basal body temperature
+
+Basal body temperature helps you to have an educated guess on your ovalution period. It is your body temperature when you rest. You can experience an increase in body temperature when you are ovulating.
+
+### Apple Health App: How to Use for Period Tracking?
+
+Cycle tracking is enabled when you have defined your gender as female in your profile.
+
+You can You can follow the instruction provided in <a href="https://www.samsung.com/au/support/mobile-devices/setup-womens-health/" target="_blank">set up and use Apple Health Cycle tracking App </a> to track your periods cycle given in this video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j4NyCEHKrPg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Samsung Health App: How to Use for Period Tracking?
+Samsung Health has partnered with Glow to forecast your upcoming fertile windows, ovulation days and periods for up to a 24 cycle.
+* You can download in your Samsung Watch, which provides you an overview of your general period related data.
+* Follow the Samsung setup womens health guide to learn how to setup and use Women's Health via the Samsung Health app.
+
+You can follow the instruction provided <a href="https://www.samsung.com/au/support/mobile-devices/setup-womens-health/" target="_blank">here</a>
+
+## Fitbit Versa App: How to use?
+Fitbit is taking on Apple with the Versa, its new smartwatch about half the price of their Apple Watch. It is designed with girls in mind, adding on female health tracking like:
+* Logging menstrual cycle and symptoms,
+* getting period predictions,
+* demonstrating menstrual cycle information alongside your other health information (like sleep and action ) to draw links,
+* Access to a community of other women for assistance
+* Educational content regarding family planning and other subjects related to women's health.   
+
+Click on the <a href="https://help.fitbit.com/articles/en_US/Help_article/2332.htm" target="_blank"><u>Fitbit Versa App instruction</u></a> provided.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ceBCk97eak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 7 Period Tracking Apps (free) for Both iOS and Android
+
+If you are interested in any third-party apps which support both iOS and Android you can consider the following apps:
 
 ### CLUE
 This app seems to be an all-purpose favorite. It's rated 4.8 from 5 and analyzed in glowing terms by consumers. The American College of Obstetricians and Gynecology rated it the top-rated free interval and ovulation tracker. It tracks your sessions, your moods, and also your exercises. It is acceptable for all ages and scientific, not pink'. The look is sleek, and the port is simple, with informative visuals. You can take a look here.
@@ -48,64 +93,6 @@ This program comes in the stable of Glow, and you'll be able to get it here. Als
 
 ### PERIOD PLUS
 The Period plus monitoring app can be obtained just on the Apple Store. Rated 4.7. It's tasteful and sophisticated and comes with an exhaustive selection of attributes it can monitor. These include Breakouts, Stressors, Weight Changes, and Migraines, the last not available in other programs. Phase Plus has colored themes and a game called cotton' Plop,' which supports a 3D signature. One of the reviewers finds it creepy' that the app is precise and accurate in its predictions. You can take a look at the app here.
-
-## Apple Health
-
-Remember when Apple HealthKit launched in 2014 claiming to provide "your entire health picture" by measuring heart rate, sleep routines, blood alcohol level, etc.. Still, it forgot to add a period and fertility tracker, one of the most fundamental steps of women's health?
-
-The backlash was swift as consumers predicted out the iPhone maker for overlooking the needs of the female half of its client base. Apple learned from its mistakes.
-
-When iOS 9 rolled out a year after, it upgraded the HealthKit program to track menstrual period, also.   
-
-The Apple Health app now lets women input their reproductive health data, such as:
-* Menstruation cycles
-* Basal body temperature
-* Spotting
-* Sexual activity
-* Sleep
-* Nutrition
-* Activity monitoring
-
-The app (which syncs with your Apple Watch and iPhone) also encourages mindfulness using the Breathe program on the Apple Watch, leading you through deep breathing exercises.  
-
-Apple Health also consolidates information from many other third-party wellness apps, such as
-* Calm
-* MyFitnessPal
-
-You can download in your Apple Watch, which makes it a fantastic overview of your general wellbeing.
-
-### How to Use Apple Health App?
-
-You can set up the Apple Health app by following the procedure given in this video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j4NyCEHKrPg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Samsung Health
-
-Samsung Health has partnered with Glow to forecast your upcoming fertile windows, ovulation days and periods for up to a 24 cycle. Follow the below guide to learn how to setup and use Women's Health via the Samsung Health app.
-
-You can download in your Samsung Watch, which provides you an overview of your general period related data.
-
-### How to Use Samsung Health App?
-You can set up the Apple Health app by following the procedure given in this video:
-
-You can follow the instruction provided <a href="https://www.samsung.com/au/support/mobile-devices/setup-womens-health/" target="_blank">here</a>
-
-## Fitbit Versa
-Fitbit is taking on Apple with the Versa, its new smartwatch about half the price of their Apple Watch. It is designed with girls in mind, adding on female health tracking like:
-* Logging menstrual cycle and symptoms,
-* getting period predictions,
-* demonstrating menstrual cycle information alongside your other health information (like sleep and action ) to draw links,
-* Access to a community of other women for assistance
-* Educational content regarding family planning and other subjects related to women's health.   
-
-### How to Use Fitbit Versa App?
-You can follow the instruction provided here:
-<a href="https://help.fitbit.com/articles/en_US/Help_article/2332.htm" target="_blank">2</a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ceBCk97eak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Available for preorder online, it also will probably be available at Amazon, Best Buy, Target, Verizon, and Walmart.
 
 ## What Precautions You Must Take Maintain Menstrual Hygiene?
 

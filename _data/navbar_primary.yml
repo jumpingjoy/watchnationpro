@@ -16,9 +16,9 @@ center:
     dropdown:
       - title: Menstrual Hygiene
         url: /menstrual-hygiene/
-      - title: Safety Improvements
-        url: /women-safety-improvements/
       - title: Fitness Improvements
         url: /fitness-improvements-for-women/
+      - title: Safety Improvements
+        url: /women-safety-improvements/
 
 right:

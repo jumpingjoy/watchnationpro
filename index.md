@@ -22,13 +22,14 @@ Inorder to have a better understanding of the benefits of smartwatches for women
 You can be missing your reminder on your menstrual cycle's dates. Most of the women suffers from stress during their menstrual time, which may result in decreased work productivity during office hours. Maintaining hygiene during menstruation is a critical factor. If not properly maintained may lead to medical complications such as uterine fibroids, endometriosis, PMDD, menorrhagia etc. If a gadget like a girls smartwatch can remind you, you can pre-plan your leaves and rest at home to maintain your hygiene.
 
 <!--include an internal link to the detailed page-->
-### 2. Do you travel alone and some strangers stalks you?: Emergency alert your friends/family and police
-{% include image.html img="stranger-danger.jpg" alt="Stranger danger" caption="dangers of stranger?" align="left" %}
-You may be stalked by someone when you return from office or travel alone. ____ number of women are reported to stalk on a daily basis. --- number of women are kidnapped and raped daily worldover. Satety is the most important concern for women and ensure all precautions are taken care while travelling.
 
-### 3. Miss your health?: Track health and Get reminded to exercise
+### 2. Miss your health?: Track health and Get reminded to exercise
 {% include image.html img="women-missing-exercise.jpg" alt="Women-missing-exercise" caption="Missing Exercise?" align="right" %}
 You may find no time to exercise her health. On the weekend also, she has to plan other shopping for household things and caring for children. She wishes to take a walk in the late evening. But she is not able to find whether the distance she walked is enough to burn the calories. Because of their office job, she got obese. She needs some exercises. While doing exercises, she needs to know how long she has walked.
+
+### 3. Do you travel alone and some strangers stalks you?: Emergency alert your friends/family and police
+{% include image.html img="stranger-danger.jpg" alt="Stranger danger" caption="dangers of stranger?" align="left" %}
+You may be stalked by someone when you return from office or travel alone. ____ number of women are reported to stalk on a daily basis. --- number of women are kidnapped and raped daily worldover. Satety is the most important concern for women and ensure all precautions are taken care while travelling.
 
 ### 4. Do you find it difficult to hold smartphone and multi-task?: Avoid using phone to the maximum
 {% include image.html img="multitasking-women.jpg" alt="multitasking-women" caption="Finding difficult to multitask?" align="left" %}
@@ -63,6 +64,19 @@ Do you face any other problems faced as a women which can be solved through smar
 
     <!-- one link to product 1 review page-->
     <!-- one link to product 1 promo code page-->
+
+Fitbit's sense is apt for health-conscious people. It backs all the sensors that are not available in other watches near as same as Versa.
+
+The bands have two kinds of stainless steel with AMOLED displays having 40mm size. Health features like heart rate, sleep tracker, women's health trackers, and menstrual cycle monitors are provided in Fitbit.
+
+Advanced health trackers come with Fitbit sense. ECG sensor for a minute heart activity tracker, optical heart rate sensor to track pulses, Stress monitoring app EDA are the highlights in Fitbit. As its name says, it senses everything that a health-conscious person looks for.
+
+Excellent battery life is the most significant advantage of sense. It provides six days of battery life. Charging also takes significantly less time, approximately 12 minutes only. Like Versa, it has Fitbit Pay.
+
+GPS tracks your miles and location on your runs and travels. Waterproof features allow you to swim.
+
+<button class="uk-button uk-button-primary" href="">>>Read Our Full Review Here <<</button>
+
 
 <!--### Product 2 Name Review summary-->
     <!-- one link to product 2 review page-->
