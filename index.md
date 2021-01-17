@@ -103,7 +103,7 @@ GPS tracks your miles and location on your runs and travels. Waterproof features
 
 <button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
 
-#No. 4 Kate Spade Scallop 2
+# No. 4 Kate Spade Scallop 2
 
 Version two of Kate spade runs on Wear OS like the first version of Kate spade scallop. It has the same attractive looks and covers almost the features of Fossil watches.
 
