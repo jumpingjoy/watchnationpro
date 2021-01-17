@@ -65,6 +65,37 @@ Do you face any other problems faced as a women which can be solved through smar
     <!-- one link to product 1 review page-->
     <!-- one link to product 1 promo code page-->
 
+# No.1 Apple Watch Series 6
+It is available in 40mm & 44mm sizes like series 5. Best for tiny wrists as it has a 10.74mm depth casing only.
+
+Different materials were used for finishes. You can choose from a collection of aluminum, titanium, and stainless steel. Get these in two colors in new blue and red.
+
+Wrist band comes with an attractive range of varieties - leather strap, silicone band, stainless steel band, and woven sport band. Other than these, different materials and colors are available in the market by third-party.
+
+LTE and GPS help initiate calls and play music even though your smartphone is far away from you. The metrics of all the sensors are verified as accurate. It is waterproof. So you can go for a swim with your watch.
+
+Menstrual trackers with early notification, the sensor for measuring blood oxygen, advanced heart monitor of ECG are provided. To monitor hearing capability and to assist in breathing exercises are also given for the buyers.
+
+You can go for Apple Watch SE, which doesn't have a blood oxygen sensor, ECG sensor, and heart rate is available in the same size.
+
+<button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+
+# No.2 Garmin Venu
+It is available in 40mm & 44mm sizes like series 5. Best for tiny wrists as it has a 10.74mm depth casing only.
+
+Different materials were used for finishes. You can choose from a collection of aluminum, titanium, and stainless steel. Get these in two colors in new blue and red.
+
+Wrist band comes with an attractive range of varieties - leather strap, silicone band, stainless steel band, and woven sport band. Other than these, different materials and colors are available in the market by third-party.
+
+LTE and GPS help initiate calls and play music even though your smartphone is far away from you. The metrics of all the sensors are verified as accurate. It is waterproof. So you can go for a swim with your watch.
+
+Menstrual trackers with early notification, the sensor for measuring blood oxygen, advanced heart monitor of ECG are provided. To monitor hearing capability and to assist in breathing exercises are also given for the buyers.
+
+You can go for Apple Watch SE, which doesn't have a blood oxygen sensor, ECG sensor, and heart rate is available in the same size.
+
+<button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+
+# No.3 Fitbit Sense
 Fitbit's sense is apt for health-conscious people. It backs all the sensors that are not available in other watches near as same as Versa.
 
 The bands have two kinds of stainless steel with AMOLED displays having 40mm size. Health features like heart rate, sleep tracker, women's health trackers, and menstrual cycle monitors are provided in Fitbit.
@@ -75,7 +106,33 @@ Excellent battery life is the most significant advantage of sense. It provides s
 
 GPS tracks your miles and location on your runs and travels. Waterproof features allow you to swim.
 
-<button class="uk-button uk-button-primary" href="">>>Read Our Full Review Here <<</button>
+<button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+
+#No. 4 Kate Spade Scallop 2
+
+Version two of Kate spade runs on Wear OS like the first version of Kate spade scallop. It has the same attractive looks and covers almost the features of Fossil watches.
+
+'Choose your look's app helps you pick the right watch face that matches your clothes and accessories. NFC for Google pay is a notable one. It has a button to control music and all. As it is waterproof, you can swim with that. It comes with the latest Wear OS. It has an AMOLED display. As the ambient light sensor adjusts the brightness, it can maintain the battery life decently.
+
+<button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+
+# No. 5 Fossil Sport
+
+If you want sports at a low price, your best choice should be Fossil Sport under £100.
+
+The casing comes in two different sizes, 41mm and 43mm. The silicone stay is sweat-friendly. The 41mm face looks good in small wrists. The straps are available in many colors.
+
+It runs on Wear OS and provides notifications and alerts like email and app information. NFC for Google pay is available.
+
+Untethered GPS is convenient for runners who wish to keep their phones at home. The activity tracker, swim-proof, heart rate monitor is worth mentioning of Fossil Sport. The heart rate monitor is not up to standard.
+
+It's also a solid smartwatch with everything you'd expect from a wearable running Wear OS, including NFC for Google Pay, email, notifications, and app alerts.
+
+<button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+
+
+
+
 
 
 <!--### Product 2 Name Review summary-->
