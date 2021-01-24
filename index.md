@@ -27,7 +27,7 @@ You can be missing your reminder on your menstrual cycle's dates. Most of the wo
 {% include image.html img="women-missing-exercise.jpg" alt="Women-missing-exercise" caption="Missing Exercise?" align="right" %}
 You may find no time to exercise her health. On the weekend also, she has to plan other shopping for household things and caring for children. She wishes to take a walk in the late evening. But she is not able to find whether the distance she walked is enough to burn the calories. Because of their office job, she got obese. She needs some exercises. While doing exercises, she needs to know how long she has walked.
 
-### 3. Do you travel alone and some strangers stalks you?: Emergency alert your friends/family and police
+### 3. Do you travel alone and some strangers stalks you?: Emergency SOS alert your friends/family and police
 {% include image.html img="stranger-danger.jpg" alt="Stranger danger" caption="dangers of stranger?" align="left" %}
 You may be stalked by someone when you return from office or travel alone. ____ number of women are reported to stalk on a daily basis. --- number of women are kidnapped and raped daily worldover. Satety is the most important concern for women and ensure all precautions are taken care while travelling.
 
@@ -57,7 +57,6 @@ Do you face any other problems faced as a women which can be solved through smar
 <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
 <div class="commonninja_component" comp-type="comparison_table" comp-id="e557f962-6598-41b2-a3b9-364388e513a8"></div>
 
-
 -------------------------------------------------------------------------------------------------------------------------------
 
 # No.1 Apple Watch Series 6
@@ -78,7 +77,7 @@ You can go for Apple Watch SE, which doesn't have a blood oxygen sensor, ECG sen
 # No.2 Garmin Venu
 It is available in 40mm & 44mm sizes like series 5. Best for tiny wrists as it has a 10.74mm depth casing only.
 
-Different materials were used for finishes. You can choose from a collection of aluminum, titanium, and stainless steel. Get these in two colors in new blue and red.
+Different materials are used for finishing. You can choose from a collection of aluminum, titanium, and stainless steel. Get these in two colors in new blue and red.
 
 Wrist band comes with an attractive range of varieties - leather strap, silicone band, stainless steel band, and woven sport band. Other than these, different materials and colors are available in the market by third-party.
 
@@ -104,10 +103,9 @@ GPS tracks your miles and location on your runs and travels. Waterproof features
 <button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
 
 # No. 4 Kate Spade Scallop 2
-
 Version two of Kate spade runs on Wear OS like the first version of Kate spade scallop. It has the same attractive looks and covers almost the features of Fossil watches.
 
-'Choose your look's app helps you pick the right watch face that matches your clothes and accessories. NFC for Google pay is a notable one. It has a button to control music and all. As it is waterproof, you can swim with that. It comes with the latest Wear OS. It has an AMOLED display. As the ambient light sensor adjusts the brightness, it can maintain the battery life decently.
+Choose your look's app helps you pick the right watch face that matches your clothes and accessories. NFC for Google pay is a notable one. It has a button to control music and all. As it is waterproof, you can swim with that. It comes with the latest Wear OS. It has an AMOLED display. As the ambient light sensor adjusts the brightness, it can maintain the battery life decently.
 
 <button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
 
@@ -160,8 +158,7 @@ Smartwatches are lightweight and compact. Wearable smartwatches give more comfor
 If you are not aware of how find a good smart watch and baffled by its intricate technical details, then this buyer’s guide is for your rescue to ease things out.
 
 ## Smartwatch: What are the kinds of smartwatches and How does it work?
-
-Smart are two kinds of smartwatches available in the market:
+There are two kinds of smartwatches available in the market:
 
 * Smartwatches working connected with smartphones
 * Standalone Smartwatches (That works independently without smartphones)

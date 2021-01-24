@@ -19,6 +19,11 @@ Apple Watch Series 6 Review" align="center" %}
 * Every year at least 300,000 older people are hospitalized for hip fractures.
 * In 2015, the total medical costs for falls totaled more than $50 billion.
 
+### Case Study: How Apple Watch Saved life
+Have a look at the following video on how apple watch saved life during emergency situation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvmqqh1xIs4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Dangers and Facts about Stalking and Sexual Violence
 
 * 15% of women in the United States have experienced stalking. (CDC, 2014)
@@ -54,7 +59,7 @@ You can follow the instruction provided <a href="https://www.tizenhelp.com/ecg-f
 
 ### How to Use the SOS Emergency Feature in Samsung Watch?
 
-You can follow the instruction provided <a href="https://support.apple.com/en-us/HT206983" target="_blank">here</a>
+You can follow the <a href="https://support.apple.com/en-us/HT206983" target="_blank">Enable SOS Emergency Feature in Samsung Watch</a> here.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8WJ4Mnjbtik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
