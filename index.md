@@ -397,9 +397,9 @@ The people who are using the smartwatch showed significant <u><a href="https://w
 
 
 ### Post Author
-#### Tracey Brian
+#### Sarah Hollen
 {% include image.html img="menstruation.jpg" alt="problem-menstruation" caption="Problem Tracking Menstrual Cycle" align="left" %}
-Tracey Brian is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends his time reading, playing tennis and doing exercise. You can find more about him <a href="about-us">here</a>.
+Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends his time reading, playing tennis and doing exercise. You can find more about him <a href="about-us">here</a>.
 
 <b><a href="">See author's posts</a></b>
 
