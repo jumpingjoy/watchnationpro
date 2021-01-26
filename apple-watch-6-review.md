@@ -1,18 +1,16 @@
 ---
-title: Best Smartwatch for Women | Our Honest Review
+title: Apple Watch Series 6 Review<br>6 vs SE vs 3
 description:  While there are many outstanding smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 18 of 20 of the online reviews available, Apple Watch Series 6 comes out on top.
 sidebar: right
 ---
 {% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="
 Apple Watch Series 6 Review" align="center" %}
 
-# Apple Watch Series 6 Review<br>6 vs SE vs 3
-
 While there are many outstanding smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 18 of 20 of the online reviews available, Apple Watch Series 6 comes out on top.
 
 And its no surprise why, as you’ll soon learn.
 
-### What are Key Features of Apple Watch Series 6 and its Benefits?
+## What are Key Features of Apple Watch Series 6 and its Performance?
 
 <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
 <div class="commonninja_component" comp-type="comparison_table" comp-id="3daac1c8-76cc-4fc2-bd70-9527a967b40c"></div>
