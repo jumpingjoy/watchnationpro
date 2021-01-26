@@ -13,7 +13,7 @@ Stressed
 Obese
 Breastfeeding
 Perimenopausal
-As per WomensHealth.gove, heavy period with pain, or irregularity affect 14 percent of females. Moreover, a 2012 study has found that 32 to 40 percent of people who are having periods report that the pain is so severe and they tend to miss school, college or work.
+As per WomensHealth.gov, heavy period with pain, or irregularity affect 14 percent of females. Moreover, a 2012 study has found that 32 to 40 percent of people who are having periods report that the pain is so severe and they tend to miss school, college or work.
 
 ### What are the period-related Medical Conditions?
 The most common <a href="https://www.healthline.com/health/facts-statistics-menstruation#Cost" target="_blank">Menstrual related health conditions</a> include the following:
@@ -114,4 +114,4 @@ Using two pads is not better than using one. Some women who experience heavy flo
 while altering your sanitary pad is vital, it is also essential to wear something cozy nowadays. Tight thongs or underwear made of cloth that doesn't allow your skin to breathe will also lead to infections. Adhere to clean and comfortable cotton knickers that don't adhere to your skin.
 
 ## Final Thoughts
-The menstrual cycle is an important health factor that needs utmost care, and everything has been kept in check in order to have a healthy lifestyle. Apart from tracking the menstrual cycle, there are other <a href= "https://www.watchnationpro.com/smartwatch-for-women-benefits/">smartwatch benefits for women</a> that must be considered to have a better life.  also must be given importance.
+The menstrual cycle is an important health factor that needs utmost care, and everything has been kept in check in order to have a healthy lifestyle. Apart from tracking the menstrual cycle, there are other <a href= "https://www.watchnationpro.com/smartwatch-for-women-benefits/">smartwatch benefits for women</a> that must be considered to have a better life.
