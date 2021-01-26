@@ -30,6 +30,10 @@ footer:
       - title: "Terms and Conditions of Use"
         url: /#/
 
+  - widget: authors
+    title: CONTRIBUTORS
+    count: 5
+
   - widget: about
     # content: Content of some sort..
     copyright: true
