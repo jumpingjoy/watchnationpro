@@ -1,25 +1,19 @@
 ---
-title: Best Smartwatch for Women | Our Honest Review
-description:  We have reviewed the Kate spade scallop 2 and found that ....
+title: Garmin Venu Review<br>6 vs SE vs 3
+description:  While there are many outstanding smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 18 of 20 of the online reviews available, Apple Watch Series 6 comes out on top.
 sidebar: right
 ---
 {% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="
 Apple Watch Series 6 Review" align="center" %}
 
-# Apple Watch Series 6 Review<br>6 vs SE vs 3
-
 While there are many outstanding smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 18 of 20 of the online reviews available, Apple Watch Series 6 comes out on top.
 
 And its no surprise why, as you’ll soon learn.
 
-### What are Key Features of Apple Watch Series 6 and its Benefits?
+## What are Key Features of Garmin Venu and its Performance?
 
 <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
-<div class="commonninja_component" comp-type="comparison_table" comp-id="3daac1c8-76cc-4fc2-bd70-9527a967b40c"></div>
-
-**Cons**:
-
-Pricey. Works seemlessly only with iPhone smartphones.
+<div class="commonninja_component" comp-type="comparison_table" comp-id="56fbf9a5-24d3-4da2-a27f-942ab55d1332"></div>
 
 ## How does it work?
 Apple watch Series 6 comes from the well known brand of apple loaded with sensible features for women.
