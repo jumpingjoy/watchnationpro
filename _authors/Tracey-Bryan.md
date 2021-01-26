@@ -1,11 +1,12 @@
 ---
-title:          JJ Bryan
-username:       JJ Bryan
+title:          Tracey Bryan
+username:       Tracey Bryan
 default:        true
 image:          https://pbs.twimg.com/profile_images/974603248119222272/N5PLzyan.jpg
 bio:            Writer at WorkBox Publishing, parent, aminal lover and avid coffee drinker.
 email:          me@mysite.com
 website:        https://mysite.com
+twitter:        https://twitter.com/
 facebook:       https://www.facebook.com/
 flickr:         https://www.flickr.com/
 dribbble:       https://dribbble.com/
@@ -14,7 +15,7 @@ reddit:         https://www.reddit.com/
 instagram:      https://www.instagram.com/
 linkedin:       https://www.linkedin.com/
 pinterest:      https://www.pinterest.com
-twitter:        https://twitter.com/
+
 vimeo:          https://vimeo.com/
 youtube:        https://www.youtube.com/
 ---

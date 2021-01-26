@@ -36,9 +36,9 @@ navbar_primary:
 social_share:
   twitter:          true
   facebook:         true
-  linkedin:         true
-  pinterest:        true
-  reddit:           true
+  linkedin:         false
+  pinterest:        false
+  reddit:           false
 
 # Social networks
 social_networks:
