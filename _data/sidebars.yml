@@ -18,7 +18,7 @@ footer:
     title: ABOUT
     links:
       - title: "About Us"
-        url: /#/
+        url: /about-us/
       - title: "Contact"
         url: /contact/
 
