@@ -135,6 +135,7 @@ Unlike other sites that baffle the readers with women's tech suits features and 
 ### Our smart watch review is directed on the following mottos
 * How the female smart watches features help in solving the problems?
 * How does each feature perform in terms of **5-star ratings** denoted by our rating reference:
+
 ★★★★★ | 😎
 
 ★★★★☆ | 🙂
@@ -320,7 +321,7 @@ As you all know, GPS in the bands provides map applications. That is the wearabl
 ##### Magnetometer
 It works with GPS to ensure the exact location of the wearables using coordinates.
 
-##### How Altimeter
+##### Altimeter
 An altimeter measures height or changes in height. So it can calculate the calorie count using the calculation given by altimeter while climbing stairs or any other and going down the slopes.
 
 ##### Ambient Light Sensor
@@ -393,3 +394,9 @@ We are certain that with us you will find the one that’s right for you.
 Of course! In addition to being ranked the top-rated smartwatch product in user reviews, the science proves it. Performance tests have proven smartwatches is the unsurpassed solution that improves lifestyle apart from smartphones.
 
 The people who are using the smartwatch showed significant <u><a href="https://www.watchnationpro.com/smartwatch-for-women-benefits/">benefits for women</a></u> in work, family, and health factors and overall improvements to the lifestyle compared to the control group.
+
+## Post Author
+Tracey Brian
+Tracey Brian is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends his time reading, playing tennsi and doing exercise. You can find more about him <a href="about-us">here</a>.
+
+<a href="https://www.facebook.com/Skin-Starts-with-C-521785904880005/" class="awpa-facebook awpa-icon-facebook"></a>
