@@ -22,11 +22,11 @@ To better understand the benefits of smartwatches for women and girls, we must k
 You can be missing your reminder on your menstrual cycle's dates. Most women suffer from stress during their menstrual time, resulting in decreased work productivity during office hours. Maintaining hygiene during menstruation is a critical factor. If hygiene is not properly maintained may lead to medical complications such as uterine fibroids, endometriosis, PMDD, menorrhagia, etc. If a gadget like a girls smartwatch can remind you, you can pre-plan your leaves and rest at home to maintain your hygiene.
 
 ### 2. Miss your health?: Track health and Get reminded to exercise
-{% include image.html img="women-missing-exercise.jpg" alt="Women-missing-exercise" caption="Missing Exercise?" align="right" %}
+{% include image.html img="women-missing-exercise.jpg" alt="Women-missing-exercise" caption="Missing Exercise?" align="left" %}
 You may find no time to exercise your health. On the weekend also, she has to plan other shopping for household things and caring for children. She wishes to take a walk in the late evening. But she is not able to find whether the distance she walked is enough to burn the calories. Because of their office job, she got obese. She needs some exercises. While doing exercises, she needs to know how long she has walked.
 
 ### 3. Do you travel alone and some strangers stalk you?: Emergency SOS alert your friends/family and police
-{% include image.html img="stranger-danger.jpg" alt="Stranger danger" caption="dangers of stranger?" align="left" %}
+{% include image.html img="stranger-danger.jpg" alt="Stranger danger" caption="dangers of stranger?" align="right" %}
 You may be stalked by someone when you return from the office or travel alone. ____ number of women are reported to stalk daily. --- number of women are kidnapped and raped daily world over. Safety is the most important concern for women and ensures all precautions are taken care of while traveling.
 
 ### 4. Do you find it difficult to hold a smartphone and multi-task?: Avoid using the phone to the maximum
@@ -36,7 +36,7 @@ Are you a working woman who travels by local transport? Whenever you are traveli
 You may find it challenging to handle your kid, your bag, and your mobile phone very tough at home and while traveling amid congestion during rush hours. Even if you use your earphone headset, you might find it challenging to handle it. While using a headset, you cannot initiate calls through the headset.
 
 ## 5. Does your Watch is too tight or loose with your wrist, or looks odd with your clothes?
-{% include image.html img="misfit-watch.jpg" alt="misfit-watch" caption="Misfit Watch?" align="left" %}
+{% include image.html img="misfit-watch.jpg" alt="misfit-watch" caption="Misfit Watch?" align="right" %}
 
 If you wear your watch too tight, you may have the following problems:
 * First off is that you limit your wrist’s ability to move freely.
@@ -395,6 +395,7 @@ Of course! In addition to being ranked the top-rated smartwatch product in user 
 
 The people who are using the smartwatch showed significant <u><a href="https://www.watchnationpro.com/smartwatch-for-women-benefits/">benefits for women</a></u> in work, family, and health factors and overall improvements to the lifestyle compared to the control group.
 
+<div class="uk-container">
 ### Post Author
 #### Tracey Brian
 Tracey Brian is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends his time reading, playing tennis and doing exercise. You can find more about him <a href="about-us">here</a>.
@@ -403,3 +404,4 @@ Tracey Brian is the main author of WatchNationPro. She is also a technology and 
 
 <a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
 <a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
