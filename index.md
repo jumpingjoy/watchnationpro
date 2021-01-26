@@ -395,7 +395,7 @@ Of course! In addition to being ranked the top-rated smartwatch product in user 
 
 The people who are using the smartwatch showed significant <u><a href="https://www.watchnationpro.com/smartwatch-for-women-benefits/">benefits for women</a></u> in work, family, and health factors and overall improvements to the lifestyle compared to the control group.
 
-<div class="uk-container">
+
 ### Post Author
 #### Tracey Brian
 Tracey Brian is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends his time reading, playing tennis and doing exercise. You can find more about him <a href="about-us">here</a>.
@@ -404,4 +404,3 @@ Tracey Brian is the main author of WatchNationPro. She is also a technology and 
 
 <a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
 <a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>
-</div>
