@@ -1,7 +1,7 @@
 ---
 title: About Us | WatchNationPro
 description:  So, if you want to learn more about our website, you can click this link right here and find out more about WatchNationPro.
-sidebar: right
+sidebar: none
 ---
 Welcome to our website!
 
