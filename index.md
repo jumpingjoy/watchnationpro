@@ -136,9 +136,13 @@ Unlike other sites that baffle the readers with women's tech suits features and 
 * How the female smart watches features help in solving the problems?
 * How does each feature perform in terms of **5-star ratings** denoted by our rating reference:
 ★★★★★ | 😎
+
 ★★★★☆ | 🙂
+
 ★★★☆☆ | 😐
+
 ★★☆☆☆ | 😟
+
 ★☆☆☆☆ | 😭
 * The 5-star rating makes it easy for you to know quickly how the feature performs
 * Provide a detailed Buying Guide for buying the best ladies smartwatches
