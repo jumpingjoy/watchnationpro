@@ -398,10 +398,10 @@ The people who are using the smartwatch showed significant <u><a href="https://w
 
 ### Post Author
 #### Sarah Hollen
-{% include image.html img="menstruation.jpg" alt="problem-menstruation" caption="Problem Tracking Menstrual Cycle" align="left" %}
+{% include image.html img="https://pbs.twimg.com/profile_images/874196000747003905/N8kxcjRw.jpg" alt="problem-menstruation" caption="Problem Tracking Menstrual Cycle" align="left" %}
 Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends his time reading, playing tennis and doing exercise. You can find more about him <a href="about-us">here</a>.
 
-<b><a href="">See author's posts</a></b>
+<b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
 
 <a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
 <a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>
