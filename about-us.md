@@ -9,8 +9,8 @@ Skin Starts with C is a website dedicated in helping people find different solut
 
 Our team of dedicated researchers are always on the look out for the latest and most effective skin care products on the market today. With that in mind, we guarantee you that you will receive the most accurate information about these products from us directly. We hope that you enjoy and support our website!
 
-Our Team
-Sarah Hollen (Owner)
+## Our Team
+### Sarah Hollen (Owner)
 {% include image.html img="https://pbs.twimg.com/profile_images/874196000747003905/N8kxcjRw.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
 ​Hey guys, I’m Casey! Ever since I was a child, ​my dad introduced me to playing sports such as basketball, football, and baseball. Since then, I learned that being physically active is essential in maintaining a healthy body.
 
@@ -22,7 +22,7 @@ I thought everything was going well until I entered college, where I suffered se
 
 Email Casey at casey@skinstartswithc.com
 
-JJ Bryan (Marketing Manager)
+### JJ Bryan (Marketing Manager)
 {% include image.html img="https://pbs.twimg.com/profile_images/874196000747003905/N8kxcjRw.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
 
 ​Hi, my name is Kayla! Same with Casey, I also experienced a severe acne breakout when I was in my early 20’s. At first, I thought it was just normal. You know women and hormones don’t work well sometimes, right? But when I started to get cystic acne all over my face, that’s when I knew that something’s not right with my skin.
@@ -33,7 +33,7 @@ All the products I tried didn’t​help me clear my acne and the marks it left 
 
 Email Kayla at kayla@skinstartswithc.com
 
-​Carl Morgan (Content Manager)
+### Carl Morgan (Content Manager)
 {% include image.html img="https://pbs.twimg.com/profile_images/874196000747003905/N8kxcjRw.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
 ​What’s up? I’m Carl. I’ve been in the health and fitness industry as a ​Fitness ​Coach for 7 years now. I’ve known people who passionately work out to build their gym bodies and most of them forget ​one important thing — to take care of their skin.
 
