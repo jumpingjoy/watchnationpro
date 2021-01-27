@@ -33,3 +33,5 @@ The snug fit, the rich haptic feedback, silent smooth notification sounds, great
 Users will not feel to lug around my iPhone 11 anymore. With the cellular connection, users are completely free to move around without the phone and for light usage with the watch itself.
 
 If you are really serious about your work, health and need to monitor your loved one's for their safety and security, this will be the best smartwatch and worth every penny. You can also go for Apple Watch SE, which doesn't have a blood oxygen sensor, ECG sensor, and heart rate which is available in the same size as that of the former.
+
+If you feel that the cost is over the board, we have reviewed other <u><a href="https://www.watchnationpro.com/">best smartwatches for women</a><u> which you can check it out.
