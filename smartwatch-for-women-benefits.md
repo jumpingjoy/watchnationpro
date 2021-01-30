@@ -27,7 +27,7 @@ Fitness smartwatch is constantly in touch with your skin and monitors all the he
 
 Some of the best ECG smartwatch available in the market is capable of tracking ECG girls heart rate!!
 
-Read the <u><a href="women-fitness-improvement">women facing health-related issues statistics</u> and a case study story of Heather Hendershot from Kansas on how the apple smartwatch benefited her and saved her from life-threatening heart complications.
+Read the <u><a href="women-fitness-improvement">women facing health-related issues statistics</a></u> and a case study story of Heather Hendershot from Kansas on how the apple smartwatch benefited her and saved her from life-threatening heart complications.
 
 <!-- one case study-->
 
