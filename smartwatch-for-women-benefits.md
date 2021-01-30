@@ -17,7 +17,7 @@ You can ensure that you have the best smartwatch for health, which can be the be
 
 Females with symptoms associated with menstruation, such as headache, cramps, and acne, can record what they are experiencing in the smartwatch, along with the start date of their most recent symptoms and records. Smartwatch can compile the data and provide alerts before the anticipated start of users' next menstrual period cycle as a reminder and help women get prepared.
 
-The <u><a href="https://www.watchnationpro.com/menstrual-hygiene/">smartwatches are designed to assist users for menstrual hygiene</a></> by tracking periods, ovulation and fertility tracking. Smartwatches have dedicated apps/tracking sensors and provide data on issues related to menstruation, birth control, pregnancy, perimenopause, and other female health issues.
+The <u><a href="https://www.watchnationpro.com/menstrual-hygiene/">smartwatches are designed to assist users for menstrual hygiene</a></u> by tracking periods, ovulation and fertility tracking. Smartwatches have dedicated apps/tracking sensors and provide data on issues related to menstruation, birth control, pregnancy, perimenopause, and other female health issues.
 
 ### 2. Ultimate Fitness/Health Guide to look like a fit beautiful Women
 
