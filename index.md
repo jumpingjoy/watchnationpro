@@ -399,7 +399,7 @@ The people who are using the smartwatch showed significant <u><a href="https://w
 
 ### Post Author
 #### Sarah Hollen
-{% include image.html img="https://pbs.twimg.com/profile_images/874196000747003905/N8kxcjRw.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
+{% include image.html img="sarah-hollen.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
 Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="about-us">here</a>.
 
 <b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>

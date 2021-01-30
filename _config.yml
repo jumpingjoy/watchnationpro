@@ -24,7 +24,7 @@ disqus:
 instagram_accesstoken:
 
 footer:             # Default footer image settings
-  copyright:        Made by JJ Tech
+  copyright:        Made by WatchNationPro
 
 # navbar settings
 navbar_primary:
@@ -49,7 +49,7 @@ social_networks:
   dribbble:
   github:
   reddit:
-  instagram:    
+  instagram:
   linkedin:
   pinterest:
   twitter:          https://twitter.com/
