@@ -1,7 +1,7 @@
 ---
 title:          Sarah Hollen
 username:       sarah hollen
-image:          https://pbs.twimg.com/profile_images/874196000747003905/N8kxcjRw.jpg
+image:          sarah-hollen.jpg
 bio:            Writer at WorkBox Publishing, parent, aminal lover and avid coffee drinker.
 email:          me@mysite.com
 website:        https://mysite.com
