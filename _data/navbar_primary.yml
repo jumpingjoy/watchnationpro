@@ -11,6 +11,8 @@ center:
         url: /apple-watch-6-review/
       - title: Garmin Venu Review
         url: /garmin-venu-review/
+      - title: Samsung Watch Active 2 Review
+        url: /samsung-watch-active-2-review/
       - title: Fitbit Sense Review
         url: /fitbit-sense-review/
       - title: Kate Spade Scallop 2 Review
@@ -28,6 +30,7 @@ center:
       - title: Safety Improvements
         url: /women-safety-improvements/
 
-   <button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+  - title: Where To Buy
+    url: /where-to-buy/
 
 right:
