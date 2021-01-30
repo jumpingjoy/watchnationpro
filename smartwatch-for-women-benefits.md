@@ -50,3 +50,13 @@ No one is likely to carry huge laptops to meetings anymore. These laptops take u
 
 ### 5. Stylish, Trendy, and Fashionable Smartwatches to be more Pretty Females
 These days, technology and fashion tend to mingle more than ever before. But, it's not mere high-tech garments that have earned a place in your wardrobe. Accessories, such as smartwatches, are also incredibly stylish and practical, making them a worthwhile purchase for every modern lady. Perfect for everyday use, smartwatches provide the convenience of having all the most valuable information right with you. From messages to notifications and other emails, these sophisticated tech devices can do a lot more than just tell the time.
+
+### Post Author
+#### Sarah Hollen
+{% include image.html img="sarah-hollen.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
+Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="about-us">here</a>.
+
+<b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
+
+<a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
+<a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>
