@@ -145,6 +145,7 @@ Unlike other sites that baffle the readers with women's tech suits features and 
 ★★☆☆☆ | 😟
 
 ★☆☆☆☆ | 😭
+
 * The 5-star rating makes it easy for you to know quickly how the feature performs
 * Provide a detailed Buying Guide for buying the best ladies smartwatches
 * Provide How-to Guides to get the best <a href="https://www.watchnationpro.com/smartwatch-for-women-benefits/">benefits for women</a> out of the smartwatches
@@ -166,8 +167,6 @@ Even though laptops and smartphones are handheld devices, you can't hold laptops
 Smartwatches are lightweight and compact. Wearable smartwatches give more comfortability and flexibility to use. Being connected with the body is the smartwatch's main quality, which makes smartwatches standalone from smartphones and laptops.
 
 If you are not aware of finding a good smart watch and baffled by its intricate technical details, this buyer’s guide is for your rescue to ease things out.
-
-
 
 ### What are the kinds of smartwatches, and How does it work?
 There are two kinds of smartwatches available in the market:
