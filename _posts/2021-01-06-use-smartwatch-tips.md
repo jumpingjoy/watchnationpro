@@ -1,5 +1,6 @@
 ---
 title: Precautions Women Must Take When Using a Smartwatch
+description:  We tested out various Fitness related smartwatch apps available. Find out the FREE...
 image: https://source.unsplash.com/j0Deh-kkkFo/1000x750
 categories: [general]
 tags: [featured]
