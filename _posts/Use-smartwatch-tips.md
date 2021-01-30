@@ -1,7 +1,7 @@
 ---
 title: Precautions Women Must Take When Using a Smartwatch
 image: https://source.unsplash.com/j0Deh-kkkFo/1000x750
-categories: [general]
+categories: [business]
 tags: [featured]
 hidden: true
 author: sarah hollen
