@@ -34,15 +34,17 @@ Email Rwanda at rwanda.bryan@watchnationpro.com
 
 ### Tracey Track (Content Manager)
 {% include image.html img="sarah-hollen.jpg" alt="Tracey-Track" caption="Tracey Track" align="left" %}
-​What’s up? I’m Carl. I’ve been in the health and fitness industry as a ​Fitness ​Coach for 7 years now. I’ve known people who passionately work out to build their gym bodies and most of them forget ​one important thing — to take care of their skin.
+​What’s up? I’m Tracey. I’ve been in the health and fitness industry as a ​Fitness ​Coach for 7 years now. I’ve known people who passionately work out to build their gym bodies and most of them forget ​one important thing — to take care of their health.
 
-​When we workout, we sweat a lot and if it sits on our skin for a long time, it can block our sweat pores. ​If bacteria is present, it may lead to acne and other skin conditions like skin rash. I know this because some of my clients have this dilemma.
+​When we workout, we sweat a lot and if it sits on our skin for a long time, it can block our sweat pores. ​Hence, monitoring your sweat is also essential.
 
-Now, my mission is not just to help people achieve their body goals but to also guide them on how to have healthy skin, or at least maintain it.
+Now, my mission is not just to help people achieve their body goals but to also guide them on how to have overall fitness using smartwatches, or at least maintain it.
 
-As a writer at Skin Starts with C, join me and the team in making this mission come true.
+As a writer at WatchNationPro, join me and the team in making this mission come true.
 
-​Email Carl at morgan.track@watchnationpro.com
+​Email Carl at tracey.track@watchnationpro.com
+
+---------------------------------------------------------------------------------------------------------------------------
 
 ​Mailing Address: 100 6th Ave #43, New York, NY 10013, USA
 
