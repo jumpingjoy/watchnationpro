@@ -1,5 +1,5 @@
 ---
-title: Garmin Venu Review<br>6 vs SE vs 3
+title: Garmin Venu Review
 description:  While there are many outstanding smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 18 of 20 of the online reviews available, Apple Watch Series 6 comes out on top.
 sidebar: right
 ---

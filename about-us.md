@@ -11,30 +11,29 @@ Our team of dedicated researchers are always on the look out for the latest and 
 
 ## Our Team
 ### Sarah Hollen (Owner)
-{% include image.html img="https://pbs.twimg.com/profile_images/874196000747003905/N8kxcjRw.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
-​Hey guys, I’m Casey! Ever since I was a child, ​my dad introduced me to playing sports such as basketball, football, and baseball. Since then, I learned that being physically active is essential in maintaining a healthy body.
+{% include image.html img="sarah-hollen.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
+​Hey guys, I’m Sarah! Ever since I was a child, ​my dad introduced me to playing sports such as tennis, badminton, and baseball. Since then, I learned that being physically active is essential in maintaining a healthy body.
 
-I thought everything was going well until I entered college, where I suffered severe acne which negatively affected my self-esteem. Instead of having the confidence to build new friendships (or even asking my crush out on a date), I chose to stay at home because I don’t want to see other people looking at my face. Those were the hard days.
+I thought everything was going well until I entered work, where I suffered menstruation cycle which negatively affected my going to office. I was also gaining weight and which affected my overall health. I chose to stay at home because I don’t want to see other people looking at my body. Those were the hard days.
 
-​After going back and forth to ​dermatologists and trying out tons of anti-acne products, none of it worked and I was about to give up. It was until a friend of mine introduced me to vitamin C serum ​and I saw noticeable improvements on my skin.
+​After going back and forth to health and fitness consultants and based on their suggestion trying out smartwatches along with the weight loss programs, finally I saw noticeable improvements on my overall health conditions.
 
-​As of writing, I can look at myself in the mirror without feeling bad about myself. ​I can confidently talk in front of a lot of people without worrying about what they’ll think about my looks. And because vitamin c serum saved me from my skin problem, I’m 100% dedicated in helping you guys achieve the healthy skin you’ve always wanted.
+​As of writing, I can look at myself in the mirror without feeling bad about myself. ​I can confidently talk in front of a lot of people without worrying about what they’ll think about my looks. And because using smartwatches saved me from my health problem, I’m 100% dedicated in helping you guys achieve the healthy body you’ve always wanted.
 
-Email Casey at casey@skinstartswithc.com
+Email Casey at sarah.hollen@watchnationpro.com
 
-### JJ Bryan (Marketing Manager)
-{% include image.html img="https://pbs.twimg.com/profile_images/874196000747003905/N8kxcjRw.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
+### Rwanda Bryan (Marketing Manager)
+{% include image.html img="sarah-hollen.jpg" alt="Rwanda-Bryan" caption="Rwanda Bryan" align="left" %}
+​Hi, my name is Rwanda! Same with Sarah, I also experienced a severe problems on delayed menstruation and obesity when I was in my early 20’s. At first, I thought it was just normal. You know women and hormones don’t work well sometimes, right? But when I started to realize the dangers of delayed menstruation and its relationship with lack of menstrual hygiene, that’s when I knew that something’s has to done immediately.
 
-​Hi, my name is Kayla! Same with Casey, I also experienced a severe acne breakout when I was in my early 20’s. At first, I thought it was just normal. You know women and hormones don’t work well sometimes, right? But when I started to get cystic acne all over my face, that’s when I knew that something’s not right with my skin.
+What’s more irritating there is a repetition of this everymonth. It’s like a never-ending cycle. I’m sure some of you women have experienced the same many times in their life.
 
-What’s more irritating there is when a zit clears out, another one pops up. It’s like a never-ending cycle. I’m sure some of you guys experienced the same once in their life.
+When I tried using smartphones to track my menstrual cycle, it didn’t​ help me track it properly and found the tracking to be successful when I used smartwatches. So as a Content ​Editor at WatchNationpro.com, I’m here to help you guys discover the advantages of smartwatches so we can all keep a healthy body.
 
-All the products I tried didn’t​help me clear my acne and the marks it left on my face except for one. And that is vitamin C serum. So as a Content ​Editor at Skin Starts With C, I’m here to help you guys discover the wonders of this product so we can all keep a healthy skin.
+Email Rwanda at rwanda.bryan@watchnationpro.com
 
-Email Kayla at kayla@skinstartswithc.com
-
-### Carl Morgan (Content Manager)
-{% include image.html img="https://pbs.twimg.com/profile_images/874196000747003905/N8kxcjRw.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
+### Tracey Track (Content Manager)
+{% include image.html img="sarah-hollen.jpg" alt="Tracey-Track" caption="Tracey Track" align="left" %}
 ​What’s up? I’m Carl. I’ve been in the health and fitness industry as a ​Fitness ​Coach for 7 years now. I’ve known people who passionately work out to build their gym bodies and most of them forget ​one important thing — to take care of their skin.
 
 ​When we workout, we sweat a lot and if it sits on our skin for a long time, it can block our sweat pores. ​If bacteria is present, it may lead to acne and other skin conditions like skin rash. I know this because some of my clients have this dilemma.
@@ -43,7 +42,7 @@ Now, my mission is not just to help people achieve their body goals but to also 
 
 As a writer at Skin Starts with C, join me and the team in making this mission come true.
 
-​Email Carl at carl@skinstartswithc.com
+​Email Carl at morgan.track@watchnationpro.com
 
 ​Mailing Address: 100 6th Ave #43, New York, NY 10013, USA
 
