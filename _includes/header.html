@@ -25,11 +25,14 @@
       {% include navbar-primary.html %}
     </nav>
   {% endif %}
-  <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
-
+  <div id="google_translate_element"></div>
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+  <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
   <link rel="preload" href="//translate.googleapis.com/translate_static/js/element/main.js" as="script">
-
   <link rel="preload" href="//translate.googleapis.com/element/TE_20200210_00/e/js/element/element_main.js" as="script">
-
   <link rel="preload" href="//translate.googleapis.com/translate_static/css/translateelement.css" as="style">
 </header>
