@@ -23,10 +23,27 @@ And it's no surprise why, as you will soon learn.
         </div>
     </li>
     <li class="uk-open">
-        <a class="uk-accordion-title" href="#">How is the screen clarity of apple watch 6 series?</a>
+        <a class="uk-accordion-title" href="#"><b>How is the screen clarity of apple watch 6 series?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
-            <p>EThe OLED display on the Apple Watch Series 6 is one of the best you'll come across on a smartwatch. It measures about 1.73 inches diagonally and has a resolution of 368x448 pixels on the 44mm case models. Apple also uses a sapphire crystal glass cover on the stainless steel variants, and the brightness of the always-on display is now 500nits, compared to 200nits on the Series 5. </p>
+            <p>The OLED display on the Apple Watch Series 6 is one of the best you'll come across on a smartwatch. It measures about 1.73 inches diagonally and has a resolution of 368x448 pixels on the 44mm case models. Apple also uses a sapphire crystal glass cover on the stainless steel variants, and the brightness of the always-on display is now 500nits, compared to 200nits on the Series 5. </p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#"><b>How is the overall build quality of apple watch 6 series?</b></a>
+        <div class="uk-accordion-content">
+            <p>Our rating: ★★★★★ | 😎</p>
+            <ul>We would say, the overall build quality is excellent.</ul>
+            <ul>Material Quality: The case is available in three materials. They are aluminum, titanium and stainless steel. Each variant comes with different colors. Stainless steel variant is available in Gold and Graphite colors and Aluminum variant in Blue and Red colors. Solo Loop Band is new one in Apple watch 6. This stretchable band is made of silicone. But stainless steel variant has either sports band or Milanese loop band. The wrist band of Apple watch series 6 requires less maintenance and wetness of band gets dry quickly.
+            <ul>The right side of the watch has digital crown and a button. Speaker cutout is placed on the left side. All other sensors are located underside of the watch case. </ul>
+            <ul>Water Resistance: Water resistant of Apple watch series 6 is measured 5ATM or up to 50m. Most excitingly the Hand Wash feature attracts more attention. It starts timer for 20s when it detects hand washing. This is the highlight of WatchOS 7. </ul>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#"><b>How comfortable it is to wear and use apple watch 6 series?</b></a>
+        <div class="uk-accordion-content">
+            <p>Our rating: ★★★★★ | 😎</p>
+            <p>Weight: The weight of watch is moderately 47.1g which is okay to wear all the time. </p>
         </div>
     </li>
 </ul>
