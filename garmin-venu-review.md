@@ -1,14 +1,20 @@
 ---
 title: Garmin Venu Review
-description:  While there are many outstanding smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 18 of 20 of the online reviews available, Apple Watch Series 6 comes out on top.
+description:  Are you having problems with health, fitness, safety as a women? Do you want to have a better and portable health monitor with you? Here you will find out how you can easily fix this by...
 sidebar: right
 ---
 {% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="
 Apple Watch Series 6 Review" align="center" %}
 
-While there are many outstanding smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 18 of 20 of the online reviews available, Apple Watch Series 6 comes out on top.
+The Garmin brand (formerly known as ProNav)was founded in the year 1989 in Kansas, United States. Since the year 2010, the company was incorporated at Switzerland.
 
-And its no surprise why, as you’ll soon learn.
+Garmin is specialized in providing GPS technology for aviation, marine, automotive, sports and outdoor activities. They have advanced in the field of wearable technology which makes them a stiff competitor for other leading  brands such as Apple and Fitbit for activity tracker and smartwatch.
+
+Offering high-quality skin care treatments made using only botanical ingredients, the Mario Badescu range comprises an entire range of quality products including facial cleansers, lotions and moisturizers.
+Mario Badescu Vitamin C Serum is rated among the best serums available on the market. You’re about to find out why.
+This serum is extremely lightweight and focuses on perfecting the wrinkled and damaged parts of your face. Infused with a potent form of ascorbic acid, along with other natural ingredients, your skin will drastically increase its collagen production.
+The Mario Badescu mixture will make your skin more hydrated, plump, and full of youthful energy. An interesting ingredient in this product is that it has collagen included in its ingredient list. Vitamin C is so effective as a topical because it helps stimulate collagen production on your skin.
+The Mario Badescu solution not only has ascorbic acid in their ingredients, but they have also added collagen to their ingredient list, further enhancing their solution’s impact on your skin.
 
 ## What are Key Features of Garmin Venu and its Performance?
 

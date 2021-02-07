@@ -8,7 +8,7 @@ From our team at WatchNationPro.com, we would like to thank you for taking your 
 
 For questions, suggestions, or any concerns, please leave us a message by filling out the form below.
 
-We'll get back to you as soon as we can.
+We will get back to you as soon as we can.
 
 For questions about our content, technical issues, and more, please contact us at feedback@watchnationpro.com.
 
