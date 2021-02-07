@@ -12,14 +12,21 @@ And it's no surprise why, as you will soon learn.
 
 ## What are the Key Features of Apple Watch Series 6 and its Performance?
 
-### Quick and Important Check Factors
+### Quick and Important Check Factors of Apple Watch Series 6
 
 <ul uk-accordion>
     <li class="uk-open">
-        <a class="uk-accordion-title" href="#">How is the price point of apple watch 6 series</a>
+        <a class="uk-accordion-title" href="#"><b>How is the price point of apple watch 6 series?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★☆ | 🙂</p>
             <p>Eventhough it is highly priced between $749.00 to $1,499.00 based on the features and its accuracy is worth for the high price of the smartwatch. Read on the full review to know in detail.</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">How is the screen clarity of apple watch 6 series?</a>
+        <div class="uk-accordion-content">
+            <p>Our rating: ★★★★★ | 😎</p>
+            <p>EThe OLED display on the Apple Watch Series 6 is one of the best you'll come across on a smartwatch. It measures about 1.73 inches diagonally and has a resolution of 368x448 pixels on the 44mm case models. Apple also uses a sapphire crystal glass cover on the stainless steel variants, and the brightness of the always-on display is now 500nits, compared to 200nits on the Series 5. </p>
         </div>
     </li>
 </ul>
