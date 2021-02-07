@@ -20,6 +20,7 @@ And it's no surprise why, as you will soon learn.
         <div class="uk-accordion-content">
             Our rating: ★★★★☆ | 🙂
 
+
             Eventhough it is highly priced between $749.00 to $1,499.00 based on the features and its accuracy is worth for the high price of the smartwatch. Read on the full review to know in detail.
         </div>
     </li>
