@@ -1,5 +1,5 @@
 ---
-title: Apple Watch Series 6 Review<br>6 vs SE vs 3
+title: Apple Watch Series 6 Review 6 vs SE vs 3
 description:  While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
 sidebar: right
 ---
@@ -16,10 +16,11 @@ And it's no surprise why, as you will soon learn.
 
 <ul uk-accordion>
     <li class="uk-open">
-        <a class="uk-accordion-title" href="#">**How is the price point of apple watch 6 series?**</a>
+        <a class="uk-accordion-title" href="#"><b>How is the price point of apple watch 6 series?</b></a>
         <div class="uk-accordion-content">
-            <p>Our rating: ★★★★☆ | 🙂</p>
-            <p>Eventhough it is highly priced between $749.00 to $1,499.00 based on the features and its accuracy is worth for the high price of the smartwatch. Read on the full review to know in detail.</p>
+            Our rating: ★★★★☆ | 🙂
+
+            Eventhough it is highly priced between $749.00 to $1,499.00 based on the features and its accuracy is worth for the high price of the smartwatch. Read on the full review to know in detail.
         </div>
     </li>
     <li class="uk-open">
@@ -33,7 +34,7 @@ And it's no surprise why, as you will soon learn.
         <a class="uk-accordion-title" href="#"><b>How is the overall build quality of apple watch 6 series?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
-            We would say, the overall build quality is excellent. **Material Quality:** The case is available in three materials. They are aluminum, titanium and stainless steel. Each variant comes with different colors. Stainless steel variant is available in Gold and Graphite colors and Aluminum variant in Blue and Red colors. Solo Loop Band is new one in Apple watch 6. This stretchable band is made of silicone. But stainless steel variant has either sports band or Milanese loop band. The wrist band of Apple watch series 6 requires less maintenance and wetness of band gets dry quickly. The right side of the watch has digital crown and a button. Speaker cutout is placed on the left side. All other sensors are located underside of the watch case. **Water Resistance:** Water resistant of Apple watch series 6 is measured 5ATM or up to 50m. Most excitingly the Hand Wash feature attracts more attention. It starts timer for 20s when it detects hand washing. This is the highlight of WatchOS 7.</p>
+            <p>We would say, the overall build quality is excellent. <b>Material Quality:</b> The case is available in three materials. They are aluminum, titanium and stainless steel. Each variant comes with different colors. Stainless steel variant is available in Gold and Graphite colors and Aluminum variant in Blue and Red colors. Solo Loop Band is new one in Apple watch 6. This stretchable band is made of silicone. But stainless steel variant has either sports band or Milanese loop band. The wrist band of Apple watch series 6 requires less maintenance and wetness of band gets dry quickly. The right side of the watch has digital crown and a button. Speaker cutout is placed on the left side. All other sensors are located underside of the watch case. <b>Water Resistance:</b>Water resistant of Apple watch series 6 is measured 5ATM or up to 50m. Most excitingly the Hand Wash feature attracts more attention. It starts timer for 20s when it detects hand washing. This is the highlight of WatchOS 7.</p>
         </div>
     </li>
     <li class="uk-open">
