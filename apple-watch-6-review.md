@@ -157,21 +157,21 @@ We can have a look at the smart features that is used very frequently on a daily
             <p>For payment, Use Apple Pay app in the watch. Tap on “Add card” to add your debit and credit cards. For contactless payment, press the side button twice and keep your watch near the contactless receiver to transfer amount. So you don’t require to bring your card and take mobile for payments.</p>
         </div>
     </li>
-    <li class="uk-open">
-        <a class="uk-accordion-title" href="#">Item 1</a>
-        <div class="uk-accordion-content">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-        </div>
-    </li>
 </ul>
 
 ### Apple Watch 6 Review: Safety and Location Tracking Features
 
 <ul uk-accordion>
     <li class="uk-open">
+        <a class="uk-accordion-title" href="#">How well does fall detection work in apple watch 6?</a>
+        <div class="uk-accordion-content">
+            <p>Hard fall feature is available from Apple watch series 4. Apple watch series 6 also has hard fall detector. When it finds hard fall, It sends alerts, activates alarm, taps you on the wrist. If there is some move in your body, it will show you emergency services to contact. If there is no move, it will automatically connect to emergency services. Otherwise, you can tap on  “I’m OK” or tap on close in the left-corner or dismiss the alert using digital crown.</p>
+        </div>
+    </li>
+    <li class="uk-open">
         <a class="uk-accordion-title" href="#">Item 1</a>
         <div class="uk-accordion-content">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p>Emergency slider is available for help in any danger. Press the side button and one of the volume button to get the emergency slider. You can reach emergency services by dragging the emergency SOS slider.</p>
         </div>
     </li>
 </ul>
@@ -180,9 +180,39 @@ We can have a look at the smart features that is used very frequently on a daily
 
 <ul uk-accordion>
     <li class="uk-open">
-        <a class="uk-accordion-title" href="#">Item 1</a>
+        <a class="uk-accordion-title" href="#">How good is menstrual Tracking in apple watch 6?</a>
         <div class="uk-accordion-content">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p>By turning on periods prediction, fertility prediction in health app of your iPhone, you can get notifications on your watch about upcoming periods. For tracking purpose, you can log your daily information such as any symptoms, mood swing etc.,</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">How good is Heart rate tracking in apple watch 6?</a>
+        <div class="uk-accordion-content">
+            <p>Using Heart rate app, you can measure your heart rate any time. You can get to know resting, workout, breathe, walking and recovery rates throughout the day in the app. However turn on heart rate notifications, so if your heart’s beats per minute (BPM) is below or above the normal count, push notification will be given to alert you.</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">How well body stress is monitored in apple watch 6?</a>
+        <div class="uk-accordion-content">
+            <p>Stress monitoring features detect whether the person wearing this watch is going through any stress or a panic attack. If so, it will suggest some breathing exercises and other guidance according to the stress level monitored.</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">How good is oxygen absorbtion Tracking? in apple watch 6?</a>
+        <div class="uk-accordion-content">
+            <p>Blood oxygen monitoring is the new feature for Apple. It has been introduced in Apple watch series 6 for the first time. Optical heart sensor has been redesigned to measure blood oxygen also. However the blood oxygen level calculated can’t be used for medical use but for fitness and wellness purposes. This oxygen level can be tracked in Blood Oxygen App. Check this app after updating your iPhone’s later version of iOS and also Apple watch series 6 to the later version of watchOS. To measure blood oxygen level, open blood oxygen app in your watch and tap on start button. Keep your wrist steady and watch face upwards. It takes 15 seconds to calculate blood oxygen level. It will show results after 15 seconds.</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">How well sleep is monitored in apple watch 6?</a>
+        <div class="uk-accordion-content">
+            <p>The sleep app is connected with clock which has settings of bed time (customizable). This feature monitors your sleep if you wear during sleep. The app shows results such as average sleep time, bed time. A bar graph that shows the analysis on your sleep for a week or month. Light green marks in the graph shows bed times and Dark green marks indicate sleep times. However, it is not providing any other info such sleep stages such as light sleep, REM sleep, Deep sleep and time taken for each stages etc., In this case, Apple watch has to improve much in sleep tracking.</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">How well the steps are counted in apple watch 6?</a>
+        <div class="uk-accordion-content">
+            <p>Activity app counts the steps. You can access this feature easily through rolling digital crown. It will take you to activity app. By scrolling down using the same digital crown, you can see the step count.</p>
         </div>
     </li>
 </ul>
@@ -191,9 +221,15 @@ We can have a look at the smart features that is used very frequently on a daily
 
 <ul uk-accordion>
     <li class="uk-open">
-        <a class="uk-accordion-title" href="#">Item 1</a>
+        <a class="uk-accordion-title" href="#">How well gym activities are tracked in apple watch 6?</a>
         <div class="uk-accordion-content">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p>Use the Workout app for all kinds of exercise indoor and outdoor. Default workouts available in Apple watch are Walk, Running, Cycling, Elliptical, Rower, Stair Stepper, HIIT, Hiking, Yoga, Functional Strength Training, Dance, Cooldown, Core training, Swimming etc.
+
+Manually you can add workout out of your interest and needs.
+
+If you are using wheelchair manually, you can use wheelchair walk pace and outdoor wheelchair run pace options too.
+
+In each workout, speed and distance, elevation and other metrics according to the nature of workouts are shown on display while performing the particular workout.</p>
         </div>
     </li>
 </ul>
@@ -233,7 +269,7 @@ We can have a look at the smart features that is used very frequently on a daily
         <a class="uk-accordion-title" href="#">How well the training data can be customized apple watch 6?</a>
         <div class="uk-accordion-content">
             <p>★★★★☆ | 🙂</p>
-            <p>There is option for indoor runs such as treadmill run and outdoor run options to specify metrics based on that. Even though blood oxygen level is common fitness tool, it is very helpful to runners too specifically.</p>
+            <p>Yes. In the workout of watch app in your iPhone, you can customize by tapping on “Customize” to edit.</p>
         </div>
     </li>
 </ul>
