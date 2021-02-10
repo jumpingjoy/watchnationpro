@@ -12,16 +12,14 @@ And it's no surprise why, as you will soon learn.
 
 ## What are the Key Features of Apple Watch Series 6 and its Performance?
 
-### Quick and Important Check Factors of Apple Watch Series 6
+### Apple Watch Series 6 Review: Quick and Important Factors Checked
 
 <ul uk-accordion>
     <li class="uk-open">
         <a class="uk-accordion-title" href="#"><b>How is the price point of apple watch 6 series?</b></a>
         <div class="uk-accordion-content">
-            Our rating: ★★★★☆ | 🙂
-
-
-            Eventhough it is highly priced between $749.00 to $1,499.00 based on the features and its accuracy is worth for the high price of the smartwatch. Read on the full review to know in detail.
+            <p>Our rating: ★★★★☆ | 🙂</p>
+            <p>Eventhough it is highly priced between $749.00 to $1,499.00 based on the features and its accuracy is worth for the high price of the smartwatch. Read on the full review to know in detail.</p>
         </div>
     </li>
     <li class="uk-open">
@@ -42,7 +40,63 @@ And it's no surprise why, as you will soon learn.
         <a class="uk-accordion-title" href="#"><b>How comfortable it is to wear and use apple watch 6 series?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
-            <p>**Weight:** The weight of watch is moderately 47.1g which is okay to wear all the time. </p>
+            <p>**Weight:** The weight of watch is moderately 47.1g which is okay to wear all the time.</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#"><b>How stylish apple watch 6 series looks? Can the looks be customized??</b></a>
+        <div class="uk-accordion-content">
+            <p>Our rating: ★★★★★ | 😎</p>
+            <p>Display customization: Allow you to customize your screens to show battery status, notification, time, date and more. Apple watch series 6 comes with a variety of watch faces. Each watch faces can be customized too. According to the watch face, it displays time, metrics of different activities and other details in the home screen. For example, Activity analog watch face shows the activity progress and analog watch in the display.</p>
+            <p>Apart from this watch face, I would like to mention some more watch faces which you can try. They are Activity digital, Artist, Astronomy, Breathe, California, Chronograph, Chronograph Pro, Color, Count up, Explorer, Fire and Water, GMT, Gradient, Infograph, Infograph Modular, Kaleidoscope, Liquid metal, Memoji, Meridian, Mickey Mouse and Minnie Mouse, Modular, Modular Compact, Motion, Numerals, Numeral Duo, Numerals Mono etc., All these watch faces are excellent and comes with customization</p>
+            <p>Wrist Strap Customization: Different materials are used for finishes. You can choose from a collection of aluminum, titanium, and stainless steel. Get these in two colors in new blue and red. Wrist band comes with an attractive range of varieties - leather strap, silicone band, stainless steel band, and woven sport band. Other than these, different materials and colors are available in the market by third-party.Allows you to combine any watch case and strap to your liking, before checking out. Apple has a new silicone wrist band called Solo Loop band. However, this will have to be purchased separately as the stainless steel variant can only be purchased with either a Sport Band or a Milanese Loop band</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#"><b>How is the hardware performance of apple watch ?</b></a>
+        <div class="uk-accordion-content">
+            <p>Our rating: ★★★★★ | 😎</p>
+            <p>the Apple Watch Series 6 introduces Apple's brand new S6 SiP. Apple claims it has been completely redesigned to make the most of the space inside the watch and is up to 20 percent faster and more energy efficient compared to last year's S5 chip. The Series 6 also gets 5GHz Wi-Fi band support and Apple's U1 ultra-wideband positioning chip which enables tasks such as keyless entry and ignition in supported cars.</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#"><b>How is the hardware performance of apple watch ?</b></a>
+        <div class="uk-accordion-content">
+            <p>Our rating: ★★★★★ | 😎</p>
+            <p>the Apple Watch Series 6 introduces Apple's brand new S6 SiP. Apple claims it has been completely redesigned to make the most of the space inside the watch and is up to 20 percent faster and more energy efficient compared to last year's S5 chip. The Series 6 also gets 5GHz Wi-Fi band support and Apple's U1 ultra-wideband positioning chip which enables tasks such as keyless entry and ignition in supported cars.</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#"><b>How is the mobile OS compatibility of apple watch ?</b></a>
+        <div class="uk-accordion-content">
+            <p>Our rating: ★★★☆☆ | 😐</p>
+            <p>4G connection from eSIM or Wi-Fi is very reliable. LTE performance is too good experimentally.Bluetooth earphones can be paired when being outdoors for attending and initiating calls and listening to music. To sync and pair Apple watch with iPhone, use Apple watch app which can be downloaded from the App store app on iPhone. By pairing watch with iPhone through this app, user can customize watch faces, notifications and alerts, more apps’ on watch data in iPhone also.</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#"><b>How effectively is the connectivity of apple watch series 6 work?</b></a>
+        <div class="uk-accordion-content">
+            <p>Our rating: ★★★★★ | 😎</p>
+            <p>4G connection from eSIM or Wi-Fi is very reliable. LTE performance is too good experimentally. Bluetooth earphones can be paired when being outdoors for attending and initiating calls and listening to music. To sync and pair Apple watch with iPhone, use Apple watch app which can be downloaded from the App store app on iPhone. By pairing watch with iPhone through this app, user can customize watch faces, notifications and alerts, more apps’ on watch data in iPhone also.</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#"><b>How is the battery life of apple watch series 6 work?</b></a>
+        <div class="uk-accordion-content">
+            <p>Our rating: ★★★★★ | 😎</p>
+            <p>Always-on display enabled: Close to two full days on one charge. Always-ON display disabled: around one full day. These times are still way better than Apple's claims. When using only LTE:Charge lasted about a day and 15 hours, which is quite impressive. When using all the scenarios: charge lasted about four and half hours.</p>
+        </div>
+    </li>
+</ul>
+
+###  Apple Watch Series 6 Review: Smart Features Used Daily
+
+<ul uk-accordion>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#"><b>How is the price point of apple watch 6 series?</b></a>
+        <div class="uk-accordion-content">
+            <p>Our rating: ★★★★☆ | 🙂</p>
+            <p>Eventhough it is highly priced between $749.00 to $1,499.00 based on the features and its accuracy is worth for the high price of the smartwatch. Read on the full review to know in detail.</p>
         </div>
     </li>
 </ul>
