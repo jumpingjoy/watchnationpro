@@ -147,11 +147,133 @@ We can have a look at the smart features that is used very frequently on a daily
             <p>Our rating: ★★★★★ | 😎</p>
             <p>Crown lets you zoom-in and zoom-out. Scrolling can be done manually by dragging finger on the screen. You can swipe left, right, up and down to see different screens.</p>
         </div>
-    </li><li class="uk-open">
+    </li>
+    <li class="uk-open">
         <a class="uk-accordion-title" href="#"><b>How good is payment feature in apple watch 6 series?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
             <p>For payment, Use Apple Pay app in the watch. Tap on “Add card” to add your debit and credit cards. For contactless payment, press the side button twice and keep your watch near the contactless receiver to transfer amount. So you don’t require to bring your card and take mobile for payments.</p>
+        </div>
+    </li>
+</ul>
+
+### Apple Watch 6 Review: Safety and Location Tracking Features
+
+<ul uk-accordion>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">Item 1</a>
+        <div class="uk-accordion-content">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+    </li>
+</ul>
+
+### Apple Watch 6 Review: General Body Activity Tracking Related Features
+
+<ul uk-accordion>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">Item 1</a>
+        <div class="uk-accordion-content">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+    </li>
+</ul>
+
+### Apple Watch 6 Review: Gym Equipment Usage and Gym Profile Features
+
+<ul uk-accordion>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">Item 1</a>
+        <div class="uk-accordion-content">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+    </li>
+</ul>
+
+### Apple Watch 6 Review: Training Plans and Post Training Analysis Related Features
+
+<ul uk-accordion>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">Item 1</a>
+        <div class="uk-accordion-content">
+            <p>★★★★☆ | 🙂</p>
+            <p>There is option for indoor runs such as treadmill run and outdoor run options to specify metrics based on that. Even though blood oxygen level is common fitness tool, it is very helpful to runners too specifically.</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">How good is Auto/Manual Lap in apple watch 6? </a>
+        <div class="uk-accordion-content">
+            <p>★★★★☆ | 🙂</p>
+            <p>You can add lap in any workout by tapping double time on the screen. While tapping double time on the screen, you can get the segment summary on the screen metrics such as each lap or distance.</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">How good is Auto scroll of training data in apple watch 6?</a>
+        <div class="uk-accordion-content">
+            <p>★☆☆☆☆ | 😭</p>
+            <p>Auto-scrolling is not available in Apple Watch series 6. You can use digital crown for scrolling manually.</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">How well activity history is saved in Apple Watch 6</a>
+        <div class="uk-accordion-content">
+            <p>★★★★☆ | 🙂</p>
+            <p>Yes. In the Fitness App, You can see the activity data and details of the current day.</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">How well the training data can be customized apple watch 6?</a>
+        <div class="uk-accordion-content">
+            <p>★★★★☆ | 🙂</p>
+            <p>There is option for indoor runs such as treadmill run and outdoor run options to specify metrics based on that. Even though blood oxygen level is common fitness tool, it is very helpful to runners too specifically.</p>
+        </div>
+    </li>
+</ul>
+
+### Apple Watch 6 Review: Sports Activity: Running Related Features
+
+<ul uk-accordion>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">How well the running activity is monitored in apple watch 6?</a>
+        <div class="uk-accordion-content">
+            <p>★★★★☆ | 🙂</p>
+            <p>There is option for indoor runs such as treadmill run and outdoor run options to specify metrics based on that. Even though blood oxygen level is common fitness tool, it is very helpful to runners too specifically.</p>
+        </div>
+    </li>
+</ul>
+
+### Apple Watch 6 Review: Sports Activity: Cycling Related Features
+
+<ul uk-accordion>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">How well the cycling activity is monitored in apple watch 6?</a>
+        <div class="uk-accordion-content">
+            <p>★★★★☆ | 🙂</p>
+            <p>Cycling mode in fitness tracker enables you to track cycling activity data such as distance, speed, heart rate and cool-down heart rate even after the activity ends. Overall the functions are pretty basic only.</p>
+        </div>
+    </li>
+</ul>
+
+### Apple Watch 6 Review: Sports Activity: Swimming Related Features
+
+<ul uk-accordion>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">How well the swimming activity is tracked in apple watch 6?</a>
+        <div class="uk-accordion-content">
+            <p>★★★★☆ | 🙂</p>
+            <p>Under ISO standard, water resistance rating of 50 meters is guaranteed. So you can take it not only for pool even for ocean swimming too. Please check Water Lock before getting into swimming to prevent your watch touch screen’s activation. If you have selected swim mode, it automatically activates Watch Lock.</p>
+        </div>
+    </li>
+</ul>
+
+### Apple Watch 6 Review: Outdoor Recreation Activity Related Features
+
+<ul uk-accordion>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">How well the outdoor activities can be tracked in apple watch 6?</a>
+        <div class="uk-accordion-content">
+            <p>★★★★☆ | 🙂</p>
+            <p>Features such as Barometer, Altimeter, Emergency charging, Daylight tracking, Rugged Strap, Weather, Compass, Follow routes are very helpful in outdoor activities such as hiking, mountaineering, biking to deal with environmental issues.</p>
         </div>
     </li>
 </ul>
