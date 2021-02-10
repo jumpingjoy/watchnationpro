@@ -161,6 +161,12 @@ We can have a look at the smart features that is used very frequently on a daily
             <p>For payment, Use Apple Pay app in the watch. Tap on “Add card” to add your debit and credit cards. For contactless payment, press the side button twice and keep your watch near the contactless receiver to transfer amount. So you don’t require to bring your card and take mobile for payments.</p>
         </div>
     </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">Item 1</a>
+        <div class="uk-accordion-content">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+    </li>
 </ul>
 
 ### Apple Watch 6 Review: Safety and Location Tracking Features
