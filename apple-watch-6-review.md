@@ -223,13 +223,7 @@ We can have a look at the smart features that is used very frequently on a daily
     <li class="uk-open">
         <a class="uk-accordion-title" href="#">How well gym activities are tracked in apple watch 6?</a>
         <div class="uk-accordion-content">
-            <p>Use the Workout app for all kinds of exercise indoor and outdoor. Default workouts available in Apple watch are Walk, Running, Cycling, Elliptical, Rower, Stair Stepper, HIIT, Hiking, Yoga, Functional Strength Training, Dance, Cooldown, Core training, Swimming etc.
-
-Manually you can add workout out of your interest and needs.
-
-If you are using wheelchair manually, you can use wheelchair walk pace and outdoor wheelchair run pace options too.
-
-In each workout, speed and distance, elevation and other metrics according to the nature of workouts are shown on display while performing the particular workout.</p>
+            <p>Use the Workout app for all kinds of exercise indoor and outdoor. Default workouts available in Apple watch are Walk, Running, Cycling, Elliptical, Rower, Stair Stepper, HIIT, Hiking, Yoga, Functional Strength Training, Dance, Cooldown, Core training, Swimming etc. Manually you can add workout out of your interest and needs. If you are using wheelchair manually, you can use wheelchair walk pace and outdoor wheelchair run pace options too. In each workout, speed and distance, elevation and other metrics according to the nature of workouts are shown on display while performing the particular workout.</p>
         </div>
     </li>
 </ul>
@@ -238,7 +232,7 @@ In each workout, speed and distance, elevation and other metrics according to th
 
 <ul uk-accordion>
     <li class="uk-open">
-        <a class="uk-accordion-title" href="#">Item 1</a>
+        <a class="uk-accordion-title" href="#">How well the running activity is monitored on apple watch 6?</a>
         <div class="uk-accordion-content">
             <p>★★★★☆ | 🙂</p>
             <p>There is option for indoor runs such as treadmill run and outdoor run options to specify metrics based on that. Even though blood oxygen level is common fitness tool, it is very helpful to runners too specifically.</p>
@@ -321,9 +315,6 @@ In each workout, speed and distance, elevation and other metrics according to th
         </div>
     </li>
 </ul>
-
-<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
-<div class="commonninja_component" comp-type="comparison_table" comp-id="3daac1c8-76cc-4fc2-bd70-9527a967b40c"></div>
 
 **Cons**:
 
