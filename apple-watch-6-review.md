@@ -111,37 +111,43 @@ We can have a look at the smart features that is used very frequently on a daily
             <p>Stopwatch: Stopwatch App is available on Apple Watch 6. Tap the green button to start. To record a lap, Tab the white button. Tap the red button to stop. Use “Reset” option to reset the stopwatch.
             <p>Sunrise/sunset times: As Sunrise and Sunset times are specific based on your locations, You can set this in iPhone by going through Settings-> Privacy-> Location services. Then smart watch also displays the same while using phone information.</p>
         </div>
-    </li><li class="uk-open">
+    </li>
+    <li class="uk-open">
         <a class="uk-accordion-title" href="#"><b>How does finding watch/phone work in apple watch 6 series?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
             <p>Yes. Find My Phone feature is available in Apple watch series 6. If you have paired your iPhone with Apple watch, You can find your phone using Find My Phone feature. The same do for the watch also if the watch is lost.</p>
         </div>
-    </li><li class="uk-open">
+    </li>
+    <li class="uk-open">
         <a class="uk-accordion-title" href="#"><b>How good is audio calls/recording quality in apple watch 6 series?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
             <p>In-built LTE allows ton initiate calls from the watch and the call quality is top-notch. You can control the volume of the smartphone music through watch this watch. The touch response in the Breath app is so comfortable for handling incoming calls, alarms and reminders. If you have paired your wireless earphone through Bluetooth, you can attend calls easily in the outdoors. Without earphones, you can answer the calls by keeping your wrist near to mouth. Yes. Because, the microphone in the watch face allows you to answer the call directly. And also Speaker on the left side also sounds good to listen to the caller.</p>
         </div>
-    </li><li class="uk-open">
+    </li>
+    <li class="uk-open">
         <a class="uk-accordion-title" href="#"><b>How is the video call/recording quality of apple watch 6 series?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
             <p>If your iPhone is paired with watch, Then you can receive or make video calls to any devices. The video quality is up to the Wi-Fi connection.</p>
         </div>
-    </li><li class="uk-open">
+    </li>
+    <li class="uk-open">
         <a class="uk-accordion-title" href="#"><b>How easy is to access notifications in apple watch 6?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
             <p>It is very easy to access notifications. Just hold on the watch face, it will take you to the notification center. Swipe down to see all the notifications. To read a notification wholly, swipe left , you can see “more” button, tap it to read notification fully. Haptic function vibrates and sound you can easily hear.</p>
         </div>
-    </li><li class="uk-open">
+    </li>
+    <li class="uk-open">
         <a class="uk-accordion-title" href="#"><b>How easy to type and send messages and alerts in apple watch 6 series?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
             <p>In messaging, no other watches can beat the Apple Watch till now. Yes. Lot of options to reply and send messages. You can see the messages from notifications. Use digital crown to see the full message. To reply, You can send a phrase from a set of phrases which are saved earlier and customizable in Apple watch app in the paired iPhone. Otherwise, you can use audio option in two ways. If you want to send personalized message unlike standard phrases, use the audio button to tell your message and it will be automatically transcribed into the selected languages. You can set the languages in the settings. Punctuation mark can also be dictated. For example, You can speak like “Are you coming today question mark”, this text will be transcribed as follows “Are you coming today?” in the reply message. Otherwise, you can send as an audio clip too. Use the mike button and record your reply and send it directly.One more option is available there. That is “Scribble”. Using scribble option, you can write your own message using your finger on the watch face.Apart from these all, you can use stickers, emojis in your messages and replies. In the message app itself, you can send and receive money to your contacts. You can see a pay icon in the message app. Use that for transactions. But this feature is available only in US. </p>
         </div>
-    </li><li class="uk-open">
+    </li>
+    <li class="uk-open">
         <a class="uk-accordion-title" href="#"><b>How good is navigation feature in apple watch 6 series?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
