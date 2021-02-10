@@ -105,11 +105,7 @@ We can have a look at the smart features that is used very frequently on a daily
         <a class="uk-accordion-title" href="#"><b>How does clock function work in apple watch 6?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
-            <p>Time/date: Yes. You can hear the time by setting Clock -> Speak time on the watch. Just by holding two fingers on the display, you can hear the time. You can set the time manually on the watch face also.</p>
-            <p>GPS Time Sync: Yes. It is synchronized using GPS too. Automatically it takes time from the connected iPhone as per current zones. Automatic daylight saving time: Yes. It is available in Apple Watch 6. It adjusts the time according to the daylight. Alarm clock: Just tab “Add Alarm”, Set hours, minutes, AM/PM ( it doesn’t need if you use 24Hrs format), Rotate the digital crown to adjust and click on “set”. That’s it.</p>
-            <p>Timer: Access the timer by tabbing on “Timer” app. Touch on “Start” button to start it. There are two kinds – Zero to 12 Hrs timer, Zero to 24 Hrs timer. You switch into any of these by tabbing firmly on the display screen.</p>
-            <p>Stopwatch: Stopwatch App is available on Apple Watch 6. Tap the green button to start. To record a lap, Tab the white button. Tap the red button to stop. Use “Reset” option to reset the stopwatch.
-            <p>Sunrise/sunset times: As Sunrise and Sunset times are specific based on your locations, You can set this in iPhone by going through Settings -- Privacy --  Location services. Then smart watch also displays the same while using phone information.</p>
+            <p>XXXXXX</p>
         </div>
     </li>
     <li class="uk-open">
