@@ -63,14 +63,6 @@ We will look at the most important and essential features checked before going t
             <p>Our rating: ★★★★★ | 😎</p>
             <p>the Apple Watch Series 6 introduces Apple's brand new S6 SiP. Apple claims it has been completely redesigned to make the most of the space inside the watch and is up to 20 percent faster and more energy efficient compared to last year's S5 chip. The Series 6 also gets 5GHz Wi-Fi band support and Apple's U1 ultra-wideband positioning chip which enables tasks such as keyless entry and ignition in supported cars.</p>
         </div>
-    </li>
-    <li class="uk-open">
-        <a class="uk-accordion-title" href="#"><b>How is the hardware performance of Apple watch ?</b></a>
-        <div class="uk-accordion-content">
-            <p>Our rating: ★★★★★ | 😎</p>
-            <p>the Apple Watch Series 6 introduces Apple's brand new S6 SiP. Apple claims it has been completely redesigned to make the most of the space inside the watch and is up to 20 percent faster and more energy efficient compared to last year's S5 chip. The Series 6 also gets 5GHz Wi-Fi band support and Apple's U1 ultra-wideband positioning chip which enables tasks such as keyless entry and ignition in supported cars.</p>
-        </div>
-    </li>
     <li class="uk-open">
         <a class="uk-accordion-title" href="#"><b>How is the mobile OS compatibility of Apple watch ?</b></a>
         <div class="uk-accordion-content">
@@ -95,6 +87,8 @@ We will look at the most important and essential features checked before going t
 </ul>
 
 ###  Apple Watch Series 6 Review: Smart Features Used Daily
+{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="
+apple-watch-series-6-quick-feature-check" align="center" %}
 
 We can have a look at the smart features that is used very frequently on a daily basis in a smartwatch.
 
@@ -165,6 +159,8 @@ We can have a look at the smart features that is used very frequently on a daily
 </ul>
 
 ### Apple watch series 6 Review: Safety and Location Tracking Features
+{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="
+apple-watch-series-6-quick-feature-check" align="center" %}
 
 <ul uk-accordion>
     <li class="uk-open">
@@ -182,6 +178,8 @@ We can have a look at the smart features that is used very frequently on a daily
 </ul>
 
 ### Apple watch series 6 Review: General Body Activity Tracking Related Features
+{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="
+apple-watch-series-6-quick-feature-check" align="center" %}
 
 <ul uk-accordion>
     <li class="uk-open">
@@ -223,6 +221,8 @@ We can have a look at the smart features that is used very frequently on a daily
 </ul>
 
 ### Apple watch series 6 Review: Gym Equipment Usage and Gym Profile Features
+{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="
+apple-watch-series-6-quick-feature-check" align="center" %}
 
 <ul uk-accordion>
     <li class="uk-open">
@@ -234,6 +234,8 @@ We can have a look at the smart features that is used very frequently on a daily
 </ul>
 
 ### Apple watch series 6 Review: Training Plans and Post Training Analysis Related Features
+{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="
+apple-watch-series-6-quick-feature-check" align="center" %}
 
 <ul uk-accordion>
     <li class="uk-open">
@@ -274,6 +276,8 @@ We can have a look at the smart features that is used very frequently on a daily
 </ul>
 
 ### Apple watch series 6 Review: Sports Activity: Running Related Features
+{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="
+apple-watch-series-6-quick-feature-check" align="center" %}
 
 <ul uk-accordion>
     <li class="uk-open">
@@ -286,6 +290,8 @@ We can have a look at the smart features that is used very frequently on a daily
 </ul>
 
 ### Apple watch series 6 Review: Sports Activity: Cycling Related Features
+{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="
+apple-watch-series-6-quick-feature-check" align="center" %}
 
 <ul uk-accordion>
     <li class="uk-open">
@@ -298,6 +304,8 @@ We can have a look at the smart features that is used very frequently on a daily
 </ul>
 
 ### Apple watch series 6 Review: Sports Activity: Swimming Related Features
+{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="
+apple-watch-series-6-quick-feature-check" align="center" %}
 
 <ul uk-accordion>
     <li class="uk-open">
@@ -310,6 +318,8 @@ We can have a look at the smart features that is used very frequently on a daily
 </ul>
 
 ### Apple watch series 6 Review: Outdoor Recreation Activity Related Features
+{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="
+apple-watch-series-6-quick-feature-check" align="center" %}
 
 <ul uk-accordion>
     <li class="uk-open">
@@ -320,10 +330,6 @@ We can have a look at the smart features that is used very frequently on a daily
         </div>
     </li>
 </ul>
-
-**Cons**:
-
-Pricey. Works seamlessly only with iPhone smartphones.
 
 ## How does it work?
 Apple Watch Series 6 comes from the well-known brand of Apple loaded with sensible features for women.
