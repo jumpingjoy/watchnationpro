@@ -159,8 +159,11 @@ We can have a look at the smart features that is used very frequently on a daily
 </ul>
 
 ### Apple watch series 6 Review: Safety and Location Tracking Features
+
 {% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="
 apple-watch-series-6-quick-feature-check" align="center" %}
+
+We can have a look at the safety, emergency tracking features in Apple Watch Series 6.
 
 <ul uk-accordion>
     <li class="uk-open">
