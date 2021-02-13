@@ -22,7 +22,7 @@ We will look at the most important and essential features checked before going t
 <ul uk-accordion>
     <li class="uk-open">
         <a class="uk-accordion-title" href="#"><b>How is the price point of Apple watch series 6 series?</b></a>
-        <div class="uk-accordion-content">
+        <div class="uk-accordion-content" uk-tooltip="title: Hello World">
             <p>Our rating: ★★★★☆ | 🙂</p>
             <p>Eventhough it is highly priced between $749.00 to $1,499.00 based on the features and its accuracy is worth for the high price of the smartwatch. Read on the full review to know in detail.</p>
         </div>
