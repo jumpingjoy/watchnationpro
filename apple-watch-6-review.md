@@ -122,7 +122,7 @@ We can have a look at the smart features that is used very frequently on a daily
         </div>
     </li>
     <li class="uk-open">
-        <a class="uk-accordion-title" href="#"><b>How is the video call/recording quality of Apple watch series 6 series?</b></a>
+        <a class="uk-accordion-title" href="#"><b>How is the video call or video recording quality of Apple watch series 6 series?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
             <p>If your iPhone is paired with watch, Then you can receive or make video calls to any devices. The video quality is up to the Wi-Fi connection.</p>
