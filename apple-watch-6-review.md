@@ -45,7 +45,7 @@ We will look at the most important and essential features checked before going t
         <a class="uk-accordion-title" href="#"><b>How comfortable it is to wear and use Apple watch series 6 series?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
-            <p>Weight:The weight of watch is moderately 47.1g which is okay to wear all the time.</p>
+            <p>Weight The weight of watch is moderately 47.1g which is okay to wear all the time.</p>
         </div>
     </li>
     <li class="uk-open">
@@ -67,7 +67,7 @@ We will look at the most important and essential features checked before going t
         <a class="uk-accordion-title" href="#"><b>How is the mobile OS compatibility of Apple watch ?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★☆☆ | 😐</p>
-            <p>4G connection from eSIM or Wi-Fi is very reliable. LTE performance is too good experimentally.Bluetooth earphones can be paired when being outdoors for attending and initiating calls and listening to music. To sync and pair Apple watch with iPhone, use Apple watch app which can be downloaded from the App store app on iPhone. By pairing watch with iPhone through this app, user can customize watch faces, notifications and alerts, more apps’ on watch data in iPhone also.</p>
+            <p>4G connection from eSIM or Wi-Fi is very reliable. LTE performance is too good experimentally. Bluetooth earphones can be paired when being outdoors for attending and initiating calls and listening to music. To sync and pair Apple watch with iPhone, use Apple watch app which can be downloaded from the App store app on iPhone. By pairing watch with iPhone through this app, user can customize watch faces, notifications and alerts, more apps’ on watch data in iPhone also.</p>
         </div>
     </li>
     <li class="uk-open">
@@ -81,12 +81,14 @@ We will look at the most important and essential features checked before going t
         <a class="uk-accordion-title" href="#"><b>How is the battery life of Apple watch series 6 work?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
-            <p>Always-on display enabled: Close to two full days on one charge. Always-ON display disabled: around one full day. These times are still way better than Apple's claims. When using only LTE:Charge lasted about a day and 15 hours, which is quite impressive. When using all the scenarios: charge lasted about four and half hours.</p>
+            <p>Always-on display enabled: Close to two full days on one charge. Always-ON display disabled: around one full day. These times are still way better than Apple's claims. When using only LTE Charge lasted about a day and 15 hours, which is quite impressive. When using all the scenarios: charge lasted about four and half hours.</p>
         </div>
     </li>
 </ul>
 
+
 ###  Apple Watch Series 6 Review: Smart Features Used Daily
+
 {% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="
 apple-watch-series-6-quick-feature-check" align="center" %}
 
@@ -179,6 +181,7 @@ We can have a look at the safety, emergency tracking features in Apple Watch Ser
         </div>
     </li>
 </ul>
+
 
 ### Apple watch series 6 Review: General Body Activity Tracking Related Features
 {% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="
