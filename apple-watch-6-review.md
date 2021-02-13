@@ -45,7 +45,7 @@ We will look at the most important and essential features checked before going t
         <a class="uk-accordion-title" href="#"><b>How comfortable it is to wear and use Apple watch series 6 series?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
-            <p><b>Weight:<b/> The weight of watch is moderately 47.1g which is okay to wear all the time.</p>
+            <p>Weight:The weight of watch is moderately 47.1g which is okay to wear all the time.</p>
         </div>
     </li>
     <li class="uk-open">
