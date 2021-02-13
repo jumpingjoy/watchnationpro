@@ -3,8 +3,7 @@ title: Apple Watch Series 6 Review 6 vs SE vs 3
 description:  While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
 sidebar: right
 ---
-{% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="
-Apple Watch Series 6 Review" align="center" %}
+{% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
 
 While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
 
@@ -14,24 +13,36 @@ And it's no surprise why, as you will soon learn.
 
 ### Apple Watch Series 6 Review: Quick and Important Factors Checked
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="
-apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 We will look at the most important and essential features checked before going to other feature details:
 
+#### How is the price point of Apple watch series 6 series?
+
+Our rating: ★★★★☆ | 🙂
+
+Eventhough it is highly priced between $749.00 to $1,499.00 based on the features and its accuracy is worth for the high price of the smartwatch. Read on the full review to know in detail.
+
+#### How is the screen clarity of Apple watch series 6 series?
+
+Our rating: ★★★★★ | 😎
+
+The OLED display on the Apple Watch Series 6 is one of the best you'll come across on a smartwatch. It measures about 1.73 inches diagonally and has a resolution of 368x448 pixels on the 44mm case models. Apple also uses a sapphire crystal glass cover on the stainless steel variants, and the brightness of the always-on display is now 500nits, compared to 200nits on the Series 5.
+
+
 <ul uk-accordion>
     <li class="uk-open">
-        <a class="uk-accordion-title" href="#"><b>How is the price point of Apple watch series 6 series?</b></a>
+        <a class="uk-accordion-title" href="#"><b></b></a>
         <div class="uk-accordion-content">
-            <p>Our rating: ★★★★☆ | 🙂</p>
-            <p>Eventhough it is highly priced between $749.00 to $1,499.00 based on the features and its accuracy is worth for the high price of the smartwatch. Read on the full review to know in detail.</p>
+            <p></p>
+            <p></p>
         </div>
     </li>
     <li class="uk-open">
-        <a class="uk-accordion-title" href="#"><b>How is the screen clarity of Apple watch series 6 series?</b></a>
+        <a class="uk-accordion-title" href="#"><b></b></a>
         <div class="uk-accordion-content">
-            <p>Our rating: ★★★★★ | 😎</p>
-            <p>The OLED display on the Apple Watch Series 6 is one of the best you'll come across on a smartwatch. It measures about 1.73 inches diagonally and has a resolution of 368x448 pixels on the 44mm case models. Apple also uses a sapphire crystal glass cover on the stainless steel variants, and the brightness of the always-on display is now 500nits, compared to 200nits on the Series 5. </p>
+            <p></p>
+            <p></p>
         </div>
     </li>
     <li class="uk-open">
@@ -74,7 +85,7 @@ We will look at the most important and essential features checked before going t
         <a class="uk-accordion-title" href="#"><b>How effectively is the connectivity of Apple watch series 6 work?</b></a>
         <div class="uk-accordion-content">
             <p>Our rating: ★★★★★ | 😎</p>
-            <p>4G connection from eSIM or Wi-Fi is very reliable. LTE performance is too good experimentally. Bluetooth earphones can be paired when being outdoors for attending and initiating calls and listening to music. To sync and pair Apple watch with iPhone, use Apple watch app which can be downloaded from the App store app on iPhone. By pairing watch with iPhone through this app, user can customize watch faces, notifications and alerts, more apps’ on watch data in iPhone also.</p>
+            <p>4G connection from eSIM or WiFi is very reliable. LTE performance is too good experimentally. Bluetooth earphones can be paired when being outdoors for attending and initiating calls and listening to music. To sync and pair Apple watch with iPhone, use Apple watch app which can be downloaded from the App store app on iPhone. By pairing watch with iPhone through this app, user can customize watch faces, notifications and alerts, more apps’ on watch data in iPhone also.</p>
         </div>
     </li>
     <li class="uk-open">
@@ -89,8 +100,7 @@ We will look at the most important and essential features checked before going t
 
 ###  Apple Watch Series 6 Review: Smart Features Used Daily
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="
-apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 We can have a look at the smart features that is used very frequently on a daily basis in a smartwatch.
 
@@ -184,6 +194,7 @@ We can have a look at the safety, emergency tracking features in Apple Watch Ser
 
 
 ### Apple watch series 6 Review: General Body Activity Tracking Related Features
+
 {% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="
 apple-watch-series-6-quick-feature-check" align="center" %}
 
