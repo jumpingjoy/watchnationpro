@@ -88,7 +88,7 @@ More on this later.
        </div>
      </td>
      <td class = "content-right r-bor">
-       <button class="uk-button uk-button-primary" href="">>> CLICK FOR BEST PRICE <<</button>
+       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
      </td>
    </tr>
    <tr>
