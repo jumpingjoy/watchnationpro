@@ -2,6 +2,7 @@
 title: How to Use Smartwatches to Improve Ladies Fitness
 description:  We tested out various Fitness related smartwatch apps available. Find out the FREE...
 sidebar: right
+permalink: /smartwatch-benefits-for-women/fitness-improvements/
 ---
 {% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="
 Apple Watch Series 6 Review" align="center" %}

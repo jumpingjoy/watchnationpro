@@ -20,15 +20,15 @@ center:
       - title: Fossil Sport Review
         url: /fossil-sport-review/
 
-  - title: Benefits for Women
-    url: /smartwatch-for-women-benefits/
+  - title: Smartwatch Benefits for Women
+    url: /smartwatch-benefits-for-women/
     dropdown:
       - title: Menstrual Hygiene
-        url: /smartwatch-for-women-benefits/menstrual-hygiene/
+        url: /smartwatch-benefits-for-women/menstrual-hygiene/
       - title: Fitness Improvements
-        url: /women-fitness-improvements/
+        url: /smartwatch-benefits-for-women/fitness-improvements/
       - title: Safety Improvements
-        url: /women-safety-improvements/
+        url: /smartwatch-benefits-for-women/safety-improvements/
 
   - title: Where To Buy
     url: /where-to-buy/

@@ -2,6 +2,7 @@
 title: How to Use Smartwatches to Improve Safety
 description:  We tested out various safety related smartwatch apps available. Find out the FREE...
 sidebar: right
+permalink: /smartwatch-benefits-for-women/safety-improvements/
 ---
 {% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="
 Apple Watch Series 6 Review" align="center" %}
