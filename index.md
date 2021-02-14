@@ -180,10 +180,6 @@ More on this later.
  </table>
  </div>
 
-
-<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
-<div class="commonninja_component" comp-type="comparison_table" comp-id="e557f962-6598-41b2-a3b9-364388e513a8"></div>
-
 -------------------------------------------------------------------------------------------------------------------------------
 
 ### No.1 Apple Watch Series 6

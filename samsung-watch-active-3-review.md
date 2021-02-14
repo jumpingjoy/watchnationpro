@@ -92,11 +92,6 @@ And its no surprise why, as you’ll soon learn.
 	</table>
 	</div>
 
-
-
-<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
-<div class="commonninja_component" comp-type="comparison_table" comp-id="3daac1c8-76cc-4fc2-bd70-9527a967b40c"></div>
-
 **Cons**:
 
 Pricey. Works seemlessly only with iPhone smartphones.
