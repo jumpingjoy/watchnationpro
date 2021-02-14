@@ -19,14 +19,14 @@ And its no surprise why, as you’ll soon learn.
 				some title
 			</th>
 		</tr>
-	  <colgroup> 
+	  <colgroup>
 	  <col span="1" style="width: 40%;">
 	  <col span="1" style="width: 60%;">
-	  </colgroup> 
+	  </colgroup>
 		<tbody>
 		<tr>
 			<td class = "left">
-				some title 
+				some title
 			</td>
 			<td class = "right r-bor">
 				some title
@@ -34,35 +34,10 @@ And its no surprise why, as you’ll soon learn.
 		</tr>
 		<tr>
 			<td class = "row2">
-			 
+      Ok
 			</td>
 			<td class = "row2 r-bor">
 			some title
-			</td>
-		</tr>
-		<tr>
-			<td class = "content-left">
-				<div align = "right">
-					<p class = "tip tooltip">
-						?
-						<span class = "tooltiptext">
-							put you tip here
-						</span>
-					</p>
-				</div>
-			</td>
-			<td class = "content-right r-bor">
-				Rating Reference: <br/>
-				Our rating:<br/>
-				&#9733;&#9733;&#9733;&#9733;&#9733; &#124; &#128526;
-				</br>
-				&#9733;&#9733;&#9733;&#9733;&#9734; &#124; &#128578;
-				</br>
-				&#9733;&#9733;&#9733;&#9734;&#9734; &#124; &#128528
-				</br>
-				&#9733;&#9733;&#9734;&#9734;&#9734; &#124; &#128543;
-				</br>
-				&#9733;&#9734;&#9734;&#9734;&#9734; &#124; &#128557;
 			</td>
 		</tr>
 		<tr>
