@@ -12,6 +12,113 @@ And its no surprise why, as you’ll soon learn.
 
 ## What are Key Features of Apple Watch Series 6 and its Performance?
 
+ <div class = "scroll">
+	<table>
+		<tr>
+			<th colspan = "2" class = "top">
+				some title
+			</th>
+		</tr>
+	  <colgroup> 
+	  <col span="1" style="width: 40%;">
+	  <col span="1" style="width: 60%;">
+	  </colgroup> 
+		<tbody>
+		<tr>
+			<td class = "left">
+				some title 
+			</td>
+			<td class = "right r-bor">
+				some title
+			</td>
+		</tr>
+		<tr>
+			<td class = "row2">
+			 
+			</td>
+			<td class = "row2 r-bor">
+			some title
+			</td>
+		</tr>
+		<tr>
+			<td class = "content-left">
+				<div align = "right">
+					<p class = "tip tooltip">
+						?
+						<span class = "tooltiptext">
+							put you tip here
+						</span>
+					</p>
+				</div>
+			</td>
+			<td class = "content-right r-bor">
+				Rating Reference: <br/>
+				Our rating:<br/>
+				&#9733;&#9733;&#9733;&#9733;&#9733; &#124; &#128526;
+				</br>
+				&#9733;&#9733;&#9733;&#9733;&#9734; &#124; &#128578;
+				</br>
+				&#9733;&#9733;&#9733;&#9734;&#9734; &#124; &#128528
+				</br>
+				&#9733;&#9733;&#9734;&#9734;&#9734; &#124; &#128543;
+				</br>
+				&#9733;&#9734;&#9734;&#9734;&#9734; &#124; &#128557;
+			</td>
+		</tr>
+		<tr>
+			<td class = "content-left">
+				left colum
+				<div align = "right">
+					<p class = "tip tooltip">
+						?
+						<span class = "tooltiptext">
+							put you tip here
+						</span>
+					</p>
+				</div>
+			</td>
+			<td class = "content-right r-bor">
+				right colum
+			</td>
+		</tr>
+		<tr>
+			<td class = "content-left">
+				left colum
+				<div align = "right">
+					<p class = "tip tooltip">
+						?
+						<span class = "tooltiptext">
+							put you tip here
+						</span>
+					</p>
+				</div>
+			</td>
+			<td class = "content-right r-bor">
+				right colum
+			</td>
+		</tr>
+		<tr>
+			<td class = "content-left">
+				left colum
+				<div align = "right">
+					<p class = "tip tooltip">
+						?
+						<span class = "tooltiptext">
+							put you tip here
+						</span>
+					</p>
+				</div>
+			</td>
+			<td class = "content-right r-bor">
+				right colum
+			</td>
+		</tr>
+		</tbody>
+	</table>
+	</div>
+
+
+
 <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
 <div class="commonninja_component" comp-type="comparison_table" comp-id="3daac1c8-76cc-4fc2-bd70-9527a967b40c"></div>
 

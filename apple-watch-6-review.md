@@ -97,7 +97,7 @@ The Apple Watch Series 6 introduces Apple's brand new S6 SiP. Apple claims it ha
 
 Our rating: ★★★☆☆ | 😐
 
-4G connection from eSIM or WiFi is very reliable. LTE performance is too good experimentally. Bluetooth earphones can be paired when being outdoors for attending and initiating calls and listening to music. To sync and pair Apple Watch with iPhone, use the Apple Watch app, downloaded from the App Store app on iPhone. By pairing the watch with iPhone through this app, users can customize watch faces, notifications, and alerts, more apps on watch data in iPhone.
+Apple watch series 6 is compatible with iPhone 6s or later versions and with iOS 14 or later versions.
 
 #### How effectively is the connectivity of Apple watch series 6 work?
 
@@ -138,7 +138,9 @@ Apart from this watch face, I would like to mention some more watch faces you ca
 Time/date: Yes. You can hear the time by setting Clock -> Speak time on the watch. Just by holding two fingers on the display, you can hear the time. You can set the time manually on the watch face also.
 
 GPS Time Sync: Yes. It is synchronized using GPS too. Automatically it takes time from the connected iPhone as per current zones.
+
 Automatic daylight saving time: Yes. It is available in Apple Watch 6. It adjusts the time according to the daylight.
+
 Alarm clock: Just tab "Add Alarm," Set hours, minutes, AM/PM ( it doesn't need if you use 24Hrs format), Rotate the digital crown to adjust, and click on "set." That's it.
 
 Timer: Access the timer by tabbing on the "Timer" app. Touch on the "Start" button to start it. There are two kinds – Zero to 12 Hrs timer, Zero to 24 Hrs timer. You switch into any of these by tabbing firmly on the display screen.
