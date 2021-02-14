@@ -2,7 +2,7 @@
 title: Track Menstrual Cycle to Maintain Hygiene
 description:  There is a limited choice of good menstrual trackers in the market. Find out the FREE...
 sidebar: right
-permalink: /smartwatch-for-women-benefits/:title
+permalink: /smartwatch-for-women-benefits/menstrual-hygiene/
 ---
 {% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
 
