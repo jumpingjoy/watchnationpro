@@ -54,6 +54,80 @@ More on this later.
 ## Top Smartwatches: Our Reviews for the Best Smartwatches for Women 2021
 ​If you are looking for a quick list of the top-rated smart watches and best women's smartwatches reviews, check out our top five reviews to buy the one that suits you today.
 
+<div class = "scroll">
+ <table>
+   <tr>
+     <th colspan = "2" class = "top">
+       Best Smartwatches for Women
+     </th>
+   </tr>
+   <colgroup>
+   <col span="1" style="width: 40%;">
+   <col span="1" style="width: 60%;">
+   </colgroup>
+   <tbody>
+   <tr>
+     <td class = "left">
+       Product
+     </td>
+     <td class = "right r-bor">
+       What is the price
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+       # 1 Apple Watch Series 6
+       Best Overall Performance
+       <div align = "right">
+         <p class = "tip tooltip">
+           ?
+           <span class = "tooltiptext">
+             put you tip here
+           </span>
+         </p>
+       </div>
+     </td>
+     <td class = "content-right r-bor">
+       <button class="uk-button uk-button-primary" href="">>> CLICK FOR BEST PRICE <<</button>
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+       left colum
+       <div align = "right">
+         <p class = "tip tooltip">
+           ?
+           <span class = "tooltiptext">
+             put you tip here
+           </span>
+         </p>
+       </div>
+     </td>
+     <td class = "content-right r-bor">
+       right colum
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+       left colum
+       <div align = "right">
+         <p class = "tip tooltip">
+           ?
+           <span class = "tooltiptext">
+             put you tip here
+           </span>
+         </p>
+       </div>
+     </td>
+     <td class = "content-right r-bor">
+       right colum
+     </td>
+   </tr>
+   </tbody>
+ </table>
+ </div>
+
+
 <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
 <div class="commonninja_component" comp-type="comparison_table" comp-id="e557f962-6598-41b2-a3b9-364388e513a8"></div>
 
