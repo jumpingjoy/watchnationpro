@@ -12,20 +12,20 @@ Apple Watch Series 6 Review" align="center" %}
 <a href="https://www.healthline.com/health/obesity-facts#6.-Obesity-causes-more-deaths-than-being-underweight." target="_blank">High calorie and obesity</a> is can lead to medical complications and its increasing year on year.
 
 * Americans are eating 23% percent more calories than what they did in 1970.
-* More than one-third of adults in US are obese.
+* More than one-third of adults present in the US are obese.
 * 60 chronic diseases are linked to obesity.
 * Older women tend to more obese than older men.
-* A persons waist size increases their risk for having diabetes.
+* A person's waist size increases their risk of having diabetes.
 * People who are obese tend to spend $1500 more every year than people who have normal weight.
-* Obesity is known to have cause more deaths than being underweight.
+* Obesity is known to have caused more deaths than being underweight.
 
 ## Dangers and Facts about Heart Disease
 
 <a href="https://www.rainn.org/statistics/victims-sexual-violence" target="_blank">Heart disease</a>is the leading cause of death for women, men, and counts of most racial and ethnic groups in the US.
 
-* In the US, a person dies every 36 seconds in US because of cardiovascular disease.
+* In the US, a person dies every 36 seconds in the US because of cardiovascular disease.
 * Each year, about 655,000 Americans die from heart disease. That’s one person in every four deaths die because of heart disease.
-* Heart disease costs the US about $219 billion each year from 2014 to 2015.  This adds the cost of health care services, medicines, and lost productivity due to death.
+* Heart disease costs the US about $219 billion each year from 2014 to 2015.  This adds to the cost of health care services, medicines, and lost productivity due to death.
 
 ### Case Study: Heather Hendershot, 27, Pomona, Kansas
 IIn 26, Heather Hendershot didn't think she had to worry about her wellbeing. She was youthful, athletic, and had no previous medical problems.

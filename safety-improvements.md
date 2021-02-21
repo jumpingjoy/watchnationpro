@@ -1,6 +1,6 @@
 ---
 title: How to Use Smartwatches to Improve Safety
-description:  We tested out various safety related smartwatch apps available. Find out the FREE...
+description:  We tested out various safety-related smartwatch apps available. Find out the FREE...
 sidebar: right
 permalink: /smartwatch-benefits-for-women/safety-improvements/
 ---
@@ -17,11 +17,11 @@ Apple Watch Series 6 Review" align="center" %}
 * Falls are the common cause of traumatic brain injuries (TBI).
 * More than 800,000 patients a year are hospitalized due to a fall injury, most frequently because of a hip fracture or head injury.
 * Each year, 3 million older people are treated in emergency departments for fall accidents.
-* Every year at least 300,000 older people are hospitalized for hip fractures.
+* Every year, at least 300,000 older people are hospitalized for hip fractures.
 * In 2015, the total medical costs for falls totaled more than $50 billion.
 
-### Case Study: How Apple Watch Saved life
-Have a look at the following video on how apple watch saved life during emergency situation
+### Case Study: How Apple Watch Saved the life
+Have a look at the following video on how the apple watch saved life during an emergency.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jvmqqh1xIs4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -30,12 +30,12 @@ Have a look at the following video on how apple watch saved life during emergenc
 * 15% of women in the United States have experienced stalking. (CDC, 2014)
 * More than 50% of female stalking survivors were first stalked before they were 25 years old. (CDC, 2010)
 * Strangers are reported as the perpetrator of stalking in less than 25% of stalking cases. (CDC, 2014)
-* 88% of female stalking survivors reported that the person stalking them was male. (CDC, 2014)
+* 88% of female stalking survivors said that the person stalking them was male. (CDC, 2014)
 
 <a href="https://www.rainn.org/statistics/victims-sexual-violence" target="_blank">Sexual violence</a> is yet another problems women face in terms of safety.
 
-* On average, there are 433,648 victims (age 12 or older) of rape and sexual assault each year in the United States.
-* 1 out of every 6 american women has been the victim of an attempted or completed rape in her lifetime (14.8% completed, 2.8% attempted)
+* On an average, there are 433,648 victims of rape and sexual assault (age 12 or older) each year in the United States.
+* One out of every six American women is the victim of an attempted or completed rape in her lifetime (14.8% completed, 2.8% attempted)
 
 ## Safety Features in Apple Watch
 
@@ -66,7 +66,7 @@ You can follow the <a href="https://support.apple.com/en-us/HT206983" target="_b
 
 ## What Precautions or Tips Women Must Take When Having Safety Issues?
 
-Whether you have a drop sensor or not, you'll find things you can do in order to stop falling in and outside of the home.
+Whether you have a drop sensor or not, you'll find things you can do to stop falling in and outside of the home.
 
 ### Ways to prevent drops in your home
 
@@ -76,20 +76,20 @@ Whether you have a drop sensor or not, you'll find things you can do in order to
 * Insert motion-activated night lighting to halls and stairways.
 * Maintain traffic paths without any clutter.
 * Ensure handrails are safe.
-* Wear shoes, slipper, or socks with nonslip grips at the floor.
+* Wear shoes, slippers, or socks with nonslip grips on the floor.
 * Keep on landscaping as well as other external care such as fallen leaves and snow removal.
 
 ### Ways to prevent falls Outside Your Home
 * Wear sturdy shoes with good grip that match nicely.
 * Take your own time. You are more likely to trip or stumble if you are in a rush.
-* Be conscious of your environment. Avoid walking and speaking on the telephone at precisely the exact same time, and be aware of cracks in sidewalks and other irregular surfaces.
+* Be conscious of your environment. Avoid walking and speaking on the telephone simultaneously and be aware of cracks in sidewalks and other irregular surfaces.
 * Take good care of curbs. Stop for a second and be certain you've got a fantastic feeling of a suppress's height before stepping down or up.
-* Use handrails, a cane, or other mobility service to maintain your motion stable and steady.
-* Leave your porch light to be certain that you get into the door securely once you get home.
+* Use handrails, a cane, or another mobility service to maintain your motion stable and steady.
+* Leave your porch light to be sure that you get into the door securely once you get home.
 
 ## Final Thoughts
 
-Ensuring safety is also a critical factor that makes the life of a women better. Smartwatch can make it better to have <a href= "https://www.watchnationpro.com/smartwatch-for-women-benefits/">benefit for women</a> that can be got by using smartwatches.
+Ensuring safety is also a critical factor that makes the life of women better. Smartwatch can make it better to have <a href= "https://www.watchnationpro.com/smartwatch-for-women-benefits/">benefit for women</a> that can be got by using smartwatches.
 
 ### Post Author
 #### Sarah Hollen

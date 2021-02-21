@@ -43,17 +43,17 @@ We would say the overall build quality is excellent.
 
 Our rating: ★★★★★ | 😎
 
-**Weight:** The watch's weight is moderately designed at 47.1g, which is customary to wear all the time.
+** Weight:** The watch's Weight is moderately designed at 47.1g, which is customary to wear all the time.
 
 #### How stylish Apple watch series 6 series looks? Can the looks be customized??
 
 Our rating: ★★★★★ | 😎
 
-Display customization: Allow you to customize your screens to show battery status, notification, time, date, and more. Apple watch series 6 comes with a variety of watch faces. You can customized too. The watch face displays time, metrics of different activities, and other details on the home screen. For example, the Activity analog watch face shows the Activity progress and analog watch in the display.
+Display customization: Allow you to customize your screens to show battery status, notification, time, date, and more. Apple watch series 6 comes with a variety of watch faces. You can customize too. The watch face displays time, metrics of different activities, and other details on the home screen. For example, the Activity analog watch face shows the Activity progress and analog watch in the display.
 
 Apart from this watch face, I would like to mention some more watch faces you can try.  
 
-The following watch faces are available like:
+The following watch faces are available:
 
 * Activity digital
 * Artist
@@ -131,7 +131,7 @@ Crown lets you zoom-in and zoom-out. You can scroll manually by dragging a finge
 
 Our rating: ★★★★★ | 😎
 
-Apple watch series 6 comes with a variety of watch faces. Each watch faces can be customized too. The watch face displays time, metrics of different activities, and other details on the home screen.
+Apple watch series 6 comes with a variety of watch faces. Each watch's faces can be customized too. The watch face displays time, metrics of different activities, and other details on the home screen.
 For example, the Activity analog watch face shows the Activity progress and the analog watch in the display.
 Apart from this watch face, I would like to mention some more watch faces you can try.
 
@@ -146,7 +146,7 @@ Alarm clock: Just tab "Add Alarm," Set hours, minutes, AM/PM ( it doesn't need i
 Timer: Access the timer by tabbing on the "Timer" app. Touch on the "Start" button to start it. There are two kinds – Zero to 12 Hrs timer, Zero to 24 Hrs timer. You switch into any of these by tabbing firmly on the display screen.
 
 Stopwatch: Stopwatch App is available on Apple Watch 6. Tap the green button to start. To record a lap, Tab the white button. Tap the red button to stop. Use the "Reset" option to reset the stopwatch.
-Sunrise/sunset times: As Sunrise and Sunset times are specifically based on your locations, You can set this in iPhone by going through Settings-> Privacy-> Location services. Then smart watch also displays the same while using phone information.
+Sunrise/sunset times: As Sunrise and Sunset times are specifically based on your locations, You can set this in iPhone by going through Settings-> Privacy-> Location services. Then smartwatch also displays the same while using phone information.
 
 #### How does finding watch/phone work in Apple watch series 6 series?
 
@@ -170,7 +170,7 @@ How easy is it to access notifications in the Apple watch series 6?
 
 Our rating: ★★★★★ | 😎
 
-It is very easy to access notifications. Press and hold on the watch face; it will take you to the notification center. Swipe down to see all the notifications. You can read a notification wholly by swiping left. You can see the "more" button. Tap it to read the notification thoroughly. Haptic function vibrates and sounds you can easily hear.
+It is very easy to access notifications. Press and hold on the watch face; it will take you to the notification center. Swipe down to see all the notifications. You can read a notification wholly by swiping left. You can see the "more" button. Tap it to read the notification thoroughly. Haptic function vibrates, and sounds you can easily hear.
 
 #### How easy to type and send messages and alerts in Apple watch series 6 series?
 
@@ -180,7 +180,7 @@ In messaging, no other watches can beat the Apple Watch till now. Yes. Lot of op
 
 For example, You can speak like "Are you coming today question mark," this text will be transcribed as follows "Are you coming today?" in the reply message. Otherwise, you can send it as an audio clip too.
 
-Use the mike button and record your reply and send it directly. One more option is available there. That is "Scribble." Using the scribble option, you can write your message using your finger on the watch face. Apart from these all, you can use stickers, emojis in your messages and replies.
+Use the mike button and record your reply and send it directly. One more option is available there. That is "Scribble." Using the scribble option, you can write your message using your finger on the watch's face. Apart from these all, you can use stickers, emojis in your messages and replies.
 
 #### How good is the navigation feature in the Apple Watch Series 6 series?
 
@@ -224,9 +224,9 @@ By turning on periods prediction, fertility prediction in your iPhone's health a
 
 #### How good is Heart rate tracking in Apple watch series 6?
 
-Using the Heart rate app, you can measure your heart rate at any time. You can get to know resting, workout, breathe, walking, and recovery rates throughout the day in the app. However, turn on heart rate notifications, so if your heart's beats per minute (BPM) is below or above the normal count, a push notification will be given to alert you.
+Using the Heart rate app, you can measure your heart rate at any time. You can get to know resting, workout, breathe, walking, and recovery rates throughout the day in the app. However, turn on heart rate notifications, so if your heart's beats per minute (BPM) are below or above the normal count, a push notification will be given to alert you.
 
-#### How well body stress is monitored in Apple watch series 6?
+#### How well is body stress monitored in Apple watch series 6?
 
 Stress monitoring features detect whether the person wearing this watch is going through any stress or a panic attack. If so, it will suggest some breathing exercises and other guidance according to the stress level monitored.
 
@@ -234,11 +234,11 @@ Stress monitoring features detect whether the person wearing this watch is going
 
 Blood oxygen monitoring is a new feature for Apple. It has been introduced in Apple Watch Series 6 for the first time. An optical heart sensor has been redesigned to measure blood oxygen also. However, the blood oxygen level calculated can't be used for medical use but fitness and wellness purposes. This oxygen level can be tracked in Blood Oxygen App. Check this app after updating your iPhone's later version of iOS and also Apple watch series 6 to the later version of watchOS. To measure blood oxygen level, open the blood oxygen app in your watch and tap on the start button. Keep your wrist steady and watch your face upwards. It takes 15 seconds to calculate blood oxygen level. It will show results after 15 seconds.
 
-#### How well sleep is monitored in Apple watch series 6?
+#### How well is sleep monitored in Apple watch series 6?
 
-The sleep app is connected with Clock, which has settings of bed time (customizable). This feature monitors your sleep if you wear it during sleep. The app shows results such as average sleep time, bedtime.  You can see a bar graph that shows the analysis of your sleep for a week or month. Light green marks in the graph show bedtimes, and Dark green marks indicate sleep times. However, it does not provide any other info such as sleep stages such as light sleep, REM sleep, Deep sleep, time taken for each stage, etc. In this case, the Apple watch has to improve much in sleep tracking.
+The sleep app is connected with Clock, which has settings of bedtime (customizable). This feature monitors your sleep if you wear it during sleep. The app shows results such as average sleep time, bedtime.  You can see a bar graph that shows the analysis of your sleep for a week or month. Light green marks in the graph show bedtimes, and Dark green marks indicate sleep times. However, it does not provide any other info such as sleep stages such as light sleep, REM sleep, Deep sleep, time taken for each stage, etc. In this case, the Apple watch has to improve much in sleep tracking.
 
-#### How well the steps are counted in the Apple watch series 6?
+#### How well are the steps counted in the Apple watch series 6?
 
 The activity app counts the steps. You can access this feature easily through the rolling digital crown. It will take you to the activity app. By scrolling down using the same digital crown, you can see the step count.
 
@@ -246,7 +246,7 @@ The activity app counts the steps. You can access this feature easily through th
 
 {% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
-#### How well gym activities are tracked in Apple watch series 6?
+#### How well are gym activities tracked in Apple watch series 6?
 
 Use the Workout app for all kinds of exercise, indoor and outdoor. Default workouts available in Apple watch are Walk, Running, Cycling, Elliptical, Rower, Stair Stepper, HIIT, Hiking, Yoga, Functional Strength Training, Dance, Cooldown, Core training, Swimming, etc. Manually you can add workouts out of your interest and needs. If you are using a wheelchair manually, you can use wheelchair walk pace and outdoor wheelchair run pace options. In each workout, speed and distance, elevation, and other metrics according to the workouts' nature are shown on the display while performing the particular workout.
 
@@ -319,7 +319,7 @@ Our rating: ★★★★☆ | 🙂
 Features such as Barometer, Altimeter, Emergency charging, Daylight tracking, Rugged Strap, Weather, Compass, Follow routes are very helpful in outdoor activities such as hiking, mountaineering, biking to deal with environmental issues.
 
 ## How does it work?
-Apple Watch Series 6 comes from the well-known brand of Apple loaded with sensible features for women.
+Apple Watch Series 6 comes from the well-known brand Apple, loaded with sensible features for women.
 <!--Insert  1 Youtube Video here-->
 
 ## Where can I buy this product?
@@ -335,7 +335,7 @@ With the snug fit, the rich haptic feedback, silent smooth notification sounds, 
 
 Users will not feel about lugging around my iPhone 11 anymore. Users are entirely free to move around without the phone and light usage with the watch itself with the cellular connection.
 
-If you are serious about your work, health and need to monitor your loved one's for their safety and security, this will be the best smartwatch and worth every penny. You can also go for Apple Watch SE, which doesn't have a blood oxygen sensor, ECG sensor, and heart rate, which is available in the same size as that of the former.
+If you are serious about your work, health and need to monitor your loved ones for their safety and security, this will be the best smartwatch and worth every penny. You can also go for Apple Watch SE, which doesn't have a blood oxygen sensor, ECG sensor, and heart rate, which is available in the same size as that of the former.
 
 If you feel that the cost is over the board, we have reviewed other <u><a href= "https://www.watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
 
