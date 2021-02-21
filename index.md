@@ -1,25 +1,16 @@
 ---
 title: Best Smartwatches for Women and girls
-description:  Find Out Which is the BEST Smartwatches for Women and girls on the market in 2021. See Which Ones Have FREE...shipping. Women's smartwatch helps ladies be better at family, work, health, sports, and smartwatch apps. But, not all are designed the same. We've reviewed and found that...
+description:  
 sidebar: right
-author: Sarah Hollen
 schemadotorg:
  "@context": http://schema.org/
- "@type": CreativeWork
+ "@type": Website
  about: "This is a training material about schema.org"
- audience:
-   - "@type": Audience
-     name: WebMaster
  genre: "Tutorial"
  name: "Adding schema.org to your website"
- author: ["Fred Dibnah", "Niall Beard"]
- contributor:
-   - "@type": Person
-     name: "Frank Spencer"
- description: "In order to establish higher search results for online resources"
+ author: ["Sarah Hollen"]
+ description: "Find Out Which is the BEST Smartwatches for Women and girls on the market in 2021. See Which Ones Have FREE...shipping. Women's smartwatch helps ladies be better at family, work, health, sports, and smartwatch apps. But, not all are designed the same. We've reviewed and found that..."
  keywords: ["schemaorg", "TeSS"]
- license: CC-BY 4.0
- version: 1.0
 ---
 {% include image.html img="smartwatch-for-women.png" alt="Alt for image" caption="Smartwatch for women" align="center" %}
 
