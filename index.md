@@ -1,10 +1,10 @@
 ---
-title: Best Smartwatches for Women and girls
-description:  
 sidebar: right
 schemadotorg:
  "@context": http://schema.org/
  "@type": Website
+ url: https://watchnationpro.com/
+ title: Best Smartwatches for Women and girls
  about: "This is a training material about schema.org"
  genre: "Tutorial"
  name: "Adding schema.org to your website"
