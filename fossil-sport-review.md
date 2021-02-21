@@ -229,39 +229,39 @@ This feature is available but not providing accurate results. During the test, F
 
 #### How well are gym activities tracked in Fossil Sport?
 
-Use the Workout app for all kinds of exercise, indoor and outdoor. Default workouts available in Apple watch are Walk, Running, Cycling, Elliptical, Rower, Stair Stepper, HIIT, Hiking, Yoga, Functional Strength Training, Dance, Cooldown, Core training, Swimming, etc. Manually you can add workouts out of your interest and needs. If you are using a wheelchair manually, you can use wheelchair walk pace and outdoor wheelchair run pace options. In each workout, speed and distance, elevation, and other metrics according to the workouts' nature are shown on the display while performing the particular workout.
+Fit app is used for tracking all your workouts indoor and outdoor. The Google Fit app meets your expectations in fitness. There is no proprietary app for fitness.
 
 ### Fossil Sport Review: Training Plans and Post Training Analysis Related Features
 {% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
-#### How well the running Activity is monitored on Fossil Sport?
+#### How well the GPS Speed and Distance is monitored on Fossil Sport?
 
 Our rating: ★★★★☆ | 🙂
 
-There is an option for indoor runs such as treadmill run and outdoor run options to specify metrics based on that. Even though blood oxygen level is a common fitness tool, it is very helpful to runners, too, specifically.
+GPS measurements are accurate and performs fairly well. But it took a minute in Google Fit app to get GPS after choosing a workout.
 
 #### How good is the Auto/Manual Lap in Fossil Sport?
 
 Our rating: ★★★★☆ | 🙂
 
-You can add a lap in any workout by tapping double time on the screen. While tapping double time on the screen, you can get the segment summary on the screen metrics such as each lap or distance.
+Yes. But during test, we could find variations in its logging by around 10 percent.
 
 #### How good is the Auto-scroll of training data in Fossil Sport?
 
 Our rating: ★☆☆☆☆ | 😭
 
-Auto-scrolling is not available in Fossil Sport. You can use the digital crown for scrolling manually.
+Auto-scrolling is not available in Fossil Sport.
 
 #### How well activity history is saved in Fossil Sport
 
 Our rating: ★★★★☆ | 🙂
 
-Yes. In the Fitness App, You can see the activity data and details of the current day.
+Yes. Google Fit app stores exercise history, other stats which was shared from other connected apps. You can get details of any activity by choosing date, day, month.
 
 #### How well can the training data be customized in the Fossil Sport?
 Our rating: ★★★★☆ | 🙂
 
-Yes. In the workout of watch app on your iPhone, you can customize by tapping on "Customize" to edit.
+Yes. It can be customized in Google Fit app in the watch. After opening the app, tap “Journal” which shows all the activities. Choose the one which you want to change and tap “edit” to edit the activity data.
 
 ### Fossil Sport Review: Sports Activity: Running Related Features
 
@@ -270,7 +270,7 @@ Yes. In the workout of watch app on your iPhone, you can customize by tapping on
 #### How well the running Activity is monitored in Fossil Sport?
 
 ★★★★☆ | 🙂
-There is an option for indoor runs such as treadmill run and outdoor run options to specify metrics based on that. Even though blood oxygen level is a common fitness tool, it is very helpful to runners, too, specifically.
+With the help of GPS, Running data are tracked very well. The distance covered, the time taken to reach the target, heart rate during running are updated timely.
 
 ### Fossil Sport Review: Sports Activity: Cycling Related Features
 
@@ -280,7 +280,7 @@ There is an option for indoor runs such as treadmill run and outdoor run options
 
 Our rating: ★★★★☆ | 🙂
 
-Cycling mode in the fitness tracker enables you to track cycling activity data such as distance, speed, heart rate, and cool-down heart rate even after the Activity ends. Overall the functions are pretty basic only.
+Cycling feature in Google Fit app measures all the metrics related to cycling. As there is no proprietary app, we are using Google Fit only for all the fitness tracking in Fossil sport. You can try Strava for especially running and cycling. Because Strava provides more details than Google Fit and it is faster than Google Fit in saving data.
 
 ### Fossil Sport Review: Sports Activity: Swimming Related Features
 {% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
@@ -288,7 +288,7 @@ Cycling mode in the fitness tracker enables you to track cycling activity data s
 #### How well the swimming activity is tracked in the Fossil Sport?
 Our rating: ★★★★☆ | 🙂
 
-Under ISO standard, a water resistance rating of 50 meters is guaranteed. So you can take it not only for the pool even for ocean swimming too. Please check Water Lock before getting into swimming to prevent your watch touch screen's activation. If you have selected swim mode, it automatically activates Watch Lock.
+Fossil sport can be taken to swimming as it is a swim-proof. But there is no official IP rating available. However during the test, The watch worked well in the swimming. It has 5 ATM water resistance. But unfortunately you can not track swimming in Wear OS. So you can look for any other apps for swimming alone. You can try Strava.
 
 ### Fossil Sport Review: Outdoor Recreation Activity Related Features
 {% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
@@ -297,7 +297,7 @@ Under ISO standard, a water resistance rating of 50 meters is guaranteed. So you
 
 Our rating: ★★★★☆ | 🙂
 
-Features such as Barometer, Altimeter, Emergency charging, Daylight tracking, Rugged Strap, Weather, Compass, Follow routes are very helpful in outdoor activities such as hiking, mountaineering, biking to deal with environmental issues.
+Connected GPS tracks all the outdoor activities. All the outdoor activities are monitored like other sports activities such biking, sports such as soccer, skiing in Google Fit app for the distance, you rode and steps, you took etc during the activity.
 
 ## How does it work?
 Fossil Sport comes from the well-known brand Apple, loaded with sensible features for women.
