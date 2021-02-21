@@ -36,7 +36,6 @@ If you swipe to the right, you can see settings for various features such as scr
 
 While you are in outdoors, the screen becomes bright using one of the sensors in sunlight.
 
-
 #### How is the overall build quality of the Fitbit Sense series?
 
 Our rating: ★★★★★ | 😎
