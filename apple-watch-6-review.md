@@ -2,6 +2,54 @@
 title: Apple Watch Series 6 Review 6 vs SE vs 3
 description:  While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
 sidebar: right
+schemadotorg:
+- "@context": https://schema.org
+  "@graph":
+  - "@type": Organization
+    "@id": https://skinstartswithc.com/#organization
+    url: https://skinstartswithc.com/
+    name: Skin Starts With C
+    sameAs: []
+  - "@type": WebSite
+    "@id": https://skinstartswithc.com/#website
+    url: https://skinstartswithc.com/
+    name: Skin Starts With C
+    publisher:
+      "@id": https://skinstartswithc.com/#organization
+  - "@type": WebPage
+    "@id": https://skinstartswithc.com/obagi-vitamin-c-serum/#webpage
+    url: https://skinstartswithc.com/obagi-vitamin-c-serum/
+    inLanguage: en-US
+    name: 'Obagi Vitamin C Serum Review: </br>5% vs 10% vs 15% vs 20%'
+    isPartOf:
+      "@id": https://skinstartswithc.com/#website
+    breadcrumb:
+      "@id": https://skinstartswithc.com/obagi-vitamin-c-serum/#breadcrumblist
+    description: While there are many outstanding vitamin C serums currently on the
+      market, no other brand has been ranked as the number one serum as often as the
+      Obagi vitamin C serum line.  In 18 of 20 of the online reviews available, Obagi
+      comes out on top.
+    datePublished: '2016-12-28T12:01:19+00:00'
+    dateModified: '2019-05-07T04:28:43+00:00'
+  - "@type": BreadcrumbList
+    "@id": https://skinstartswithc.com/obagi-vitamin-c-serum/#breadcrumblist
+    itemListElement:
+    - "@type": ListItem
+      position: 1
+      item:
+        "@type": WebPage
+        "@id": https://skinstartswithc.com/
+        url: https://skinstartswithc.com/
+        name: Skin Starts With C
+    - "@type": ListItem
+      position: 2
+      item:
+        "@type": WebPage
+        "@id": https://skinstartswithc.com/obagi-vitamin-c-serum/
+        url: https://skinstartswithc.com/obagi-vitamin-c-serum/
+        name: 'Obagi Vitamin C Serum Review: </br>5% vs 10% vs 15% vs 20%'
+
+
 ---
 {% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
 
