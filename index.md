@@ -4,13 +4,12 @@ schemadotorg:
  "@context": http://schema.org/
  "@type": Website
  url: https://watchnationpro.com/
- title: Best Smartwatches for Women and girls
  about: "This is a training material about schema.org"
- genre: "Tutorial"
  name: "Adding schema.org to your website"
  author: ["Sarah Hollen"]
  description: "Find Out Which is the BEST Smartwatches for Women and girls on the market in 2021. See Which Ones Have FREE...shipping. Women's smartwatch helps ladies be better at family, work, health, sports, and smartwatch apps. But, not all are designed the same. We've reviewed and found that..."
  keywords: ["schemaorg", "TeSS"]
+ organization: https://watchnationpro.com/#organization
 ---
 {% include image.html img="smartwatch-for-women.png" alt="Alt for image" caption="Smartwatch for women" align="center" %}
 
