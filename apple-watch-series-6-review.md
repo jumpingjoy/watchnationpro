@@ -4,17 +4,6 @@ description:  While there are many great smartwatches for women currently on the
 sidebar: right
 schemadotorg:
 - "@context": https://schema.org
-  "@type": Review
-  itemReviewed:
-    "@type": Thing
-    name: Obagi
-  reviewRating:
-    "@type": Rating
-    ratingValue: '4.9'
-    bestRating: 5
-  author:
-    "@type": Person
-    name: Sarah hollen
   "@graph":
   - "@type": Organization
     "@id": https://watchnationpro.com/#organization
