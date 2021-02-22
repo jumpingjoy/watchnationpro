@@ -4,6 +4,51 @@ description:  While there are many great smartwatches for women currently on the
 sidebar: right
 schemadotorg:
 - "@context": https://schema.org
+  "@graph":
+  - "@type": Organization
+    "@id": https://watchnationpro.com/#organization
+    url: https://watchnationpro.com/
+    name: WatchNationPro
+    sameAs: []
+  - "@type": WebSite
+    "@id": https://watchnationpro.com/#website
+    url: https://watchnationpro.com/
+    name: Skin Starts With C
+    publisher:
+      "@id": https://watchnationpro.com/#organization
+  - "@type": WebPage
+    "@id": https://watchnationpro.com/apple-watch-series-6-review/#webpage
+    url: https://watchnationpro.com/apple-watch-series-6-review/
+    inLanguage: en-US
+    name: 'Obagi Vitamin C Serum Review: </br>5% vs 10% vs 15% vs 20%'
+    isPartOf:
+      "@id": https://watchnationpro.com/#website
+    breadcrumb:
+      "@id": https://watchnationpro.com/apple-watch-series-6-review/#breadcrumblist
+    description: While there are many outstanding vitamin C serums currently on the
+      market, no other brand has been ranked as the number one serum as often as the
+      Obagi vitamin C serum line.  In 18 of 20 of the online reviews available, Obagi
+      comes out on top.
+    datePublished: '2016-12-28T12:01:19+00:00'
+    dateModified: '2019-05-07T04:28:43+00:00'
+  - "@type": BreadcrumbList
+    "@id": https://watchnationpro.com/apple-watch-series-6-review/#breadcrumblist
+    itemListElement:
+    - "@type": ListItem
+      position: 1
+      item:
+        "@type": WebPage
+        "@id": https://watchnationpro.com/
+        url: https://watchnationpro.com/
+        name: Skin Starts With C
+    - "@type": ListItem
+      position: 2
+      item:
+        "@type": WebPage
+        "@id": https://watchnationpro.com/apple-watch-series-6-review/
+        url: https://watchnationpro.com/apple-watch-series-6-review/
+        name: 'Obagi Vitamin C Serum Review: </br>5% vs 10% vs 15% vs 20%'
+- "@context": https://schema.org
   "@type": Review
   itemReviewed:
     "@type": Thing
@@ -15,6 +60,7 @@ schemadotorg:
   author:
     "@type": Person
     name: Sarah hollen
+
 
 
 ---
