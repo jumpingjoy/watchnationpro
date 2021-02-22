@@ -4,6 +4,17 @@ description:  While there are many great smartwatches for women currently on the
 sidebar: right
 schemadotorg:
 - "@context": https://schema.org
+  "@type": Review
+  itemReviewed:
+    "@type": Thing
+    name: Obagi
+  reviewRating:
+    "@type": Rating
+    ratingValue: '4.9'
+    bestRating: 5
+  author:
+    "@type": Person
+    name: Casey Cancel
   "@graph":
   - "@type": Organization
     "@id": https://watchnationpro.com/#organization
@@ -48,6 +59,8 @@ schemadotorg:
         "@id": https://watchnationpro.com/apple-watch-series-6-review/
         url: https://watchnationpro.com/apple-watch-series-6-review/
         name: 'Obagi Vitamin C Serum Review: </br>5% vs 10% vs 15% vs 20%'
+
+
 ---
 {% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
 
