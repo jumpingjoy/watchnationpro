@@ -14,7 +14,7 @@ schemadotorg:
     bestRating: 5
   author:
     "@type": Person
-    name: Casey Cancel
+    name: Sarah hollen
   "@graph":
   - "@type": Organization
     "@id": https://watchnationpro.com/#organization
