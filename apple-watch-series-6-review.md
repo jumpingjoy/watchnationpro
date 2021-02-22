@@ -60,9 +60,6 @@ schemadotorg:
   author:
     "@type": Person
     name: Sarah hollen
-
-
-
 ---
 {% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
 
