@@ -51,7 +51,7 @@ schemadotorg:
 - "@context": https://schema.org
   "@type": Review
   itemReviewed:
-    "@type": Review
+    "@type": Product
     name: Obagi
   reviewRating:
     "@type": Rating
