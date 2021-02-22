@@ -51,8 +51,10 @@ schemadotorg:
 - "@context": https://schema.org
   "@type": Review
   itemReviewed:
-    "@type": Thing
-    name: Obagi
+    "@type": Product
+    name: Apple Watch Series 6
+    brand: Apple
+    SKU: 123
   reviewRating:
     "@type": Rating
     ratingValue: '4.9'
