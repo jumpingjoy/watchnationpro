@@ -212,7 +212,7 @@ It is available in 40mm & 44mm sizes like series 5. Best for tiny wrists as it h
 
 Different materials were used for finishes. You can choose from a collection of aluminum, titanium, and stainless steel. Get these in two colors in new blue and red.
 
-Wrist band comes with an attractive range of varieties - leather strap, silicone band, stainless steel band, and woven sport band. Other than these, different materials and colors are available in the market by third-party.
+<a href="https://www.watchnationpro.com/apple-watch-series-6-review/">Apple Watch Series 6</a> comes with wrist band in attractive range of varieties - leather strap, silicone band, stainless steel band, and woven sport band. If you require other options, you have equally better third-party choices available in the market.
 
 LTE and GPS help initiate calls and play music even though your smartphone is far away from you. The metrics of all the sensors are verified as accurate. It is waterproof. So you can go for a swim with your watch.
 
@@ -224,11 +224,11 @@ You can go for Apple Watch SE, which doesn't have a blood oxygen sensor, ECG sen
 
 ### No.2 Samsung Active Galaxy Active 3
 
-Top brand Samsung Galaxy has released another version Active 3.
+Top brand Samsung Galaxy has released another version <a href="https://www.watchnationpro.com/samsung-watch-active-3-review">Samsung Galaxy Active 3</a>.
 
 You can aspire to all the features that are available in Tizen. It comes in two sizes, 40mm and 44mm, and you can choose the one that fits your wrist. It has an AMOLED display.
 
-In case you are an Android user and are not comfortable with Wear OS, Samsung galaxy active 2 is the best choice for you. Even though it does not have a rotating bezel, it comes with good touch sensitivity. The battery life has been developed from the first version of active.
+In case you are an Android user and are not comfortable with Wear OS, Samsung galaxy active 3 is the best choice for you. Even though it does not have a rotating bezel, it comes with good touch sensitivity. The battery life has been developed from the first version of active.
 
 Along with activities trackers, heart rate monitors, ECG monitors to track heart functionalities, and fall detection is available in Active 3.
 
