@@ -1,6 +1,5 @@
 ---
 title: Apple Watch Series 6 Review vs SE vs 3
-
 sidebar: right
 schemadotorg:
 - "@context": https://schema.org
@@ -56,7 +55,7 @@ schemadotorg:
     brand: Apple
     SKU: 123
     description:  While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
-    aggregateRating: 
+    aggregateRating:
   reviewRating:
     "@type": Rating
     ratingValue: '4.9'

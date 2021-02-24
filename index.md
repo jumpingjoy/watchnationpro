@@ -220,7 +220,7 @@ Menstrual trackers with early notification, the sensor for measuring blood oxyge
 
 You can go for Apple Watch SE, which doesn't have a blood oxygen sensor, ECG sensor, and heart rate is available in the same size.
 
-<button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+<button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/apple-watch-series-6-review/">>> Read Our Full Review Here <<</button>
 
 ### No.2 Samsung Active Galaxy Active 3
 
@@ -232,7 +232,7 @@ In case you are an Android user and are not comfortable with Wear OS, Samsung ga
 
 Along with activities trackers, heart rate monitors, ECG monitors to track heart functionalities, and fall detection is available in Active 3.
 
-<button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+<button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/samsung-watch-active-3-review">>> Read Our Full Review Here <<</button>
 
 ### No. 3 Garmin Venu
 
@@ -248,7 +248,7 @@ Menstrual trackers with early notification, the sensor for measuring blood oxyge
 
 You can go for Apple Watch SE, which doesn't have a blood oxygen sensor, ECG sensor, and heart rate is available in the same size.
 
-<button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+<button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/garmin-venu-review/">>> Read Our Full Review Here <<</button>
 
 ### No.4 Fitbit Sense
 
@@ -262,7 +262,7 @@ Excellent battery life is the most significant advantage of sense. It provides s
 
 GPS tracks your miles and location on your runs and travels. Waterproof features allow you to swim.
 
-<button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+<button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/fitbit-sense-review/">>> Read Our Full Review Here <<</button>
 
 ### No. 5 Fossil Sport
 
@@ -276,7 +276,7 @@ Untethered GPS is convenient for runners who wish to keep their phones at home. 
 
 It's also a solid smartwatch with everything you'd expect from a wearable running Wear OS, including NFC for Google Pay, email, notifications, and app alerts.
 
-<button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+<button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/fossil-sport-review/d">>> Read Our Full Review Here <<</button>
 
 ### No. 6 Kate Spade Scallop 2
 
