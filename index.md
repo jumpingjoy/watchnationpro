@@ -118,7 +118,24 @@ More on this later.
    </tr>
    <tr>
      <td class = "content-left">
-       # 1 Apple Watch Series 6
+       # 2 Samsung Galaxy Active 3
+       Best Android Watch
+       <div align = "right">
+         <p class = "tip tooltip">
+           ?
+           <span class = "tooltiptext">
+             put you tip here
+           </span>
+         </p>
+       </div>
+     </td>
+     <td class = "content-right r-bor">
+       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+       # 3 Garmin Venu
        Best Overall Performance
        <div align = "right">
          <p class = "tip tooltip">
@@ -135,7 +152,7 @@ More on this later.
    </tr>
    <tr>
      <td class = "content-left">
-       # 1 Apple Watch Series 6
+       # 4 Fitbit Sense
        Best Overall Performance
        <div align = "right">
          <p class = "tip tooltip">
@@ -152,7 +169,7 @@ More on this later.
    </tr>
    <tr>
      <td class = "content-left">
-       # 1 Apple Watch Series 6
+       # 5 Fossil Sport
        Best Overall Performance
        <div align = "right">
          <p class = "tip tooltip">
@@ -169,7 +186,24 @@ More on this later.
    </tr>
    <tr>
      <td class = "content-left">
-       # 1 Apple Watch Series 6
+       # 6 Kate Spade Scallop 2
+       Best Overall Performance
+       <div align = "right">
+         <p class = "tip tooltip">
+           ?
+           <span class = "tooltiptext">
+             put you tip here
+           </span>
+         </p>
+       </div>
+     </td>
+     <td class = "content-right r-bor">
+       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+       # 7 Huawei GT 2
        Best Overall Performance
        <div align = "right">
          <p class = "tip tooltip">
@@ -205,7 +239,20 @@ You can go for Apple Watch SE, which doesn't have a blood oxygen sensor, ECG sen
 
 <button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
 
-### No.2 Garmin Venu
+### No.2 Samsung Active Galaxy Active 3
+
+Top brand Samsung Galaxy has released another version Active 3.
+
+You can aspire to all the features that are available in Tizen. It comes in two sizes, 40mm and 44mm, and you can choose the one that fits your wrist. It has an AMOLED display.
+
+In case you are an Android user and are not comfortable with Wear OS, Samsung galaxy active 2 is the best choice for you. Even though it does not have a rotating bezel, it comes with good touch sensitivity. The battery life has been developed from the first version of active.
+
+Along with activities trackers, heart rate monitors, ECG monitors to track heart functionalities, and fall detection is available in Active 3.
+
+<button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+
+### No. 3 Garmin Venu
+
 It is available in 40mm & 44mm sizes like series 5. Best for tiny wrists as it has a 10.74mm depth casing only.
 
 Different materials are used for finishing. You can choose from a collection of aluminum, titanium, and stainless steel. Get these in two colors in new blue and red.
@@ -220,7 +267,8 @@ You can go for Apple Watch SE, which doesn't have a blood oxygen sensor, ECG sen
 
 <button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
 
-### No.3 Fitbit Sense
+### No.4 Fitbit Sense
+
 Fitbit's sense is apt for health-conscious people. It backs all the sensors that are not available in other watches near as same as Versa.
 
 The bands have two kinds of stainless steel with AMOLED displays having 40mm size. Health features like heart rate, sleep tracker, women's health trackers, and menstrual cycle monitors are provided in Fitbit.
@@ -230,13 +278,6 @@ Advanced health trackers come with Fitbit sense. ECG sensor for a minute heart a
 Excellent battery life is the most significant advantage of sense. It provides six days of battery life. Charging also takes significantly less time, approximately 12 minutes only. Like Versa, it has Fitbit Pay.
 
 GPS tracks your miles and location on your runs and travels. Waterproof features allow you to swim.
-
-<button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
-
-### No. 4 Kate Spade Scallop 2
-Version two of Kate spade runs on Wear OS like the first version of Kate spade scallop. It has the same attractive looks and covers almost the features of Fossil watches.
-
-The "Choose your look's" App helps you pick the right watch face that matches your clothes and accessories. NFC for Google pay is a notable one. It has a button to control music and all. As it is waterproof, you can swim with that. It comes with the latest Wear OS. It has an AMOLED display. As the ambient light sensor adjusts the brightness, it can maintain the battery life decently.
 
 <button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
 
@@ -253,6 +294,15 @@ Untethered GPS is convenient for runners who wish to keep their phones at home. 
 It's also a solid smartwatch with everything you'd expect from a wearable running Wear OS, including NFC for Google Pay, email, notifications, and app alerts.
 
 <button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+
+### No. 6 Kate Spade Scallop 2
+
+Version two of Kate spade runs on Wear OS like the first version of Kate spade scallop. It has the same attractive looks and covers almost the features of Fossil watches.
+
+The "Choose your look's" App helps you pick the right watch face that matches your clothes and accessories. NFC for Google pay is a notable one. It has a button to control music and all. As it is waterproof, you can swim with that. It comes with the latest Wear OS. It has an AMOLED display. As the ambient light sensor adjusts the brightness, it can maintain the battery life decently.
+
+<button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## WatchNationPro.com's Motto
