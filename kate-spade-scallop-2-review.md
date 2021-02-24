@@ -3,7 +3,7 @@ title: Kate Spade Scallop 2 Review
 description: Kate spade scallop 2 review
 sidebar: right
 ---
-{% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="Garmin Venu Review" align="center" %
+{% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="Garmin Venu Review" align="center" %}
 
 It is a product of a collaboration of Fossil group, a watch manufacturer, and Kate Spade, a fashion brand. Already they released Kate Spade Scallop's first version, which attracted many for its design. The Kate Spade Scallop 2 is the second version of the previous one with some additional tech features such as NFC, GPS, etc., to compete with other smartwatches.
 
