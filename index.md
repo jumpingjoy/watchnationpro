@@ -101,23 +101,6 @@ More on this later.
    </tr>
    <tr>
      <td class = "content-left">
-       # 1 Apple Watch Series 6
-       Best Overall Performance
-       <div align = "right">
-         <p class = "tip tooltip">
-           ?
-           <span class = "tooltiptext">
-             put you tip here
-           </span>
-         </p>
-       </div>
-     </td>
-     <td class = "content-right r-bor">
-       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
-     </td>
-   </tr>
-   <tr>
-     <td class = "content-left">
        # 2 Samsung Galaxy Active 3
        Best Android Watch
        <div align = "right">
