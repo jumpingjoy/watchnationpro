@@ -84,7 +84,7 @@ More on this later.
    </tr>
    <tr>
      <td class = "content-left">
-      ![Smartwatch-infographic]({{site.baseurl}}/uploads/smartwatch-infographic.png)
+      {% include image.html img="women-missing-exercise.jpg" alt="Women-missing-exercise" caption="Missing Exercise?" align="left" %}
        # 1 Apple Watch Series 6
        Best Overall Performance
        <div align = "right">
