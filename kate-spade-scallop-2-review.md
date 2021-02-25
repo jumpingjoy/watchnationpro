@@ -3,7 +3,7 @@ title: Kate Spade Scallop 2 Review
 description: Kate spade scallop 2 review
 sidebar: right
 ---
-{% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="Garmin Venu Review" align="center" %}
+{% include image.html img="apple-watch-6.webp" alt="Alt for image" caption="Garmin Venu Review" align="center" %}
 
 It is a product of a collaboration of Fossil group, a watch manufacturer, and Kate Spade, a fashion brand. Already they released Kate Spade Scallop's first version, which attracted many for its design. The Kate Spade Scallop 2 is the second version of the previous one with some additional tech features such as NFC, GPS, etc., to compete with other smartwatches.
 
@@ -13,7 +13,7 @@ Fossil is a fashion brand that meets technology. It has collaborated with Kate S
 
 ### Kate Spade Scallop 2 Review: Quick and Important Factors Checked
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 We will look at the most important and essential features checked before going to other feature details:
 
@@ -81,7 +81,7 @@ The battery lasts up to two days in smart mode and up to one day if you use it r
 
 ### Kate Spade Scallop 2 Review: Smart Features Used Daily
 
-{% include image.html img="smartwatch-features-used-daily.jpg" alt="Alt for image" caption="smartwatch-features-used-daily" align="center" %}
+{% include image.html img="smartwatch-features-used-daily.webp" alt="Alt for image" caption="smartwatch-features-used-daily" align="center" %}
 
 We can look at the smart features that are used very frequently daily in a smartwatch.
 
@@ -148,7 +148,7 @@ It comes with NFC (Near Field Communication). So you can perform Contactless pay
 
 ### Kate Spade Scallop 2 Review: Safety and Location Tracking Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 Cannot find
 
@@ -166,7 +166,7 @@ Cannot find it.
 
 ### Kate Spade Scallop 2 Review: General Body Activity Tracking Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How good is menstrual Tracking in Kate Spade Scallop 2?
 
@@ -204,7 +204,7 @@ You can track your steps during sports, walks, and other activities. You can set
 
 ### Kate Spade Scallop 2 Review: Gym Equipment Usage and Gym Profile Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well are gym activities tracked in Kate Spade Scallop 2?
 
@@ -214,7 +214,7 @@ Thanks to Google Fit App. Choose the workout in the app and begin your activity;
 
 ### Kate Spade Scallop 2 Review: Training Plans and Post Training Analysis Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the GPS speed and distance is monitored on Kate Spade Scallop 2?
 
@@ -248,7 +248,7 @@ Yes. Training data can be customized in the Google Fit app. In the Google Fit ap
 
 ### Kate Spade Scallop 2 Review: Sports Activity: Running Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the running activity is monitored in Kate Spade Scallop 2?
 
@@ -258,7 +258,7 @@ Google Fit app, which uses Wear OS by Google in the watch to track your running.
 
 ### Kate Spade Scallop 2 Review: Sports Activity: Cycling Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the cycling activity is monitored in Kate Spade Scallop 2?
 
@@ -267,7 +267,7 @@ Our rating: ★★★★☆ | 🙂
 Google Fit app provides a tracking option for cycling. In the Google Fit app, Tap Workout. in the drop-down menu, select the workout type. Carry your phone with you. It will track all the metrics related to cycling, such as distance covered, pace, time, etc.
 
 ### Kate Spade Scallop 2 Review: Sports Activity: Swimming Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the swimming activity is tracked in the Kate Spade Scallop 2?
 Our rating: ★★★★☆ | 🙂
@@ -275,7 +275,7 @@ Our rating: ★★★★☆ | 🙂
 It comes with a waterproof feature. So it can be worn while swimming. It tracks the swimming also. It has 3 ATM water resistance. So even though it can be taken for swimming. It is believed that it is splash-proof rather than waterproof.
 
 ### Kate Spade Scallop 2 Review: Outdoor Recreation Activity Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the outdoor activities can be tracked in the Kate Spade Scallop 2?
 
@@ -306,7 +306,7 @@ If you feel that the cost is a bit expensive, we have reviewed other <u><a href=
 
 ### Post Author
 #### Sarah Hollen
-{% include image.html img="sarah-hollen.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
+{% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
 Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="about-us">here</a>.
 
 <b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>

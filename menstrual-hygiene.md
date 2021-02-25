@@ -4,7 +4,7 @@ description:  There is a limited choice of good menstrual trackers in the market
 sidebar: right
 permalink: /smartwatch-benefits-for-women/menstrual-hygiene/
 ---
-{% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
+{% include image.html img="apple-watch-6.webp" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
 
 ## How Important is it to Use Smartwatch to Track Menstrual Periods?
 Some people do not get their menstrual periods regularly. Certain medical complications or exercises can lead to irregular periods.  Common causes of Irregular periods occur in people due to the following reasons:
@@ -117,7 +117,7 @@ The menstrual cycle is an important health factor that needs utmost care, and ev
 
 ### Post Author
 #### Sarah Hollen
-{% include image.html img="sarah-hollen.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
+{% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
 Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="about-us">here</a>.
 
 <b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>

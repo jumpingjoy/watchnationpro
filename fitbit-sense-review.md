@@ -3,7 +3,7 @@ title: Fitbit Sense Review 6 vs SE vs 3
 description:  While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Fitbit Sense.  In 9 of 10 of the online reviews available, Fitbit Sense comes out on top.
 sidebar: right
 ---
-{% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="Fitbit Sense Review" align="center" %}
+{% include image.html img="apple-watch-6.webp" alt="Alt for image" caption="Fitbit Sense Review" align="center" %}
 
 While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Fitbit Sense.  In 9 of 10 of the online reviews available, Fitbit Sense comes out on top.
 
@@ -13,7 +13,7 @@ And it's no surprise why, as you will soon learn.
 
 ### Fitbit Sense Review: Quick and Important Factors Checked
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 We will look at the most important and essential features checked before going to other feature details:
 
@@ -100,7 +100,7 @@ If the battery is low, GPS and Always-on display are turned off, Screen brightne
 
 ###  Fitbit Sense Review: Smart Features Used Daily
 
-{% include image.html img="smartwatch-features-used-daily.jpg" alt="Alt for image" caption="smartwatch-features-used-daily" align="center" %}
+{% include image.html img="smartwatch-features-used-daily.webp" alt="Alt for image" caption="smartwatch-features-used-daily" align="center" %}
 
 We can look at the smart features that are used very frequently daily in a smartwatch.
 
@@ -191,7 +191,7 @@ To use Fitbit Pay, you need to add at least on credit card or debit card from pa
 
 ### Fitbit Sense Review: Safety and Location Tracking Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 We can have a look at the safety; emergency tracking features in Fitbit Sense.
 
@@ -210,7 +210,7 @@ No such Emergency alerts available in Fitbit sense.
 
 ### Fitbit Sense Review: General Body Activity Tracking Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How good is menstrual Tracking in Fitbit Sense?
 
@@ -264,7 +264,7 @@ Your activities are tracked every time. When Fitbit sense finds inactivity, it r
 
 ### Fitbit Sense Review: Gym Equipment Usage and Gym Profile Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well are gym activities tracked in Fitbit Sense?
 
@@ -276,7 +276,7 @@ GPS ( it tracks the route)
 Run Detect ( Fitbit Sense detects the running without opening the exercise app)
 
 ### Fitbit Sense Review: Training Plans and Post Training Analysis Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the GPS speed and distance is monitored on Fitbit Sense?
 
@@ -310,7 +310,7 @@ Yes. It can be customized in Exercise app in the watch. You can set your goal in
 
 ### Fitbit Sense Review: Sports Activity: Running Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the running Activity is monitored in Fitbit Sense?
 
@@ -320,7 +320,7 @@ With the help of GPS, Running data are tracked very well. The distance covered, 
 
 ### Fitbit Sense Review: Sports Activity: Cycling Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the cycling activity is monitored in Fitbit Sense?
 
@@ -329,7 +329,7 @@ Our rating: ★★★★☆ | 🙂
 Cycling feature in fitness tracking monitors distance, time taken, average speed, heart rate and more metrics such as calories burned. These data can be customized such as goal, maximum heart rate etc as per your needs.
 
 ### Fitbit Sense Review: Sports Activity: Swimming Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the swimming activity is tracked in the Fitbit Sense?
 Our rating: ★★★★☆ | 🙂
@@ -337,7 +337,7 @@ Our rating: ★★★★☆ | 🙂
 You can take smartwatch into pool as it comes with water resistance up to 5ATM. A dedicated swim training mode tracks your activities inside the pool also. These trackers provides metrics such as distance, duration, heart rate etc.
 
 ### Fitbit Sense Review: Outdoor Recreation Activity Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the outdoor activities can be tracked in the Fitbit Sense?
 
@@ -368,7 +368,7 @@ If you feel that the cost is over the board, we have reviewed other <u><a href= 
 
 ### Post Author
 #### Sarah Hollen
-{% include image.html img="sarah-hollen.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
+{% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
 Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="about-us">here</a>.
 
 <b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>

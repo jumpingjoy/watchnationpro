@@ -11,7 +11,7 @@ Our team of dedicated experts is always on the lookout for the most latest and h
 
 ## Our Team
 ### Sarah Hollen (Owner)
-{% include image.html img="sarah-hollen.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
+{% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
 ​Hey guys, I'm Sarah! Ever since I was a kid, ​my dad introduced me to playing sports such as tennis, badminton, and baseball. Since that time, I learned that being physically active is very crucial in maintaining a healthy body.
 
 I thought that everything was going well until I entered work, where I suffered menstruation cycle, which negatively affected my going to the office. I was also gaining weight and which affected my overall health. I wanted to stay at home because I don't want to see other people looking at my body. Those were the hard days.
@@ -23,7 +23,7 @@ I thought that everything was going well until I entered work, where I suffered 
 Email Casey at sarah.hollen@watchnationpro.com
 
 ### Rwanda Bryan (Marketing Manager)
-{% include image.html img="sarah-hollen.jpg" alt="Rwanda-Bryan" caption="Rwanda Bryan" align="left" %}
+{% include image.html img="sarah-hollen.webp" alt="Rwanda-Bryan" caption="Rwanda Bryan" align="left" %}
 ​Hi, my name is Rwanda! Same with Sarah, I also experienced severe problems with delayed menstruation and obesity when I was in my early 20's. At first, I thought it was an average phenomenon. You know ladies' hormones do not work well sometimes, right? But when I started to realize the dangers of delayed menstruation and its relationship with lack of menstrual hygiene, that's when I knew that something has to be done immediately.
 
 What's more irritating, there is a repetition of this every month. It's like a never-ending cycle. I'm sure some of you women have experienced the same many times in their life.
@@ -33,7 +33,7 @@ When I tried using smartphones to track my menstrual cycle, it didn't​ help me
 Email Rwanda at rwanda.bryan@watchnationpro.com
 
 ### Tracey Track (Content Manager)
-{% include image.html img="sarah-hollen.jpg" alt="Tracey-Track" caption="Tracey Track" align="left" %}
+{% include image.html img="sarah-hollen.webp" alt="Tracey-Track" caption="Tracey Track" align="left" %}
 ​What's up? I'm Tracey. I've been in the fitness industry as a ​Fitness ​Coach for seven years now. I have known people who passionately work out to build their bodies, and most of them tend to forget ​one important thing — to take good care of their health.
 
 ​When we do a workout, we sweat a lot, and if it is affecting our skin for a long time, it can tend to block our sweat pores. ​Hence, monitoring your sweat is also essential, which can be performed through a smartwatch.

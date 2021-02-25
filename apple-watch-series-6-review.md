@@ -64,7 +64,7 @@ schemadotorg:
     "@type": Person
     name: Sarah hollen
 ---
-{% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
+{% include image.html img="apple-watch-6.webp" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
 
 While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
 
@@ -74,7 +74,7 @@ And it's no surprise why, as you will soon learn.
 
 ### Apple Watch Series 6 Review: Quick and Important Factors Checked
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 We will look at the most important and essential features checked before going to other feature details:
 
@@ -178,7 +178,7 @@ Our rating: ★★★★★ | 😎
 
 ###  Apple Watch Series 6 Review: Smart Features Used Daily
 
-{% include image.html img="smartwatch-features-used-daily.jpg" alt="Alt for image" caption="smartwatch-features-used-daily" align="center" %}
+{% include image.html img="smartwatch-features-used-daily.webp" alt="Alt for image" caption="smartwatch-features-used-daily" align="center" %}
 
 We can look at the smart features that are used very frequently daily in a smartwatch.
 
@@ -259,7 +259,7 @@ In the messaging app itself, you can send and receive money to your contacts. Yo
 
 ### Apple watch series 6 Review: Safety and Location Tracking Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 We can have a look at the safety; emergency tracking features in Apple Watch Series 6.
 
@@ -277,7 +277,7 @@ The emergency slider is available for help in any danger. Press the side button 
 
 ### Apple watch series 6 Review: General Body Activity Tracking Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How good is menstrual Tracking in Apple watch series 6?
 
@@ -305,14 +305,14 @@ The activity app counts the steps. You can access this feature easily through th
 
 ### Apple watch series 6 Review: Gym Equipment Usage and Gym Profile Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well are gym activities tracked in Apple watch series 6?
 
 Use the Workout app for all kinds of exercise, indoor and outdoor. Default workouts available in Apple watch are Walk, Running, Cycling, Elliptical, Rower, Stair Stepper, HIIT, Hiking, Yoga, Functional Strength Training, Dance, Cooldown, Core training, Swimming, etc. Manually you can add workouts out of your interest and needs. If you are using a wheelchair manually, you can use wheelchair walk pace and outdoor wheelchair run pace options. In each workout, speed and distance, elevation, and other metrics according to the workouts' nature are shown on the display while performing the particular workout.
 
 ### Apple watch series 6 Review: Training Plans and Post Training Analysis Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the running Activity is monitored on Apple watch series 6?
 
@@ -345,7 +345,7 @@ Yes. In the workout of watch app on your iPhone, you can customize by tapping on
 
 ### Apple watch series 6 Review: Sports Activity: Running Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the running Activity is monitored in Apple watch series 6?
 
@@ -354,7 +354,7 @@ There is an option for indoor runs such as treadmill run and outdoor run options
 
 ### Apple watch series 6 Review: Sports Activity: Cycling Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the cycling activity is monitored in Apple watch series 6?
 
@@ -363,7 +363,7 @@ Our rating: ★★★★☆ | 🙂
 Cycling mode in the fitness tracker enables you to track cycling activity data such as distance, speed, heart rate, and cool-down heart rate even after the Activity ends. Overall the functions are pretty basic only.
 
 ### Apple watch series 6 Review: Sports Activity: Swimming Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the swimming activity is tracked in the Apple watch series 6?
 Our rating: ★★★★☆ | 🙂
@@ -371,7 +371,7 @@ Our rating: ★★★★☆ | 🙂
 Under ISO standard, a water resistance rating of 50 meters is guaranteed. So you can take it not only for the pool even for ocean swimming too. Please check Water Lock before getting into swimming to prevent your watch touch screen's activation. If you have selected swim mode, it automatically activates Watch Lock.
 
 ### Apple watch series 6 Review: Outdoor Recreation Activity Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the outdoor activities can be tracked in the Apple watch series 6?
 
@@ -402,7 +402,7 @@ If you feel that the cost is over the board, we have reviewed other <u><a href= 
 
 ### Post Author
 #### Sarah Hollen
-{% include image.html img="sarah-hollen.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
+{% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
 Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="about-us">here</a>.
 
 <b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>

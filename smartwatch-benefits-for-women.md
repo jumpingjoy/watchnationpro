@@ -3,7 +3,7 @@ title: Smartwatch Benefits for Women
 description:  Smartwatches have proven to be better for women at family, work, health, sports, and excel at all. But, not all are designed the same. We have reviewed and found that...
 sidebar: right
 ---
-{% include image.html img="smartwatch-for-women.png" alt="Alt for image" caption="Smartwatch for women" align="center" %}
+{% include image.html img="smartwatch-for-women.webp" alt="Alt for image" caption="Smartwatch for women" align="center" %}
 
 # Fitness watches for Women: Fitness Smartwatch Benefits <br> Excel at your Work, Family life and health
 
@@ -53,7 +53,7 @@ These days, technology and fashion tend to mingle more than ever before. But, it
 
 ### Post Author
 #### Sarah Hollen
-{% include image.html img="sarah-hollen.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
+{% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
 Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="about-us">here</a>.
 
 <b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>

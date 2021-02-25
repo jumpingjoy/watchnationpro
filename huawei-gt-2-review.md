@@ -64,7 +64,7 @@ schemadotorg:
     "@type": Person
     name: Sarah hollen
 ---
-{% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="
+{% include image.html img="apple-watch-6.webp" alt="Alt for image" caption="
 Garmin Venu Review" align="center" %}
 
 Huawei has been releasing smartwatches to meet today's consumer's choice. Huawei released Huawei GT smartwatch earlier. In line with the GT series, Huawei has released Huawei GT 2. Huawei's previous watches had some complaints in terms of battery life, software, and also it was good in some other features. Even from these mixed experiences, we could see some positive expectations for Huawei GT 2.
@@ -75,7 +75,7 @@ Huawei has grown up as a competitor to many top brands such as Samsung and Apple
 
 ### Huawei GT 2 Review: Quick and Important Factors Checked
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 We will look at the most important and essential features checked before going to other feature details:
 
@@ -145,7 +145,7 @@ Huawei GT 2 promised two weeks of battery life. Yes. It is proved too if you hav
 
 ###  Huawei GT 2 Review: Smart Features Used Daily
 
-{% include image.html img="smartwatch-features-used-daily.jpg" alt="Alt for image" caption="smartwatch-features-used-daily" align="center" %}
+{% include image.html img="smartwatch-features-used-daily.webp" alt="Alt for image" caption="smartwatch-features-used-daily" align="center" %}
 
 We can look at the smart features that are used very frequently daily in a smartwatch.
 
@@ -212,7 +212,7 @@ It comes with NFC (Near Field Communication) for China only. It is so disappoint
 
 ### Huawei GT 2 Review: Safety and Location Tracking Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 Cannot find
 
@@ -230,7 +230,7 @@ Not Available
 
 ### Huawei GT 2 Review: General Body Activity Tracking Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How good is menstrual Tracking in Huawei GT 2?
 
@@ -272,7 +272,7 @@ The step counter is available in Huawei GT 2. It provides almost correct results
 
 ### Huawei GT 2 Review: Gym Equipment Usage and Gym Profile Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well are gym activities tracked in Huawei GT 2?
 
@@ -283,7 +283,7 @@ The sensors that work for fitness tracking and health tracking in Huawei GT 2 ar
 
 ### Huawei GT 2 Review: Training Plans and Post Training Analysis Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the GPS speed and distance is monitored on Huawei GT 2?
 
@@ -317,7 +317,7 @@ No. In the Huawei Health app, you can view the exercise records. In the health a
 
 ### Huawei GT 2 Review: Sports Activity: Running Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the running activity is monitored in Huawei GT 2?
 
@@ -327,7 +327,7 @@ The all-day heart rate monitor of Huawei GT 2 keeps tracking your heart rate con
 
 ### Huawei GT 2 Review: Sports Activity: Cycling Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the cycling activity is monitored in Huawei GT 2?
 
@@ -336,7 +336,7 @@ Our rating: ★★★★☆ | 🙂
 As same as the running activity, the cycling mode can be enabled for tracking and also for finding routes, GPS helps you with a good signal as it has GLONASS and GALILEO signals also for accurate distance and route maps.
 
 ### Huawei GT 2 Review: Sports Activity: Swimming Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the swimming activity is tracked in the Huawei GT 2?
 Our rating: ★★★★☆ | 🙂
@@ -344,7 +344,7 @@ Our rating: ★★★★☆ | 🙂
 Huawei GT 2 comes with 5 ATM water resistance. So you can go swimming in the pool and the ocean as well. During the test, we couldn't find any lagging in the watch's performance. The swim tracking and results from the Huawei Health app are also pretty good.
 
 ### Huawei GT 2 Review: Outdoor Recreation Activity Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.jpg" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### How well the outdoor activities can be tracked in the Huawei GT 2?
 
@@ -375,7 +375,7 @@ If you feel that the cost is a bit expensive, we have reviewed other <u><a href=
 
 ### Post Author
 #### Sarah Hollen
-{% include image.html img="sarah-hollen.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
+{% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
 Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="about-us">here</a>.
 
 <b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>

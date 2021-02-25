@@ -4,7 +4,7 @@ description:  We tested out various safety-related smartwatch apps available. Fi
 sidebar: right
 permalink: /smartwatch-benefits-for-women/safety-improvements/
 ---
-{% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="
+{% include image.html img="apple-watch-6.webp" alt="Alt for image" caption="
 Apple Watch Series 6 Review" align="center" %}
 # How Important is to Use Smartwatch to Improve Ladies safety?
 
@@ -93,7 +93,7 @@ Ensuring safety is also a critical factor that makes the life of women better. S
 
 ### Post Author
 #### Sarah Hollen
-{% include image.html img="sarah-hollen.jpg" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
+{% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
 Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="about-us">here</a>.
 
 <b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
