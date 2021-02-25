@@ -215,6 +215,7 @@ More on this later.
 -------------------------------------------------------------------------------------------------------------------------------
 
 ### No.1 Apple Watch Series 6
+{% include image.html img="apple-watch-series-6.webp" align="right" %}
 It is available in 40mm & 44mm sizes like series 5. Best for tiny wrists as it has a 10.74mm depth casing only.
 
 Different materials were used for finishes. You can choose from a collection of aluminum, titanium, and stainless steel. Get these in two colors in new blue and red.
@@ -230,6 +231,7 @@ You can go for Apple Watch SE, which doesn't have a blood oxygen sensor, ECG sen
 <button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/apple-watch-series-6-review/">Read Our Full Review Here</button>
 
 ### No.2 Samsung Active Galaxy Active 3
+{% include image.html img="samsung-galaxy-active-3.webp" align="right" %}
 
 Top brand Samsung Galaxy has released another version <a href="https://www.watchnationpro.com/samsung-watch-active-3-review">Samsung Galaxy Active 3</a>.
 
@@ -242,7 +244,7 @@ Along with activities trackers, heart rate monitors, ECG monitors to track heart
 <button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/samsung-watch-active-3-review">Read Our Full Review Here</button>
 
 ### No. 3 Garmin Venu
-
+{% include image.html img="garmin-venu.webp" align="right" %}
 Garmin Venu is the first has released its first AMOLED smartwatch . This screen is bright and sharp with an Always-On display. It is one of the best watches for multi-sport tracking.
 
 If you are looking for such a multi-functional watch, <a href="https://www.watchnationpro.com/garmin-venu-review">Garmin Venu</a> can be chosen for this purpose. The heart rate and GPS data are accurate. New features such as breathing and respiration tools for breath exercises are quite impressive. It has five days battery life and provides storage for music files. The proprietary Garmin Pay app serves pretty well for contactless payments. Overall it is not equal to Apple, but it is apt for daily fitness and health tracking with good performance speed.
@@ -250,6 +252,7 @@ If you are looking for such a multi-functional watch, <a href="https://www.watch
 <button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/garmin-venu-review/">>> Read Our Full Review Here <<</button>
 
 ### No.4 Fitbit Sense
+{% include image.html img="fitbit-sense.webp" align="right" %}
 
 Fitbit's sense is apt for health-conscious people. It backs all the sensors that are not available in other watches near as same as Versa.
 
@@ -264,12 +267,14 @@ GPS tracks your miles and location on your runs and travels. Waterproof features
 <button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/fitbit-sense-review/">>> Read Our Full Review Here <<</button>
 
 ### No. 5 Huawei GT 2
+{% include image.html img="huawei-gt-2.webp" align="right" %}
 
 <a href="https://www.watchnationpro.com/huawei-gt-2-review">Huawei GT 2</a> is the successor of Huawei GT, is apt for people who look for fitness tracking and sporty looks. With its OS, Lite OS, Huawei has added some more features that are missing in Huawei GT. The Kirin Chip improves the performance of fitness tracking. The built-in GPS signal is excellent and useful for activity tracking. The in-built optical heart rate sensor monitors your heart all over the day. The sleep and stress tracking are also pretty good. The speaker between the physical buttons allows you to speak with the caller on the watch itself. It has no NFC for contactless payments outside China, and you cannot download any third-party apps. As it has 5 ATM water resistance, Swimming and swim tracking is another option you can enjoy with this watch. Above all, It gets great praise for its battery life. Huawei ensures two weeks of battery life which is worth buying this smartwatch.
 
 <button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/huawei-gt-2-review/">>> Read Our Full Review Here <<</button>
 
 ### No. 6 Fossil Sport
+{% include image.html img="fossil-sport.webp" align="right" %}
 
 If you want sports at a low price, your best choice should be Fossil Sport under £100.
 
@@ -284,6 +289,7 @@ It's also a solid smartwatch with everything you'd expect from a wearable runnin
 <button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
 
 ### No. 7 Kate Spade Scallop 2
+{% include image.html img="kate-spade-scallop-2.webp" align="right" %}
 
 Version two of Kate spade runs on Wear OS like the first version of Kate spade scallop. It has the same attractive looks and covers almost the features of Fossil watches.
 
