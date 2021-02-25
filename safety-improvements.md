@@ -94,7 +94,7 @@ Ensuring safety is also a critical factor that makes the life of women better. S
 ### Post Author
 #### Sarah Hollen
 {% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
-Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="about-us">here</a>.
+Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://www.watchnationpro.com/about-us/">here</a>.
 
 <b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
 
