@@ -70,8 +70,8 @@ More on this later.
      </th>
    </tr>
    <colgroup>
-   <col span="1" style="width: 40%;">
    <col span="1" style="width: 60%;">
+   <col span="1" style="width: 40%;">
    </colgroup>
    <tbody>
    <tr>
@@ -122,6 +122,7 @@ More on this later.
      <td class = "content-left">
        <b># 3 Garmin Venu</b>
        {% include image.html img="women-missing-exercise.jpg" align="center" %}
+       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
        <div align = "right">
          <p class = "tip tooltip">
            ?
@@ -132,13 +133,14 @@ More on this later.
        </div>
      </td>
      <td class = "content-right r-bor">
-       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
+       XXXXXX
      </td>
    </tr>
    <tr>
      <td class = "content-left">
        <b># 4 Fitbit Sense</b>
        {% include image.html img="women-missing-exercise.jpg" align="center" %}
+       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
        <div align = "right">
          <p class = "tip tooltip">
            ?
@@ -149,13 +151,14 @@ More on this later.
        </div>
      </td>
      <td class = "content-right r-bor">
-       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
+       XXXX
      </td>
    </tr>
    <tr>
      <td class = "content-left">
        <b># 5 Huawei GT 2</b>
        {% include image.html img="women-missing-exercise.jpg" align="center" %}
+       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
        <div align = "right">
          <p class = "tip tooltip">
            ?
@@ -166,13 +169,14 @@ More on this later.
        </div>
      </td>
      <td class = "content-right r-bor">
-       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
+       XXXX
      </td>
    </tr>
    <tr>
      <td class = "content-left">
        <b># 6 Fossil Sport</b>
        {% include image.html img="women-missing-exercise.jpg" align="center" %}
+       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
        <div align = "right">
          <p class = "tip tooltip">
            ?
@@ -183,13 +187,14 @@ More on this later.
        </div>
      </td>
      <td class = "content-right r-bor">
-       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
+       XXXX
      </td>
    </tr>
    <tr>
      <td class = "content-left">
        <b># 7 Kate Spade Scallop 2</b>
        {% include image.html img="women-missing-exercise.jpg" align="center" %}
+       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
        <div align = "right">
          <p class = "tip tooltip">
            ?
@@ -200,7 +205,7 @@ More on this later.
        </div>
      </td>
      <td class = "content-right r-bor">
-       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
+       XXX
      </td>
    </tr>
    </tbody>
