@@ -86,7 +86,7 @@ More on this later.
      <td class = "content-left">
       {% include image.html img="women-missing-exercise.jpg" alt="Women-missing-exercise" caption="Missing Exercise?" align="left" %}
        # 1 Apple Watch Series 6
-       Best Overall Performance
+       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
        <div align = "right">
          <p class = "tip tooltip">
            ?
@@ -97,7 +97,7 @@ More on this later.
        </div>
      </td>
      <td class = "content-right r-bor">
-       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
+       Best Overall Performance
      </td>
    </tr>
    <tr>
