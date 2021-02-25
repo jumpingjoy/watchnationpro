@@ -11,13 +11,13 @@ schemadotorg:
  keywords: ["smartwatch for women", "smartwatch for ladies"]
  publisher: WatchNationPro Team
 ---
-{% include image.html img="smartwatch-for-women.png" alt="Alt for image" caption="Smartwatch for women" align="center" %}
+{% include image.html img="smartwatch-for-women.webp" alt="Alt for image" caption="Smartwatch for women" align="center" %}
 
 # How to Find Best Smartwatches for Women and girls?<br>Reviews, Ratings & Buying Guide
 
 Do you know that 25% of women have responded favorably towards using smartwatch compared to only 18% of men? Look at the following infographic to understand how women's smartwatch are increasingly using smartwatches year on year based on the sales statistics on smartwatches!
 
-![Smartwatch-infographic]({{site.baseurl}}/uploads/smartwatch-infographic.png)
+![Smartwatch-infographic]({{site.baseurl}}/uploads/smartwatch-infographic.webp)
 Womens watches 2020 had higher sales than womens watches 2019.
 Are you looking for the best smartwatches for women reviews? smartwatch for girls can help you be better at work and family life.
 
