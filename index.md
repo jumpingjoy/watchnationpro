@@ -79,7 +79,7 @@ More on this later.
        Product
      </td>
      <td class = "right r-bor">
-       What is the price
+       Category
      </td>
    </tr>
    <tr>
@@ -91,7 +91,7 @@ More on this later.
          <p class = "tip tooltip">
            ?
            <span class = "tooltiptext">
-             put you tip here
+             Best Overall performance
            </span>
          </p>
        </div>
@@ -102,8 +102,26 @@ More on this later.
    </tr>
    <tr>
      <td class = "content-left">
-       # 2 Samsung Galaxy Active 3
-       Best Android Watch
+       <b># 2 Samsung Galaxy Active 3</b>
+       {% include image.html img="women-missing-exercise.jpg" align="center" %}
+       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
+       <div align = "right">
+         <p class = "tip tooltip">
+           ?
+           <span class = "tooltiptext">
+             Best Android Watch
+           </span>
+         </p>
+       </div>
+     </td>
+     <td class = "content-right r-bor">
+     Best Android Watch
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+       <b># 3 Garmin Venu</b>
+       {% include image.html img="women-missing-exercise.jpg" align="center" %}
        <div align = "right">
          <p class = "tip tooltip">
            ?
@@ -119,8 +137,8 @@ More on this later.
    </tr>
    <tr>
      <td class = "content-left">
-       # 3 Garmin Venu
-       Best Overall Performance
+       <b># 4 Fitbit Sense</b>
+       {% include image.html img="women-missing-exercise.jpg" align="center" %}
        <div align = "right">
          <p class = "tip tooltip">
            ?
@@ -136,8 +154,8 @@ More on this later.
    </tr>
    <tr>
      <td class = "content-left">
-       # 4 Fitbit Sense
-       Best Overall Performance
+       <b># 5 Huawei GT 2</b>
+       {% include image.html img="women-missing-exercise.jpg" align="center" %}
        <div align = "right">
          <p class = "tip tooltip">
            ?
@@ -153,8 +171,8 @@ More on this later.
    </tr>
    <tr>
      <td class = "content-left">
-       # 5 Huawei GT 2
-       Best Overall Performance
+       <b># 6 Fossil Sport</b>
+       {% include image.html img="women-missing-exercise.jpg" align="center" %}
        <div align = "right">
          <p class = "tip tooltip">
            ?
@@ -170,25 +188,8 @@ More on this later.
    </tr>
    <tr>
      <td class = "content-left">
-       # 6 Fossil Sport
-       Best Overall Performance
-       <div align = "right">
-         <p class = "tip tooltip">
-           ?
-           <span class = "tooltiptext">
-             put you tip here
-           </span>
-         </p>
-       </div>
-     </td>
-     <td class = "content-right r-bor">
-       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
-     </td>
-   </tr>
-   <tr>
-     <td class = "content-left">
-       # 7 Kate Spade Scallop 2
-       Best Overall Performance
+       <b># 7 Kate Spade Scallop 2</b>
+       {% include image.html img="women-missing-exercise.jpg" align="center" %}
        <div align = "right">
          <p class = "tip tooltip">
            ?
@@ -221,7 +222,7 @@ Menstrual trackers with early notification, the sensor for measuring blood oxyge
 
 You can go for Apple Watch SE, which doesn't have a blood oxygen sensor, ECG sensor, and heart rate is available in the same size.
 
-<button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/apple-watch-series-6-review/">>> Read Our Full Review Here <<</button>
+<button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/apple-watch-series-6-review/">Read Our Full Review Here</button>
 
 ### No.2 Samsung Active Galaxy Active 3
 
