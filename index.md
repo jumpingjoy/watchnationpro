@@ -85,7 +85,7 @@ More on this later.
    <tr>
      <td class = "content-left">
      <b># 1 Apple Watch Series 6</b>
-      {% include image.html img="women-missing-exercise.jpg" align="center" %}
+      {% include image.html img="apple-watch-series-6.webp" align="center" %}
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
        <div align = "right">
          <p class = "tip tooltip">
@@ -103,7 +103,7 @@ More on this later.
    <tr>
      <td class = "content-left">
        <b># 2 Samsung Galaxy Active 3</b>
-       {% include image.html img="women-missing-exercise.jpg" align="center" %}
+       {% include image.html img="samsung-galaxy-active-3.webp" align="center" %}
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
        <div align = "right">
          <p class = "tip tooltip">
