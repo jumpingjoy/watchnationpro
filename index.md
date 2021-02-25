@@ -152,7 +152,7 @@ More on this later.
    </tr>
    <tr>
      <td class = "content-left">
-       # 5 Fossil Sport
+       # 5 Huawei GT 2
        Best Overall Performance
        <div align = "right">
          <p class = "tip tooltip">
@@ -169,7 +169,7 @@ More on this later.
    </tr>
    <tr>
      <td class = "content-left">
-       # 6 Kate Spade Scallop 2
+       # 6 Fossil Sport
        Best Overall Performance
        <div align = "right">
          <p class = "tip tooltip">
@@ -186,7 +186,7 @@ More on this later.
    </tr>
    <tr>
      <td class = "content-left">
-       # 7 Huawei GT 2
+       # 7 Kate Spade Scallop 2
        Best Overall Performance
        <div align = "right">
          <p class = "tip tooltip">
@@ -236,17 +236,9 @@ Along with activities trackers, heart rate monitors, ECG monitors to track heart
 
 ### No. 3 Garmin Venu
 
-It is available in 40mm & 44mm sizes like series 5. Best for tiny wrists as it has a 10.74mm depth casing only.
+Garmin Venu is the first has released its first AMOLED smartwatch . This screen is bright and sharp with an Always-On display. It is one of the best watches for multi-sport tracking.
 
-Different materials are used for finishing. You can choose from a collection of aluminum, titanium, and stainless steel. Get these in two colors in new blue and red.
-
-Wrist band comes with an attractive range of varieties - leather strap, silicone band, stainless steel band, and woven sport band. Other than these, different materials and colors are available in the market by third-party.
-
-LTE and GPS help initiate calls and play music even though your smartphone is far away from you. The metrics of all the sensors are verified as accurate. It is waterproof. So you can go for a swim with your watch.
-
-Menstrual trackers with early notification, the sensor for measuring blood oxygen, advanced heart monitor of ECG are provided. To monitor hearing capability and to assist in breathing exercises are also given for the buyers.
-
-You can go for Apple Watch SE, which doesn't have a blood oxygen sensor, ECG sensor, and heart rate is available in the same size.
+If you are looking for such a multi-functional watch, <a href="https://www.watchnationpro.com/garmin-venu-review">Garmin Venu</a> can be chosen for this purpose. The heart rate and GPS data are accurate. New features such as breathing and respiration tools for breath exercises are quite impressive. It has five days battery life and provides storage for music files. The proprietary Garmin Pay app serves pretty well for contactless payments. Overall it is not equal to Apple, but it is apt for daily fitness and health tracking with good performance speed.
 
 <button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/garmin-venu-review/">>> Read Our Full Review Here <<</button>
 
@@ -258,25 +250,17 @@ The bands have two kinds of stainless steel with AMOLED displays having 40mm siz
 
 Advanced health trackers come with Fitbit sense. ECG sensor for a minute heart activity tracker, optical heart rate sensor to track pulses, Stress monitoring app EDA are the highlights in Fitbit. As its name says, it senses everything that a health-conscious person looks for.
 
-Excellent battery life is the most significant advantage of sense. It provides six days of battery life. Charging also takes significantly less time, approximately 12 minutes only. Like Versa, it has Fitbit Pay.
+<a href="https://www.watchnationpro.com/garmin-venu-review">Fitbit Sense</a> has excellent battery life is the most significant advantage of sense. It provides six days of battery life. Charging also takes significantly less time, approximately 12 minutes only. Like Versa, it has Fitbit Pay.
 
 GPS tracks your miles and location on your runs and travels. Waterproof features allow you to swim.
 
 <button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/fitbit-sense-review/">>> Read Our Full Review Here <<</button>
 
-### No. 5 Fossil Sport
+### No. 5 Huawei GT 2
 
-If you want sports at a low price, your best choice should be Fossil Sport under £100.
+<a href="https://www.watchnationpro.com/garmin-venu-review">Huawei GT 2</a> is the successor of Huawei GT, is apt for people who look for fitness tracking and sporty looks. With its OS, Lite OS, Huawei has added some more features that are missing in Huawei GT. The Kirin Chip improves the performance of fitness tracking. The built-in GPS signal is excellent and useful for activity tracking. The in-built optical heart rate sensor monitors your heart all over the day. The sleep and stress tracking are also pretty good. The speaker between the physical buttons allows you to speak with the caller on the watch itself. It has no NFC for contactless payments outside China, and you cannot download any third-party apps. As it has 5 ATM water resistance, Swimming and swim tracking is another option you can enjoy with this watch. Above all, It gets great praise for its battery life. Huawei ensures two weeks of battery life which is worth buying this smartwatch.
 
-The casing comes in two different sizes, 41mm and 43mm. The silicone stay is sweat-friendly. The 41mm face looks good in small wrists. The straps are available in many colors.
-
-It runs on Wear OS and provides notifications and alerts like email and app information. NFC for Google pay is available.
-
-Untethered GPS is convenient for runners who wish to keep their phones at home. The activity tracker, swim-proof, heart rate monitor is worth mentioning of Fossil Sport. The heart rate monitor is not up to standard.
-
-It's also a solid smartwatch with everything you'd expect from a wearable running Wear OS, including NFC for Google Pay, email, notifications, and app alerts.
-
-<button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/fossil-sport-review/d">>> Read Our Full Review Here <<</button>
+<button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/huawei-gt-2-review/">>> Read Our Full Review Here <<</button>
 
 ### No. 6 Kate Spade Scallop 2
 
