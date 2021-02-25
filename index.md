@@ -11,7 +11,7 @@ schemadotorg:
  keywords: ["smartwatch for women", "smartwatch for ladies"]
  publisher: WatchNationPro Team
 ---
-{% include image.html img="smartwatch-for-women.webp" alt="Alt for image" caption="Smartwatch for women" align="center" %}
+{% include image.html img="smartwatch-for-women.webp" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
 
 # How to Find Best Smartwatches for Women and girls?<br>Reviews, Ratings & Buying Guide
 
