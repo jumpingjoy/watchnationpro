@@ -84,7 +84,7 @@ More on this later.
    </tr>
    <tr>
      <td class = "content-left">
-     # 1 Apple Watch Series 6
+     <b># 1 Apple Watch Series 6</b>
       {% include image.html img="women-missing-exercise.jpg" align="center" %}
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
        <div align = "right">
