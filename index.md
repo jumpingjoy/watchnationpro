@@ -121,7 +121,7 @@ More on this later.
    <tr>
      <td class = "content-left">
        <b># 3 Garmin Venu</b>
-       {% include image.html img="women-missing-exercise.jpg" align="center" %}
+       {% include image.html img="garmin-venu.webp" align="center" %}
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
        <div align = "right">
          <p class = "tip tooltip">
@@ -139,7 +139,7 @@ More on this later.
    <tr>
      <td class = "content-left">
        <b># 4 Fitbit Sense</b>
-       {% include image.html img="women-missing-exercise.jpg" align="center" %}
+       {% include image.html img="fitbit-sense.webp" align="center" %}
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
        <div align = "right">
          <p class = "tip tooltip">
@@ -157,7 +157,7 @@ More on this later.
    <tr>
      <td class = "content-left">
        <b># 5 Huawei GT 2</b>
-       {% include image.html img="women-missing-exercise.jpg" align="center" %}
+       {% include image.html img="huawei-gt-2.webp" align="center" %}
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
        <div align = "right">
          <p class = "tip tooltip">
@@ -175,7 +175,7 @@ More on this later.
    <tr>
      <td class = "content-left">
        <b># 6 Fossil Sport</b>
-       {% include image.html img="women-missing-exercise.jpg" align="center" %}
+       {% include image.html img="fossil-sport.webp" align="center" %}
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
        <div align = "right">
          <p class = "tip tooltip">
@@ -193,7 +193,7 @@ More on this later.
    <tr>
      <td class = "content-left">
        <b># 7 Kate Spade Scallop 2</b>
-       {% include image.html img="women-missing-exercise.jpg" align="center" %}
+       {% include image.html img="kate-spade-scallop-2.webp" align="center" %}
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
        <div align = "right">
          <p class = "tip tooltip">
