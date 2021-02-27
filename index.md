@@ -229,7 +229,7 @@ Untethered built in GPS is convenient for runners who wish to keep their phones 
 
 It includes NFC for Google Pay, email, notifications, and app alerts.
 
-{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fossil-sport-review/" blank="true" class="uk-margin-remove" %}
+{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fossil-sport-review/" blank="true" %}
 
 ### No. 7 Kate Spade Scallop 2
 {% include image.html img="kate-spade-scallop-2.webp" align="right" %}
