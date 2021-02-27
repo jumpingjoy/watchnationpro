@@ -198,7 +198,7 @@ Our rating: ★★☆☆☆ | 😟
 
 You can see the Message notifications displayed in the notification section. But you cannot reply to the messages on the watch itself. But other smartwatches have this feature of responding to messages.
 
-#### How useful is the navigation feature in the Huawei GT 2?
+#### How useful is the GPS Navigation Feature in the Huawei GT 2?
 
 Our rating: ★★★★★ | 😎
 

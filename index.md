@@ -303,7 +303,7 @@ For example, Fitness Band for Healthcare may not have features like calling func
 
 As a leading source for the best smartwatch reviews on the web, we believe you should know about all the significant features when searching out the products.  So,  here is a glossary of the most common features you should familiarize yourself with and also know the basics of how to select smartwatch women:
 
-#### ✅How is the watch display?
+#### ✅How good is the watch display?
 
 When you look at girls smartwatches, what is the first thing you notice on a smartwatch?
 
@@ -322,7 +322,9 @@ Check for the display size and clarity
 * Is it bright enough when viewed in the dark?
 View the watch from different angles and a different distance from your eyes and ensure that the clarity is uncompromised.
 
-#### ✅How to Connect Watch to Phone? Check Compatible of the smartwatch with Mobile OS
+#### ✅How to good is the smartwatch compatibilty with smartphones?
+
+You can check the compatibility of the smartwatch with smartphones by testing the connection a have to connect the smartwatch to android smarpCheck Compatible of the smartwatch with Mobile OS
 
 The Operating system in smartwatches must be compatible with your smartphone’s OS. Otherwise, you may not have access to few functions.
 

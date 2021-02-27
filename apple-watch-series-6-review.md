@@ -241,7 +241,7 @@ For example, You can speak like "Are you coming today question mark," this text 
 
 Use the mike button and record your reply and send it directly. One more option is available there. That is "Scribble." Using the scribble option, you can write your message using your finger on the watch's face. Apart from these all, you can use stickers, emojis in your messages and replies.
 
-#### How good is the navigation feature in the Apple Watch Series 6 series?
+#### How good is the GPS Navigation Feature in the Apple Watch Series 6 series?
 
 Our rating: ★★★★★ | 😎
 

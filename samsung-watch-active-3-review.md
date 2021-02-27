@@ -154,7 +154,7 @@ From Apps, Tap on Messages. You can see Compose. Tap on it. Select the recipient
 From the Galaxy wearable app, you can edit and add messages as per your needs and wish by tapping on Quick Messages.
 In the same Messages App, through More Options, you can fine Message settings where you can find enabling recording to send as audio instead of text, blocked numbers and messages, and Editing emergency alerts.
 
-#### How good is the navigation feature in the Samsung Watch Active 3 series?
+#### How good is the GPS Navigation Feature in the Samsung Watch Active 3 series?
 
 Our rating: ★★★★★ | 😎
 

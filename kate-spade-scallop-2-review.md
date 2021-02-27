@@ -134,7 +134,7 @@ Our rating: ★★★★★ | 😎
 
 You can see the Message notifications displayed in the notification section. Android mobile users can reply to messages in the watch itself. But iOS users can not entertain replying to messages in the watch itself.
 
-#### How useful is the navigation feature in the Kate Spade Scallop 2?
+#### How useful is the GPS Navigation Feature in the Kate Spade Scallop 2?
 
 Our rating: ★★★★★ | 😎
 

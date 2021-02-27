@@ -153,7 +153,7 @@ Our rating: ★★★★★ | 😎
 
 You can respond to the messages from the smartwatch while getting notifications for the same. But this feature is available only for Android smartphones. You can reply through the messaging apps if you have a watch app installed on iPhones. So you can reply to Telegram messages’ only directly on iPhones.You can respond to the messages from the list of preloaded quick replies. Apart from these quick replies, you can send emojis as a reply, and you can use a microphone to reply to the message. That reply can be transcribed or send as an audio message, too, either.
 
-#### How good is the navigation feature in the Fossil Sport?
+#### How good is the GPS Navigation Feature in the Fossil Sport?
 
 Our rating: ★★★★★ | 😎
 

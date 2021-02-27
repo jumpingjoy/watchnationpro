@@ -138,7 +138,7 @@ Our rating: ★★★★★ | 😎
 
 You can see the Message notifications displayed in the notification section. To view the notification, swipe up and down, and to read the message, select the notification, and you can see the full message. To reply, you have to choose the message from a list of messages.  You can customize this feature in the Garmin Connect app. You can reply to messages only through your Android mobile.
 
-#### How good is the navigation feature in the Garmin Venu?
+#### How good is the GPS Navigation Feature in the Garmin Venu?
 
 Our rating: ★★★★★ | 😎
 

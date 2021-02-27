@@ -174,7 +174,7 @@ You can respond to the messages from the list of preloaded quick replies. Please
 Apart from this quick replies, you can send emojis as reply and you can use microphone to reply to the message but reply will be sent after converting voice into text.
 It provides “undo” option too for 3 seconds after sending the reply to a message.
 
-#### How good is the navigation feature in the Fitbit Sense series?
+#### How good is the GPS Navigation Feature in the Fitbit Sense series?
 
 Our rating: ★★★★★ | 😎
 
