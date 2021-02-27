@@ -20,7 +20,7 @@ schemadotorg:
     "@id": https://watchnationpro.com/apple-watch-series-6-review/#webpage
     url: https://watchnationpro.com/apple-watch-series-6-review/
     inLanguage: en-US
-    name: 'Obagi Vitamin C Serum Review: </br>5% vs 10% vs 15% vs 20%'
+    name: 'Apple Watch Series 6 Review vs SE vs 3'
     isPartOf:
       "@id": https://watchnationpro.com/#website
     breadcrumb:
@@ -53,7 +53,7 @@ schemadotorg:
     brand: Apple
     SKU: 123
     description:  While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
-    aggregateRating:
+    aggregateRating: '4.9'
   reviewRating:
     "@type": Rating
     ratingValue: '4.9'
@@ -396,7 +396,7 @@ Users will not feel about lugging around my iPhone 11 anymore. Users are entirel
 
 If you are serious about your work, health and need to monitor your loved ones for their safety and security, this will be the best smartwatch and worth every penny. You can also go for Apple Watch SE, which doesn't have a blood oxygen sensor, ECG sensor, and heart rate, which is available in the same size as that of the former.
 
-If you feel that the cost is over the board, we have reviewed other <u><a href= "https://www.watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
+If you feel that the cost is over the board, we have reviewed other <a href= "https://www.watchnationpro.com/">best smartwatches for women</a> which you can check out.
 
 ### Post Author
 #### Sarah Hollen
