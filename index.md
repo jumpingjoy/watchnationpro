@@ -171,7 +171,7 @@ Menstrual cycle tracking with early notification, the sensor for measuring blood
 
 The previous editions like Apple Watch SE do not have blood oxygen levels sensor, ECG sensor, but comes with heart rate tracking.
 
-<button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/apple-watch-series-6-review/">Read Our Full Review Here</button>
+<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button uk-button uk-button-primary uk-button-large uk-border-rounded"></div>
 
 ### No.2 Samsung Active Galaxy Active 3
 {% include image.html img="samsung-galaxy-active-3.webp" align="right" %}
