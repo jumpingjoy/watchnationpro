@@ -69,8 +69,8 @@ More on this later.
      </th>
    </tr>
    <colgroup>
-   <col span="1" style="width: 60%;">
-   <col span="1" style="width: 40%;">
+   <col span="1" style="width: 50%;">
+   <col span="1" style="width: 50%;">
    </colgroup>
    <tbody>
    <tr>
