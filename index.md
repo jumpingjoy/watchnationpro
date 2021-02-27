@@ -29,7 +29,7 @@ You can be missing your reminder on your menstrual cycle's dates. Most women suf
 
 ### 2. Miss your health?: Track health and Get reminded to exercise
 {% include image.html img="women-missing-exercise.webp" alt="Women-missing-exercise" caption="Missing Exercise?" align="left" %}
-You may not find time to exercise due to household chores and caring for family and children which may lead to obesity.
+You may not find time to exercise due to household chores and caring for family and children which may lead to obesity. You can have smartwatch which can help you get reminded of your exercise and nutrition needs.
 
 ### 3. Do you travel alone and some strangers stalk you?: Emergency SOS alert your friends/family and police
 {% include image.html img="stranger-danger.webp" alt="Stranger danger" caption="dangers of stranger?" align="right" %}
