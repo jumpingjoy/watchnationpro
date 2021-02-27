@@ -25,7 +25,7 @@ To better understand the benefits of smartwatches for women and girls, we must k
 
 ### 1. Difficulty with irregular cycles?: Get reminded of menstrual dates with a smartwatch
 {% include image.html img="menstruation.webp" alt="menstruation" caption="Tracking Menstrual Cycle" align="right" %}
-You can be missing your reminder on your menstrual cycle's dates. Most women suffer from stress during their menstrual time, resulting in decreased work productivity during office hours. Maintaining hygiene during menstruation is a critical factor. If hygiene is not properly maintained may lead to medical complications such as uterine fibroids, endometriosis, PMDD, menorrhagia, etc. If a gadget like a girls smartwatch can remind you, you can pre-plan your leaves and rest at home to maintain your hygiene.
+You can be missing your reminder on your menstrual cycle’s dates. Stress management is difficult  during the menstrual time, resulting in decreased work productivity during office hours. If menstrual hygiene is not properly maintained may lead to medical complications such as uterine fibroids, endometriosis, PMDD, menorrhagia, etc. If a gadget like a girls smartwatch can assist you, you can pre-plan your leaves and rest at home to maintain your hygiene.
 
 ### 2. Miss your health?: Track health and Get reminded to exercise
 {% include image.html img="women-missing-exercise.webp" alt="Women-missing-exercise" caption="Missing Exercise?" align="left" %}
@@ -86,14 +86,6 @@ More on this later.
      <b># 1 Apple Watch Series 6</b>
       {% include image.html img="apple-watch-series-6.webp" align="center" %}
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
-       <div align = "right">
-         <p class = "tip tooltip">
-           ?
-           <span class = "tooltiptext">
-             Best Overall performance
-           </span>
-         </p>
-       </div>
      </td>
      <td class = "content-right r-bor">
        Best Overall Performance
@@ -104,17 +96,9 @@ More on this later.
        <b># 2 Samsung Galaxy Active 3</b>
        {% include image.html img="samsung-galaxy-active-3.webp" align="center" %}
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
-       <div align = "right">
-         <p class = "tip tooltip">
-           ?
-           <span class = "tooltiptext">
-             Best Android Watch
-           </span>
-         </p>
-       </div>
      </td>
      <td class = "content-right r-bor">
-     Best Android Watch
+     Best Smartwatch for Fitness Enthusiast
      </td>
    </tr>
    <tr>
@@ -122,17 +106,9 @@ More on this later.
        <b># 3 Garmin Venu</b>
        {% include image.html img="garmin-venu.webp" align="center" %}
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
-       <div align = "right">
-         <p class = "tip tooltip">
-           ?
-           <span class = "tooltiptext">
-             put you tip here
-           </span>
-         </p>
-       </div>
      </td>
      <td class = "content-right r-bor">
-       XXXXXX
+       Best Garmin Smartwatch for Women
      </td>
    </tr>
    <tr>
@@ -140,17 +116,9 @@ More on this later.
        <b># 4 Fitbit Sense</b>
        {% include image.html img="fitbit-sense.webp" align="center" %}
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
-       <div align = "right">
-         <p class = "tip tooltip">
-           ?
-           <span class = "tooltiptext">
-             put you tip here
-           </span>
-         </p>
-       </div>
      </td>
      <td class = "content-right r-bor">
-       XXXX
+       Best Fitbit Smartwatch for Women
      </td>
    </tr>
    <tr>
@@ -158,17 +126,9 @@ More on this later.
        <b># 5 Huawei GT 2</b>
        {% include image.html img="huawei-gt-2.webp" align="center" %}
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
-       <div align = "right">
-         <p class = "tip tooltip">
-           ?
-           <span class = "tooltiptext">
-             put you tip here
-           </span>
-         </p>
-       </div>
      </td>
      <td class = "content-right r-bor">
-       XXXX
+       Best Battery Smartwatch for Women
      </td>
    </tr>
    <tr>
@@ -176,14 +136,6 @@ More on this later.
        <b># 6 Fossil Sport</b>
        {% include image.html img="fossil-sport.webp" align="center" %}
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
-       <div align = "right">
-         <p class = "tip tooltip">
-           ?
-           <span class = "tooltiptext">
-             put you tip here
-           </span>
-         </p>
-       </div>
      </td>
      <td class = "content-right r-bor">
        XXXX
@@ -194,17 +146,9 @@ More on this later.
        <b># 7 Kate Spade Scallop 2</b>
        {% include image.html img="kate-spade-scallop-2.webp" align="center" %}
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
-       <div align = "right">
-         <p class = "tip tooltip">
-           ?
-           <span class = "tooltiptext">
-             put you tip here
-           </span>
-         </p>
-       </div>
      </td>
      <td class = "content-right r-bor">
-       XXX
+       Best Feminine Design Smartwatch for Women
      </td>
    </tr>
    </tbody>
