@@ -229,7 +229,7 @@ Untethered built in GPS is convenient for runners who wish to keep their phones 
 
 It includes NFC for Google Pay, email, notifications, and app alerts.
 
-{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fossil-sport-review/" blank="true" %}
+{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fossil-sport-review/" blank="true" % class="uk-margin-remove"}
 
 ### No. 7 Kate Spade Scallop 2
 {% include image.html img="kate-spade-scallop-2.webp" align="right" %}
@@ -239,8 +239,6 @@ Kate spade scallop 2 has an AMOLED display with attractive looks like Michael Ko
 The “Choose your looks" App helps you pick the right watch face from a variety of watch faces that matches women best clothes and accessories. NFC for Google pay is a notable one. As it is waterproof, you can swim with that. Using its ambient light sensor which adjusts the brightness, it has decent battery life.
 
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fossil-sport-review/" blank="true" %}
-
---------------------------------------------------------------------------------------------------------------------------------
 
 ## WatchNationPro.com's Motto
 
