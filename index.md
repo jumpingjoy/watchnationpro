@@ -184,7 +184,7 @@ In case you are an Android user and are not comfortable with Wear OS, Samsung ga
 
 Along with built in GPS, activity tracking, heart rate tracking monitors, ECG monitors to track heart functionalities, and fall detection is available in Active 3.
 
-<button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/samsung-watch-active-3-review">Read Our Full Review Here</button>
+{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/samsung-watch-active-3-review/" blank="true" %}
 
 ### No. 3 Garmin Venu
 {% include image.html img="garmin-venu.webp" align="right" %}
@@ -192,7 +192,7 @@ Garmin Venu is the first has released its first AMOLED smartwatch . This screen 
 
  The heart rate and built in GPS tracking data of <a href="https://www.watchnationpro.com/garmin-venu-review">Garmin Venu</a> are accurate. New features like breathing and respiration tools for breath exercises are quite impressive. It has five days battery life and provides storage for music files. The proprietary Garmin Pay app serves pretty well for contactless payments. Overall it is not equal to Apple, but it is apt for daily fitness and health tracking with good performance speed.
 
-<button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/garmin-venu-review/">>> Read Our Full Review Here <<</button>
+{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/garmin-venu-review/" blank="true" %}
 
 ### No.4 Fitbit Sense
 {% include image.html img="fitbit-sense.webp" align="right" %}
@@ -207,7 +207,7 @@ Advanced fitness tracker comes with Fitbit sense when compared to Fitbit versa 2
 
 GPS tracking helps you track gps location on your runs and travels. It's a waterproof model that allows you to swim.
 
-<button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/fitbit-sense-review/">>> Read Our Full Review Here <<</button>
+{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fitbit-sense-review/" blank="true" %}
 
 ### No. 5 Huawei GT 2
 {% include image.html img="huawei-gt-2.webp" align="right" %}
@@ -216,7 +216,7 @@ GPS tracking helps you track gps location on your runs and travels. It's a water
 
 As it has 5 ATM water resistance, Swimming and swim tracking is another option you can enjoy with this watch. Above all, this model is greatly praised for its battery life (around two weeks of battery life).
 
-<button class="uk-button uk-button-primary" href="https://www.watchnationpro.com/huawei-gt-2-review/">>> Read Our Full Review Here <<</button>
+{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/huawei-gt-2-review/" blank="true" %}
 
 ### No. 6 Fossil Sport
 {% include image.html img="fossil-sport.webp" align="right" %}
@@ -229,7 +229,7 @@ Untethered built in GPS is convenient for runners who wish to keep their phones 
 
 It includes NFC for Google Pay, email, notifications, and app alerts.
 
-<button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fossil-sport-review/" blank="true" %}
 
 ### No. 7 Kate Spade Scallop 2
 {% include image.html img="kate-spade-scallop-2.webp" align="right" %}
@@ -238,7 +238,7 @@ Kate spade scallop 2 has an AMOLED display with attractive looks like Michael Ko
 
 The “Choose your looks" App helps you pick the right watch face from a variety of watch faces that matches women best clothes and accessories. NFC for Google pay is a notable one. As it is waterproof, you can swim with that. Using its ambient light sensor which adjusts the brightness, it has decent battery life.
 
-<button class="uk-button uk-button-primary" href="">>> Read Our Full Review Here <<</button>
+{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fossil-sport-review/" blank="true" %}
 
 --------------------------------------------------------------------------------------------------------------------------------
 
