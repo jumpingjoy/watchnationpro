@@ -138,7 +138,7 @@ More on this later.
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
      </td>
      <td class = "content-right r-bor">
-       XXXX
+       Best Sports Smartwatch for Women
      </td>
    </tr>
    <tr>
