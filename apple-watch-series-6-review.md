@@ -180,7 +180,7 @@ Our rating: ★★★★★ | 😎
 
 We can look at the smart features that are used very frequently daily in a smartwatch.
 
-#### How does screen scrolling work in Apple watch series 6?
+#### How is the display screen browsing and scrolling experience in the Apple watch series 6?
 
 Our rating: ★★★★★ | 😎
 
@@ -243,9 +243,7 @@ Use the mike button and record your reply and send it directly. One more option 
 
 #### How good is the GPS Navigation Feature in the Apple Watch Series 6 series?
 
-Our rating: ★★★★★ | 😎
 
-Crown lets you zoom-in and zoom-out. You can scroll manually by dragging a finger on the screen. You can swipe left, right, up, and down to see different screens.
 
 #### How good is the payment feature in the Apple Watch Series 6 series?
 
