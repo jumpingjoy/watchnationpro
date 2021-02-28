@@ -141,7 +141,7 @@ We have analyzed the women's smartwatches depending upon various categories like
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
      </td>
      <td class = "content-right r-bor">
-       Best Low Priced Sports Smartwatch for Women
+       Best Low Priced WearOS Sports Smartwatch for Women
      </td>
    </tr>
    <tr>
@@ -338,7 +338,7 @@ The GPS tracking helps you track gps location on your runs and travels. It's a w
  <table>
    <tr>
      <th colspan = "2" class = "top">
-       Pros and Cons of Garmin Venu
+       Pros and Cons of Fitbit Sense
      </th>
    </tr>
    <colgroup>
@@ -357,15 +357,19 @@ The GPS tracking helps you track gps location on your runs and travels. It's a w
    <tr>
      <td class = "content-left">
       <ul>
-        <li>✅Attractive</li>
-        <li>✅Long battery life</li>
-        <li>✅Comprehensive fitness/health features</li>
+        <li>✅High-end, premium design</li>
+        <li>✅Improved quick-release straps</li>
+        <li>✅(Mostly) accurate GPS and heart rate sensors</li>
+        <li>✅Skin temp sensor provides useful data</li>
+        <li>✅Detailed sleep tracking</li>
+        <li>✅~6-day battery life</li>
       </ul>
      </td>
      <td class = "content-right r-bor">
       <ul>
-        <li>❌Small app store</li>
-        <li>❌No Spotify music storage</li>
+        <li>❌Bad inductive button</li>
+        <li>❌EDA and ECG sensors needs refining</li>
+        <li>❌Fitbit OS still needs work</li>
       </ul>
      </td>
    </tr>
@@ -382,6 +386,51 @@ The GPS tracking helps you track gps location on your runs and travels. It's a w
 
 As it has 5 ATM water resistance, Swimming and swim tracking is another option you can enjoy with this watch. Above all, this model is greatly praised for its battery life (around two weeks of battery life).
 
+<div class = "scroll">
+ <table>
+   <tr>
+     <th colspan = "2" class = "top">
+       Pros and Cons of Fitbit Sense
+     </th>
+   </tr>
+   <colgroup>
+   <col span="1" style="width: 50%;">
+   <col span="1" style="width: 50%;">
+   </colgroup>
+   <tbody>
+   <tr>
+     <td class = "left">
+       Pros
+     </td>
+     <td class = "right r-bor">
+       Cons
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+      <ul>
+        <li>✅Great battery life</li>
+        <li>✅Looks gorgeous</li>
+        <li>✅Sharp AMOLED display</li>
+        <li>✅Much improved performance over last year</li>
+        <li>✅Affordable</li>
+      </ul>
+     </td>
+     <td class = "content-right r-bor">
+      <ul>
+        <li>❌Limited third-party app support with Huawei Health</li>
+        <li>❌Large footprint on wrist</li>
+        <li>❌No Qi charging</li>
+        <li>❌No NFC outside of China</li>
+        <li>❌Limited software functionality</li>
+        <li>❌Erratic heart rate sensor</li>
+      </ul>
+     </td>
+   </tr>
+   </tbody>
+ </table>
+ </div>
+
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/huawei-gt-2-review/" blank="true" %}
 
 ### No. 6 Fossil Sport
@@ -393,6 +442,49 @@ Fossil Sport runs on Wear OS and provides smartphone notifications and alerts li
 
 Untethered built in GPS is convenient for people who wish to keep their phones at home and involve in running, cycling or any other travelling activity. The GPS feature works accurately. The fitness features like activity tracking, swim-proof, heart rate monitor is worth mentioning of Fossil Sport. The performance of heart rate sensor monitor in Fossil Sport is moderate.
 
+<div class = "scroll">
+ <table>
+   <tr>
+     <th colspan = "2" class = "top">
+       Pros and Cons of Fossil Sport
+     </th>
+   </tr>
+   <colgroup>
+   <col span="1" style="width: 50%;">
+   <col span="1" style="width: 50%;">
+   </colgroup>
+   <tbody>
+   <tr>
+     <td class = "left">
+       Pros
+     </td>
+     <td class = "right r-bor">
+       Cons
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+      <ul>
+        <li>✅Lightweight, durable design</li>
+        <li>✅Crisp OLED display</li>
+        <li>✅Rotating crown with two customizable buttons</li>
+        <li>✅Decently priced</li>
+        <li>✅GPS, heart rate sensor, NFC</li>
+      </ul>
+     </td>
+     <td class = "content-right r-bor">
+      <ul>
+        <li>❌Performance can be laggy</li>
+        <li>❌Wear OS has its fair share of bugs</li>
+        <li>❌Battery life is still just okay</li>
+        <li>❌Heart rate sensor could be more accurate</li>
+      </ul>
+     </td>
+   </tr>
+   </tbody>
+ </table>
+ </div>
+
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fossil-sport-review/" blank="true" %}
 
 ### No. 7 Kate Spade Scallop 2
@@ -401,6 +493,47 @@ Untethered built in GPS is convenient for people who wish to keep their phones a
 Kate spade scallop 2 has an AMOLED display with fashion style design and attractive looks like Michael Kors access and covers almost all the features of Fossil watches. The Kate spade scallop 2 watch runs on Wear OS like the first version of Kate spade scallop.
 
 The “Choose your looks" App helps you pick the right watch face from a variety of watch faces that matches women best clothes and accessories. NFC for Google pay is a notable one. Kate Spade Scallop has ambient light sensor which adjusts the brightness, and has decent battery life.
+
+<div class = "scroll">
+ <table>
+   <tr>
+     <th colspan = "2" class = "top">
+       Pros and Cons of Kate Spade Scallop 2
+     </th>
+   </tr>
+   <colgroup>
+   <col span="1" style="width: 50%;">
+   <col span="1" style="width: 50%;">
+   </colgroup>
+   <tbody>
+   <tr>
+     <td class = "left">
+       Pros
+     </td>
+     <td class = "right r-bor">
+       Cons
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+      <ul>
+        <li>✅Great updated design</li>
+        <li>✅NFC for mobile payments</li>
+        <li>✅Swim-proof body</li>
+        <li>✅Heart rate sensor and GPS</li>
+      </ul>
+     </td>
+     <td class = "content-right r-bor">
+      <ul>
+        <li>❌New button is questionable design update</li>
+        <li>❌Snapdragon 2100</li>
+        <li>❌Likely short battery life</li>
+      </ul>
+     </td>
+   </tr>
+   </tbody>
+ </table>
+ </div>
 
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fossil-sport-review/" blank="true" %}
 
