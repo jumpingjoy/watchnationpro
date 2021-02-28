@@ -111,7 +111,7 @@ We have analyzed the women's smartwatches depending upon various categories like
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
      </td>
      <td class = "content-right r-bor">
-       Best Garmin Smartwatch for Women
+       Best Multisport Smartwatch for Women
      </td>
    </tr>
    <tr>
@@ -141,7 +141,7 @@ We have analyzed the women's smartwatches depending upon various categories like
        <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
      </td>
      <td class = "content-right r-bor">
-       Best Sports Smartwatch for Women
+       Best Low Priced Sports Smartwatch for Women
      </td>
    </tr>
    <tr>
@@ -157,8 +157,6 @@ We have analyzed the women's smartwatches depending upon various categories like
    </tbody>
  </table>
  </div>
-
--------------------------------------------------------------------------------------------------------------------------------
 
 ### No.1 Apple Watch Series 6
 {% include image.html img="apple-watch-series-6.webp" align="right" %}
@@ -233,7 +231,7 @@ Along with built in GPS, activity tracking, heart rate tracking monitors, ECG mo
  <table>
    <tr>
      <th colspan = "2" class = "top">
-       Pros and Cons of Apple Watch Series 6
+       Pros and Cons of Samsung Active Galaxy Active 3
      </th>
    </tr>
    <colgroup>
@@ -278,6 +276,49 @@ Garmin Venu is the first has released its first AMOLED  screen (with always on d
 
  The built in GPS tracking of <a href="https://www.watchnationpro.com/garmin-venu-review">Garmin Venu</a> are accurate that provides data on location and navigation. New features like breathing and respiration tools for breath exercises are quite impressive. Garmin Venu has five days of battery life and provides storage for music files. The proprietary Garmin Pay app serves pretty well for contactless mobile payments. Overall, the device is apt for daily fitness goals and health tracking with good performance speed.
 
+ <div class = "scroll">
+  <table>
+    <tr>
+      <th colspan = "2" class = "top">
+        Pros and Cons of Garmin Venu
+      </th>
+    </tr>
+    <colgroup>
+    <col span="1" style="width: 50%;">
+    <col span="1" style="width: 50%;">
+    </colgroup>
+    <tbody>
+    <tr>
+      <td class = "left">
+        Pros
+      </td>
+      <td class = "right r-bor">
+        Cons
+      </td>
+    </tr>
+    <tr>
+      <td class = "content-left">
+       <ul>
+         <li>✅Crisp OLED screen with an always-on display</li>
+         <li>✅Garmin Pay support is convenient</li>
+         <li>✅Music storage is standard</li>
+         <li>✅5-day battery life</li>
+         <li>✅Unique breathwork exercises</li>
+         <li>✅Accurate fitness and health tracking</li>
+         <li>✅Useful and accurate sleep tracking</li>
+       </ul>
+      </td>
+      <td class = "content-right r-bor">
+       <ul>
+         <li>❌Touchscreen can be finicky</li>
+         <li>❌High price</li>
+       </ul>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+  </div>
+
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/garmin-venu-review/" blank="true" %}
 
 ### No.4 Fitbit Sense
@@ -292,6 +333,45 @@ Fitbit Sense consists of advanced fitness tracker  when compared to Fitbit versa
 <a href="https://www.watchnationpro.com/fitbit-sense-review">has an excellent battery, around six days of battery life. The time taken to charge is less, approximately 12 minutes only. Similar to Fitbit Versa 2, it has Fitbit Pay. You can add your card details to Fitbit Pay to the Fitbit Pay app.
 
 The GPS tracking helps you track gps location on your runs and travels. It's a waterproof model that allows you to swim.
+
+<div class = "scroll">
+ <table>
+   <tr>
+     <th colspan = "2" class = "top">
+       Pros and Cons of Garmin Venu
+     </th>
+   </tr>
+   <colgroup>
+   <col span="1" style="width: 50%;">
+   <col span="1" style="width: 50%;">
+   </colgroup>
+   <tbody>
+   <tr>
+     <td class = "left">
+       Pros
+     </td>
+     <td class = "right r-bor">
+       Cons
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+      <ul>
+        <li>✅Attractive</li>
+        <li>✅Long battery life</li>
+        <li>✅Comprehensive fitness/health features</li>
+      </ul>
+     </td>
+     <td class = "content-right r-bor">
+      <ul>
+        <li>❌Small app store</li>
+        <li>❌No Spotify music storage</li>
+      </ul>
+     </td>
+   </tr>
+   </tbody>
+ </table>
+ </div>
 
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fitbit-sense-review/" blank="true" %}
 
