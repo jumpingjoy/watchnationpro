@@ -261,7 +261,7 @@ Along with built in GPS, activity tracking, heart rate tracking monitors, ECG mo
      <td class = "content-right r-bor">
       <ul>
         <li>❌Slow to charge, no fast charging</li>
-        <li>❌Poor selection of third-party apps/li>
+        <li>❌Poor selection of third-party apps</li>
         <li>❌Unreliable blood oxygen measurement/li>
       </ul>
      </td>
