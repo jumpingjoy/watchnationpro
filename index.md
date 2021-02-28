@@ -262,7 +262,7 @@ Along with built in GPS, activity tracking, heart rate tracking monitors, ECG mo
       <ul>
         <li>❌Slow to charge, no fast charging</li>
         <li>❌Poor selection of third-party apps</li>
-        <li>❌Unreliable blood oxygen measurement/li>
+        <li>❌Unreliable blood oxygen measurement</li>
       </ul>
      </td>
    </tr>
