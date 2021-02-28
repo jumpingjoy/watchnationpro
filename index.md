@@ -207,11 +207,8 @@ The previous editions like Apple Watch SE do not have blood oxygen levels sensor
      </td>
      <td class = "content-right r-bor">
      <ul>
-       <li>✅Excellent build quality</li>
-       <li>✅Useful health monitoring tools</li>
-       <li>✅Great display, touch response</li>
-       <li>✅Reliable fitness tracking</li>
-       <li>✅Decent battery life</li>
+       <li>❌Spo2 reading can be improved</li>
+       <li>❌Expensive</li>
      </ul>
      </td>
    </tr>
@@ -226,42 +223,82 @@ The previous editions like Apple Watch SE do not have blood oxygen levels sensor
 
 Top brand Samsung Galaxy watch has released another version to its Samsung galaxy range of smartwatch series called <a href="https://www.watchnationpro.com/samsung-watch-active-3-review">Samsung Galaxy Active 3</a>.
 
-You can aspire to all the features that are available in Tizen. Similar to galaxy watch active 2, the latest model comes in two sizes, 40mm and 44mm, and you can choose the one that fits your wrist. It has an AMOLED display.
+You can aspire to all the features that are available in Tizen. Similar to galaxy watch active 2, the latest model comes with AMOLED screen display in two sizes, 40mm and 44mm.
 
-In case you are an Android user and are not comfortable with Wear OS, Samsung galaxy active 3 is the best choice for you since it can connect to google assistant. Even though it does not have a rotating bezel, it comes with good touch sensitivity. The battery life has been developed from the first version of active.
+In case you are an google Android user and are not comfortable with Wear OS, Samsung galaxy active 3 is the best choice for you since it can connect to google assistant. Even though it does not have a rotating bezel, it comes with good touch sensitivity. The battery life is better than the previous galaxy watch active 2.
 
-Along with built in GPS, activity tracking, heart rate tracking monitors, ECG monitors to track heart functionalities, and fall detection is available in Active 3.
+Along with built in GPS, activity tracking, heart rate tracking monitors, ECG monitors to provide data on heart rates and act as heart rate monitor. The heart rate monitoring functionalities of Samsung Galaxy Active 3 watch is moderately accurate, and fall detection is available in Active 3.
 
+<div class = "scroll">
+ <table>
+   <tr>
+     <th colspan = "2" class = "top">
+       Pros and Cons of Apple Watch Series 6
+     </th>
+   </tr>
+   <colgroup>
+   <col span="1" style="width: 50%;">
+   <col span="1" style="width: 50%;">
+   </colgroup>
+   <tbody>
+   <tr>
+     <td class = "left">
+       Pros
+     </td>
+     <td class = "right r-bor">
+       Cons
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+      <ul>
+        <li>✅Traditional watch design, superb build quality</li>
+        <li>✅Crisp AMOLED display</li>
+        <li>✅Decent battery life</li>
+        <li>✅Assorted fitness features</li>
+      </ul>
+     </td>
+     <td class = "content-right r-bor">
+     <ul>
+       <li>❌Slow to charge, no fast charging</li>
+       <li>❌Poor selection of third-party apps/li>
+       <li>❌Unreliable blood oxygen measurement/li>
+     </ul>
+     </td>
+   </tr>
+   </tbody>
+ </table>
+ </div>
 
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/samsung-watch-active-3-review/" blank="true" %}
 
 ### No. 3 Garmin Venu
 {% include image.html img="garmin-venu.webp" align="right" %}
-Garmin Venu is the first has released its first AMOLED smartwatch . This screen is bright and sharp with an Always-On display. It is one of the best watches for multi-sport tracking.
+Garmin Venu is the first has released its first AMOLED  screen (with always on display) that is bright and sharp and known for multi-sport tracking.
 
- The heart rate and built in GPS tracking data of <a href="https://www.watchnationpro.com/garmin-venu-review">Garmin Venu</a> are accurate. New features like breathing and respiration tools for breath exercises are quite impressive. It has five days battery life and provides storage for music files. The proprietary Garmin Pay app serves pretty well for contactless payments. Overall it is not equal to Apple, but it is apt for daily fitness and health tracking with good performance speed.
+ The built in GPS tracking of <a href="https://www.watchnationpro.com/garmin-venu-review">Garmin Venu</a> are accurate that provides data on location and navigation. New features like breathing and respiration tools for breath exercises are quite impressive. Garmin Venu has five days of battery life and provides storage for music files. The proprietary Garmin Pay app serves pretty well for contactless mobile payments. Overall, the device is apt for daily fitness goals and health tracking with good performance speed.
 
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/garmin-venu-review/" blank="true" %}
 
 ### No.4 Fitbit Sense
 {% include image.html img="fitbit-sense.webp" align="right" %}
 
-Fitbit Sense is well known for its health tracking features and backed by all the sensors that are not available in other models like Versa 2.
+Fitbit Sense is well known for its fitness features, health tracking features backed by all the sensors that are not available in other models like Versa 2.
 
-The bands have two kinds of stainless steel with AMOLED displays having 40mm size. Fitbit Sense is a fitness smartwatch with fitness trackers like heart rate, sleep tracking, women’s health trackers, and menstrual cycle tracking are provided in Fitbit.
+The bands have two kinds of stainless steel. It has AMOLED style display with 40mm size case. Fitbit Sense is a fitness smartwatch with fitness trackers like heart rate monitor, sleep tracking and sleep metrics, women’s health trackers, and menstrual cycle tracking.
 
-Advanced fitness tracker comes with Fitbit sense when compared to Fitbit versa 2. ECG sensor, optical heart rate sensor to track pulses, Stress monitoring app EDA are the highlights in Fitbit Sense similar to Fitbit versa series.
+Fitbit Sense consists of advanced fitness tracker  when compared to Fitbit versa 3 and Fitbit Versa 2. ECG sensor, optical heart rate monitoring sensor to track pulses, Stress monitoring app EDA are the highlights in Fitbit Sense similar to Fitbit versa series.
 
-<a href="https://www.watchnationpro.com/fitbit-sense-review">Fitbit Sense</a> has an excellent battery, around six days of battery life. The time taken to charge is less, approximately 12 minutes only. Similar to Fitbit Versa 2, it has Fitbit Pay.
+<a href="https://www.watchnationpro.com/fitbit-sense-review">has an excellent battery, around six days of battery life. The time taken to charge is less, approximately 12 minutes only. Similar to Fitbit Versa 2, it has Fitbit Pay. You can add your card details to Fitbit Pay to the Fitbit Pay app.
 
-GPS tracking helps you track gps location on your runs and travels. It's a waterproof model that allows you to swim.
+The GPS tracking helps you track gps location on your runs and travels. It's a waterproof model that allows you to swim.
 
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fitbit-sense-review/" blank="true" %}
 
 ### No. 5 Huawei GT 2
 {% include image.html img="huawei-gt-2.webp" align="right" %}
 
-<a href="https://www.watchnationpro.com/huawei-gt-2-review">Huawei GT 2</a> is the successor of Huawei GT, is apt for people who look for fitness tracking and sporty looks. With its OS, Lite OS, Huawei has added some more features that are missing in Huawei GT. The Kirin Chip supports fitness tracking well and the built in GPS signal is excellent. The heart rate sensor is on par to the industry standards. The sleep tracking and stress management tracking are also pretty good.
+<a href="https://www.watchnationpro.com/huawei-gt-2-review">Huawei GT 2</a> is the successor of Huawei GT, is apt for people who look for fitness tracking and sporty style. With its OS, Lite OS, Huawei has added some more features that are missing in Huawei GT. The Kirin Chip supports fitness tracking well and the built in GPS feature is excellent. The fitness features like heart rate monitoring sensor is on par to the industry standards. The sleep tracking and stress management tracking are also pretty good.
 
 As it has 5 ATM water resistance, Swimming and swim tracking is another option you can enjoy with this watch. Above all, this model is greatly praised for its battery life (around two weeks of battery life).
 
@@ -270,28 +307,26 @@ As it has 5 ATM water resistance, Swimming and swim tracking is another option y
 ### No. 6 Fossil Sport
 {% include image.html img="fossil-sport.webp" align="right" %}
 
-Fossil Sport is very affordable and comes in two different sizes, 41mm and 43mm. The silicone strap is sweat-friendly. The 41mm face looks good in small wrists. The straps are available in many colors.
+Fossil Sport is very affordable and comes in two different case sizes, 41mm and 43mm with sports style design. The silicone strap of Fossil Sport is awesome in style and sweat-friendly. The 41mm watch faces looks good in small wrists. The Fossil straps are available in many colors.
 
-It runs on Wear OS and provides notifications and alerts like email and app information. NFC for Google pay is available.
+Fossil Sport runs on Wear OS and provides smartphone notifications and alerts like email and app information. NFC for Google pay is available.
 
-Untethered built in GPS is convenient for runners who wish to keep their phones at home. The activity tracking, swim-proof, heart rate monitor is worth mentioning of Fossil Sport. The heart rate monitor's performance is moderate.
-
-It includes NFC for Google Pay, email, notifications, and app alerts.
+Untethered built in GPS is convenient for people who wish to keep their phones at home and involve in running, cycling or any other travelling activity. The GPS feature works accurately. The fitness features like activity tracking, swim-proof, heart rate monitor is worth mentioning of Fossil Sport. The performance of heart rate sensor monitor in Fossil Sport is moderate.
 
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fossil-sport-review/" blank="true" %}
 
 ### No. 7 Kate Spade Scallop 2
 {% include image.html img="kate-spade-scallop-2.webp" align="right" %}
 
-Kate spade scallop 2 has an AMOLED display with attractive looks like Michael Kors access and covers almost all the features of Fossil watches.. This watch runs on Wear OS like the first version of Kate spade scallop.
+Kate spade scallop 2 has an AMOLED display with fashion style design and attractive looks like Michael Kors access and covers almost all the features of Fossil watches. The Kate spade scallop 2 watch runs on Wear OS like the first version of Kate spade scallop.
 
-The “Choose your looks" App helps you pick the right watch face from a variety of watch faces that matches women best clothes and accessories. NFC for Google pay is a notable one. As it is waterproof, you can swim with that. Using its ambient light sensor which adjusts the brightness, it has decent battery life.
+The “Choose your looks" App helps you pick the right watch face from a variety of watch faces that matches women best clothes and accessories. NFC for Google pay is a notable one. Kate Spade Scallop has ambient light sensor which adjusts the brightness, and has decent battery life.
 
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fossil-sport-review/" blank="true" %}
 
 ## WatchNationPro.com's Motto
 
-As a woman, you might be knowing about a normal watch ⌚and its types and how to select them. But, choosing the best smartwatch for women among many, several features and technical specifications is  overwhelming for a beginner.
+As a woman, you might be knowing about a normal watch ⌚and its types and how to select them. But, choosing the best smartwatch for women among many features, style and technical specifications is  overwhelming for a beginner.
 
 To help select the best, we have come up with this ultimate site for everything related to the best womens watches.
 
@@ -299,7 +334,8 @@ We do not baffle the readers with women’s tech suits features and generic opin
 
 ### Our smart watch review is directed on the following mottos:
 * How smartwatch for women help in solving the challenge?
-* How does each feature perform in terms of **5-star ratings** denoted by our rating reference:
+* What are the smartwatch features that you must look for?
+* How does each feature perform in terms of 5-star ratings denoted by our rating reference?
 
 ★★★★★ | 😎
 
@@ -313,7 +349,8 @@ We do not baffle the readers with women’s tech suits features and generic opin
 
 * The 5-star rating makes it easy for you to know quickly how the feature performs
 * Provide a detailed Buying Guide for buying the best ladies smartwatches
-* Provide How-to Guides to get the best <a href="https://www.watchnationpro.com/smartwatch-for-women-benefits/">benefits for women</a> out of the smartwatches
+* Provide How-to Guides to get the best <a href="https://www.watchnationpro.com/smartwatch-for-women-benefits/">benefits for women</a> out of smartwatches
+* Provide special instructions on health features for women
 
 We recognize that all the brands available in the market are NOT the same. Our reviews will cover wide brands to suit your needs, including all flagship versions to feature-rich yet budget-friendly options.
 
@@ -325,7 +362,7 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
 
 A smartwatch can be considered as a Mini smartphone or a Minicomputer in this 21st century which is highly wearable.
 
-Even though laptops and smartphones are handheld devices, you can’t hold laptops & smartphones all the time when you are doing other tasks also, especially.
+Even though laptops and smartphones are handheld devices, you can’t hold laptops & smartphones all the time when you are doing other tasks and monitor activity levels.
 
 Smartwatches are lightweight and compact. Smartwatch for women is suitable to track all the activities as it is connected with the body always. You can choose to select hybrid smartwatch if you need since this hybrid smartwatch models has traditional classic look with advanced digital features.
 
@@ -338,25 +375,25 @@ There are two kinds of smartwatches available in the market:
 #### Smartwatches Working Connected with Smartphones
 This kind of smartwatch is connected to smartphones through Bluetooth. These smartwatches are loaded with necessary sensors and continuously interacts with smartphones.
 
-For example, users receive phone calls on their mobile phones, and users can operate their smartwatch to attend phone calls or attend using the touchscreen or button present on the smartwatches. And also, it enables users to access gps location, messages, emails, media.
+For example, users can take calls on their mobile phones, and users can operate their smartwatch to attend phone calls using the touchscreen or button present on the smartwatches. And also, it enables users to access gps location, texts and messages, emails, media.
 
 #### Standalone Smartwatches (Working independently without Smartphones)
-Standalone Smartwatches are exclusively designed to work independently without connecting to a smartphone. They have exclusive in-built sensors that can work with high accuracy mostly used in medical or healthcare, sports, and security forces.
+Standalone Smartwatches are exclusively tech designed to work independently without connecting to a smartphone. They have exclusive in-built sensors that can work with high accuracy mostly used in medical or healthcare, sports, and security forces.
 
-For example, Fitness Band for Healthcare may not have features like calling functions, notifications, etc.
+For example, Fitness Band wearables for Healthcare may not have features like calling functions, smartphone notifications, music, etc.
 
 #### How smartwatch is different from standalone fitness bands?
- The only difference between the two is that smartwatches can be connected with smartphones and operated, whereas standalone watches can be operated independently.
+The only difference between the two is that smartwatches can be connected with smartphones and operated, whereas standalone watches can be operated independently. This model is suitable for fitness enthusiasts.
 
 ### What are the Key Features of smartwatch for women?
 
-As a leading source for the best smartwatch reviews on the web, we believe you should know about all the significant features when searching out the products.  So,  here is a glossary of the most common features you should familiarize yourself with and also know the basics of how to select smartwatch women:
+As a leading source for the best smartwatch reviews on the web, we believe you should know about all the significant features when searching out the products.  So,  here is a glossary of the most common features you should familiarize yourself with and also know the basics of how to select smartwatch women.
 
-#### ✅How good is the watch display?
+#### ✅How is the smartwatch display?
 
 When you look at girls smartwatches, what is the first thing you notice on a smartwatch?
 
-Obviously, the display and the watch face!! Right?
+Obviously, the display, style and the watch face!! Right?
 
 Check the following to ensure you get the best out of the mobile display watch.
 
@@ -369,63 +406,72 @@ Always-On display might be a necessary feature for old women who might find it d
 Check for the display size and clarity
 * Is it visible under bright sunlight?
 * Is it bright enough when viewed in the dark?
-View the watch from different angles and a different distance from your eyes and ensure that the clarity is uncompromised.
+* View the watch from different angles and a different distance from your eyes and ensure that the clarity is uncompromised.
 
-#### ✅How to good is the smartwatch compatibilty with smartphones?
-
-You can check the compatibility of the smartwatch with smartphones by testing the connection a have to connect the smartwatch to android smarpCheck Compatible of the smartwatch with Mobile OS
+#### ✅How to Connect Smartwatch to SmartPhone? Check Compatible of the smartwatch with Mobile OS
 
 The Operating system in smartwatches must be compatible with your smartphone’s OS. Otherwise, you may not have access to few functions.
 
-##### Is it compatible with Android OS?
-The Google Wear OS runs on many smartwatches such as LG, Fossil, etc. This OS is more compatible with android smartphones but also compatible to one extent with iPhones with limited features.
+##### Is the smartwatch compatible with Android OS?
+The Google Wear OS runs on many smartwatches such as LG, Fossil, etc. The Wear OS is more compatible with android smartphones. The downside of Wear OS is that its compatibility is limited with Apple devices.
 
-Google Assistant helps you convert speech-to-text and is very convenient to answer emails and texts. Note that speech-to-text features of the wear OS won’t work on the iPhone.
+When the Wear OS smarwatch is connected with Android, Google Assistant helps you convert speech-to-text and is very convenient to answer emails and texts. Note that Wear OS speech-to-text features will not work with iPhone.
 
-##### Is it compatible with iOS?
+##### Is the smartwatch compatible with iOS?
 Apple Watch works only with iPhone.
 
-##### Is it compatible with both Android/iOS?
-Fossil watches are designed to be compatible with any smartphone. Samsung galaxy watch active 2 and Tizen powered galaxy watch can work with multiple Android and iPhone mobiles. The fitbit versa 3 works equally well with Android and iPhone.
+##### Is the smartwatch compatible with both Android/iOS?
+Fossil watches are designed to be compatible with your smartphone. Samsung galaxy watch active 2 and Tizen powered galaxy watch can work with multiple Android and iPhone mobiles. The fitbit versa 3 works equally well with Android and iPhone.
 
-#### ✅Does it have a long Battery life?
-you need to consider the battery life of a smartwatch. Being a work professional, you may need to charge is less often.
+#### ✅How comfortable is the smartwatch while wearing on the wrist?
+Ensure that the display fits the small wrist of women. If not, it will look unfit and uncomfortable.
+
+#### ✅What is the Stylish design look of the smartwatch?
+Women are always concerned with designs, watch faces appearance and colors. Look whether the smartwatch you choose has different watch face with customization options. Check whether you can change the watch strap to suit various events and outfit.
+
+#### ✅Does the smartwatch have a long Battery life?
+You need to consider the battery life of a smartwatch. Being a work professional, you may need to wear it more and the need to charge it is less often.
 
 Nowadays, battery has ten days of battery life that avoids charging it daily. The Apple Watch has long battery life that lasts around 18 hours. The battery life may be affected due to the following:
-
-* Color screen
+* Color display
 
 * Voice calls usage
 
+* music and media usage
+
 Some of the smart watches like Samsung gear sport and apple watch has wireless charging feature. You cannot plug your device directly into a charger to charge these devices, but you can lay it on a charging puck.
 
-#### ✅Is it a waterproof smartwatch?
-Some of the best water resistance waterproof models currently available in the market can sustain to about 50 meters depth.
+### ✅Can a smartwatch detect whether its user is wearing it nor not?
+Proximity sensor helps in increased battery life. It checks whether the user wears the smartwatch or not. If you are not wearing it, it will turn off the display screen and background functions to save the battery. If you are wearing it, it will turn on the display screen.
 
-#### ✅How many Apps are available for Usage?
+#### ✅Is the smartwatch waterproof?
+Some of the best water resistance waterproof currently available in the market can sustain to about 50 meters depth in water.
+
+#### ✅How many Apps are available in smartwatch for usage?
 * Samsung smartwatch models have thousands of android watch apps available currently including women best female apps Android.
 * Apple watch consists of more than Twenty thousand apps.
+* Look whether you can do third party app selection and have access to third party health app.
 
-#### ✅Does your smartwatches Text Messages?
+#### ✅Can you send text messages using your smartwatches?
 SOS Alerts is indeed such an important feature that you should check for while purchasing smartwatches for your children. If your child is in any danger and presses or holds a button on their watch, it will send the alerts to you. The alert is transmitted to you using an app.
 
 You can input up to three or more phone numbers that can be called in an emergency for your children. This SOS will initiate emergency calls to all the emergency numbers that you have saved. It will keep on calling until the call is answered. If you miss the call to pick, other people whose phone numbers that you have given in the App can pick the call and save the child.
 
-#### ✅Can You See Received Message Notification?
-If you use a smartwatch, you can answer calls and can reply to messages and emails instantly. You can’t miss important calls and emails.
+#### ✅Can You See Received Message Notification in smartwatch?
+If you use a smartwatch, you can answer calls and can reply to messages and email instantly. You can’t miss important calls and email.
 
-You can read your SMS and WhatsApp messages received to your smartphone instantly. You can read emails and send emails from your smartwatch.
+You can read your SMS and WhatsApp messages received to your smartphone instantly. You can read emails and send email from your smartwatch.
 
-Smartwatches have alert or reminders, calendar ( it can synchronize with Google assistant or calenderto remind you about all your meetings and other events)
+Smartwatches have alert notifications or reminders, calendar (which can synchronize with Google assistant or calender to remind you about all your meetings and other events)
 
 #### ✅Is it a smartwatch you can talk on?
-Check whether you have a smartwatch that makes calls.  You don’t need to take your smartphone from your pocket or bag as they come with a dial pad.
+Check whether you have a smartwatch that makes calls. You don’t need to take your smartphone from your pocket or bag as they come with a dial pad.
 
 Ensure you buy a smartwatch with a speaker and microphone and look to be the best smartwatch to answer calls.
 
-You may have to pay for a separate data plan for your smartwatch to which might cost around $10 per month if you want it to have the advantage of a calling option.
+You may have to pay for a separate data plan for your smartwatch to which might have a price around $10 per month if you want it to have the advantage of a calling option.
 
-#### ✅Can You Make Video Calls?
+#### ✅Can You Make Video Calls with smartwatch?
 Some smartwatches are designed with inbuilt cameras . You can shoot video from your wrist or attend video calling for meeting purposes when they have the following sensors:
 
 * Camera
@@ -438,14 +484,15 @@ Apple pay is enabled in all the Apple Watch models. Apple pay works even if you 
 
 Even fitness watches like Garmin and Fitbit versa 3 have mobile payments.
 
-#### ✅Does it have Navigation Facilities?
+#### ✅Does the smartwatch have GPS Navigation Facilities?
 
-Check for the navigation facilities and its related sensors in the watch.
+Check for the following GPS navigation facilities and its related sensors in the smartwatch.
+
 ##### Compass
 Compass helps in finding the right direction.
 
 ##### GPS Trackers
-GPS trackers provides the gps location of the wearable, and it helps in calculating your run rate, the distance you walk or step, and track activities.
+GPS trackers function provides the gps location of the wearable, and it helps in calculating your running rate, the distance you walk or step and provides data as an activity tracker.
 
 ##### Magnetometer
 It works with GPS to ensure the exact location of the wearables using coordinates.
@@ -459,16 +506,18 @@ The brightness of the display light is adjusted according to the ambient light. 
 ##### UV Sensor
 It senses the UV rays and their harmfulness. If you are going on a sunny day, it will sense the UV and will indicate whether it is harmful or not.
 
-#### ✅Does it have fitness-related facilities?
+#### ✅Does smartwatch have fitness tracker features?
+
+Check whether the following fitness sensors are available in the smartwatch.
 
 ##### Skin Temperature Sensor
-It tracks the body temperature. It indicates even a slight change in the body temperature to alert you of falling sickness like fever and allergies. And also, it helps in tracking menstrual phases.
+Body or the skin temperature are related to a person fitness and these parameters help with the fitness tracking. The skin temperature sensor tracks the body temperature and indicates even a slight change in the body temperature to alert you of falling sickness like fever and allergies. And also, it helps in tracking menstrual phases.
 
 ##### Sleep Tracking sensor
-It tracks the sleep cycle.
+The sleep tracking features or function tracks the sleep cycle everyday and provides you relevant sleep data. Some of the smartwatch have advanced sleep data which we have covered in our smartwatch reviews.
 
-##### Heart Rate Sensor
-It calculates the heartbeats per minute. The light emitted by the sensor on the wrist is reflected with less light after reaching the blood vessels.
+##### Heart Rate Monitor/Sensor
+It calculates the heartbeats per minute. The light emitted by the sensor on the wrist is reflected with less light after reaching the blood vessels. The heart rate sensor functions to provide data regarding heart rate during usual routine and fitness workouts.
 
 ##### ECG Sensor
 It is an advanced sensor available to detects the minute electrical impulse from the heartbeat. The ECG sensor detects these minute electrical signals using electrodes.
@@ -476,11 +525,11 @@ It is an advanced sensor available to detects the minute electrical impulse from
 ##### Bioimpedance Sensor
 It sends a low amount of electricity on the skin to measure the resistance of skin. Using the resistance calculation measurements, it presents heart rate, sleep rate, respiration rate, and many more.
 
-##### Electrodermal Activity Sensor
+##### Electrodermal Activity Tracking Sensor
 Your stress level can be found using sensors like heart rate sensors, skin temperature sensors, and ECG. And also, it tracks tiny electrical changes in the sweat to track the stress.
 
 ##### SPO2 Monitor
-The blood oxygen sensor measures the blood oxygen levels using the color of blood. It traces the color change by reflecting red and infrared light from the blood through your wrist.
+The blood oxygen sensor measures the blood oxygen levels using the color of blood. The blood oxygen monitoring sensor traces the color change by reflecting red and infrared light from the blood through your wrist.
 
 #### ✅How comfortable is it while wearing on the wrist?
 Ensure that the display fits the small wrist of women. If not, it will look unfit and uncomfortable.
@@ -501,6 +550,7 @@ Proximity sensor helps in increased battery saving. It checks whether the user w
 
 ### Where to Buy it?
 The best place to buy a smartwatch for women is directly from the manufacturer or on Amazon, like this:
+
 * Ensures you avoid a counterfeit product
 * Gives you the most competitive prices
 

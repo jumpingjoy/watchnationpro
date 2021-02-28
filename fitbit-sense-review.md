@@ -186,8 +186,8 @@ The button helps to reach clock face by pressing it anytime.
 
 Our rating: ★★★★★ | 😎
 
-Fitbit sense has NFC chip which allows user to use credit card and debit card for the contactless payment. You can check whether your card can work with Fitbit pay in Fitbit app.
-To use Fitbit Pay, you need to add at least on credit card or debit card from participating bank to wallet to setup Fitbit Pay app.
+Fitbit sense has NFC chip which allows user to use credit card and debit card for contactless payment. You can check whether your card can work with Fitbit pay in Fitbit app.
+To use Fitbit Pay, you need to add at least one credit card or debit card from participating bank to wallet to setup Fitbit Pay app.
 
 ### Fitbit Sense Review: Safety and Location Tracking Features
 
