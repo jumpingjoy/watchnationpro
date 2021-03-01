@@ -207,6 +207,8 @@ The previous editions like Apple Watch SE do not have blood oxygen levels sensor
      <ul>
        <li>❌Spo2 reading can be improved</li>
        <li>❌Expensive</li>
+       <li>❌Sleep tracking is basic</li>
+       <li>❌No third-party watch faces</li>
      </ul>
      </td>
    </tr>
