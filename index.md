@@ -161,17 +161,19 @@ We have analyzed the women's smartwatches depending upon various categories like
 ### No.1 Apple Watch Series 6
 {% include image.html img="apple-watch-series-6.webp" align="right" %}
 
-<a href="https://www.watchnationpro.com/apple-watch-series-6-review/">Apple Watch Series 6</a> is one of the best smartwatch for women. Apple Watch Series 6 has a stylish design and comes with size options available in 40mm & 44mm sizes like series 5. The best sellers smartwatch is loaded with awesome aesthetics design, style options, and features. The model is a best fit for tiny wrists as it has a 10.74mm depth casing which is water resistance.
+<a href="https://www.watchnationpro.com/apple-watch-series-6-review/">Apple Watch Series 6</a> is one of the best smartwatch for women. Apple Watch Series 6 has a stylish design and comes with size options available in 40mm & 44mm sizes like series 5 with a case depth of 10.74 which suits small writs of women. The best sellers smartwatch is loaded with awesome aesthetics design, style options, and features. The watch is available within a price range of $749.00 to $1,499.00 based on the features and size.
 
 You can choose straps for apple watch models from a variety of materials like aluminum, titanium, and stainless steel. The straps are available in two colors: new blue and red.
 
-The model comes with wrist bands available in an attractive range of varieties - leather band, silicone strap, stainless steel band, and woven sport band. If you require other band color options or design, you have equally better third-party choices available in the market.
+The model wrist bands are available in an attractive range of varieties - leather band, silicone strap, stainless steel band, and woven sport band. If you require other band color options or design, third-party choices are available in the market.
 
-The LTE help initiate calls and play music even though your smartphone is far away from you. You can go for a swim with your ATM water resistance watch.
+You can use LTE to initiate calls and play music on your smartphone which is far away.
+
+The health features like blood oxygen levels sensor, ECG sensor, heart rate tracking and heart rate monitor are available along with a top notch navigation feature of GPS.
 
 Menstrual cycle tracking with early notification, the sensor for measuring blood oxygen, advanced heart rate tracking and heart rate monitor features and monitor of ECG are provided. To monitor hearing capability and to assist in breathing exercises are also given for the buyers.
 
-The previous editions like Apple Watch SE do not have blood oxygen levels sensor, ECG sensor, but comes with heart rate tracking and heart rate monitor. GPS is top-notch in this watch.
+You can go for a swim with your ATM water resistance watch.
 
 <div class = "scroll">
  <table>
@@ -630,7 +632,7 @@ The Operating system in smartwatches must be compatible with your smartphone’s
 ##### Is the smartwatch compatible with Android OS?
 The Google Wear OS runs on many smartwatches such as LG, Fossil, etc. The Wear OS is more compatible with android smartphones. The downside of Wear OS is that its compatibility is limited with Apple devices.
 
-When the Wear OS smarwatch is connected with Android, Google Assistant helps you convert speech-to-text and is very convenient to answer emails and texts. Note that Wear OS speech-to-text features will not work with iPhone.
+When the Wear OS smartwatch is connected with Android, Google Assistant helps you convert speech-to-text and is very convenient to answer emails and texts. Note that Wear OS speech-to-text features will not work with iPhone.
 
 ##### Is the smartwatch compatible with iOS?
 Apple Watch works only with iPhone.
