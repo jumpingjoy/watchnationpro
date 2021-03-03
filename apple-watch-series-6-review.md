@@ -284,7 +284,7 @@ In the messaging app itself, you can send and receive money to your contacts. Yo
 
 ### 🤔Apple watch series 6 Review: Safety and Location Tracking Features
 
-{% include image.html img="safety-location-tracking-smartwatch-women.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="safety-location-tracking-smartwatch-women.webp" alt="Alt for image" caption="safety-location-tracking-smartwatch-women" align="center" %}
 
 We can have a look at the safety; emergency tracking features in Apple Watch Series 6.
 
@@ -302,7 +302,7 @@ The emergency slider is available for help in any danger. Press the side button 
 
 ### Apple watch series 6 Review: General Health Features Activity Tracking
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="general-health-tracking-smartwatch.webp" alt="Alt for image" caption="general-health-tracking-smartwatch" align="center" %}
 
 #### 🤔How good is menstrual Tracking in Apple watch series 6?
 
@@ -334,7 +334,7 @@ The activity app counts the steps. You can access this feature easily through th
 
 ### Apple watch series 6 Review: Gym Equipment Usage and Gym Profile Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="gym-equipment-profiles-smartwatch-women.webp" alt="Alt for image" caption="gym-equipment-profiles-smartwatch-women" align="center" %}
 
 #### 🤔How well are gym activities tracked in Apple watch series 6?
 
@@ -345,7 +345,7 @@ If you are using a wheelchair manually, you can use wheelchair walk pace and out
 {% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="/fossil-sport-review/" blank="true" %}
 
 ### Apple watch series 6 Review: Training Plans and Post Training Analysis Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="training-plan-analysis-smartwatch-women.webp" alt="Alt for image" caption="training-plan-analysis-smartwatch-womenk" align="center" %}
 
 #### 🤔How well the running Activity is monitored on Apple watch series 6?
 
@@ -381,7 +381,7 @@ Yes. In the workout of watch app on your iPhone, you can customize by tapping on
 
 ### Apple watch series 6 Review: Sports Activity Tracking
 
-{% include image.html img="sports-activity-tracking-women.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="sports-activity-tracking-women.webp" alt="Alt for image" caption="sports-activity-tracking-women" align="center" %}
 
 #### 🤔How well the running Activity is monitored in Apple watch series 6?
 
