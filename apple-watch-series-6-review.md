@@ -115,7 +115,7 @@ Water-resistant of the apple watch series 6 is measured 5ATM or up to 50m. Most 
 
 Our rating: ★★★★★ | 😎
 
-** Weight:** The watch's Weight is moderately designed at 47.1g, which is easy to wear all the time.
+The smartwatch's Weight is moderately designed at 47.1g, which is easy to wear all the time. The watch straps are adjustable according to your wrist size and feels soft on the skin.d
 
 #### 🤔How stylish Apple watch series 6 looks? Can the looks be customized?
 
@@ -282,7 +282,7 @@ In the messaging app itself, you can send and receive money to your contacts. Yo
 
 {% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="/fossil-sport-review/" blank="true" %}
 
-### 🤔Apple watch series 6 Review: Safety and Location Tracking Features
+### Apple watch series 6 Review: Safety and Location Tracking Features
 
 {% include image.html img="safety-location-tracking-smartwatch-women.webp" alt="Alt for image" caption="safety-location-tracking-smartwatch-women" align="center" %}
 
