@@ -284,7 +284,7 @@ In the messaging app itself, you can send and receive money to your contacts. Yo
 
 ### 🤔Apple watch series 6 Review: Safety and Location Tracking Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="safety-location-tracking-smartwatch-women.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 We can have a look at the safety; emergency tracking features in Apple Watch Series 6.
 
@@ -379,9 +379,9 @@ Yes. In the workout of watch app on your iPhone, you can customize by tapping on
 
 {% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="/fossil-sport-review/" blank="true" %}
 
-### Apple watch series 6 Review: Sports Activity: Running Related Features
+### Apple watch series 6 Review: Sports Activity Tracking
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="sports-activity-tracking-women.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### 🤔How well the running Activity is monitored in Apple watch series 6?
 
@@ -389,32 +389,23 @@ Yes. In the workout of watch app on your iPhone, you can customize by tapping on
 
 There is an option for indoor runs such as treadmill run and outdoor run options to specify metrics based on that. Even though blood oxygen level is a common fitness tool, it is very helpful to runners, too, specifically.
 
-### Apple watch series 6 Review: Sports Activity: Cycling Related Features
-
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
-
 #### 🤔How well the cycling activity is monitored in Apple watch series 6?
 
 Our rating: ★★★★☆ | 🙂
 
 Cycling mode in the fitness tracker enables you to track cycling activity data such as distance, speed, heart rate, and cool-down heart rate even after the Activity ends. Overall the functions are pretty basic only.
 
-### Apple watch series 6 Review: Sports Activity: Swimming Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
-
 #### 🤔How well the swimming activity is tracked in the Apple watch series 6?
 Our rating: ★★★★☆ | 🙂
 
 Under ISO standard, a water resistance rating of 50 meters is guaranteed. So you can take it not only for the pool even for ocean swimming too. Please check Water Lock before getting into swimming to prevent your watch touch screen’s activation. If you have selected swim mode, it automatically activates Watch Lock.
 
-### Apple watch series 6 Review: Outdoor Recreation Activity Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
 
 #### 🤔How well the outdoor activities can be tracked in the Apple watch series 6?
 
 Our rating: ★★★★☆ | 🙂
 
-Features such as Barometer, always-ON Altimeter, Emergency charging, Daylight tracking, Rugged Strap, Weather, Compass, Follow routes are very helpful in outdoor activities such as hiking, mountaineering, biking to deal with environmental issues.
+Features such as Barometer, always-ON Altimeter, Emergency charging, Daylight tracking, Rugged Strap, Weather, Compass, Follow routes are very helpful in outdoor activities such as hiking, mountaineering, biking, etc.
 
 {% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="/fossil-sport-review/" blank="true" %}
 
@@ -441,8 +432,6 @@ If you are serious about your work, health and need to monitor your loved ones f
 You can also go for the new Apple Watch SE or apple watch series 5. Note that the older Apple Watch SE does not have the blood oxygen monitoring sensor, ECG sensor.  But, the heart rate feature is available in the Apple Watch SE model. Apple Watch SE is available in the same size as that of the Apple watch 6. Go for it even if you are not an Apple fan. The charging speed of the older apple watch is satisfactory too.
 
 {% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="/fossil-sport-review/" blank="true" %}
-
-If you feel that the cost is over the board, we have reviewed other <a href= "https://www.watchnationpro.com/">best smartwatches for women</a> which you can check out.
 
 ### Post Author
 #### Sarah Hollen
