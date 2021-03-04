@@ -21,6 +21,7 @@ schemadotorg:
     url: https://watchnationpro.com/apple-watch-series-6-review/
     inLanguage: en-US
     name: 'Apple Watch Series 6 Review vs SE vs 3'
+    keywords: ["smartwatch for women", "smartwatch for ladies"]
     isPartOf:
       "@id": https://watchnationpro.com/#website
     breadcrumb:
@@ -52,6 +53,7 @@ schemadotorg:
     name: Apple Watch Series 6
     image: apple-watch-6.webp
     brand: Apple
+    isbn:
     SKU: 6215931
     description:  While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
   reviewRating:
