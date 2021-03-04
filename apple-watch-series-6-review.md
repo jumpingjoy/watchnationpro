@@ -50,17 +50,17 @@ schemadotorg:
   itemReviewed:
     "@type": Product
     name: Apple Watch Series 6
+    image: apple-watch-6.webp
     brand: Apple
     SKU: 6215931
     description:  While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
-    aggregateRating: 'Apple Watch Series 6'
-    ratingValue: '4.9'
-    author:
-      "@type": Person
-      name: Sarah hollen
+    aggregateRating:
+    "@type": AggregateRating
+    ratingValue: '4.4'
+    reviewCount: '89'
   reviewRating:
     "@type": Rating
-    ratingValue: '4.9'
+    ratingValue: 4.9
     bestRating: 5
   author:
     "@type": Person
