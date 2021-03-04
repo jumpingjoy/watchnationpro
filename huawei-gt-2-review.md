@@ -365,13 +365,9 @@ If you have been searching for the best cost, click through our verified supplie
 
 ## Final Words:
 
-It is a more feminine watch in terms of design. However, Men who look for varieties and unique designs can also choose it. 42mm may look large in a woman's small wrist. So Men will find it ideal for wearing for them.
+The Huawei Watch GT 2 is an awesome looking smartwatch that has very good battery life. If you are looking for a decent smartwatch for basic fitness tracking and notifications, and do not like to charge it frequently, the Huawei Watch GT 2 can be a best option. Performance does not equal to the Samsung Galaxy Watch or the Galaxy Watch Active 3, and it would be good if Huawei looks to do better.
 
-Customizable straps, spade motif in the watch dial, flower effect around the screen, silver-gold and rose gold colors, and metal bracelets are the list of features that every woman likes the most when they go shopping. So definitely, Women find it unique and apt for them.
-
-Smart features such as GPS, an In-built heart rate sensor, NFC for Google Pay are added for tracking your activities.
-
-If you feel that the cost is a bit expensive, we have reviewed other <u><a href= "https://www.watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
+If you feel that the this watch is not a best fit for you, we have reviewed other <u><a href= "https://www.watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
 
 ### Post Author
 #### Sarah Hollen

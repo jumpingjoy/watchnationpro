@@ -302,7 +302,7 @@ Customizable straps, spade motif in the watch dial, flower effect around the scr
 
 Smart features such as GPS, an In-built heart rate sensor, NFC for Google Pay are added for tracking your activities.
 
-If you feel that the cost is a bit expensive, we have reviewed other <u><a href= "https://www.watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
+If you feel that this watch does not suit your need, we have reviewed other <u><a href= "https://www.watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
 
 ### Post Author
 #### Sarah Hollen
