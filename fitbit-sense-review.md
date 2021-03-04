@@ -1,5 +1,5 @@
 ---
-title: Fitbit Sense Review 6 vs SE vs 3
+title: Fitbit Sense Review
 description:  While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Fitbit Sense.  In 9 of 10 of the online reviews available, Fitbit Sense comes out on top.
 sidebar: right
 ---

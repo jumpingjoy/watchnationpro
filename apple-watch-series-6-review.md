@@ -55,6 +55,9 @@ schemadotorg:
     description:  While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
     aggregateRating: 'Apple Watch Series 6'
     ratingValue: '4.9'
+    author:
+      "@type": Person
+      name: Sarah hollen
   reviewRating:
     "@type": Rating
     ratingValue: '4.9'
