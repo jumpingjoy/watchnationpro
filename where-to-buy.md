@@ -3,7 +3,7 @@ title: Where to Buy Smartwatch for Women
 description:  There is a limited choice of good menstrual trackers in the market. Find out the FREE...
 sidebar: right
 ---
-{% include image.html img="apple-watch-6.jpg" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
+{% include image.html img="where-to-buy-smartwatch-for-women.webp" alt="Alt for image" caption="where-to-buy-smartwatch-for-women" align="center" %}
 
 Doing something good for your health has long related to complicated or time-intensive procedures, an understandable deterrent for many prospective buyers.
 
