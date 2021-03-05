@@ -36,16 +36,16 @@ schemadotorg:
       position: 1
       item:
         "@type": WebPage
-        "@id": https://watchnationpro.com/
+        "@id": https://watchnationpro.com/#webpage
         url: https://watchnationpro.com/
         name: WatchNationPro
     - "@type": ListItem
       position: 2
       item:
         "@type": WebPage
-        "@id": https://watchnationpro.com/
+        "@id": https://watchnationpro.com/#webpage
         url: https://watchnationpro.com/
-        name: 'What is the Best Smartwatches for Women and girls? Reviews, Ratings & Buying Guide'
+        name: 'Apple Watch Series 6 Review vs SE vs 3'
 - "@context": http://schema.org
   "@type": ItemList
   name: What's the Best Smartwatches for Women and girls? Reviews, Ratings & Buying Guide
