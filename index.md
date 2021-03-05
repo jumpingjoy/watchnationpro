@@ -5,22 +5,6 @@ description: While there are many outstanding smartwatch for women currently on 
 schemadotorg:
 - "@context": https://schema.org
   "@graph":
-  - "@type": ItemList
-  itemListElement:
-  - "@type": ListItem
-    position: 1
-    name: Books
-    item: https://example.com/books
-  - "@type": ListItem
-    position: 2
-    name: Authors
-    item: https://example.com/books/authors
-  - "@type": ListItem
-    position: 3
-    name: Ann Leckie
-    item: https://example.com/books/authors/annleckie
-- "@context": https://schema.org
-  "@graph":
   - "@type": Organization
     "@id": https://watchnationpro.com/#organization
     url: https://watchnationpro.com/
@@ -36,13 +20,13 @@ schemadotorg:
     "@id": https://watchnationpro.com/apple-watch-series-6-review/#webpage
     url: https://watchnationpro.com/apple-watch-series-6-review/
     inLanguage: en-US
-    name: 'What's the Best Smartwatches for Women and girls? Reviews, Ratings & Buying Guide'
+    name: 'Apple Watch Series 6 Review vs SE vs 3'
     keywords: ["smartwatch for women", "smartwatch for ladies"]
     isPartOf:
       "@id": https://watchnationpro.com/#website
     breadcrumb:
       "@id": https://watchnationpro.com/apple-watch-series-6-review/#breadcrumblist
-    description: super webpage to find the best smartwatch for women.
+    description: While there are many outstanding smartwatch for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
     datePublished: '2021-12-28T12:01:19+00:00'
     dateModified: '2021-05-07T04:28:43+00:00'
   - "@type": BreadcrumbList
@@ -62,6 +46,44 @@ schemadotorg:
         "@id": https://watchnationpro.com/apple-watch-series-6-review/
         url: https://watchnationpro.com/apple-watch-series-6-review/
         name: 'Apple Watch Series 6 Review vs SE vs 3'
+- "@context": http://schema.org
+  "@type": ItemList
+  name: Best Vitamin C Serums
+  description: Vitamin C serum has been proven to reduce wrinkles, clear acne, and
+    pigmentation issues. But not all are created the same. We've reviewed and found
+    that...
+  itemListElement:
+  - "@type": ListItem
+    position: 1
+    item:
+      "@type": Product
+      name: Obagi
+      url: https://skinstartswithc.com/#1_-_Obagi
+  - "@type": ListItem
+    position: 2
+    item:
+      "@type": Product
+      name: OZ Naturals
+      url: https://skinstartswithc.com/#2_-_Oz_Naturals
+  - "@type": ListItem
+    position: 3
+    item:
+      "@type": Product
+      name: Mad Hippie
+      url: https://skinstartswithc.com/#3_-_Mad_Hippie
+  - "@type": ListItem
+    position: 4
+    item:
+      "@type": Product
+      name: Mario Badescu
+      url: https://skinstartswithc.com/#4_-_Mario_Badescu
+  - "@type": ListItem
+    position: 5
+    item:
+      "@type": Product
+      name: SkinCeuticals
+      url: https://skinstartswithc.com/#5_SkinCeuticals
+
 ---
 {% include image.html img="smartwatch-for-women.webp" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
 
