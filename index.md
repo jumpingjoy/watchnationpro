@@ -2,6 +2,7 @@
 title: What's the Best Smartwatches for Women and girls? Reviews, Ratings & Buying Guide
 sidebar: right
 schemadotorg:
+schemadotorg:
 - "@context": https://schema.org
   "@graph":
   - "@type": Organization
@@ -16,33 +17,39 @@ schemadotorg:
     publisher:
       "@id": https://watchnationpro.com/#organization
   - "@type": WebPage
-    "@id": https://watchnationpro.com/#webpage
-    url: https://watchnationpro.com/
+    "@id": https://watchnationpro.com/apple-watch-series-6-review/#webpage
+    url: https://watchnationpro.com/apple-watch-series-6-review/
     inLanguage: en-US
-    name: 'What's the Best Smartwatches for Women and girls? Reviews, Ratings & Buying Guide'
+    name: 'Apple Watch Series 6 Review vs SE vs 3'
     keywords: ["smartwatch for women", "smartwatch for ladies"]
     isPartOf:
       "@id": https://watchnationpro.com/#website
     breadcrumb:
-      "@id": https://watchnationpro.com/#breadcrumblist
+      "@id": https://watchnationpro.com/apple-watch-series-6-review/#breadcrumblist
     description: While there are many outstanding smartwatch for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
     datePublished: '2021-12-28T12:01:19+00:00'
     dateModified: '2021-05-07T04:28:43+00:00'
   - "@type": BreadcrumbList
-    "@id": https://watchnationpro.com/#breadcrumblist
-  - "@type": ItemList
-     itemListElement:
-     - "@type": ListItem
-       position: 1
-       name: Apple Watch Series 6
-       item: https://www.watchnationpro.com/apple-watch-series-6-review/
-     - "@type": ListItem
-       position: 2
-       name: Samsung Watch Active
-       item: https://www.watchnationpro.com/samsung-watch-active-3-review/
-     - "@type": ListItem
-       position: 3
-       name: Award Winners
+    "@id": https://watchnationpro.com/apple-watch-series-6-review/#breadcrumblist
+    itemListElement:
+    - "@type": ListItem
+      position: 1
+      item:
+        "@type": WebPage
+        "@id": https://watchnationpro.com/
+        url: https://watchnationpro.com/
+        name: WatchNationPro
+    - "@type": ListItem
+      position: 2
+      item:
+        "@type": WebPage
+        "@id": https://watchnationpro.com/apple-watch-series-6-review/
+        url: https://watchnationpro.com/apple-watch-series-6-review/
+        name: 'Apple Watch Series 6 Review vs SE vs 3'
+- "@context": https://schema.org
+  author:
+    "@type": Person
+    name: Sarah hollen
 ---
 {% include image.html img="smartwatch-for-women.webp" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
 
