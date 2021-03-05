@@ -11,7 +11,7 @@ schemadotorg:
  description: "Find Out Which are the BEST Smartwatches for Women and girls on the market in 2021. See Which Ones Have FREE...shipping. Women's smartwatch helps ladies be better at family, work, health, sports, and smartwatch apps. But, not all are designed the same. We've reviewed and found that..."
  keywords: ["smartwatch for women", "smartwatch for ladies"]
  publisher: WatchNationPro Team
- "@type": BreadcrumbList
+ "@type": ItemList
  itemListElement:
  - "@type": ListItem
    position: 1
