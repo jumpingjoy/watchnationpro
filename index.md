@@ -62,7 +62,7 @@ schemadotorg:
     item:
       "@type": Product
       name: Samsung Watch Active 3
-      url: https://www.watchnationpro.com/samsung-watch-active-3-review/
+      url: https://www.watchnationpro.com/samsung-galaxy-watch-3-review/
   - "@type": ListItem
     position: 3
     item:
@@ -294,7 +294,7 @@ You can go for a swim with your ATM water resistance watch.
 ### No.2 Samsung Active Galaxy Active 3
 {% include image.html img="samsung-galaxy-active-3.webp" align="right" %}
 
-Top brand Samsung Galaxy watch has released another version to its Samsung galaxy range of smartwatch series called <a href="https://www.watchnationpro.com/samsung-watch-active-3-review">Samsung Galaxy Active 3</a>.
+Top brand Samsung Galaxy watch has released another version to its Samsung galaxy range of smartwatch series called <a href="https://www.watchnationpro.com/samsung-galaxy-watch-3-review">Samsung Galaxy Active 3</a>.
 
 You can aspire to all the features that are available in Tizen. Similar to galaxy watch active 2, the latest model comes with AMOLED screen display in two sizes, 40mm and 44mm.
 
@@ -343,7 +343,7 @@ Along with built in GPS, activity tracking, heart rate tracking monitors, ECG mo
  </table>
  </div>
 
-{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/samsung-watch-active-3-review/" blank="true" %}
+{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/samsung-galaxy-watch-3-review/" blank="true" %}
 
 ### No. 3 Garmin Venu
 {% include image.html img="garmin-venu.webp" align="right" %}
