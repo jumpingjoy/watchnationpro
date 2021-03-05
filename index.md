@@ -25,12 +25,12 @@ schemadotorg:
     isPartOf:
       "@id": https://watchnationpro.com/#website
     breadcrumb:
-      "@id": https://watchnationpro.com/apple-watch-series-6-review/#breadcrumblist
+      "@id": https://watchnationpro.com/#breadcrumblist
     description: Find Out Which is the BEST Smartwatches for Women and girls on the market in 2021. See Which Ones Have FREE...shipping. Women's smartwatch helps ladies be better at family, work, health, sports, and smartwatch apps. But, not all are designed the same. We've reviewed and found that...
     datePublished: '2021-12-28T12:01:19+00:00'
     dateModified: '2021-05-07T04:28:43+00:00'
   - "@type": BreadcrumbList
-    "@id": https://watchnationpro.com/#breadcrumblist
+    "@id": https://watchnationpro.com/apple-watch-series-6-review/#breadcrumblist
     itemListElement:
     - "@type": ListItem
       position: 1
@@ -43,8 +43,8 @@ schemadotorg:
       position: 2
       item:
         "@type": WebPage
-        "@id": https://watchnationpro.com/
-        url: https://watchnationpro.com/
+        "@id": https://watchnationpro.com/apple-watch-series-6-review/
+        url: https://watchnationpro.com/apple-watch-series-6-review/
         name: 'Apple Watch Series 6 Review vs SE vs 3'
 - "@context": http://schema.org
   "@type": ItemList
