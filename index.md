@@ -2,21 +2,22 @@
 title: What's the Best Smartwatches for Women and girls? Reviews, Ratings & Buying Guide
 sidebar: right
 description: While there are many outstanding smartwatch for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
-"@context": https://schema.org
-"@type": ItemList
-itemListElement:
-- "@type": ListItem
-  position: 1
-  name: Books
-  item: https://example.com/books
-- "@type": ListItem
-  position: 2
-  name: Authors
-  item: https://example.com/books/authors
-- "@type": ListItem
-  position: 3
-  name: Ann Leckie
-  item: https://example.com/books/authors/annleckie
+schemadotorg:
+- "@context": https://schema.org
+  "@type": ItemList
+  itemListElement:
+  - "@type": ListItem
+    position: 1
+    name: Books
+    item: https://example.com/books
+  - "@type": ListItem
+    position: 2
+    name: Authors
+    item: https://example.com/books/authors
+  - "@type": ListItem
+    position: 3
+    name: Ann Leckie
+    item: https://example.com/books/authors/annleckie
 schemadotorg:
 - "@context": https://schema.org
   "@graph":
