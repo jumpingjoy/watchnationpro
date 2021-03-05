@@ -56,31 +56,31 @@ schemadotorg:
     item:
       "@type": Product
       name: Apple Watch Series 6
-      url: /apple-watch-series-6-review/
+      url: https://www.watchnationpro.com/apple-watch-series-6-review/
   - "@type": ListItem
     position: 2
     item:
       "@type": Product
       name: Samsung Watch Active 3
-      url: /samsung-watch-active-3-review/
+      url: https://www.watchnationpro.com/samsung-watch-active-3-review/
   - "@type": ListItem
     position: 3
     item:
       "@type": Product
       name: Garmin Venu
-      url: /garmin-venu-review/
+      url: https://www.watchnationpro.com/garmin-venu-review/
   - "@type": ListItem
     position: 4
     item:
       "@type": Product
       name: Fitbit Sense
-      url: /fitbit-sense-review/
+      url: https://www.watchnationpro.com/fitbit-sense-review/
   - "@type": ListItem
     position: 5
     item:
       "@type": Product
       name: Huawei GT 2
-      url: /huawei-gt-2-review/
+      url: https://www.watchnationpro.com/huawei-gt-2-review/
 
 ---
 {% include image.html img="smartwatch-for-women.webp" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
