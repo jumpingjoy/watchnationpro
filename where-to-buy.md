@@ -65,3 +65,13 @@ Considering all these reasons, we have already tested many different online supp
 Suppose you are looking for a bargain to test the best smartwatch for women. Apple regularly offers discounts on its products, which you can find by clicking the link below.
 
 As these discounts regularly expire, though, we would highly suggest snagging these up as soon as you can!
+
+### Post Author
+#### Sarah Hollen
+{% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
+Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://www.watchnationpro.com/about-us/">here</a>.
+
+<b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
+
+<a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
+<a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>
