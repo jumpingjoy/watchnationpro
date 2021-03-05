@@ -46,18 +46,18 @@ The quality of Obagi's vitamin C products is apparent from the first use. Amongs
 The Obagi vitamin C products work quickly and leave your health feeling refreshed, smartwatch for women and hydrated, with the price of Obagi products being instantly justified with the first application to your health!
 
 ### Where Can I Buy Apple Watches?
-
+{% include image.html img="apple-watch-series-6.webp" align="right" %}
 We've established our preference for the Apple Watch Series 6, but picking the supplier that speaks the most to you is just the first step. As important as it is to know how smartwatches for women compare from supplier to supplier, it is just as important to know where you can find the most effective and beneficial products you're looking for.
 
 As most will already be aware, there is a jungle of suppliers available that offers many health care products promising the world. Local smartwatch companies usually have an assortment of brands too that are likely to overpromise and underdeliver.
 
-> The truth is buying
+> The truth is buying smartwatches online, has a list of advantages when comparing to buying from physical stores.
 
-1. texts
+1. First, you must realise that the manufacturer is having a very short supply chain, so all their cost and budget is spent on perfecting their product.
 
-2. text
+2. Physical stores are usually too conservative when it comes to guarantees and promises.
 
-3. text
+3. Physical stores contains a list of non-authorized resellers which may result in the compromise on the product quality.
 
 For all those reasons, we have tested different online suppliers to make sure that you have a smooth purchasing experience from education to payment on your path for your revitalized health!
 
