@@ -30,34 +30,19 @@ schemadotorg:
     dateModified: '2021-05-07T04:28:43+00:00'
   - "@type": BreadcrumbList
     "@id": https://watchnationpro.com/#breadcrumblist
-schemadotorg:
- "@context": http://schema.org/
- "@type": ItemList
- itemListElement:
- - "@type": ListItem
-   position: 1
-   name: Apple Watch Series 6
-   item: https://www.watchnationpro.com/apple-watch-series-6-review/
- - "@type": ListItem
-   position: 2
-   name: Samsung Watch Active
-   item: https://www.watchnationpro.com/samsung-watch-active-3-review/
- - "@type": ListItem
-   position: 3
-   name: Award Winners
-   "@type": ItemList
-   itemListElement:
-   - "@type": ListItem
-     position: 1
-     name: Apple Watch Series 6
-     item: https://www.watchnationpro.com/apple-watch-series-6-review/
-   - "@type": ListItem
-     position: 2
-     name: Samsung Watch Active
-     item: https://www.watchnationpro.com/samsung-watch-active-3-review/
-   - "@type": ListItem
-     position: 3
-     name: Award Winners
+  - "@type": ItemList
+     itemListElement:
+     - "@type": ListItem
+       position: 1
+       name: Apple Watch Series 6
+       item: https://www.watchnationpro.com/apple-watch-series-6-review/
+     - "@type": ListItem
+       position: 2
+       name: Samsung Watch Active
+       item: https://www.watchnationpro.com/samsung-watch-active-3-review/
+     - "@type": ListItem
+       position: 3
+       name: Award Winners
 ---
 {% include image.html img="smartwatch-for-women.webp" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
 
