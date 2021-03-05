@@ -2,16 +2,37 @@
 title: What's the Best Smartwatches for Women and girls? Reviews, Ratings & Buying Guide
 sidebar: right
 schemadotorg:
+- "@context": https://schema.org
+  "@graph":
+  - "@type": Organization
+    "@id": https://watchnationpro.com/#organization
+    url: https://watchnationpro.com/
+    name: WatchNationPro
+    sameAs: []
+  - "@type": WebSite
+    "@id": https://watchnationpro.com/#website
+    url: https://watchnationpro.com/
+    name: WatchNationPro
+    publisher:
+      "@id": https://watchnationpro.com/#organization
+  - "@type": WebPage
+    "@id": https://watchnationpro.com/#webpage
+    url: https://watchnationpro.com/
+    inLanguage: en-US
+    name: 'What's the Best Smartwatches for Women and girls? Reviews, Ratings & Buying Guide'
+    keywords: ["smartwatch for women", "smartwatch for ladies"]
+    isPartOf:
+      "@id": https://watchnationpro.com/#website
+    breadcrumb:
+      "@id": https://watchnationpro.com/#breadcrumblist
+    description: While there are many outstanding smartwatch for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
+    datePublished: '2021-12-28T12:01:19+00:00'
+    dateModified: '2021-05-07T04:28:43+00:00'
+  - "@type": BreadcrumbList
+    "@id": https://watchnationpro.com/#breadcrumblist
+schemadotorg:
  "@context": http://schema.org/
- "@type": Website
- url: https://watchnationpro.com/
- about: "This site helps to choose the BEST smartwatch for Women"
- name: "WatchNationPro"
- author: ["Sarah Hollen"]
- description: "Find Out Which are the BEST Smartwatches for Women and girls on the market in 2021. See Which Ones Have FREE...shipping. Women's smartwatch helps ladies be better at family, work, health, sports, and smartwatch apps. But, not all are designed the same. We've reviewed and found that..."
- keywords: ["smartwatch for women", "smartwatch for ladies"]
- publisher: WatchNationPro Team
- "@type": BreadcrumbList
+ "@type": ItemList
  itemListElement:
  - "@type": ListItem
    position: 1
