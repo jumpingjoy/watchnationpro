@@ -29,7 +29,7 @@ schemadotorg:
     datePublished: '2021-12-28T12:01:19+00:00'
     dateModified: '2021-05-07T04:28:43+00:00'
   - "@type": BreadcrumbList
-    "@id": https://watchnationpro.com/apple-watch-series-6-review/#breadcrumblist
+    "@id": https://watchnationpro.com/
     itemListElement:
     - "@type": ListItem
       position: 1
@@ -38,6 +38,17 @@ schemadotorg:
         "@id": https://watchnationpro.com/
         url: https://watchnationpro.com/
         name: WatchNationPro
+    - "@type": ListItem
+      position: 2
+      item:
+        "@type": WebPage
+        "@id": https://watchnationpro.com/apple-watch-series-6-review/
+        url: https://watchnationpro.com/apple-watch-series-6-review/
+        name: 'Apple Watch Series 6 Review vs SE vs 3'
+- "@context": https://schema.org
+  author:
+    "@type": Person
+    name: Sarah hollen
 ---
 {% include image.html img="smartwatch-for-women.webp" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
 
