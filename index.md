@@ -46,9 +46,6 @@ schemadotorg:
         url: https://watchnationpro.com/apple-watch-series-6-review/
         name: 'Apple Watch Series 6 Review vs SE vs 3'
 - "@context": https://schema.org
-  author:
-    "@type": Person
-    name: Sarah hollen
 ---
 {% include image.html img="smartwatch-for-women.webp" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
 
