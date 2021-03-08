@@ -4,7 +4,7 @@ description:  While there are many great smartwatches for women currently on the
 sidebar: right
 author: Sarah Hollen
 ---
-{% include image.html img="apple-watch-6.webp" alt="Alt for image" caption="Fossil Sport Review" align="center" %}
+{% include image.html img="fossil-sport-review.webp" alt="Alt for image" caption="Fossil Sport Review" align="center" %}
 
 While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Fossil Sport.  In 9 of 10 of the online reviews available, Fossil Sport comes out on top.
 

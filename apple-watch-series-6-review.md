@@ -108,10 +108,10 @@ Each variant comes in different colors. Stainless steel variant is available in 
 
 Solo Loop Band is a new intro in Apple watch series 6. This stretchable band is made of silicone. But the stainless steel variant has either a sports band or Milanese loop band. The wrist band of the Apple watch series 6 requires less maintenance and the wetness of the band gets dry quickly. The right side of the watch has a digital crown and a button. The Speaker cutout is placed on the left side. All other sensors are located underside of the watch case.
 
-{% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="/fossil-sport-review/" blank="true" %}
-
 ##### Water Resistance
 Water-resistant of the apple watch series 6 is measured 5ATM or up to 50m. Most excitingly, the Hand Wash feature attracts more attention. It starts a timer for the 20s when it detects hand washing. Water-resistance is the highlight of WatchOS 7.
+
+{% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="/fossil-sport-review/" blank="true" %}
 
 #### 🤔How comfortable is it to wear and use the Apple watch series 6?
 

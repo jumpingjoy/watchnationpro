@@ -64,8 +64,8 @@ schemadotorg:
     "@type": Person
     name: Sarah hollen
 ---
-{% include image.html img="apple-watch-6.webp" alt="Alt for image" caption="
-Garmin Venu Review" align="center" %}
+{% include image.html img="Huawei-gt-2-review.webp" alt="Alt for image" caption="
+Huawei GT2 Review" align="center" %}
 
 Huawei has been releasing smartwatches to meet today's consumer's choice. Huawei released Huawei GT smartwatch earlier. In line with the GT series, Huawei has released Huawei GT 2. Huawei's previous watches had some complaints in terms of battery life, software, and also it was good in some other features. Even from these mixed experiences, we could see some positive expectations for Huawei GT 2.
 
