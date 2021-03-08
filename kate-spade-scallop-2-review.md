@@ -148,7 +148,7 @@ It comes with NFC (Near Field Communication). So you can perform Contactless pay
 
 ### Kate Spade Scallop 2 Review: Safety and Location Tracking Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="safety-location-tracking-smartwatch-women.webp" alt="Alt for image" caption="safety-location-tracking-smartwatch-women" align="center" %}
 
 Cannot find
 

@@ -187,7 +187,7 @@ To use Fitbit Pay, you need to add at least one credit card or debit card from p
 
 ### Fitbit Sense Review: Safety and Location Tracking Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="safety-location-tracking-smartwatch-women.webp" alt="Alt for image" caption="safety-location-tracking-smartwatch-women" align="center" %}
 
 We can have a look at the safety; emergency tracking features in Fitbit Sense.
 
