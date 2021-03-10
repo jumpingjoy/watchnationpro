@@ -289,8 +289,8 @@ Apps for outdoor activities such as running, walking, Biking, etc., are availabl
 
 ## How does it work?
 
-Kate Spade Scallop 2 comes from the well-known and traditional Fossil brand and the Fashion brand Kate Spade loaded with fashionable features for women.
-<!--Insert 1 Youtube Video here-->
+Kate Spade Scallop 2 comes from the well-known and traditional Kate Spade loaded with fashionable features for women.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sPPQ_B0orog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Where can I buy this product?
 

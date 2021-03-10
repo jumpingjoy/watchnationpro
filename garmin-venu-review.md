@@ -309,8 +309,8 @@ Apps for outdoor activities such as running, walking, Biking, etc., are availabl
 
 ## How does it work?
 
-Garmin Venu comes from the well-known brand of Apple loaded with sensible features for women.
-<!--Insert  1 Youtube Video here-->
+Garmin Venu comes from the well-known brand of Garmin with sensible features for women.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7INBkApiD9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Where can I buy this product?
 

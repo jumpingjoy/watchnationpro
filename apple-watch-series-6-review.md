@@ -401,7 +401,6 @@ Our rating: ★★★★☆ | 🙂
 
 Under ISO standard, a water resistance rating of 50 meters is guaranteed. So you can take it not only for the pool even for ocean swimming too. Please check Water Lock before getting into swimming to prevent your watch touch screen’s activation. If you have selected swim mode, it automatically activates Watch Lock.
 
-
 #### 🤔How well the outdoor activities can be tracked in the Apple watch series 6?
 
 Our rating: ★★★★☆ | 🙂
@@ -410,7 +409,7 @@ Features such as Barometer, always-ON Altimeter, Emergency charging, Daylight tr
 
 ## 🤔How does it work?
 Apple Watch Series 6 comes from the well-known brand Apple, loaded with sensible features.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bgNdmNgdxqk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z9NGw1Q46yE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Where can I buy this product?
 

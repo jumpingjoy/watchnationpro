@@ -357,7 +357,7 @@ You can find all the outdoor activities' modes such as biking, mountaineering, e
 
 Huawei GT 2 is Huawei's GT smartwatch's successor as Huawei is filled with in-house hardware in both smartwatches. The improvements are given in software and increasing the performance. Huawei's own Lite OS has to work on some features. However, it delivers good fitness tracking and health tracking with good battery life. Those looking for more variants in terms of designs, colors, sports features can look at Huawei's GT variants. It serves adequate performance for the price. Still, there are many other smartwatches in Fitbit, Samsung that scores high while comparing few additional features; it is up to you to choose the one that suits most of your requirements in one watch.
 
-<!--Insert  1 Youtube Video here-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7WP0PF8lxGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Where can I buy this product?
 
