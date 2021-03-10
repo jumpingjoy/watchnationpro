@@ -1,5 +1,5 @@
 ---
-title: Samsung smart watches for Women - Samsung Galaxy Watch 3 Review
+title: Samsung Galaxy Smart Watch 3 Review for Women
 description: While there are samsung smart watches for women and girls in the market, and some of the samsung smartwatches for women are best compatible with android. We found samsung galaxy watch 3 to have higher performance when compared to its samsung galaxy watch active 2 review.
 sidebar: right
 schemadotorg:
@@ -20,11 +20,11 @@ schemadotorg:
     "@id": https://watchnationpro.com/samsung-galaxy-watch-3-review/#webpage
     url: https://watchnationpro.com/samsung-galaxy-watch-3-review/
     inLanguage: en-US
-    name: 'Samsung Galaxy Watch 3 Review'
+    name: 'Samsung Galaxy Smart Watch 3 Review for Women'
     isPartOf:
       "@id": https://watchnationpro.com/#website
     breadcrumb:
-      "@id": https://watchnationpro.com/apple-watch-series-6-review/#breadcrumblist
+      "@id": https://watchnationpro.com/samsung-galaxy-watch-3-review/#breadcrumblist
     description: While there are samsung smart watches for women and girls in the market, and some of the samsung smartwatches for women are best compatible with android. We found samsung galaxy watch 3 to have higher performance when compared to its samsung galaxy watch active 2 review.
     datePublished: '2021-12-28T12:01:19+00:00'
     dateModified: '2021-05-07T04:28:43+00:00'
@@ -44,7 +44,7 @@ schemadotorg:
         "@type": WebPage
         "@id": https://watchnationpro.com/samsung-galaxy-watch-3-review/
         url: https://watchnationpro.com/samsung-galaxy-watch-3-review/
-        name: 'Samsung Galaxy Watch 3 Review'
+        name: 'Samsung Galaxy Smart Watch 3 Review for Women'
 - "@context": https://schema.org
   "@type": Review
   itemReviewed:
