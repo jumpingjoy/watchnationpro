@@ -71,7 +71,7 @@ While there are many great smartwatches for women currently on the market, no ot
 
 ### Apple Watch Series 6 Review: Quick and Important Factors Checked
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="smartwatch-quick-feature-check.webp" alt="Alt for image" caption="smartwatch-quick-feature-check" align="center" %}
 
 We will look at the most important and essential features checked before going to other feature details:
 

@@ -14,7 +14,7 @@ Garmin is specialized in providing GPS technology for aviation, marine, automoti
 
 ### Garmin Venu Review: Quick and Important Factors Checked
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="smartwatch-quick-feature-check.webp" alt="Alt for image" caption="smartwatch-quick-feature-check" align="center" %}
 
 We will look at the most important and essential features checked before going to other feature details:
 
@@ -272,7 +272,7 @@ Yes. Training data can be customized through the user profile.
 
 ### Garmin Venu Review: Sports Activity: Running Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="smartwatch-quick-feature-check.webp" alt="Alt for image" caption="smartwatch-quick-feature-check" align="center" %}
 
 #### How well the running activity is monitored in Garmin Venu?
 
@@ -282,7 +282,7 @@ Four stats are given to running. The distance covered is tracked through GPS. Fo
 
 ### Garmin Venu Review: Sports Activity: Cycling Related Features
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="smartwatch-quick-feature-check.webp" alt="Alt for image" caption="smartwatch-quick-feature-check" align="center" %}
 
 #### How well the cycling activity is monitored in Garmin Venu?
 
@@ -291,7 +291,7 @@ Our rating: ★★★★☆ | 🙂
 Garmin Venu is one of the affordable watches that include cycling features.
 
 ### Garmin Venu Review: Sports Activity: Swimming Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="smartwatch-quick-feature-check.webp" alt="Alt for image" caption="smartwatch-quick-feature-check" align="center" %}
 
 #### How well the swimming activity is tracked in the Garmin Venu?
 Our rating: ★★★★☆ | 🙂
@@ -299,7 +299,7 @@ Our rating: ★★★★☆ | 🙂
 It comes with a waterproof feature. So it can be worn while swimming. It provides all the swimming metrics – distance, time, SWOLF strokes, etc.
 
 ### Garmin Venu Review: Outdoor Recreation Activity Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="smartwatch-quick-feature-check.webp" alt="Alt for image" caption="smartwatch-quick-feature-check" align="center" %}
 
 #### How well the outdoor activities can be tracked in the Garmin Venu?
 

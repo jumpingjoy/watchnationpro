@@ -69,7 +69,7 @@ schemadotorg:
 
 ### Fitbit Sense Review: Quick and Important Factors Checked
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="smartwatch-quick-feature-check.webp" alt="Alt for image" caption="smartwatch-quick-feature-check" align="center" %}
 
 We will look at the most important and essential features checked before going to other feature details:
 
@@ -400,7 +400,7 @@ Our rating: ★★★★☆ | 🙂
 You can take the smartwatch into the pool as it comes with a water resistance of up to 5ATM. A dedicated swim training mode tracks your activities inside the pool also. These trackers provide metrics such as distance, duration, heart rate, etc.
 
 ### Fitbit Sense Review: Outdoor Recreation Activity Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="smartwatch-quick-feature-check.webp" alt="Alt for image" caption="smartwatch-quick-feature-check" align="center" %}
 
 #### How well the outdoor activities can be tracked in the Fitbit Sense?
 

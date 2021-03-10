@@ -14,7 +14,7 @@ And it's no surprise why, as you will soon learn.
 
 ### Fossil Sport Review: Quick and Important Factors Checked
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="smartwatch-quick-feature-check.webp" alt="Alt for image" caption="smartwatch-quick-feature-check" align="center" %}
 
 We will look at the most important and essential features checked before going to other feature details:
 
@@ -276,14 +276,14 @@ You can customize the training data in the Google Fit app on the watch. After op
 
 ### Fossil Sport Review: Sports Activity Tracking
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="smartwatch-quick-feature-check.webp" alt="Alt for image" caption="smartwatch-quick-feature-check" align="center" %}
 
 #### How well the running Activity is monitored in Fossil Sport?
 
 ★★★★☆ | 🙂
 With the help of GPS, Running data are tracked very well. The distance covered, the time taken to reach the target, heart rate during running are updated timely.
 
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="smartwatch-quick-feature-check.webp" alt="Alt for image" caption="smartwatch-quick-feature-check" align="center" %}
 
 #### How well the cycling activity is monitored in Fossil Sport?
 
@@ -297,7 +297,7 @@ Our rating: ★★★★☆ | 🙂
 You can take the Fossil sport to swimming as it is swim-proof. But there is no official IP rating available. However, during the test, The watch worked well in swimming. It has 5 ATM water resistance. But unfortunately, you cannot track swimming in Wear OS. So you can look for any other apps for swimming alone. You can try Strava.
 
 ### Fossil Sport Review: Outdoor Recreation Activity Related Features
-{% include image.html img="apple-watch-series-6-quick-feature-check.webp" alt="Alt for image" caption="apple-watch-series-6-quick-feature-check" align="center" %}
+{% include image.html img="smartwatch-quick-feature-check.webp" alt="Alt for image" caption="smartwatch-quick-feature-check" align="center" %}
 
 #### How well the outdoor activities can be tracked in the Fossil Sport?
 
