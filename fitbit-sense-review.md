@@ -1,5 +1,5 @@
 ---
-title: Fitbit Sense Review for 
+title: Fitbit Sense Review for
 description:  While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Fitbit Sense.  In 9 of 10 of the online reviews available, Fitbit Sense comes out on top.
 sidebar: right
 schemadotorg:
@@ -411,8 +411,8 @@ Our rating: ★★★★☆ | 🙂
 Connected GPS tracks all the outdoor activities. All the outdoor activities are monitored like other sports activities.
 
 ## How does it work?
-Fitbit Sense comes from the well-known brand Apple, loaded with sensible features for women.
-<!--Insert  1 Youtube Video here-->
+Fitbit Sense comes from the well-known brand Fitbit, loaded with sensible features for women.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3v6qsQf2dz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Where can I buy this product?
 
