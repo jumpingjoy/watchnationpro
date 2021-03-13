@@ -2,6 +2,50 @@
 title: About Us | WatchNationPro
 description:  So, if you want to learn more about our website, you can click this link right here and find out more about WatchNationPro.
 sidebar: none
+"@context": https://schema.org
+"@graph":
+- "@type": Organization
+  "@id": https://watchnationpro.com/#organization
+  url: https://watchnationpro.com/
+  name: WatchNationPro
+  sameAs: []
+- "@type": WebSite
+  "@id": https://watchnationpro.com/#website
+  url: https://watchnationpro.com/
+  name: WatchNationPro
+  publisher:
+    "@id": https://watchnationpro.com/#organization
+- "@type": WebPage
+  "@id": https://watchnationpro.com/about-us/#webpage
+  url: https://watchnationpro.com/about-us/
+  inLanguage: en-US
+  name: About Us
+  isPartOf:
+    "@id": https://watchnationpro.com/#website
+  breadcrumb:
+    "@id": https://watchnationpro.com/about-us/#breadcrumblist
+  description: So, if you want to learn more about our website, you can click this
+    link right here and find out more about WatchNationPro.
+  datePublished: '2021-01-10T06:34:34+00:00'
+  dateModified: '2021-02-16T07:04:52+00:00'
+- "@type": BreadcrumbList
+  "@id": https://watchnationpro.com/about-us/#breadcrumblist
+  itemListElement:
+  - "@type": ListItem
+    position: 1
+    item:
+      "@type": WebPage
+      "@id": https://watchnationpro.com/
+      url: https://watchnationpro.com/
+      name: WatchNationPro
+  - "@type": ListItem
+    position: 2
+    item:
+      "@type": WebPage
+      "@id": https://watchnationpro.com/about-us/
+      url: https://watchnationpro.com/about-us/
+      name: About Us
+
 ---
 Welcome to our website!
 
@@ -23,7 +67,7 @@ I thought that everything was going well until I entered work, where I suffered 
 Email Casey at sarah.hollen@watchnationpro.com
 
 ### Rwanda Bryan (Marketing Manager)
-{% include image.html img="sarah-hollen.webp" alt="Rwanda-Bryan" caption="Rwanda Bryan" align="left" %}
+{% include image.html img="rwanda-bryan.webp" alt="Rwanda-Bryan" caption="Rwanda Bryan" align="left" %}
 ​Hi, my name is Rwanda! Same with Sarah, I also experienced severe problems with delayed menstruation and obesity when I was in my early 20's. At first, I thought it was an average phenomenon. You know ladies' hormones do not work well sometimes, right? But when I started to realize the dangers of delayed menstruation and its relationship with lack of menstrual hygiene, that's when I knew that something has to be done immediately.
 
 What's more irritating, there is a repetition of this every month. It's like a never-ending cycle. I'm sure some of you women have experienced the same many times in their life.
@@ -33,7 +77,7 @@ When I tried using smartphones to track my menstrual cycle, it didn't​ help me
 Email Rwanda at rwanda.bryan@watchnationpro.com
 
 ### Tracey Track (Content Manager)
-{% include image.html img="sarah-hollen.webp" alt="Tracey-Track" caption="Tracey Track" align="left" %}
+{% include image.html img="tracey-track.webp" alt="Tracey-Track" caption="Tracey Track" align="left" %}
 ​What's up? I'm Tracey. I've been in the fitness industry as a ​Fitness ​Coach for seven years now. I have known people who passionately work out to build their bodies, and most of them tend to forget ​one important thing — to take good care of their health.
 
 ​When we do a workout, we sweat a lot, and if it is affecting our skin for a long time, it can tend to block our sweat pores. ​Hence, monitoring your sweat is also essential, which can be performed through a smartwatch.
@@ -46,6 +90,6 @@ As a writer at WatchNationPro, join the team and me in making this mission come 
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-​Mailing Address: 100 6th Ave #43, New York, NY 10013, USA
+​Mailing Address: 800 S Harkrider St, Conway, AR 72032, USA
 
-Phone Number: 212-412-7910
+Phone Number: 213-422-7930

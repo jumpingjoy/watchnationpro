@@ -1,8 +1,68 @@
 ---
-title: Fossil Sport Review 6 vs SE vs 3
-description:  While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Fossil Sport.  In 9 of 10 of the online reviews available, Fossil Sport comes out on top.
+title: Fossil Sport Review Smartwatch for Women
+description:  While there are many costly smartwatches for women currently on the market, the affordable Fossil smartwatch women is found to be...
 sidebar: right
-author: Sarah Hollen
+schemadotorg:
+- "@context": https://schema.org
+  "@graph":
+  - "@type": Organization
+    "@id": https://watchnationpro.com/#organization
+    url: https://watchnationpro.com/
+    name: WatchNationPro
+    sameAs: []
+  - "@type": WebSite
+    "@id": https://watchnationpro.com/#website
+    url: https://watchnationpro.com/
+    name: WatchNationPro
+    publisher:
+      "@id": https://watchnationpro.com/#organization
+  - "@type": WebPage
+    "@id": https://watchnationpro.com/fossil-sport-review/#webpage
+    url: https://watchnationpro.com/fossil-sport-review/
+    inLanguage: en-US
+    name: 'F'
+    isPartOf:
+      "@id": https://watchnationpro.com/#website
+    breadcrumb:
+      "@id": https://watchnationpro.com/fossil-sport-review/#breadcrumblist
+    description: While there are many costly smartwatches for women currently on the market, the affordable Fossil smartwatch women is found to be...
+    datePublished: '2021-12-28T12:01:19+00:00'
+    dateModified: '2021-05-07T04:28:43+00:00'
+  - "@type": BreadcrumbList
+    "@id": https://watchnationpro.com/fossil-sport-review/#breadcrumblist
+    itemListElement:
+    - "@type": ListItem
+      position: 1
+      item:
+        "@type": WebPage
+        "@id": https://watchnationpro.com/
+        url: https://watchnationpro.com/
+        name: WatchNationPro
+    - "@type": ListItem
+      position: 2
+      item:
+        "@type": WebPage
+        "@id": https://watchnationpro.com/fossil-sport-review/
+        url: https://watchnationpro.com/fossil-sport-review/
+        name: 'Fossil Sport Review Smartwatch for Women'
+- "@context": https://schema.org
+  "@type": Review
+  itemReviewed:
+    "@type": Product
+    name: Fossil Sport
+    image: fossil-sport-review.webp
+    brand: Fossil
+    isbn:
+    SKU: 4757484
+    description:  While there are many costly smartwatches for women currently on the market, the affordable Fossil smartwatch women is found to be...
+  reviewRating:
+    "@type": Rating
+    ratingValue: 4.1
+    bestRating: 5
+  author:
+    "@type": Person
+    name: Sarah hollen
+
 ---
 {% include image.html img="fossil-sport-review.webp" alt="Alt for image" caption="Fossil Sport Review" align="center" %}
 

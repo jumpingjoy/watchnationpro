@@ -16,6 +16,6 @@ For any product concerns such as complaints and returns, please contact us at cu
 
 {% include formspree.html email="my_name@gmail.com" redirect="/thanks/" %}
 
-Mailing Address: 100 6th Ave 43, New York, NY 10013, USA
+​Mailing Address: 800 S Harkrider St, Conway, AR 72032, USA
 
-Phone Number: 212-412-7910
+Phone Number: 213-422-7930

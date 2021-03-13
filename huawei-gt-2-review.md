@@ -19,19 +19,19 @@ schemadotorg:
     "@id": https://watchnationpro.com/huawei-gt-2-review/#webpage
     url: https://watchnationpro.com/huawei-gt-2-review/
     inLanguage: en-US
-    name: 'Obagi Vitamin C Serum Review: </br>5% vs 10% vs 15% vs 20%'
+    name: 'Huawei GT 2 Review'
     isPartOf:
       "@id": https://watchnationpro.com/#website
     breadcrumb:
-      "@id": https://watchnationpro.com/apple-watch-series-6-review/#breadcrumblist
+      "@id": https://watchnationpro.com/huawei-gt-2-review/#breadcrumblist
     description: While there are many outstanding vitamin C serums currently on the
       market, no other brand has been ranked as the number one serum as often as the
       Obagi vitamin C serum line.  In 18 of 20 of the online reviews available, Obagi
       comes out on top.
-    datePublished: '2016-12-28T12:01:19+00:00'
-    dateModified: '2019-05-07T04:28:43+00:00'
+    datePublished: '2021-12-28T12:01:19+00:00'
+    dateModified: '2021-05-07T04:28:43+00:00'
   - "@type": BreadcrumbList
-    "@id": https://watchnationpro.com/apple-watch-series-6-review/#breadcrumblist
+    "@id": https://watchnationpro.com/huawei-gt-2-review/#breadcrumblist
     itemListElement:
     - "@type": ListItem
       position: 1
@@ -39,26 +39,26 @@ schemadotorg:
         "@type": WebPage
         "@id": https://watchnationpro.com/
         url: https://watchnationpro.com/
-        name: Skin Starts With C
+        name: WatchNationPro
     - "@type": ListItem
       position: 2
       item:
         "@type": WebPage
-        "@id": https://watchnationpro.com/apple-watch-series-6-review/
-        url: https://watchnationpro.com/apple-watch-series-6-review/
-        name: 'Obagi Vitamin C Serum Review: </br>5% vs 10% vs 15% vs 20%'
+        "@id": https://watchnationpro.com/huawei-gt-2-review/
+        url: https://watchnationpro.com/huawei-gt-2-review/
+        name: 'Huawei GT 2 Review'
 - "@context": https://schema.org
   "@type": Review
   itemReviewed:
     "@type": Product
-    name: Apple Watch Series 6
-    brand: Apple
-    SKU: 123
-    description:  While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
+    name: Huawei GT 2 Review
+    brand: Huawei
+    SKU: 837645
+    description:  While there are many good smartwatches for women currently, Huawei has come up with a nice smartwatch which comes with...
     aggregateRating:
   reviewRating:
     "@type": Rating
-    ratingValue: '4.9'
+    ratingValue: '4.2'
     bestRating: 5
   author:
     "@type": Person

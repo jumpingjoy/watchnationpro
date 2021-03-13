@@ -380,7 +380,7 @@ If you have been searching for the best cost, click through our verified supplie
 ## Final Words:
 The Samsung Galaxy Watch 3 is standing out in the wearable market. There are huge number of stylish smartwatches and outstanding fitness trackers to choose, and Samsung has a balance between the two.  
 
-The fact is that the Galaxy Watch 3 is more expensive than the Galaxy Watches and Wear OS Fossil options before it. The Samsung Galaxy Watch 3 looks to be more leaning towards lifestyle than fitness <a href="https://www.healthline.com/health/fitness-exercise">1</a>. We cant suggest to replace Apple Watch with an Android one at the same price. But if you have an Android phone, especially a smartphone made by Samsung—and want an extension of it on your wrist, you will not find anything more stylish and powerful smartwatch than the Galaxy Watch 3.
+The fact is that the Galaxy Watch 3 is more expensive than the Galaxy Watches and Wear OS Fossil options before it. The Samsung Galaxy Watch 3 looks to be more leaning towards lifestyle than fitness <a href="https://www.healthline.com/health/fitness-exercise">(1)</a>. We cant suggest to replace Apple Watch with an Android one at the same price. But if you have an Android phone, especially a smartphone made by Samsung—and want an extension of it on your wrist, you will not find anything more stylish and powerful smartwatch than the Galaxy Watch 3.
 <!--external link inserted above-->
 
 If you feel that the cost is over the board, we have reviewed other cost effective<u><a href= "https://www.watchnationpro.com/">best smartwatches for women</a><u> which you can check out.

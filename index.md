@@ -85,7 +85,7 @@ schemadotorg:
 ---
 {% include image.html img="smartwatch-for-women.webp" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
 
-Do you know that 25% of women have responded favourably towards using smartwatch compared to only 18% of men? Look at the following infographic to understand how women’s smartwatch are increasingly using smartwatches<a href="https://www.alliedmarketresearch.com/smartwatch-market">1</a> year on year based on the sales statistics on smartwatches.
+Do you know that 25% of women have responded favourably towards using smartwatch compared to only 18% of men? Look at the following infographic to understand how women’s smartwatch are increasingly using smartwatches<a href="https://www.alliedmarketresearch.com/smartwatch-market">(1)</a> year on year based on the sales statistics on smartwatches.
 
 ![Smartwatch-infographic]({{site.baseurl}}/uploads/smartwatch-infographic.webp)
 Womens watches 2020 had higher sales than womens watches 2019. Are you looking for the best smartwatches for women reviews? smartwatch for girls can help you be better at work and family life.
