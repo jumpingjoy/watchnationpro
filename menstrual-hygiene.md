@@ -3,6 +3,57 @@ title: Track Menstrual Cycle to Maintain Hygiene
 description:  There is a limited choice of good menstrual trackers in the market. Find out the FREE...
 sidebar: right
 permalink: /smartwatch-benefits-for-women/menstrual-hygiene/
+"@context": https://schema.org
+"@graph":
+- "@type": Organization
+  "@id": https://skinstartswithc.com/#organization
+  url: https://skinstartswithc.com/
+  name: Skin Starts With C
+  sameAs: []
+- "@type": WebSite
+  "@id": https://skinstartswithc.com/#website
+  url: https://skinstartswithc.com/
+  name: Skin Starts With C
+  publisher:
+    "@id": https://skinstartswithc.com/#organization
+- "@type": WebPage
+  "@id": https://skinstartswithc.com/vitamin-c-serum-benefits/acne-scars/#webpage
+  url: https://skinstartswithc.com/vitamin-c-serum-benefits/acne-scars/
+  inLanguage: en-US
+  name: 'Vitamin C Serum for Acne Scars: Natural Skin Treatment'
+  isPartOf:
+    "@id": https://skinstartswithc.com/#website
+  breadcrumb:
+    "@id": https://skinstartswithc.com/vitamin-c-serum-benefits/acne-scars/#breadcrumblist
+  description: How to remove acne scars with Vitamin C Serum? Does it really help?
+    Read this article and find out how it can help you to finally get ...
+  datePublished: '2016-12-28T12:02:42+00:00'
+  dateModified: '2019-05-14T00:53:16+00:00'
+- "@type": BreadcrumbList
+  "@id": https://skinstartswithc.com/vitamin-c-serum-benefits/acne-scars/#breadcrumblist
+  itemListElement:
+  - "@type": ListItem
+    position: 1
+    item:
+      "@type": WebPage
+      "@id": https://skinstartswithc.com/
+      url: https://skinstartswithc.com/
+      name: Skin Starts With C
+  - "@type": ListItem
+    position: 2
+    item:
+      "@type": WebPage
+      "@id": https://skinstartswithc.com/vitamin-c-serum-benefits/
+      url: https://skinstartswithc.com/vitamin-c-serum-benefits/
+      name: 'Benefits of Vitamin C Serum: Improve your Facial Skin'
+  - "@type": ListItem
+    position: 3
+    item:
+      "@type": WebPage
+      "@id": https://skinstartswithc.com/vitamin-c-serum-benefits/acne-scars/
+      url: https://skinstartswithc.com/vitamin-c-serum-benefits/acne-scars/
+      name: 'Vitamin C Serum for Acne Scars: Natural Skin Treatment'
+
 ---
 {% include image.html img="apple-watch-6.webp" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
 
