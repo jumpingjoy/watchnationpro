@@ -12,19 +12,19 @@ schemadotorg:
   dateModified: '2021-12-03'
   description: We tested out various safety-related smartwatch apps available. Find out the FREE...
   keywords:
-  - vitamin c serum acne scars
-  - acne scars vitamin c serum
+  - women safety
+  - smartwatch improves safety of women
   image:
     "@type": ImageObject
     height: '250'
     width: '450'
-    url: https://watchnationpro.com/wp-content/uploads/2016/12/acne.jpg
+    url: favicon.png
   author: Sarah hollen
   publisher:
     "@type": Organization
     logo:
       "@type": ImageObject
-      url: https://watchnationpro.com/wp-content/uploads/2017/07/Vit-C-Serum-v2.png
+      url: favicon.png
     name: WatchNationPro
 - "@context": https://schema.org
   "@graph":

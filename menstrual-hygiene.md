@@ -4,6 +4,28 @@ description:  There is a limited choice of good menstrual trackers in the market
 sidebar: right
 permalink: /smartwatch-benefits-for-women/menstrual-hygiene/
 schemadotorg:
+- "@context": http://schema.org/
+  mainEntityOfPage: https://watchnationpro.com/smartwatch-benefits-for-women/safety-improvements/
+  "@type": Article
+  headline: 'Track Menstrual Cycle to Maintain Hygiene'
+  datePublished: '2020-09-17'
+  dateModified: '2021-12-03'
+  description: There is a limited choice of good menstrual trackers in the market. Find out the FREE...
+  keywords:
+  - menstrual hygiene
+  - smartwatch for women benefits
+  image:
+    "@type": ImageObject
+    height: '250'
+    width: '450'
+    url: favicon.png
+  author: Sarah hollen
+  publisher:
+    "@type": Organization
+    logo:
+      "@type": ImageObject
+      url: favicon.png
+    name: WatchNationPro
 - "@context": https://schema.org
   "@graph":
   - "@type": Organization
