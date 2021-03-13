@@ -4,6 +4,28 @@ description:  We tested out various safety-related smartwatch apps available. Fi
 sidebar: right
 permalink: /smartwatch-benefits-for-women/safety-improvements/
 schemadotorg:
+- "@context": http://schema.org/
+  mainEntityOfPage: https://watchnationpro.com/smartwatch-benefits-for-women/safety-improvements/
+  "@type": Article
+  headline: 'How to Use Smartwatches to Improve Women Safety'
+  datePublished: '2020-09-17'
+  dateModified: '2021-12-03'
+  description: We tested out various safety-related smartwatch apps available. Find out the FREE...
+  keywords:
+  - vitamin c serum acne scars
+  - acne scars vitamin c serum
+  image:
+    "@type": ImageObject
+    height: '250'
+    width: '450'
+    url: https://watchnationpro.com/wp-content/uploads/2016/12/acne.jpg
+  author: Sarah hollen
+  publisher:
+    "@type": Organization
+    logo:
+      "@type": ImageObject
+      url: https://watchnationpro.com/wp-content/uploads/2017/07/Vit-C-Serum-v2.png
+    name: WatchNationPro
 - "@context": https://schema.org
   "@graph":
   - "@type": Organization
