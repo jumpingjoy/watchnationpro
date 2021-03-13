@@ -77,8 +77,7 @@ schemadotorg:
         name: 'How to Use Smartwatches to Improve Ladies Fitness'
 
 ---
-{% include image.html img="apple-watch-6.webp" alt="Alt for image" caption="
-Apple Watch Series 6 Review" align="center" %}
+{% include image.html img="general-health-tracking-smartwatch.webp" alt="Alt for image" caption="fitness-tracking-with-smartwatch" align="center" %}
 
 ## Dangers and Facts about Calorie and Obesity
 
