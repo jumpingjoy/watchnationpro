@@ -112,7 +112,6 @@ Solo Loop Band is a new intro in Apple watch series 6. This stretchable band is 
 ##### Water Resistance
 Water-resistant of the apple watch series 6 is measured 5ATM or up to 50m. Most excitingly, the Hand Wash feature attracts more attention. It starts a timer for the 20s when it detects hand washing. Water-resistance is the highlight of WatchOS 7.
 
-<!--{% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="#" target="_blank" %}-->
 {% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/2PRY6Fe" blank="true" %}
 
 #### 🤔How comfortable is it to wear and use the Apple watch series 6?
