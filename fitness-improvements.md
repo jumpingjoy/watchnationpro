@@ -77,6 +77,8 @@ schemadotorg:
         name: 'How to Use Smartwatches to Improve Ladies Fitness'
 
 ---
+# Smartwatches can help Improve Women Body Fitness
+
 {% include image.html img="general-health-tracking-smartwatch.webp" alt="Alt for image" caption="fitness-tracking-with-smartwatch" align="center" %}
 
 ## Dangers and Facts about Calorie and Obesity
@@ -93,22 +95,22 @@ schemadotorg:
 
 ## Dangers and Facts about Heart Disease
 
-<a href="https://www.rainn.org/statistics/victims-sexual-violence" target="_blank">Heart disease</a>is the leading cause of death for women, men, and counts of most racial and ethnic groups in the US.
+<a href="https://www.rainn.org/statistics/victims-sexual-violence" target="_blank">Heart disease</a> is the leading cause of death for women, men, and counts of most racial and ethnic groups in the US.
 
-* In the US, a person dies every 36 seconds in the US because of cardiovascular disease.
+* In the US, a person dies every 36 seconds in US because of cardiovascular disease.
 * Each year, about 655,000 Americans die from heart disease. That’s one person in every four deaths die because of heart disease.
 * Heart disease costs the US about $219 billion each year from 2014 to 2015.  This adds to the cost of health care services, medicines, and lost productivity due to death.
 
 ### Case Study: Heather Hendershot, 27, Pomona, Kansas
-IIn 26, Heather Hendershot didn't think she had to worry about her wellbeing. She was youthful, athletic, and had no previous medical problems.
+In 26, Heather Hendershot didn't think she had to worry about her wellbeing. She was youthful, athletic, and had no previous medical problems.
 
-After placing her children to bed one night, she had been sitting with her husband when she heard a beep on her Apple Watch. She looked down to find a notification saying her heart rate was over 120 beats per second.
+After placing her children to bed one night, she had been relaxing and spending time with her husband when she heard an alert on her Apple Watch. She looked down to find a notification saying her heart rate was over 120 beats per second.
 
 "I believed the watch needed to be wrong because I could not feel my heart racing," she says. "I did not feel like anything was wrong in any way."
 
-In 2017, the Apple Watch additional elevated heart rate notifications to the view, which let users know if their heart spiked above a certain level. Though Hendershot's heart rate continued to climb throughout the night, she didn't feel any signs. The following morning her husband insisted that she create a precautionary trip to the urgent care clinic.
+In 2017, the Apple Watch additional elevated heart rate notifications to the view, which let users know if their heart spiked above a certain level. Though Hendershot's heart rate continued to climb throughout the night, she didn't feel any signs. The following morning her husband insisted that she create a precautionary trip to a nearby care clinic.
 
-While there, they conducted strep throat and flu tests. Both resulted back negative, but her heart rate was so large that they chose to track her farther.
+At the care clinic, they conducted strep throat and flu tests. Both resulted back negative, but her heart rate was so large that they chose to track her farther.
 
 "It wasn't until I heard that the doctors mention ICU that I realized how serious the whole situation was," she says.
 

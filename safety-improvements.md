@@ -76,8 +76,7 @@ schemadotorg:
         url: https://watchnationpro.com/smartwatch-benefits-for-women/safety-improvements/
         name: 'How to Use Smartwatches to Improve Women Safety'
 ---
-{% include image.html img="apple-watch-6.webp" alt="Alt for image" caption="
-Apple Watch Series 6 Review" align="center" %}
+{% include image.html img="safety-location-tracking-smartwatch-women.webp" alt="safety-location-tracking-smartwatch-women" caption="safety-location-tracking-smartwatch-women" align="center" %}
 # How Important is to Use Smartwatch to Improve Ladies safety?
 
 ## Dangers and Facts about Falling
