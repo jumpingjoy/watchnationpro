@@ -159,7 +159,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
      <b>Apple Watch Series 6</b>
       {% include image.html img="apple-watch-series-6.webp" align="center" %}
-      {% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/2PRY6Fe" blank="true" %}
+      {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/2PRY6Fe" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Overall Performance
@@ -169,7 +169,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
        <b>Samsung Galaxy Watch 3</b>
        {% include image.html img="samsung-galaxy-active-3.webp" align="center" %}
-       {% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/2Q6rO9T" blank="true" %}
+       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/2Q6rO9T" blank="true" %}
      </td>
      <td class = "content-right r-bor">
      Best Smartwatch for Fitness Enthusiast
@@ -179,7 +179,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
        <b>Garmin Venu</b>
        {% include image.html img="garmin-venu.webp" align="center" %}
-       {% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/3eC3B5f" blank="true" %}
+       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/3eC3B5f" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Multisport Smartwatch for Women
@@ -189,7 +189,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
        <b>Fitbit Sense</b>
        {% include image.html img="fitbit-sense.webp" align="center" %}
-       {% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/3vpt9bW" blank="true" %}
+       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/3vpt9bW" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Fitbit Smartwatch for Women
@@ -199,7 +199,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
        <b>Huawei GT 2</b>
        {% include image.html img="huawei-gt-2.webp" align="center" %}
-       {% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/38DLg3Q" blank="true" %}
+       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/38DLg3Q" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Battery Smartwatch for Women
@@ -209,7 +209,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
        <b>Fossil Sport</b>
        {% include image.html img="fossil-sport.webp" align="center" %}
-       {% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/3qMMz6M" blank="true" %}
+       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/3qMMz6M" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Low Priced WearOS Sports Smartwatch for Women
