@@ -159,7 +159,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
      <b># 1 Apple Watch Series 6</b>
       {% include image.html img="apple-watch-series-6.webp" align="center" %}
-       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
+       <button class="uk-button uk-button-primary" href="https://amzn.to/2PRY6Fe">CLICK FOR BEST PRICE</button>
      </td>
      <td class = "content-right r-bor">
        Best Overall Performance

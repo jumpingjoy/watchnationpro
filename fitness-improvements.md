@@ -77,9 +77,8 @@ schemadotorg:
         name: 'How to Use Smartwatches to Improve Ladies Fitness'
 
 ---
-# Smartwatches can help Improve Women Body Fitness
-
 {% include image.html img="general-health-tracking-smartwatch.webp" alt="Alt for image" caption="fitness-tracking-with-smartwatch" align="center" %}
+# Smartwatches can help Improve Women Body Fitness
 
 ## Dangers and Facts about Calorie and Obesity
 
