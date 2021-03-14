@@ -7,12 +7,12 @@ sidebar: none
 - "@type": Organization
   "@id": https://watchnationpro.com/#organization
   url: https://watchnationpro.com/
-  name: Skin Starts With C
+  name: WatchNationPro
   sameAs: []
 - "@type": WebSite
   "@id": https://watchnationpro.com/#website
   url: https://watchnationpro.com/
-  name: Skin Starts With C
+  name: WatchNationPro
   publisher:
     "@id": https://watchnationpro.com/#organization
 - "@type": WebPage

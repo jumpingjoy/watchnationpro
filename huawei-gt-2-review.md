@@ -12,7 +12,7 @@ schemadotorg:
   - "@type": WebSite
     "@id": https://watchnationpro.com/#website
     url: https://watchnationpro.com/
-    name: Skin Starts With C
+    name: WatchNationPro
     publisher:
       "@id": https://watchnationpro.com/#organization
   - "@type": WebPage
@@ -24,10 +24,7 @@ schemadotorg:
       "@id": https://watchnationpro.com/#website
     breadcrumb:
       "@id": https://watchnationpro.com/huawei-gt-2-review/#breadcrumblist
-    description: While there are many outstanding vitamin C serums currently on the
-      market, no other brand has been ranked as the number one serum as often as the
-      Obagi vitamin C serum line.  In 18 of 20 of the online reviews available, Obagi
-      comes out on top.
+    description: While there are many good smartwatches for women currently, Huawei has come up with a nice smartwatch which comes with...
     datePublished: '2021-12-28T12:01:19+00:00'
     dateModified: '2021-05-07T04:28:43+00:00'
   - "@type": BreadcrumbList

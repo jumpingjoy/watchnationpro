@@ -118,7 +118,7 @@ After extensive and thorough research about the impacts of these smartwatches , 
 
 The quality of Apple Watch Series 6 products is good from the first use. Amongst the other manufacturers and suppliers that we researched (even those also boasting organic ingredients), none gave the same immediate, good impression of a smartwatch for women and vibrant health.
 
-The Apple Watch Series 6 products work quickly and leave your health feeling refreshed, smartwatch for women and hydrated, with the price of Obagi products being instantly justified with the first application to your health!
+The Apple Watch Series 6 products work quickly and leave your health feeling refreshed, smartwatch for women and hydrated, with the price of apple products being instantly justified with the first application to your health!
 
 ### Where Can I Buy Apple Watches?
 {% include image.html img="apple-watch-series-6.webp" align="right" %}
