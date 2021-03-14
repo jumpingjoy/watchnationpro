@@ -107,7 +107,7 @@ It looks good while seeing from far away. But it looks like a toy on the wrist i
 ##### Water Resistance:
 Water-resistant of the Fossil Sport is measured 5ATM or up to 50m. Most excitingly, the Hand Wash feature attracts more attention. It starts a timer for the 20s when it detects hand washing. Water-resistance is the highlight of WatchOS 7.
 
-{% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="#" blank="true" %}
+{% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/3qMMz6M" blank="true" %}
 
 #### How comfortable is it to wear and use the Fossil Sport?
 
@@ -147,7 +147,7 @@ Always-on display enabled: The battery life lasts for less than a day if the Alw
 
 Always-on display disabled: When the always-on display is not enabled, the battery life lasts for one day or around 25 hours.
 
-{% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="#" blank="true" %}
+{% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/3qMMz6M" blank="true" %}
 
 ###  Fossil Sport Review: Smart Features Used Daily
 
@@ -197,7 +197,7 @@ Our rating: ★★★★★ | 😎
 
 The microphone is available for voice commands to Google assistant. But there is no speaker. Answering calls from the watch itself is not effective, especially outdoors.
 
-{% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="#" blank="true" %}
+{% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/3qMMz6M" blank="true" %}
 
 #### How is the video call or video recording quality of the Fossil Sport?
 
@@ -229,7 +229,7 @@ Our rating: ★★★★★ | 😎
 
 You can set up Google Pay in your watch for payments by adding your accounts, cards. NFC (Near Field Communication) allows you to pay on the go.
 
-{% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="#" blank="true" %}
+{% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/3qMMz6M" blank="true" %}
 
 ### Fossil Sport Review: Safety and Location Tracking Features
 
@@ -298,7 +298,7 @@ This feature is available but not providing accurate results. During the test, F
 
 The fit app is used for tracking all your workouts, indoor and outdoor. The Google Fit app meets your expectations in fitness. There is no proprietary app for fitness.
 
-{% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="#" blank="true" %}
+{% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/3qMMz6M" blank="true" %}
 
 ### Fossil Sport Review: Training Plans and Post Training Analysis Related Features
 {% include image.html img="training-plan-analysis-smartwatch-women.webp" alt="Alt for image" caption="training-plan-analysis-smartwatch-womenk" align="center" %}
@@ -332,7 +332,7 @@ Our rating: ★★★★☆ | 🙂
 
 You can customize the training data in the Google Fit app on the watch. After opening the app, tap “Journal,” which shows all the activities. Choose the one which you want to change and tap “edit” to edit the activity data.
 
-{% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="#" blank="true" %}
+{% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/3qMMz6M" blank="true" %}
 
 ### Fossil Sport Review: Sports Activity Tracking
 
@@ -375,14 +375,14 @@ You can use the links on our site and purchase the Fossil Sport, which is known 
 
 If you have been searching for the best cost, click through our verified suppliers for an unbeatable rate!
 
-{% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="#" blank="true" %}
+{% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/3qMMz6M" blank="true" %}
 
 ## Final Words:
 The Fossil Sport is one of the best Wear OS watches available, with its improved processor, lengthier battery life and stylish, lightweight design. But Wear OS has not evolved much when it comes to fitness features, when compared to Apple's watchOS or Fitbit’s OS, which can provide much deeper analysis of your workouts.
 
 Among the best cheap alternative smartwatches, you can go for  the Apple Watch Series 3 or the Samsung Galaxy Watch Active, but the cost of both are $100 more than the Fossil Sport. Fossil Sport comes at $99, which is a bargain — and has a fashionable look.
 
-{% include section-cta.html button_text=">> CLICK HERE FOR BEST PRICE <<" button_url="#" blank="true" %}  
+{% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/3qMMz6M" blank="true" %}  
 
 If you feel that you are looking for any other alternative smartwatches, we have reviewed other <u><a href= "https://www.watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
 

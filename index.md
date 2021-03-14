@@ -157,7 +157,7 @@ We have analyzed the women's smartwatches depending upon various categories like
    </tr>
    <tr>
      <td class = "content-left">
-     <b># 1 Apple Watch Series 6</b>
+     <b>Apple Watch Series 6</b>
       {% include image.html img="apple-watch-series-6.webp" align="center" %}
       {% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/2PRY6Fe" blank="true" %}
      </td>
@@ -167,9 +167,9 @@ We have analyzed the women's smartwatches depending upon various categories like
    </tr>
    <tr>
      <td class = "content-left">
-       <b># 2 Samsung Galaxy Active 3</b>
+       <b>Samsung Galaxy Watch 3</b>
        {% include image.html img="samsung-galaxy-active-3.webp" align="center" %}
-       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
+       {% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/2Q6rO9T" blank="true" %}
      </td>
      <td class = "content-right r-bor">
      Best Smartwatch for Fitness Enthusiast
@@ -177,9 +177,9 @@ We have analyzed the women's smartwatches depending upon various categories like
    </tr>
    <tr>
      <td class = "content-left">
-       <b># 3 Garmin Venu</b>
+       <b>Garmin Venu</b>
        {% include image.html img="garmin-venu.webp" align="center" %}
-       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
+       {% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/3eC3B5f" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Multisport Smartwatch for Women
@@ -187,9 +187,9 @@ We have analyzed the women's smartwatches depending upon various categories like
    </tr>
    <tr>
      <td class = "content-left">
-       <b># 4 Fitbit Sense</b>
+       <b>Fitbit Sense</b>
        {% include image.html img="fitbit-sense.webp" align="center" %}
-       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
+       {% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/3vpt9bW" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Fitbit Smartwatch for Women
@@ -197,9 +197,9 @@ We have analyzed the women's smartwatches depending upon various categories like
    </tr>
    <tr>
      <td class = "content-left">
-       <b># 5 Huawei GT 2</b>
+       <b>Huawei GT 2</b>
        {% include image.html img="huawei-gt-2.webp" align="center" %}
-       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
+       {% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/38DLg3Q" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Battery Smartwatch for Women
@@ -207,22 +207,12 @@ We have analyzed the women's smartwatches depending upon various categories like
    </tr>
    <tr>
      <td class = "content-left">
-       <b># 6 Fossil Sport</b>
+       <b>Fossil Sport</b>
        {% include image.html img="fossil-sport.webp" align="center" %}
-       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
+       {% include section-ad.html image="buy-now.jpg" alt="Buy now" width="" url="https://amzn.to/3qMMz6M" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Low Priced WearOS Sports Smartwatch for Women
-     </td>
-   </tr>
-   <tr>
-     <td class = "content-left">
-       <b># 7 Kate Spade Scallop 2</b>
-       {% include image.html img="kate-spade-scallop-2.webp" align="center" %}
-       <button class="uk-button uk-button-primary" href="">CLICK FOR BEST PRICE</button>
-     </td>
-     <td class = "content-right r-bor">
-       Best Feminine Design Smartwatch for Women
      </td>
    </tr>
    </tbody>
