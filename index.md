@@ -395,7 +395,7 @@ The bands have two kinds of stainless steel. It has AMOLED style display with 40
 
 Fitbit Sense consists of advanced fitness tracker  when compared to Fitbit versa 3 and Fitbit Versa 2. ECG sensor, optical heart rate monitoring sensor to track pulses, Stress monitoring app EDA are the highlights in Fitbit Sense similar to Fitbit versa series.
 
-<a href="https://www.watchnationpro.com/fitbit-sense-review">has an excellent battery, around six days of battery life. The time taken to charge is less, approximately 12 minutes only. Similar to Fitbit Versa 2, it has Fitbit Pay. You can add your card details to Fitbit Pay to the Fitbit Pay app.
+<a href="https://www.watchnationpro.com/fitbit-sense-review">Fitbit Sense</a>has an excellent battery, around six days of battery life. The time taken to charge is less, approximately 12 minutes only. Similar to Fitbit Versa 2, it has Fitbit Pay. You can add your card details to Fitbit Pay to the Fitbit Pay app.
 
 The GPS tracking helps you track gps location on your runs and travels. It's a waterproof model that allows you to swim.
 
