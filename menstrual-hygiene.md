@@ -78,6 +78,7 @@ schemadotorg:
 
 ---
 {% include image.html img="track-menstrual-cycle-with-smartwatch.webp" alt="Alt for image" caption="track-menstrual-cycle-with-smartwatch" align="center" %}
+# Track Menstrual Health and Hygiene using Smartwatches for women
 
 ## How Important is it to Use Smartwatch to Track Menstrual Periods?
 Some people do not get their menstrual periods regularly. Certain medical complications or exercises can lead to irregular periods.  Common causes of Irregular periods occur in people due to the following reasons:
