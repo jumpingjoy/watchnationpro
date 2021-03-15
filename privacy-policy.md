@@ -55,3 +55,4 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
 * We will make readily available to customers information about our policies and practices relating to the management of personal information.
 * We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+* As an Amazon Associate I earn from qualifying purchases.

@@ -62,7 +62,7 @@ I thought that everything was going well until I entered work, where I suffered 
 
 ​After going back and forth to health and fitness consultants and, based on their suggestion trying out smartwatches and the weight loss programs, I finally saw noticeable improvements in my overall health conditions.
 
-​I can look at myself now in the mirror without feeling bad about myself. ​I can confidently talk in front of a lot of people without worrying about what they will think about my looks. And because using smartwatches saved me from my health problem, I'm 100% dedicated to helping you guys achieve the healthy body you've always wanted.
+​I can look at myself now in the mirror without feeling bad about myself. ​I can confidently talk in front of a lot of people without worrying about what they will think about my looks. And because using smartwatches saved me from my health problem, I'm 100% dedicated to helping you guys achieve the healthy body you've always wanted.As an Amazon Associate I earn from qualifying purchases.
 
 Email Casey at sarah.hollen@watchnationpro.com
 
