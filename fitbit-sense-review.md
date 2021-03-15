@@ -1,5 +1,5 @@
 ---
-title: Fitbit Sense Review for
+title: Fitbit Sense Review for Women
 description:  While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Fitbit Sense.  In 9 of 10 of the online reviews available, Fitbit Sense comes out on top.
 sidebar: right
 schemadotorg:
@@ -57,7 +57,7 @@ schemadotorg:
     description:  While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
   reviewRating:
     "@type": Rating
-    ratingValue: 4.2
+    ratingValue: 4.3
     bestRating: 5
   author:
     "@type": Person
