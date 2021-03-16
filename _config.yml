@@ -38,23 +38,23 @@ social_share:
   facebook:         true
   linkedin:         false
   pinterest:        false
-  reddit:           false
+  reddit:           true
 
 # Social networks
 social_networks:
   email:
   website:
-  facebook:         https://www.facebook.com/
+  facebook:         https://www.facebook.com/Watchnationpro-102256021952797
   flickr:
   dribbble:
   github:
   reddit:
   instagram:
   linkedin:
-  pinterest:
-  twitter:          https://twitter.com/
+  pinterest:        https://www.pinterest.com/sarahhollen96/_saved/
+  twitter:          https://twitter.com/WatchPro
   vimeo:
-  youtube:
+  youtube:          https://www.youtube.com/channel/UC6qerLgiNh2aLCk5SQgOJdg
 
 # Strings
 strings:
