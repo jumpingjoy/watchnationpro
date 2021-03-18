@@ -2,48 +2,50 @@
 title: Privacy Policy | WatchNationPro
 description:  This is WatchNationPro's privacy policy page.
 sidebar: none
-"@context": https://schema.org
-"@graph":
-- "@type": Organization
-  "@id": https://watchnationpro.com/#organization
-  url: https://watchnationpro.com/
-  name: WatchNationPro
-  sameAs: []
-- "@type": WebSite
-  "@id": https://watchnationpro.com/#website
-  url: https://watchnationpro.com/
-  name: WatchNationPro
-  publisher:
+schemadotorg:
+- "@context": https://schema.org
+  "@graph":
+  - "@type": Organization
     "@id": https://watchnationpro.com/#organization
-- "@type": WebPage
-  "@id": https://watchnationpro.com/privacy-policy/#webpage
-  url: https://watchnationpro.com/privacy-policy/
-  inLanguage: en-US
-  name: Privacy Policy
-  isPartOf:
+    url: https://watchnationpro.com/
+    name: WatchNationPro
+    sameAs: []
+  - "@type": WebSite
     "@id": https://watchnationpro.com/#website
-  breadcrumb:
+    url: https://watchnationpro.com/
+    name: WatchNationPro
+    publisher:
+      "@id": https://watchnationpro.com/#organization
+  - "@type": WebPage
+    "@id": https://watchnationpro.com/privacy-policy/#webpage
+    url: https://watchnationpro.com/privacy-policy/
+    inLanguage: en-US
+    name: Privacy Policy
+    isPartOf:
+      "@id": https://watchnationpro.com/#website
+    breadcrumb:
+      "@id": https://watchnationpro.com/privacy-policy/#breadcrumblist
+    description: This is WatchNationPro's privacy policy page.
+    datePublished: '2021-04-17T08:23:36+00:00'
+    dateModified: '2021-08-10T06:36:35+00:00'
+  - "@type": BreadcrumbList
     "@id": https://watchnationpro.com/privacy-policy/#breadcrumblist
-  description: This is WatchNationPro's privacy policy page.
-  datePublished: '2021-04-17T08:23:36+00:00'
-  dateModified: '2021-08-10T06:36:35+00:00'
-- "@type": BreadcrumbList
-  "@id": https://watchnationpro.com/privacy-policy/#breadcrumblist
-  itemListElement:
-  - "@type": ListItem
-    position: 1
-    item:
-      "@type": WebPage
-      "@id": https://watchnationpro.com/
-      url: https://watchnationpro.com/
-      name: WatchNationPro
-  - "@type": ListItem
-    position: 2
-    item:
-      "@type": WebPage
-      "@id": https://watchnationpro.com/privacy-policy/
-      url: https://watchnationpro.com/privacy-policy/
-      name: Privacy Policy
+    itemListElement:
+    - "@type": ListItem
+      position: 1
+      item:
+        "@type": WebPage
+        "@id": https://watchnationpro.com/
+        url: https://watchnationpro.com/
+        name: WatchNationPro
+    - "@type": ListItem
+      position: 2
+      item:
+        "@type": WebPage
+        "@id": https://watchnationpro.com/privacy-policy/
+        url: https://watchnationpro.com/privacy-policy/
+        name: Privacy Policy
+
 ---
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 

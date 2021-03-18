@@ -2,49 +2,51 @@
 title: About Us | WatchNationPro
 description:  So, if you want to learn more about our website, you can click this link right here and find out more about WatchNationPro.
 sidebar: none
-"@context": https://schema.org
-"@graph":
-- "@type": Organization
-  "@id": https://watchnationpro.com/#organization
-  url: https://watchnationpro.com/
-  name: WatchNationPro
-  sameAs: []
-- "@type": WebSite
-  "@id": https://watchnationpro.com/#website
-  url: https://watchnationpro.com/
-  name: WatchNationPro
-  publisher:
+schemadotorg:
+- "@context": https://schema.org
+  "@graph":
+  - "@type": Organization
     "@id": https://watchnationpro.com/#organization
-- "@type": WebPage
-  "@id": https://watchnationpro.com/about-us/#webpage
-  url: https://watchnationpro.com/about-us/
-  inLanguage: en-US
-  name: About Us
-  isPartOf:
+    url: https://watchnationpro.com/
+    name: WatchNationPro
+    sameAs: []
+  - "@type": WebSite
     "@id": https://watchnationpro.com/#website
-  breadcrumb:
+    url: https://watchnationpro.com/
+    name: WatchNationPro
+    publisher:
+      "@id": https://watchnationpro.com/#organization
+  - "@type": WebPage
+    "@id": https://watchnationpro.com/about-us/#webpage
+    url: https://watchnationpro.com/about-us/
+    inLanguage: en-US
+    name: About Us
+    isPartOf:
+      "@id": https://watchnationpro.com/#website
+    breadcrumb:
+      "@id": https://watchnationpro.com/about-us/#breadcrumblist
+    description: So, if you want to learn more about our website, you can click this
+      link right here and find out more about WatchNationPro.
+    datePublished: '2021-01-10T06:34:34+00:00'
+    dateModified: '2021-02-16T07:04:52+00:00'
+  - "@type": BreadcrumbList
     "@id": https://watchnationpro.com/about-us/#breadcrumblist
-  description: So, if you want to learn more about our website, you can click this
-    link right here and find out more about WatchNationPro.
-  datePublished: '2021-01-10T06:34:34+00:00'
-  dateModified: '2021-02-16T07:04:52+00:00'
-- "@type": BreadcrumbList
-  "@id": https://watchnationpro.com/about-us/#breadcrumblist
-  itemListElement:
-  - "@type": ListItem
-    position: 1
-    item:
-      "@type": WebPage
-      "@id": https://watchnationpro.com/
-      url: https://watchnationpro.com/
-      name: WatchNationPro
-  - "@type": ListItem
-    position: 2
-    item:
-      "@type": WebPage
-      "@id": https://watchnationpro.com/about-us/
-      url: https://watchnationpro.com/about-us/
-      name: About Us
+    itemListElement:
+    - "@type": ListItem
+      position: 1
+      item:
+        "@type": WebPage
+        "@id": https://watchnationpro.com/
+        url: https://watchnationpro.com/
+        name: WatchNationPro
+    - "@type": ListItem
+      position: 2
+      item:
+        "@type": WebPage
+        "@id": https://watchnationpro.com/about-us/
+        url: https://watchnationpro.com/about-us/
+        name: About Us
+
 
 ---
 Welcome to our website!
