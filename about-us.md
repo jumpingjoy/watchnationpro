@@ -66,7 +66,7 @@ I thought that everything was going well until I entered work, where I suffered 
 
 ​I can look at myself now in the mirror without feeling bad about myself. ​I can confidently talk in front of a lot of people without worrying about what they will think about my looks. And because using smartwatches saved me from my health problem, I'm 100% dedicated to helping you guys achieve the healthy body you've always wanted.As an Amazon Associate I earn from qualifying purchases.
 
-Email Casey at sarah.hollen@watchnationpro.com
+Email Sarah at <a href="mailto:sarah.hollen@watchnationpro.com" target="_blank" rel="nofollow"><strong>sarah.hollen@watchnationpro.com</strong></a>
 
 ### Rwanda Bryan (Marketing Manager)
 {% include image.html img="rwanda-bryan.webp" alt="Rwanda-Bryan" caption="Rwanda Bryan" align="left" %}
@@ -76,7 +76,7 @@ What's more irritating, there is a repetition of this every month. It's like a n
 
 When I tried using smartphones to track my menstrual cycle, it didn't​ help me track it properly, and I found the tracking to be successful when I used smartwatches. So as a Content ​Editor at WatchNationpro.com, I'm here to help you guys discover the advantages of smartwatches so we can all keep a healthy body.
 
-Email Rwanda at rwanda.bryan@watchnationpro.com
+Email Rwanda at <a href="mailto:rwanda.bryan@watchnationpro.com" target="_blank" rel="nofollow"><strong>rwanda.bryan@watchnationpro.com</strong></a>
 
 ### Tracey Track (Content Manager)
 {% include image.html img="tracey-track.webp" alt="Tracey-Track" caption="Tracey Track" align="left" %}
@@ -89,9 +89,9 @@ Now, my mission is not just to help people achieve their body goals but also to 
 As a writer at WatchNationPro, join the team and me in making this mission come true.
 
 ​Email Carl at tracey.track@watchnationpro.com
+Email Tracey at <a href="mailto:tracey.track@watchnationpro.com" target="_blank" rel="nofollow"><strong>tracey.track@watchnationpro.com</strong></a>
 
 ---------------------------------------------------------------------------------------------------------------------------
+Mailing Address: <a href="https://goo.gl/maps/TLTjWbdq6Dq1835o6">800 S Harkrider St, Conway, AR 72032, USA</a>
 
-​Mailing Address: 800 S Harkrider St, Conway, AR 72032, USA
-
-Phone Number: 213-422-7930
+Phone Number:​<a href="tel:2134227930">213-422-7930</a>

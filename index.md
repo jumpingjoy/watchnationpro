@@ -474,7 +474,7 @@ As it has 5 ATM water resistance, Swimming and swim tracking is another option y
 ### No. 6 Fossil Sport
 {% include image.html img="fossil-sport.webp" align="right" %}
 
-Fossil Sport is very affordable and comes in two different case sizes, 41mm and 43mm with sports style design. The silicone strap of Fossil Sport is awesome in style and sweat-friendly. The 41mm watch faces looks good in small wrists. The Fossil straps are available in many colors.
+<a href="https://www.watchnationpro.com/fossil-sport-review">Fossil Sport</a> is very affordable and comes in two different case sizes, 41mm and 43mm with sports style design. The silicone strap of Fossil Sport is awesome in style and sweat-friendly. The 41mm watch faces looks good in small wrists. The Fossil straps are available in many colors.
 
 Fossil Sport runs on Wear OS and provides smartphone notifications and alerts like email and app information. NFC for Google pay is available.
 
@@ -528,7 +528,7 @@ Untethered built in GPS is convenient for people who wish to keep their phones a
 ### No. 7 Kate Spade Scallop 2
 {% include image.html img="kate-spade-scallop-2.webp" align="right" %}
 
-Kate spade scallop 2 has an AMOLED display with fashion style design and attractive looks like Michael Kors access and covers almost all the features of Fossil watches. The Kate spade scallop 2 watch runs on Wear OS like the first version of Kate spade scallop.
+<a href="https://www.watchnationpro.com/kate-spade-scallop-2-review">Kate spade scallop 2</a> has an AMOLED display with fashion style design and attractive looks like Michael Kors access and covers almost all the features of Fossil watches. The Kate spade scallop 2 watch runs on Wear OS like the first version of Kate spade scallop.
 
 The “Choose your looks" App helps you pick the right watch face from a variety of watch faces that matches women best clothes and accessories. NFC for Google pay is a notable one. Kate Spade Scallop has ambient light sensor which adjusts the brightness, and has decent battery life.
 
@@ -573,7 +573,7 @@ The “Choose your looks" App helps you pick the right watch face from a variety
  </table>
  </div>
 
-{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fossil-sport-review/" blank="true" %}
+{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/kate-spade-scallop-2-review/" blank="true" %}
 
 ## WatchNationPro.com's Motto
 

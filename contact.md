@@ -61,6 +61,6 @@ For any product concerns such as complaints and returns, please contact us at cu
 
 {% include formspree.html email="my_name@gmail.com" redirect="/thanks/" %}
 
-​Mailing Address: 800 S Harkrider St, Conway, AR 72032, USA
+Mailing Address: <a href="https://goo.gl/maps/TLTjWbdq6Dq1835o6">800 S Harkrider St, Conway, AR 72032, USA</a>
 
-Phone Number: 213-422-7930
+Phone Number:​<a href="tel:2134227930">213-422-7930</a>
