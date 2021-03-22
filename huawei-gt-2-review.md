@@ -99,7 +99,7 @@ The heart rate sensor is located in the back of the watch dial. It also has a ch
 
 **Water Resistance:** It has a water resistance of 5 ATMs or up to 50m. You can swim in the pool or even in the ocean with your watch on your wrist.
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/38DLg3Q" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Bluetooth-SmartWatch-Working-Fitness-Waterproof/dp/B07YP3PWNF?dchild=1&keywords=huawei+gt2&qid=1616372310&sr=8-1&linkCode=ll1&tag=watchnationpr-20&linkId=5bdbc134bc84b866f66992d25b32f7f8&language=en_US&ref_=as_li_ss_tl" blank="true" %}
 
 #### How comfortable is it to wear and use the Huawei GT 2?
 
@@ -117,7 +117,7 @@ Both 46mm and 42mm looks completely different. The 42mm variant has a curved rou
 
 Customizable watch face: It is sad to mention that the watch face is not customizable in Huawei GT 2. It has a set of the preloaded watch face. You can choose any one of these for your watch face.
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/38DLg3Q" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Bluetooth-SmartWatch-Working-Fitness-Waterproof/dp/B07YP3PWNF?dchild=1&keywords=huawei+gt2&qid=1616372310&sr=8-1&linkCode=ll1&tag=watchnationpr-20&linkId=5bdbc134bc84b866f66992d25b32f7f8&language=en_US&ref_=as_li_ss_tl" blank="true" %}
 
 #### How is the hardware performance of the Huawei GT 2?
 
@@ -143,7 +143,7 @@ Our rating: ★★★★★ | 😎
 
 Huawei GT 2 promised two weeks of battery life. Yes. It is proved too if you have minimal usage all over the day. Thanks for the long-lasting battery life by Huawei. If you use it moderately, it will last for ten days during the test. The 42mm variant ensures seven days of battery life. Huawei GT 2 comes with its proprietary 455mAh charger. You need to use this proprietary charger only. However, it gets fully charged in one and half an hour using a pin-based charging puck. But other competitors are providing wireless chargers. Huawei GT 2 doesn't support reverse charging also. So you have no other way apart from charging it by given proprietory pin-based charger puck. The magnetic point is located under the watch dial for charging. If you are a sports person and uses fitness tracking mostly using GPS, it drains accordingly and lasts for seven days around for such persons.  
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/38DLg3Q" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Bluetooth-SmartWatch-Working-Fitness-Waterproof/dp/B07YP3PWNF?dchild=1&keywords=huawei+gt2&qid=1616372310&sr=8-1&linkCode=ll1&tag=watchnationpr-20&linkId=5bdbc134bc84b866f66992d25b32f7f8&language=en_US&ref_=as_li_ss_tl" blank="true" %}
 
 ###  Huawei GT 2 Review: Smart Features Used Daily
 
@@ -182,7 +182,7 @@ Our rating: ★★★★★ | 😎
 
 Huawei GT 2 has a speaker which is loud enough to take calls and listen to music. As Huawei GT 2 doesn't release an LTE version, The watch must be connected with a smartphone for taking calls. The microphone also delivers good performance to speak with the caller. You can also use a headset for the same purpose if you wish. The watch shows call records also, which is quite impressive, so you don't need to take your phone out for this purpose.  During the tests, we could not find any drop-outs while answering calls on the watch itself.
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/38DLg3Q" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Bluetooth-SmartWatch-Working-Fitness-Waterproof/dp/B07YP3PWNF?dchild=1&keywords=huawei+gt2&qid=1616372310&sr=8-1&linkCode=ll1&tag=watchnationpr-20&linkId=5bdbc134bc84b866f66992d25b32f7f8&language=en_US&ref_=as_li_ss_tl" blank="true" %}
 
 #### How is the video call or video recording quality of the Huawei GT 2?
 
@@ -214,7 +214,7 @@ Our rating: ★☆☆☆☆ | 😭
 
 It comes with NFC (Near Field Communication) for China only. It is so disappointing for the rest of the world. All other competitors have a proprietary app for payments. So Huawei has to give more improvements to meet user's expectations.
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/38DLg3Q" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Bluetooth-SmartWatch-Working-Fitness-Waterproof/dp/B07YP3PWNF?dchild=1&keywords=huawei+gt2&qid=1616372310&sr=8-1&linkCode=ll1&tag=watchnationpr-20&linkId=5bdbc134bc84b866f66992d25b32f7f8&language=en_US&ref_=as_li_ss_tl" blank="true" %}
 
 ### Huawei GT 2 Review: Safety and Location Tracking Features
 
@@ -288,7 +288,7 @@ Using GPS along with GLONASS and GALILEO, Huawei GT 2 tracks all the workouts fa
 
 The sensors that work for fitness tracking and health tracking in Huawei GT 2 are optical heart rate sensors, accelerometer, gyroscope, air pressure sensor, and geomagnetic sensor.  With all these sensors, the credit goes to its processor for excellent fitness and activity tracking.  In Huawei GT 2, if you swipe to right from left of the fitness tracking screen, it provides access to music stored in both watch's storage and phone's memory or apps like Spotify with music controls as volume, playback, etc. If you swipe up and down, you can more detailed training tracking details on the tracking screen. But Huawei GT 2 doesn't come with automatic activity tracking. So you need to initiate it manually in the respective app.
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/38DLg3Q" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Bluetooth-SmartWatch-Working-Fitness-Waterproof/dp/B07YP3PWNF?dchild=1&keywords=huawei+gt2&qid=1616372310&sr=8-1&linkCode=ll1&tag=watchnationpr-20&linkId=5bdbc134bc84b866f66992d25b32f7f8&language=en_US&ref_=as_li_ss_tl" blank="true" %}
 
 ### Huawei GT 2 Review: Training Plans and Post Training Analysis Related Features
 
@@ -324,7 +324,7 @@ Our rating: ★☆☆☆☆ | 😭
 
 No. In the Huawei Health app, you can view the exercise records. In the health app, tap Exercise and then select any exercise mode; you can see necessary details such as total distance and time. IF your phone is connected with the watch, you can see other information in the app.
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/38DLg3Q" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Bluetooth-SmartWatch-Working-Fitness-Waterproof/dp/B07YP3PWNF?dchild=1&keywords=huawei+gt2&qid=1616372310&sr=8-1&linkCode=ll1&tag=watchnationpr-20&linkId=5bdbc134bc84b866f66992d25b32f7f8&language=en_US&ref_=as_li_ss_tl" blank="true" %}
 
 ### Huawei GT 2 Review: Sports Activity Features
 
@@ -362,13 +362,13 @@ You can use the links on our site and purchase the Garmin Venu, which is known t
 
 If you have been searching for the best cost, click through our verified suppliers for an unbeatable rate!
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/38DLg3Q" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Bluetooth-SmartWatch-Working-Fitness-Waterproof/dp/B07YP3PWNF?dchild=1&keywords=huawei+gt2&qid=1616372310&sr=8-1&linkCode=ll1&tag=watchnationpr-20&linkId=5bdbc134bc84b866f66992d25b32f7f8&language=en_US&ref_=as_li_ss_tl" blank="true" %}
 
 ## Final Words:
 
 The Huawei Watch GT 2 is an awesome-looking smartwatch that has very good battery life. If you are looking for a decent smartwatch for basic fitness tracking and notifications and do not like to charge it frequently, the Huawei Watch GT 2 can be the best option. Performance does not equal the Samsung Galaxy Watch or the Galaxy Watch Active 3, and it would be good if Huawei looks to do better.
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/38DLg3Q" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Bluetooth-SmartWatch-Working-Fitness-Waterproof/dp/B07YP3PWNF?dchild=1&keywords=huawei+gt2&qid=1616372310&sr=8-1&linkCode=ll1&tag=watchnationpr-20&linkId=5bdbc134bc84b866f66992d25b32f7f8&language=en_US&ref_=as_li_ss_tl" blank="true" %}
 
 If you feel that this watch is not a best fit for you, we have reviewed other <u><a href= "https://www.watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
 

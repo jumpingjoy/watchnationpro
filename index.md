@@ -122,7 +122,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
      <b>Apple Watch Series 6</b>
       {% include image.html img="apple-watch-series-6.webp" align="center" %}
-      {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/3vojLoV" blank="true" %}
+      {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/New-Apple-Watch-GPS-40mm-Aluminum/dp/B08J5QC43Q?dchild=1&keywords=apple+watch+series+6&qid=1616371739&sr=8-2&linkCode=ll1&tag=watchnationpr-20&linkId=2201f36464134680eb5cbcd568984ebb&language=en_US&ref_=as_li_ss_tl" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Overall Performance
@@ -132,7 +132,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
        <b>Samsung Galaxy Watch 3</b>
        {% include image.html img="samsung-galaxy-active-3.webp" align="center" %}
-       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/3leug9A" blank="true" %}
+       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Samsung-Bluetooth-Advanced-monitoring-Tracking/dp/B089DNNJ1S?crid=3VGD8SC47JWRE&dchild=1&keywords=samsung+galaxy+watch+3&qid=1616371957&sprefix=samsung+ga%2Caps%2C421&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExRlhWOEdONkJYWVU3JmVuY3J5cHRlZElkPUEwNTgyOTczMzJDQUNJVTdMWFlEQiZlbmNyeXB0ZWRBZElkPUEwMDgwMDYwMVZPUTJVSFhXVFhTRiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=ll1&tag=watchnationpr-20&linkId=17781de3470bded77ff757677f3bab37&language=en_US&ref_=as_li_ss_tl" blank="true" %}
      </td>
      <td class = "content-right r-bor">
      Best Smartwatch for Fitness Enthusiast
@@ -142,7 +142,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
        <b>Garmin Venu</b>
        {% include image.html img="garmin-venu.webp" align="center" %}
-       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/3qNMrE8" blank="true" %}
+       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Garmin-Smartwatch-Touchscreen-Monitoring-010-02173-11/dp/B07WLN9RYD?dchild=1&keywords=garmin+venu&qid=1616372002&sr=8-1&linkCode=ll1&tag=watchnationpr-20&linkId=71bda10fa08b545abc8f22e941e40066&language=en_US&ref_=as_li_ss_tl" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Multisport Smartwatch for Women
@@ -152,7 +152,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
        <b>Fitbit Sense</b>
        {% include image.html img="fitbit-sense.webp" align="center" %}
-       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/30ONOrz" blank="true" %}
+       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Fitbit-Advanced-Smartwatch-Management-Temperature/dp/B08DFCWVZ4?dchild=1&keywords=fitbit+sense&qid=1616372279&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzM0VPTkJJREJTSzdOJmVuY3J5cHRlZElkPUEwOTcxMDkyVjdTRk04M1M1SzI3JmVuY3J5cHRlZEFkSWQ9QTA1NjE5MTNUNjJVQ0hPUk01VzEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&linkCode=ll1&tag=watchnationpr-20&linkId=f1dcfb89a72fd47f7664b887554dbc18&language=en_US&ref_=as_li_ss_tl" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Fitbit Smartwatch for Women
@@ -162,7 +162,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
        <b>Huawei GT 2</b>
        {% include image.html img="huawei-gt-2.webp" align="center" %}
-       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/3qKzuLy" blank="true" %}
+       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Bluetooth-SmartWatch-Working-Fitness-Waterproof/dp/B07YP3PWNF?dchild=1&keywords=huawei+gt2&qid=1616372310&sr=8-1&linkCode=ll1&tag=watchnationpr-20&linkId=5bdbc134bc84b866f66992d25b32f7f8&language=en_US&ref_=as_li_ss_tl" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Battery Smartwatch for Women
@@ -172,7 +172,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
        <b>Fossil Sport</b>
        {% include image.html img="fossil-sport.webp" align="center" %}
-       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/3vp4RyQ" blank="true" %}
+       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Fossil-Aluminum-Silicone-Touchscreen-Smartwatch/dp/B07HCDYN9N?dchild=1&keywords=fossil+sport&qid=1615777596&sr=8-4&linkCode=ll1&tag=watchnationpr-20&linkId=adff3a12fdf4ce2c32a40e0d2752d4a7&language=en_US&ref_=as_li_ss_tl" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Low Priced WearOS Sports Smartwatch for Women
@@ -182,7 +182,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
        <b>Kate Spade Scallop 2</b>
        {% include image.html img="kate-spade-scallop-2.webp" align="center" %}
-       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/3vxb1gr" blank="true" %}
+       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Scallop-Stainless-Touchscreen-smartwatch-Leather/dp/B08744CLNQ?crid=19499SLL4DAGN&dchild=1&keywords=kate+spade+scallop+2+smartwatch&qid=1616373010&sprefix=kate+spade+sca%2Caps%2C393&sr=8-3&linkCode=ll1&tag=watchnationpr-20&linkId=3b38a2c2a0d6f5e9541250b6fdd66efa&language=en_US&ref_=as_li_ss_tl" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Low Priced WearOS Sports Smartwatch for Women
