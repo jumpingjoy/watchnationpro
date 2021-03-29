@@ -122,7 +122,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
      <b>Apple Watch Series 6</b>
       {% include image.html img="apple-watch-series-6.webp" align="center" %}
-      {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/New-Apple-Watch-GPS-40mm-Aluminum/dp/B08J5QC43Q?dchild=1&keywords=apple+watch+series+6&qid=1616371739&sr=8-2&linkCode=ll1&tag=watchnationpr-20&linkId=2201f36464134680eb5cbcd568984ebb&language=en_US&ref_=as_li_ss_tl" blank="true" %}
+      {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://amzn.to/3u194XV" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Overall Performance
