@@ -41,7 +41,7 @@ Watch face is round in shape. The display is large enough for navigating between
 ##### Water Resistance
 It has a swim-proof water resistance of 3 ATMs. So you can go swimming with your watch on your wrist. However, we would say it is splash-proof only.
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Scallop-Stainless-Touchscreen-smartwatch-Leather/dp/B08744CLNQ?crid=19499SLL4DAGN&dchild=1&keywords=kate+spade+scallop+2+smartwatch&qid=1616373010&sprefix=kate+spade+sca%2Caps%2C393&sr=8-3&linkCode=ll1&tag=watchnationpr-20&linkId=3b38a2c2a0d6f5e9541250b6fdd66efa&language=en_US&ref_=as_li_ss_tl" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpkatespade" blank="true" %}
 
 #### How comfortable is it to wear and use the Kate Spade Scallop 2?
 
@@ -59,7 +59,7 @@ The round case gives classical looks as Fossil group keeps this look for maintai
 
 Customizable watch face: It provides you "Choose My Look" app. All you need to do is enter the colors of your outfits such as dress, bag, shoes, etc., then it will suggest you a perfect watch face that suits your outfit. In our test, we put different colors for outfits; we finally got a blue-colored watch face. If you are a woman, you will love this feature. You can customize the "Choose My Look" app to the button which is under the digital crown. So you can easily access it. Apart from this, you can get other preinstalled watch faces available in the watch itself.
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Scallop-Stainless-Touchscreen-smartwatch-Leather/dp/B08744CLNQ?crid=19499SLL4DAGN&dchild=1&keywords=kate+spade+scallop+2+smartwatch&qid=1616373010&sprefix=kate+spade+sca%2Caps%2C393&sr=8-3&linkCode=ll1&tag=watchnationpr-20&linkId=3b38a2c2a0d6f5e9541250b6fdd66efa&language=en_US&ref_=as_li_ss_tl" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpkatespade" blank="true" %}
 
 #### How is the hardware performance of the Kate Spade Scallop 2?
 
@@ -85,7 +85,7 @@ Our rating: ★★★★★ | 😎
 
 The battery lasts up to two days in smart mode and up to one day if you use it regularly, along with music and GPS enabled. So you have to charge every night. But thanks to fast charging. You can charge it using a USB fast charger that comes with the purchase box, and it takes one hour to get 80 percent of the full charge.
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Scallop-Stainless-Touchscreen-smartwatch-Leather/dp/B08744CLNQ?crid=19499SLL4DAGN&dchild=1&keywords=kate+spade+scallop+2+smartwatch&qid=1616373010&sprefix=kate+spade+sca%2Caps%2C393&sr=8-3&linkCode=ll1&tag=watchnationpr-20&linkId=3b38a2c2a0d6f5e9541250b6fdd66efa&language=en_US&ref_=as_li_ss_tl" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpkatespade" blank="true" %}
 
 ### Kate Spade Scallop 2 Review: Smart Features Used Daily
 
@@ -124,7 +124,7 @@ Our rating: ★★★★★ | 😎
 
 You can get calls in your watch itself if it has been connected to your phone. If you are using iOS mobiles, you need to wear OS app in the background to get/reject calls in the watch itself. Kate Spade Scallop doesn't have speakers. So to answer calls, you have to depend on headphones.
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Scallop-Stainless-Touchscreen-smartwatch-Leather/dp/B08744CLNQ?crid=19499SLL4DAGN&dchild=1&keywords=kate+spade+scallop+2+smartwatch&qid=1616373010&sprefix=kate+spade+sca%2Caps%2C393&sr=8-3&linkCode=ll1&tag=watchnationpr-20&linkId=3b38a2c2a0d6f5e9541250b6fdd66efa&language=en_US&ref_=as_li_ss_tl" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpkatespade" blank="true" %}
 
 #### How is the video call or video recording quality of the Kate Spade Scallop 2?
 
@@ -156,7 +156,7 @@ Our rating: ★★★★★ | 😎
 
 It comes with NFC (Near Field Communication). So you can perform Contactless payments on the go by keeping your wrist near to the terminal. Google Pay is available for the same feature.
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Scallop-Stainless-Touchscreen-smartwatch-Leather/dp/B08744CLNQ?crid=19499SLL4DAGN&dchild=1&keywords=kate+spade+scallop+2+smartwatch&qid=1616373010&sprefix=kate+spade+sca%2Caps%2C393&sr=8-3&linkCode=ll1&tag=watchnationpr-20&linkId=3b38a2c2a0d6f5e9541250b6fdd66efa&language=en_US&ref_=as_li_ss_tl" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpkatespade" blank="true" %}
 
 ### Kate Spade Scallop 2 Review: Safety and Location Tracking Features
 
@@ -224,7 +224,7 @@ Our rating: ★★★★★ | 😎
 
 Thanks to Google Fit App. Choose the workout in the app and begin your activity; it will track your activities and provides metrics such as distance covered, pace, steps taken, and calories burned.
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Scallop-Stainless-Touchscreen-smartwatch-Leather/dp/B08744CLNQ?crid=19499SLL4DAGN&dchild=1&keywords=kate+spade+scallop+2+smartwatch&qid=1616373010&sprefix=kate+spade+sca%2Caps%2C393&sr=8-3&linkCode=ll1&tag=watchnationpr-20&linkId=3b38a2c2a0d6f5e9541250b6fdd66efa&language=en_US&ref_=as_li_ss_tl" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpkatespade" blank="true" %}
 
 ### Kate Spade Scallop 2 Review: Training Plans and Post Training Analysis Related Features
 
@@ -260,7 +260,7 @@ Our rating: ★★★★☆ | 🙂
 
 Yes. Training data can be customized in the Google Fit app. In the Google Fit app, Tap the journal in which you can find all the activity data. Select the activity which you want to alter and tap Edit to customize the data.
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Scallop-Stainless-Touchscreen-smartwatch-Leather/dp/B08744CLNQ?crid=19499SLL4DAGN&dchild=1&keywords=kate+spade+scallop+2+smartwatch&qid=1616373010&sprefix=kate+spade+sca%2Caps%2C393&sr=8-3&linkCode=ll1&tag=watchnationpr-20&linkId=3b38a2c2a0d6f5e9541250b6fdd66efa&language=en_US&ref_=as_li_ss_tl" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpkatespade" blank="true" %}
 
 ### Kate Spade Scallop 2 Review: Sports Activity
 
@@ -298,7 +298,7 @@ You can use the links on our site and purchase the Garmin Venu, which is known t
 
 If you have been searching for the best cost, click through our verified suppliers for an unbeatable rate!
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Scallop-Stainless-Touchscreen-smartwatch-Leather/dp/B08744CLNQ?crid=19499SLL4DAGN&dchild=1&keywords=kate+spade+scallop+2+smartwatch&qid=1616373010&sprefix=kate+spade+sca%2Caps%2C393&sr=8-3&linkCode=ll1&tag=watchnationpr-20&linkId=3b38a2c2a0d6f5e9541250b6fdd66efa&language=en_US&ref_=as_li_ss_tl" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpkatespade" blank="true" %}
 
 ## Final Words:
 
@@ -308,7 +308,7 @@ Customizable straps, spade motif in the watch dial, flower effect around the scr
 
 Smart features such as GPS, an In-built heart rate sensor, NFC for Google Pay are added for tracking your activities.
 
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://www.amazon.com/Scallop-Stainless-Touchscreen-smartwatch-Leather/dp/B08744CLNQ?crid=19499SLL4DAGN&dchild=1&keywords=kate+spade+scallop+2+smartwatch&qid=1616373010&sprefix=kate+spade+sca%2Caps%2C393&sr=8-3&linkCode=ll1&tag=watchnationpr-20&linkId=3b38a2c2a0d6f5e9541250b6fdd66efa&language=en_US&ref_=as_li_ss_tl" blank="true" %}
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpkatespade" blank="true" %}
 
 If you feel that this watch does not suit your need, we have reviewed other <u><a href= "https://www.watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
 

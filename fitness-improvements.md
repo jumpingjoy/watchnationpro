@@ -148,7 +148,6 @@ You can follow the instruction provided <a href="https://www.samsung.com/au/supp
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0UQ6xz0_wPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 ## Final Thoughts
 
 Our advice is to utilize the tracker to get a month to see where you're at now, what is possible, and what you may want to achieve in the long run. So much is said for continuously improving and upgrading; perhaps you just want to watch, monitor, or merely for things to stay how they are and to aim for more balance instead. Along with fitness, safety precautions is also another major <a href= "https://www.watchnationpro.com/smartwatch-for-women-benefits/">benefit for women</a> that can be achieved through smartwatches.
