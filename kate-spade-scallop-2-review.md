@@ -321,3 +321,119 @@ Sarah Hollen is the main author of WatchNationPro. She is also a technology and 
 
 <a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
 <a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>
+
+## Tags
+<div class = "scroll">
+ <table>
+   <tr>
+     <th colspan = "2" class = "top">
+       Tag details
+     </th>
+   </tr>
+   <colgroup>
+   <col span="1" style="width: 50%;">
+   <col span="1" style="width: 50%;">
+   </colgroup>
+   <tbody>
+   <tr>
+     <td class = "left">
+       tags
+     </td>
+     <td class = "right r-bor">
+       tag words
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+     <p class = "tip tooltip">
+           ?
+           <span class = "tooltiptext">
+           spade smartwatch
+ kate spade activity tracker
+ spade smartwatch reviews
+ spade and co smartwatch amazon
+ 2020 spade & co smartwatch
+ spade and co smartwatch app
+ spade and co smartwatch 2020
+ kate spade fitness tracker
+ kate spade smart watch reviews
+ kate spade scallop watch
+ kate spade digital watch
+ kate spade fitbit
+ spade clothing
+ spade and company smart watches
+ kate spade portable charger
+ 2020 spade and co smartwatch reviews
+ kate spade speaker best buy
+ kate spade luggage reviews
+ how to pair kate spade activity tracker
+ kate spade scallop smartwatch australia
+ kate spade chain strap
+ pixel 2 xl case kate spade
+ kate spade best buy canada
+ kate spade shoes sandals
+ kate spade ladies watches
+ kate spade gold heart bracelet
+ kate spade water resistant watch
+ spade watch app
+ kate spade watch not charging
+ best buy kate spade smartwatch
+ ladies smartwatch kate spade
+ kate spade activity tracker pink
+ kate spade smart watch black friday
+ kate spade scallop watch charger
+ kate spade watch pink gold
+ verizon kate spade
+ kate spade women's gold watch
+ kate spade scallop watch 2
+ kate spade sport watch
+ is the kate spade smartwatch waterproof
+ spade & co reviews
+ kate spade fitness app
+ kate spade black and gold phone case
+ kate spade scallop watch black
+ kate spade girls swim
+ kate spade smart watch australia
+ kate spade smartwatch australia
+ smart watch women kate spade
+ kate spade scallop watch review
+ kate spade scallop 3
+ kate spade google pixel 2 phone case
+ kate spade swim top
+ kate spade pixel 3 phone case
+ kate spade scallop dress
+ kate spade scallop sport smartwatch
+ kate spade rose gold scallop watch
+ kate spade gold flower bracelet
+ kate spade tech accessories
+ kate spade gym
+ kate spade smartwatch price
+ spade & co smart watch reviews
+ heart shaped bag kate spade
+ kate spade headphones review
+ 2019 spade & co smartwatch
+ kate spade sport smartwatch review
+ kate spade activity tracker bracelet
+ kate spade gym shoes
+ kate spade full circle bracelet
+ kate spade scallop 2 smartwatch
+ kate spade heart to heart
+ kate spade tracking
+ spade & co smartwatch reviews
+ spade and co smartwatch reviews
+ spade and co smartwatch
+           </span>
+         </p>
+     </td>
+     <td class = "content-right r-bor">
+     <p class = "tip tooltip">
+           ?
+           <span class = "tooltiptext">
+           tips
+           </span>
+         </p>
+     </td>
+   </tr>
+   </tbody>
+ </table>
+ </div>

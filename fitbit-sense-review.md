@@ -438,3 +438,83 @@ Sarah Hollen is the main author of WatchNationPro. She is also a technology and 
 
 <a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
 <a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>
+
+## Tags
+<div class = "scroll">
+ <table>
+   <tr>
+     <th colspan = "2" class = "top">
+       Tag details
+     </th>
+   </tr>
+   <colgroup>
+   <col span="1" style="width: 50%;">
+   <col span="1" style="width: 50%;">
+   </colgroup>
+   <tbody>
+   <tr>
+     <td class = "left">
+       tags
+     </td>
+     <td class = "right r-bor">
+       tag words
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+     <p class = "tip tooltip">
+           ?
+           <span class = "tooltiptext">
+           fitbit versa colour options
+ female fitbit watches
+ fitbit versa on womens wrist
+ fitbit round face
+ fitbit pink leather strap
+ round fitbit watch
+ fitbit android wear 2.0
+ fitbit charge 2 rose gold canada
+ fitbit versa se rose gold
+ fitbit smartwatches in india
+ best buy canada fitbit versa
+ fitbit charge 2 lugs
+ female health tracking fitbit android
+ round face fitbit watch
+ fitbit size review
+ fitbit lte smartwatch
+ smart watch for women fitbit
+ fitbit versa call answering
+ ladies smart watch fitbit
+ analog fitbit
+ fitbit for petite wrist
+ dressy fitbit watches
+ fitbit versa rose gold vs silver
+ fitbit versa google pixel
+ fitbit equivalent uk
+ fitbit versa call and text notifications
+ fitbit hybrid watch
+ fitbit versa 2 on woman's wrist
+ fitbit women's smart watches
+ fitbit versa christmas band
+ fitbit watch choices
+ fitbit 2 sizes
+ female wrist fitbit versa on small wrist
+ smart watch women fitbit
+ fitbit versa on woman's wrist
+ ladies fitbit smartwatch
+ fitbit watches for women
+ fitbit versa text notifications not working
+           </span>
+         </p>
+     </td>
+     <td class = "content-right r-bor">
+     <p class = "tip tooltip">
+           ?
+           <span class = "tooltiptext">
+           tips
+           </span>
+         </p>
+     </td>
+   </tr>
+   </tbody>
+ </table>
+ </div>
