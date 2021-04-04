@@ -388,3 +388,73 @@ Sarah Hollen is the main author of WatchNationPro. She is also a technology and 
 
 <a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
 <a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>
+
+## Tags
+<div class = "scroll">
+ <table>
+   <tr>
+     <th colspan = "2" class = "top">
+       Tag details
+     </th>
+   </tr>
+   <colgroup>
+   <col span="1" style="width: 50%;">
+   <col span="1" style="width: 50%;">
+   </colgroup>
+   <tbody>
+   <tr>
+     <td class = "left">
+       tags
+     </td>
+     <td class = "right r-bor">
+       tag words
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+     <p class = "tip tooltip">
+           ?
+           <span class = "tooltiptext">
+           best garmin watch for women
+garmin wear os
+garmin smart watch women
+garmin girl watches
+best garmin watch for females
+garmin standalone smartwatch
+garmin edge 530 singapore
+garmin watch band leather
+most stylish garmin watch
+are garmin smart watches waterproof
+line watch face garmin
+elegant garmin watch faces
+fitbit versus garmin watch
+is garmin wear os
+does garmin drive 51 have voice command
+garmin watches for sale south africa
+dressy garmin watch
+are garmin watches compatible with android
+garmin for iwatch
+best garmin watch for ios
+garmin slim gps
+best garmin for women
+garmin sports watch ladies
+garmin smartwatch with ecg
+best garmin for small wrists
+garmin watch womens best buy
+garmin ladies rose gold
+best garmin smartwatch for women
+           </span>
+         </p>
+     </td>
+     <td class = "content-right r-bor">
+     <p class = "tip tooltip">
+           ?
+           <span class = "tooltiptext">
+           tips
+           </span>
+         </p>
+     </td>
+   </tr>
+   </tbody>
+ </table>
+ </div>
