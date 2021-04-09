@@ -1,0 +1,27 @@
+#more {
+    display: none;
+    padding-left: 5px;
+}
+#dot {
+    color: #ffffff;   
+}
+#button { /* this is css of button */
+          background-color: #F9F9F9;
+          color: #4A90E2;
+          cursor: pointer;
+          padding: 10px;
+          width: 250px;
+           border: solid 2px  #B0B0B0;
+          text-align: left;
+          outline: none;
+          font-size: 17px
+  }
+  .list{ /* this is css of ToC table */
+      border: solid 2px  #B0B0B0;
+      padding: 10px;
+      width:325px;
+        }
+  .ToC_link { /* Css of link tag */
+            color: #4A90E2;
+            text-decoration: none;
+        }
