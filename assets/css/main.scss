@@ -160,6 +160,9 @@ a.toc-menu-toggle {
     float: right;
     
 }
+a.toc-menu-toggle svg {
+      filter: invert(1);
+}
 @media only screen and (min-width: 960px) {
     .table-of-content {
         width: 220px;
