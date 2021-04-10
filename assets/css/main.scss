@@ -20,3 +20,161 @@
 
 // 5. Other vendor styles
 @import "vendor/syntax-highlighting/github";
+
+html,body {
+    scroll-behavior: smooth;
+}
+
+.themeix-main {
+  
+    margin: 0 auto;
+}
+
+
+
+.table-of-content {
+  
+    border: none;
+    margin: 0 30px;
+    box-sizing: border-box;
+    float: left;
+    display: block;
+    padding: 0!important;
+
+}
+.table-of-content h4 {
+    background: #fbaf36;
+    text-align: left;
+    font-size: 15px;
+    padding: 10px 15px;
+    font-weight: bold;
+    color: #fff;
+    margin: 0;
+    a {
+        color:#fff;
+    }
+    
+}
+div#toggle-usage>ul {
+    border: 1px solid #e8e8e8;
+    padding-top:20px;
+}
+ 
+
+.table-of-content ul li {list-style: none;margin: 0;}
+
+.table-of-content ul {
+    margin: 0;
+    padding: 0;
+}
+
+.table-of-content ul li a {
+    font-size: 14px;
+    line-height: 1.2;
+    padding: 4px 15px;
+    display: block;
+    border-bottom: 1px solid #e2e2e2;
+    transition: ease all .5s;
+}
+ 
+.themeix-header {
+    border-top: 3px solid orange;
+    padding: 20px 0;
+}
+.themeix-header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ 
+.themeix-page-title {
+    background: #FBAF36;
+    padding: 30px 15px;
+
+    border-bottom: 5px solid #FFCC99;
+    border-top: 5px solid #FFCC99;
+}
+
+.themeix-page-title h1 {
+    margin: 0!important;
+    color: #fff;
+  
+}
+ul.uk-navbar-nav > li:last-child a {
+    background: #f4c664;
+    color: #fff;
+    border-bottom: 3px solid #daac4a;
+    border-radius: 3px;
+}
+article.uk-article h1, article.uk-article h2, article.uk-article h3, article.uk-article h4, article.uk-article h5, article.uk-article h6 {
+    color: #fbaf36;
+}
+.themeix-menu ul li a {
+    color: #313131;
+    font-size: 15px;
+    font-weight: 500;
+}
+.themeix-menu li.uk-active > a {
+    color: #fbaf36;
+}
+div#google_translate_element {
+    margin: 0 auto;
+    float: right;
+    padding-top: 8px;
+}
+
+
+.postition-sticky {
+    position: sticky;
+    top: 0;
+}
+.themeix-content-area {
+    padding-right: 30px;
+}
+.uk-offcanvas-bar {
+  
+    width: 100%;
+
+}
+.themeix-menu .uk-navbar-center {
+    margin-right: 0;
+}
+.uk-navbar-toggle {
+    color: #000;
+}
+.themeix-logo img {
+    max-height: 70px;
+}
+.uk-offcanvas-bar.uk-offcanvas-bar-animation.uk-offcanvas-slide .uk-logo img {
+    max-height: 70px;
+}
+.uk-offcanvas-bar.uk-offcanvas-bar-animation.uk-offcanvas-slide li a {
+    border-bottom: 1px solid #ddd;
+}
+.hidden {
+    display:none;
+}
+a.toc-menu-toggle {
+  
+    float: right;
+    
+}
+@media only screen and (min-width: 960px) {
+    .table-of-content {
+        width: 220px;
+        margin:0;
+    }
+    .themeix-content-area {
+        padding-right: 0;
+    }  
+    .themeix-logo img {
+        max-height: 114px;
+    } 
+    div#toggle-usage {
+        display: block!important;
+    }
+    a.toc-menu-toggle {
+        display: none;
+    }
+}

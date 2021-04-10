@@ -10,8 +10,8 @@ description:        Smartwatches have proven being better for women at family, w
 url:                http://watchnationpro.com # Site base hostname & protocol, e.g. http://example.com
 baseurl:            # Site subpath, e.g. /blog
 logo_image:
-  dark:             # Dark logo e.g logo-dark.svg upload to /uploads/ folder, used in header, mobile navigation and page sidebar About widget
-  light:            # Light logo e.g. logo-light.svg upload to /uploads/ folder, used in footer About widget
+  dark:            logo.png # Dark logo e.g logo-dark.svg upload to /uploads/ folder, used in header, mobile navigation and page sidebar About widget
+  light:           logo.png # Light logo e.g. logo-light.svg upload to /uploads/ folder, used in footer About widget
 permalink:          /:title/ # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 date_format:        "%B %-d, %Y" # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 uploads:            /uploads/ # Path to post content assets directory i.e post images, pdfs etc
@@ -28,9 +28,9 @@ footer:             # Default footer image settings
 
 # navbar settings
 navbar_primary:
-  sticky:           true
-  social:           true
-  search:           true
+  sticky:           false
+  social:           false
+  search:           false
 
 # Social share buttons
 social_share:
