@@ -194,7 +194,7 @@ We have analyzed the women's smartwatches depending upon various categories like
 
 ### No.1 Apple Watch Series 6
 {% include image.html img="apple-watch-series-6.webp" align="left" %}
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+{% include image.html img="CTA-best-price.png" align="left" % url="https://geni.us/wnpapple" blank="true" %}
 
 <a href="https://www.watchnationpro.com/apple-watch-series-6-review/">Apple Watch Series 6</a> is one of the best smartwatch for women. Apple Watch Series 6 has a stylish design and comes with size options available in 40mm & 44mm sizes like series 5 with a case depth of 10.74 which suits small writs of women. The best sellers smartwatch is loaded with awesome aesthetics design, style options, and features. The watch is available within a price range of $749.00 to $1,499.00 based on the features and size.
 
