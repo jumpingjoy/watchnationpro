@@ -193,8 +193,38 @@ We have analyzed the women's smartwatches depending upon various categories like
  </div>
 
 ### No.1 Apple Watch Series 6
-{% include image.html img="apple-watch-series-6.webp" align="left" %}
-{% include image.html img="CTA-best-price.png" align="left" % url="https://geni.us/wnpapple" blank="true" %}
+<div class = "scroll">
+ <table>
+   <tr>
+     <th colspan = "2" class = "top">
+       Best Overall Performance Smartwatches for Women
+     </th>
+   </tr>
+   <colgroup>
+   <col span="1" style="width: 50%;">
+   <col span="1" style="width: 50%;">
+   </colgroup>
+   <tbody>
+   <tr>
+     <td class = "left">
+       Product
+     </td>
+     <td class = "right r-bor">
+       Category
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+     <b>Apple Watch Series 6</b>
+      {% include image.html img="apple-watch-series-6.webp" align="center" %}
+     </td>
+     <td class = "content-right r-bor">
+     {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+     </td>
+   </tr>
+   </tbody>
+ </table>
+ </div>
 
 <a href="https://www.watchnationpro.com/apple-watch-series-6-review/">Apple Watch Series 6</a> is one of the best smartwatch for women. Apple Watch Series 6 has a stylish design and comes with size options available in 40mm & 44mm sizes like series 5 with a case depth of 10.74 which suits small writs of women. The best sellers smartwatch is loaded with awesome aesthetics design, style options, and features. The watch is available within a price range of $749.00 to $1,499.00 based on the features and size.
 
