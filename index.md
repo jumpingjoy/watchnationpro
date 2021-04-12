@@ -162,7 +162,7 @@ We have analyzed the women's smartwatches depending upon various categories like
      <td class = "content-left">
        <b>Huawei GT 2</b>
        {% include image.html img="huawei-gt-2.webp" align="center" %}
-       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnphuaweigt2" blank="true" %}
+         {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnphuaweigt2" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Battery Smartwatch for Women
@@ -192,9 +192,9 @@ We have analyzed the women's smartwatches depending upon various categories like
  </table>
  </div>
 
-### No.1 Apple Watch Series
+### ✅No.1 Apple Watch Series
 
-<img src="https://watchnationpro.com/uploads/apple-watch-series-6.webp" alt="GeeksforGeeks logo" align="right">
+{% include image.html img="apple-watch-series-6.webp" align="right" %}
 
 <a href="https://www.watchnationpro.com/apple-watch-series-6-review/">Apple Watch Series 6</a> is one of the best smartwatch for women. Apple Watch Series 6 has a stylish design and comes with size options available in 40mm & 44mm sizes like series 5 with a case depth of 10.74 which suits small writs of women. The best sellers smartwatch is loaded with awesome aesthetics design, style options, and features. The watch is available within a price range of $749.00 to $1,499.00 based on the features and size.
 
@@ -257,12 +257,14 @@ You can go for a swim with your ATM water resistance watch.
 
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/apple-watch-series-6-review/" blank="true" %}
 
-### No.2 Samsung Galaxy Watch 3
+### ✅No.2 Samsung Galaxy Watch 3
 {% include image.html img="samsung-galaxy-active-3.webp" align="right" %}
 
 Top brand Samsung Galaxy watch has released another version to its Samsung galaxy range of smartwatch series called <a href="https://www.watchnationpro.com/samsung-galaxy-watch-3-review">Samsung Galaxy Watch 3</a>.
 
 You can aspire to all the features that are available in Tizen. Similar to galaxy watch active 2, the latest model comes with AMOLED screen display in two sizes, 40mm and 44mm.
+
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpsamsunggalaxy3" blank="true" %}
 
 In case you are an google Android user and are not comfortable with Wear OS, Samsung galaxy active 3 is the best choice for you since it can connect to google assistant. Even though it does not have a rotating bezel, it comes with good touch sensitivity. The battery life is better than the previous galaxy watch active 2.
 
@@ -311,9 +313,11 @@ Along with built in GPS, activity tracking, heart rate tracking monitors, ECG mo
 
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/samsung-galaxy-watch-3-review/" blank="true" %}
 
-### No. 3 Garmin Venu
+### ✅No. 3 Garmin Venu
 {% include image.html img="garmin-venu.webp" align="right" %}
 Garmin Venu is the first has released its first AMOLED  screen (with always on display) that is bright and sharp and known for multi-sport tracking.
+
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpgarminvenu" blank="true" %}
 
  The built in GPS tracking of <a href="https://www.watchnationpro.com/garmin-venu-review">Garmin Venu</a> are accurate that provides data on location and navigation. New features like breathing and respiration tools for breath exercises are quite impressive. Garmin Venu has five days of battery life and provides storage for music files. The proprietary Garmin Pay app serves pretty well for contactless mobile payments. Overall, the device is apt for daily fitness goals and health tracking with good performance speed.
 
@@ -362,12 +366,14 @@ Garmin Venu is the first has released its first AMOLED  screen (with always on d
 
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/garmin-venu-review/" blank="true" %}
 
-### No.4 Fitbit Sense
+### ✅No.4 Fitbit Sense
 {% include image.html img="fitbit-sense.webp" align="right" %}
 
 Fitbit Sense is well known for its fitness features, health tracking features backed by all the sensors that are not available in other models like Versa 2.
 
 The bands have two kinds of stainless steel. It has AMOLED style display with 40mm size case. Fitbit Sense is a fitness smartwatch with fitness trackers like heart rate monitor, sleep tracking and sleep metrics, women’s health trackers, and menstrual cycle tracking.
+
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpfitbitsense" blank="true" %}
 
 Fitbit Sense consists of advanced fitness tracker  when compared to Fitbit versa 3 and Fitbit Versa 2. ECG sensor, optical heart rate monitoring sensor to track pulses, Stress monitoring app EDA are the highlights in Fitbit Sense similar to Fitbit versa series.
 
@@ -420,10 +426,12 @@ The GPS tracking helps you track gps location on your runs and travels. It's a w
 
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fitbit-sense-review/" blank="true" %}
 
-### No. 5 Huawei GT 2
+### ✅No. 5 Huawei GT 2
 {% include image.html img="huawei-gt-2.webp" align="right" %}
 
 <a href="https://www.watchnationpro.com/huawei-gt-2-review">Huawei GT 2</a> is the successor of Huawei GT, is apt for people who look for fitness tracking and sporty style. With its OS, Lite OS, Huawei has added some more features that are missing in Huawei GT. The Kirin Chip supports fitness tracking well and the built in GPS feature is excellent. The fitness features like heart rate monitoring sensor is on par to the industry standards. The sleep tracking and stress management tracking are also pretty good.
+
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnphuaweigt2" blank="true" %}
 
 As it has 5 ATM water resistance, Swimming and swim tracking is another option you can enjoy with this watch. Above all, this model is greatly praised for its battery life (around two weeks of battery life).
 
@@ -474,10 +482,12 @@ As it has 5 ATM water resistance, Swimming and swim tracking is another option y
 
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/huawei-gt-2-review/" blank="true" %}
 
-### No. 6 Fossil Sport
+### ✅No. 6 Fossil Sport
 {% include image.html img="fossil-sport.webp" align="right" %}
 
 <a href="https://www.watchnationpro.com/fossil-sport-review">Fossil Sport</a> is very affordable and comes in two different case sizes, 41mm and 43mm with sports style design. The silicone strap of Fossil Sport is awesome in style and sweat-friendly. The 41mm watch faces looks good in small wrists. The Fossil straps are available in many colors.
+
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpfossilsport" blank="true" %}
 
 Fossil Sport runs on Wear OS and provides smartphone notifications and alerts like email and app information. NFC for Google pay is available.
 
@@ -528,10 +538,12 @@ Untethered built in GPS is convenient for people who wish to keep their phones a
 
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fossil-sport-review/" blank="true" %}
 
-### No. 7 Kate Spade Scallop 2
+### ✅No. 7 Kate Spade Scallop 2
 {% include image.html img="kate-spade-scallop-2.webp" align="right" %}
 
 <a href="https://www.watchnationpro.com/kate-spade-scallop-2-review">Kate spade scallop 2</a> has an AMOLED display with fashion style design and attractive looks like Michael Kors access and covers almost all the features of Fossil watches. The Kate spade scallop 2 watch runs on Wear OS like the first version of Kate spade scallop.
+
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpkatespade" blank="true" %}
 
 The “Choose your looks" App helps you pick the right watch face from a variety of watch faces that matches women best clothes and accessories. NFC for Google pay is a notable one. Kate Spade Scallop has ambient light sensor which adjusts the brightness, and has decent battery life.
 
@@ -586,7 +598,7 @@ To help select the best, we have come up with this ultimate site for everything 
 
 We do not baffle the readers with women’s tech suits features and generic opinions and classy women quotes on the product.
 
-### Our smart watch review is directed on the following mottos:
+**Our smart watch review is directed on the following mottos:**
 * How smartwatch for women help in solving the challenge?
 * What are the smartwatch features that you must look for?
 * How does each feature perform in terms of 5-star ratings denoted by our rating reference?
@@ -731,7 +743,7 @@ Nowadays, battery has ten days of battery life that avoids charging it daily. Th
 
 Some of the smart watches like Samsung gear sport and apple watch has wireless charging feature. You cannot plug your device directly into a charger to charge these devices, but you can lay it on a charging puck.
 
-### ✅Can a smartwatch detect whether its user is wearing it nor not?
+#### ✅Can a smartwatch detect whether its user is wearing it nor not?
 Proximity sensor helps in increased battery life. It checks whether the user wears the smartwatch or not. If you are not wearing it, it will turn off the display screen and background functions to save the battery. If you are wearing it, it will turn on the display screen.
 
 #### ✅Is the smartwatch waterproof?
