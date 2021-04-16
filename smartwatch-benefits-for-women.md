@@ -56,7 +56,7 @@ schemadotorg:
 Are you searching for the best solution to monitor and take care of your fitness and safety factors as a woman?
 When you neglect your health for years of age, factors can result in decreased health, obesity, or decreased heart function.
 
-<progress id="js-progressbar" class="uk-progress" value="10" max="100"></progress>
+<progress id="js-progressbar" class="uk-progress" value="75" max="100"></progress>
 
 But there is finally an answer by buying the best smartwatch for women!
 You can ensure that you have the best smartwatch for health, which can be the best apple smartwatch that gives you the ultimate experience, or an android fitness watch that suits your budget?!
