@@ -4,25 +4,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101306198);</script>
   <script async src="//static.getclicky.com/js"></script>
-  <script>
-
-    UIkit.util.ready(function () {
-
-        var bar = document.getElementById('js-progressbar');
-
-        var animate = setInterval(function () {
-
-            bar.value += 10;
-
-            if (bar.value >= bar.max) {
-                clearInterval(animate);
-            }
-
-        }, 1000);
-
-    });
-
-</script>
   {% seo %}
   <meta content="website" property="og:type">
   <meta property="og:image" content="{% if site.brand.image contains 'http' %}{{ site.brand.image }}{% else %}{{ site.uploads | absolute_url }}{{ site.brand.image }}{% endif %}"/>
