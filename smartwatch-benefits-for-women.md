@@ -58,6 +58,24 @@ When you neglect your health for years of age, factors can result in decreased h
 
 <progress id="js-progressbar" class="uk-progress" value="75" max="100"></progress>
 
+<div class="w3-container">
+
+<h2>Progress Bar Labels</h2>
+<p>Add text inside a w3-container element to add a label to the progress bar.</p>
+<p>Use the w3-center class to center the label. If omitted, it will be left aligned.</p>
+
+<div class="w3-light-grey">
+  <div class="w3-container w3-green w3-center" style="width:25%">25%</div>
+</div><br>
+
+<div class="w3-light-grey">
+  <div class="w3-container w3-red w3-center" style="width:50%">50%</div>
+</div><br>
+
+<div class="w3-light-grey">
+  <div class="w3-container w3-blue" style="width:75%">75%</div>
+</div><br>
+
 But there is finally an answer by buying the best smartwatch for women!
 You can ensure that you have the best smartwatch for health, which can be the best apple smartwatch that gives you the ultimate experience, or an android fitness watch that suits your budget?!
 
