@@ -83,7 +83,7 @@ schemadotorg:
       url: https://www.watchnationpro.com/huawei-gt-2-review/
 
 ---
-{% include image.html img="smartwatch-for-women.webp" alt="Alt for image" caption="Apple Watch Series 6 Review" align="center" %}
+{% include image.html img="smartwatch-for-women.webp" alt="Alt for image" caption="" align="center" %}
 As a woman, you might be knowing about a normal watch ⌚and its types and how to select them. But, choosing the best smartwatch for women among many features, style and technical specifications is  overwhelming for a beginner.
 
 To help select the best, we have come up with this ultimate site for everything related to the best womens watches.
@@ -93,18 +93,19 @@ We do not baffle the readers with women’s tech suits features and generic opin
 **Our smart watch review is directed on the following mottos:**
 * How smartwatch for women help in solving the challenge?
 * What are the smartwatch features that you must look for?
-* How does each feature perform in terms of 10 ratings denoted by our rating reference?
+* How does each feature perform in terms of 10 ratings denoted by our rating reference? For example, you can see the following rating bar that denotes each of the feature performs:
 
+Design
 <div class="w3-light-grey">
-  <div class="w3-container w3-red" style="width:25%">2.5</div>
+  <div class="w3-container w3-red" style="width:25%">2.5 Rating</div>
 </div><br>
 
 <div class="w3-light-grey">
-  <div class="w3-container w3-blue" style="width:75%">5.0</div>
+  <div class="w3-container w3-blue" style="width:75%">5.0 Rating</div>
 </div><br>
 
 <div class="w3-light-grey">
-  <div class="w3-container w3-green" style="width:50">9.0</div>
+  <div class="w3-container w3-green" style="width:50">9.0 Rating</div>
 </div><br>
 
 * The 10-star rating makes it easy for you to know quickly how the feature performs
