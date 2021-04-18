@@ -101,5 +101,5 @@
 			}
       #prolistimage {
         line-height: 1.5em;
-        list-style-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4621/treehouse-marker.png);
+        list-style-image: url(\uploads\protick.png);
       }
