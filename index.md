@@ -95,6 +95,10 @@ We do not baffle the readers with women’s tech suits features and generic opin
 * What are the smartwatch features that you must look for?
 * How does each feature perform in terms of 10 ratings denoted by our rating reference? For example, you can see the following rating bar that denotes each of the feature performs:
 
+<b>Smartwatch Pricing</b>
+<div class="w3-light-grey">
+  <div class="w3-container w3-blue" style="width:75%">7.5 Rating</div>
+</div><br>
 <b>Smartwatch Design</b>
 <div class="w3-light-grey">
   <div class="w3-container w3-red" style="width:25%">2.5 Rating</div>
@@ -103,12 +107,12 @@ We do not baffle the readers with women’s tech suits features and generic opin
 <div class="w3-light-grey">
   <div class="w3-container w3-blue" style="width:75%">5.0 Rating</div>
 </div><br>
-<b>Smartwatch Connectivity</b>
+<b>Smartwatch Battery</b>
 <div class="w3-light-grey">
   <div class="w3-container w3-green" style="width:50">9.0 Rating</div>
 </div><br>
 
-* The 10-star rating makes it easy for you to know quickly how the feature performs
+* The 10-star rating makes it easy for you to know quickly how every feature performs overall and compare it to other competitors.
 * Provide a detailed Buying Guide for buying the best ladies smartwatches
 * Provide How-to Guides to get the best <a href="https://www.watchnationpro.com/smartwatch-for-women-benefits/">benefits for women</a> out of smartwatches
 * Provide special instructions on health features for women
@@ -123,9 +127,7 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
 
 ## What is the Best Smartwatch for Women?
 
-​In our opinion, the Apple Watch Series 6 is the best smartwatches for women.  We have provided a list of the best smartwatches for women in the following table from the women's smartwatches available in the market.
-
-We have analyzed the women's smartwatches depending upon various categories like smartwatch features, performance, cost that suits your budget from top to very budget friendly options. You can also check out our detailed best smartwatches for women reviews to buy the one that suits you today.
+​We have provided a list of the best smartwatches for women in the following table from the women's smartwatches available in the market. You can also check out our detailed best smartwatches for women reviews to buy the one that suits you today.
 
 <div class = "scroll">
  <table>
@@ -137,7 +139,6 @@ We have analyzed the women's smartwatches depending upon various categories like
    <colgroup>
    <col span="1" style="width: 30%;">
    <col span="1" style="width: 30%;">
-   <col span="1" style="width: 40%;">
    </colgroup>
    <tbody>
    <tr>
@@ -227,7 +228,22 @@ We have analyzed the women's smartwatches depending upon various categories like
 {% include image.html img="apple-watch-series-6.webp" align="right" %}
 
 <a href="https://www.watchnationpro.com/apple-watch-series-6-review/">Apple Watch Series 6</a> is one of the best smartwatch for women. Apple Watch Series 6 has a stylish design and comes with size options available in 40mm & 44mm sizes like series 5 with a case depth of 10.74 which suits small writs of women. The best sellers smartwatch is loaded with awesome aesthetics design, style options, and features. The watch is available within a price range of $749.00 to $1,499.00 based on the features and size.
-
+<b>Design</b>
+<div class="w3-light-grey">
+  <div class="w3-container w3-red" style="width:25%">2.5 Rating</div>
+</div><br>
+<b>Comfortness</b>
+<div class="w3-light-grey">
+  <div class="w3-container w3-blue" style="width:75%">5.0 Rating</div>
+</div><br>
+<b>Battery</b>
+<div class="w3-light-grey">
+  <div class="w3-container w3-green" style="width:50">9.0 Rating</div>
+</div><br>
+<b>Battery</b>
+<div class="w3-light-grey">
+  <div class="w3-container w3-green" style="width:50">9.0 Rating</div>
+</div><br>
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
 
 You can choose straps for apple watch models from a variety of materials like aluminum, titanium, and stainless steel. The straps are available in two colors: new blue and red.
