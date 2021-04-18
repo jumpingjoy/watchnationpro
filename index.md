@@ -229,6 +229,8 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
 
 <a href="https://www.watchnationpro.com/apple-watch-series-6-review/">Apple Watch Series 6</a> is one of the best smartwatch for women. Apple Watch Series 6 has a stylish design and comes with size options available in 40mm & 44mm sizes like series 5 with a case depth of 10.74 which suits small writs of women. The best sellers smartwatch is loaded with awesome aesthetics design, style options, and features. The watch is available within a price range of $749.00 to $1,499.00 based on the features and size.
 
+{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+
 <b>Pricing</b>
 <div class="w3-light-grey"><div class="w3-container w3-orange" style="width:70%">7.0 Rating</div></div>
 <b>Design</b>
@@ -236,11 +238,10 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
 <b>Comfortness</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:75%">9.0 Rating</div></div>
 <b>Battery</b>
-<div class="w3-light-grey"><div class="w3-container w3-green" style="width:50">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 <b>After Sales Customer Support</b>
-<div class="w3-light-grey"><div class="w3-container w3-green" style="width:50">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 <br>
-{% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
 
 <div class = "scroll">
  <table>
@@ -299,6 +300,18 @@ You can aspire to all the features that are available in Tizen. Similar to galax
 In case you are an google Android user and are not comfortable with Wear OS, Samsung galaxy active 3 is the best choice for you since it can connect to google assistant. Even though it does not have a rotating bezel, it comes with good touch sensitivity. The battery life is better than the previous galaxy watch active 2.
 
 Along with built in GPS, activity tracking, heart rate tracking monitors, ECG monitors to provide data on heart rates and act as heart rate monitor. The heart rate monitoring functionalities of Samsung Galaxy Active 3 watch is moderately accurate, and fall detection is available in Active 3.
+
+<b>Pricing</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
+<b>Design</b>
+<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:80%">8.0 Rating</div></div>
+<b>Comfortness</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:70%">7.0 Rating</div></div>
+<b>Battery</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:95%">9.5 Rating</div></div>
+<b>After Sales Customer Support</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:70%">7.0 Rating</div></div>
+<br>
 
 <div class = "scroll">
  <table>
