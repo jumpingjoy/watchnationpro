@@ -231,7 +231,7 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
 
 <b>Pricing</b>
 <div class="w3-light-grey">
-  <div class="w3-container w3-red" style="width:70%">.70 Rating</div>
+  <div class="w3-container w3-blue" style="width:70%">7.0 Rating</div>
 </div><br>
 <b>Design</b>
 <div class="w3-light-grey">
@@ -294,19 +294,7 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
  </table>
  </div>
 
-You can choose straps for apple watch models from a variety of materials like aluminum, titanium, and stainless steel. The straps are available in two colors: new blue and red.
-
-The model wrist bands are available in an attractive range of varieties - leather band, silicone strap, stainless steel band, and woven sport band. If you require other band color options or design, third-party choices are available in the market.
-
-You can use LTE to initiate calls and play music on your smartphone which is far away.
-
-The health features like blood oxygen levels sensor, ECG sensor, heart rate tracking and heart rate monitor are available along with a top notch navigation feature of GPS.
-
-Menstrual cycle tracking with early notification, the sensor for measuring blood oxygen, advanced heart rate tracking and heart rate monitor features and monitor of ECG are provided. To monitor hearing capability and to assist in breathing exercises are also given for the buyers.
-
-You can go for a swim with your ATM water resistance watch.
-
-{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/apple-watch-series-6-review/" blank="true" %}
+{% include section-cta.html button_text="READ OUR FULL REVIEW HERE" button_url="/apple-watch-series-6-review/" blank="true" %}
 
 ### ✅No.2 Samsung Galaxy Watch 3
 {% include image.html img="samsung-galaxy-active-3.webp" align="right" %}
@@ -362,7 +350,7 @@ Along with built in GPS, activity tracking, heart rate tracking monitors, ECG mo
  </table>
  </div>
 
-{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/samsung-galaxy-watch-3-review/" blank="true" %}
+{% include section-cta.html button_text="READ OUR FULL REVIEW HERE" button_url="/samsung-galaxy-watch-3-review/" blank="true" %}
 
 ### ✅No. 3 Garmin Venu
 {% include image.html img="garmin-venu.webp" align="right" %}
@@ -415,7 +403,7 @@ Garmin Venu is the first has released its first AMOLED  screen (with always on d
   </table>
   </div>
 
-{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/garmin-venu-review/" blank="true" %}
+{% include section-cta.html button_text="READ OUR FULL REVIEW HERE" button_url="/garmin-venu-review/" blank="true" %}
 
 ### ✅No.4 Fitbit Sense
 {% include image.html img="fitbit-sense.webp" align="right" %}
@@ -475,7 +463,7 @@ The GPS tracking helps you track gps location on your runs and travels. It's a w
  </table>
  </div>
 
-{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fitbit-sense-review/" blank="true" %}
+{% include section-cta.html button_text="READ OUR FULL REVIEW HERE" button_url="/fitbit-sense-review/" blank="true" %}
 
 ### ✅No. 5 Huawei GT 2
 {% include image.html img="huawei-gt-2.webp" align="right" %}
@@ -531,7 +519,7 @@ As it has 5 ATM water resistance, Swimming and swim tracking is another option y
  </table>
  </div>
 
-{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/huawei-gt-2-review/" blank="true" %}
+{% include section-cta.html button_text="READ OUR FULL REVIEW HERE" button_url="/huawei-gt-2-review/" blank="true" %}
 
 ### ✅No. 6 Fossil Sport
 {% include image.html img="fossil-sport.webp" align="right" %}
@@ -587,7 +575,7 @@ Untethered built in GPS is convenient for people who wish to keep their phones a
  </table>
  </div>
 
-{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/fossil-sport-review/" blank="true" %}
+{% include section-cta.html button_text="READ OUR FULL REVIEW HERE" button_url="/fossil-sport-review/" blank="true" %}
 
 ### ✅No. 7 Kate Spade Scallop 2
 {% include image.html img="kate-spade-scallop-2.webp" align="right" %}
@@ -639,7 +627,7 @@ The “Choose your looks" App helps you pick the right watch face from a variety
  </table>
  </div>
 
-{% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/kate-spade-scallop-2-review/" blank="true" %}
+{% include section-cta.html button_text="READ OUR FULL REVIEW HERE" button_url="/kate-spade-scallop-2-review/" blank="true" %}
 
 ## WatchNationPro.com's Motto
 
