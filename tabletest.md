@@ -180,3 +180,25 @@ schemadotorg:
    </tbody>
  </table>
  </div>
+
+
+ /*Now paste following code in post wherever u want to show Pros and Cons table ike 10beast*/
+ // Shared by a member
+ [su_row]
+ [su_column size="1/2"][su_box title="Pros" box_color="#009906" radius="0"]
+ [su_list icon="icon: check" icon_color="#009906"]
+ <ul>
+  	<li>Pros number one</li>
+  	<li>Pros number two</li>
+  	<li>Pros number three</li>
+ </ul>
+ [/su_list][/su_box][/su_column]
+
+ [su_column size="1/2"][su_box title="Cons" box_color="#bf000a" radius="0"][su_list icon="icon: ban" icon_color="#bf000a"]
+ <ul>
+  	<li>Cons number one</li>
+  	<li>Cons number two</li>
+  	<li>COns number three</li>
+ </ul>
+ [/su_list][/su_box][/su_column]
+ [/su_row]
