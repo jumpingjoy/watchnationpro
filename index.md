@@ -228,35 +228,28 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
 {% include image.html img="apple-watch-series-6.webp" align="right" %}
 
 <a href="https://www.watchnationpro.com/apple-watch-series-6-review/">Apple Watch Series 6</a> is one of the best smartwatch for women. Apple Watch Series 6 has a stylish design and comes with size options available in 40mm & 44mm sizes like series 5 with a case depth of 10.74 which suits small writs of women. The best sellers smartwatch is loaded with awesome aesthetics design, style options, and features. The watch is available within a price range of $749.00 to $1,499.00 based on the features and size.
+
+<b>Pricing</b>
+<div class="w3-light-grey">
+  <div class="w3-container w3-red" style="width:70%">.70 Rating</div>
+</div><br>
 <b>Design</b>
 <div class="w3-light-grey">
-  <div class="w3-container w3-red" style="width:25%">2.5 Rating</div>
+  <div class="w3-container w3-green" style="width:75%">9.0 Rating</div>
 </div><br>
 <b>Comfortness</b>
 <div class="w3-light-grey">
-  <div class="w3-container w3-blue" style="width:75%">5.0 Rating</div>
+  <div class="w3-container w3-green" style="width:75%">9.0 Rating</div>
 </div><br>
 <b>Battery</b>
 <div class="w3-light-grey">
   <div class="w3-container w3-green" style="width:50">9.0 Rating</div>
 </div><br>
-<b>Battery</b>
+<b>After Sales Customer Support</b>
 <div class="w3-light-grey">
   <div class="w3-container w3-green" style="width:50">9.0 Rating</div>
 </div><br>
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
-
-You can choose straps for apple watch models from a variety of materials like aluminum, titanium, and stainless steel. The straps are available in two colors: new blue and red.
-
-The model wrist bands are available in an attractive range of varieties - leather band, silicone strap, stainless steel band, and woven sport band. If you require other band color options or design, third-party choices are available in the market.
-
-You can use LTE to initiate calls and play music on your smartphone which is far away.
-
-The health features like blood oxygen levels sensor, ECG sensor, heart rate tracking and heart rate monitor are available along with a top notch navigation feature of GPS.
-
-Menstrual cycle tracking with early notification, the sensor for measuring blood oxygen, advanced heart rate tracking and heart rate monitor features and monitor of ECG are provided. To monitor hearing capability and to assist in breathing exercises are also given for the buyers.
-
-You can go for a swim with your ATM water resistance watch.
 
 <div class = "scroll">
  <table>
@@ -300,6 +293,18 @@ You can go for a swim with your ATM water resistance watch.
    </tbody>
  </table>
  </div>
+
+You can choose straps for apple watch models from a variety of materials like aluminum, titanium, and stainless steel. The straps are available in two colors: new blue and red.
+
+The model wrist bands are available in an attractive range of varieties - leather band, silicone strap, stainless steel band, and woven sport band. If you require other band color options or design, third-party choices are available in the market.
+
+You can use LTE to initiate calls and play music on your smartphone which is far away.
+
+The health features like blood oxygen levels sensor, ECG sensor, heart rate tracking and heart rate monitor are available along with a top notch navigation feature of GPS.
+
+Menstrual cycle tracking with early notification, the sensor for measuring blood oxygen, advanced heart rate tracking and heart rate monitor features and monitor of ECG are provided. To monitor hearing capability and to assist in breathing exercises are also given for the buyers.
+
+You can go for a swim with your ATM water resistance watch.
 
 {% include section-cta.html button_text=">> READ OUR FULL REVIEW HERE <<" button_url="/apple-watch-series-6-review/" blank="true" %}
 
