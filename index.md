@@ -238,6 +238,7 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:50">9.0 Rating</div></div>
 <b>After Sales Customer Support</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:50">9.0 Rating</div></div>
+<br>
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
 
 <div class = "scroll">
