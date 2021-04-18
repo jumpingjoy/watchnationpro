@@ -106,8 +106,9 @@ We have analyzed the women's smartwatches depending upon various categories like
      </th>
    </tr>
    <colgroup>
-   <col span="1" style="width: 50%;">
-   <col span="1" style="width: 50%;">
+   <col span="1" style="width: 30%;">
+   <col span="1" style="width: 30%;">
+   <col span="1" style="width: 40%;">
    </colgroup>
    <tbody>
    <tr>
