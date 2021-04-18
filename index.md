@@ -257,12 +257,12 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
    </tr>
    <tr>
      <td class = "content-left">
-      <ul>
-        <li>✅Excellent build quality</li>
-        <li>✅Useful health monitoring tools</li>
-        <li>✅Great display, touch response</li>
-        <li>✅Reliable fitness tracking</li>
-        <li>✅Decent battery life</li>
+      <ul id="prolistimage">
+        <li>Excellent build quality</li>
+        <li>Useful health monitoring tools</li>
+        <li>Great display, touch response</li>
+        <li>Reliable fitness tracking</li>
+        <li>Decent battery life</li>
       </ul>
      </td>
      <td class = "content-right r-bor">
@@ -416,9 +416,9 @@ The built in GPS tracking of <a href="https://www.watchnationpro.com/garmin-venu
 ### ✅No.4 Fitbit Sense
 {% include image.html img="fitbit-sense.webp" align="right" %}
 
-Fitbit Sense is well known for its fitness features, health tracking features backed by all the sensors that are not available in other models like Versa 2.
+Fitbit Sense is well known for its fitness features and health tracking features backed by all the sensors that are not available in other models like Versa 2.
 
-The bands have two kinds of stainless steel. It has AMOLED style display with 40mm size case. Fitbit Sense is a fitness smartwatch with fitness trackers like heart rate monitor, sleep tracking and sleep metrics, women’s health trackers, and menstrual cycle tracking.
+Fitbit Sense comes with a price tag of around $280 to $330, having bands made of two kinds of stainless steel. It has AMOLED style display with 40mm size case. Fitbit Sense is a fitness smartwatch with fitness trackers like heart rate monitor, sleep tracking and sleep metrics, women’s health trackers, and menstrual cycle tracking.
 
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpfitbitsense" blank="true" %}
 
@@ -476,7 +476,7 @@ The GPS tracking helps you track gps location on your runs and travels. It's a w
 ### ✅No. 5 Huawei GT 2
 {% include image.html img="huawei-gt-2.webp" align="right" %}
 
-<a href="https://www.watchnationpro.com/huawei-gt-2-review">Huawei GT 2</a> is the successor of Huawei GT, is apt for people who look for fitness tracking and sporty style. With its OS, Lite OS, Huawei has added some more features that are missing in Huawei GT. The Kirin Chip supports fitness tracking well and the built in GPS feature is excellent. The fitness features like heart rate monitoring sensor is on par to the industry standards. The sleep tracking and stress management tracking are also pretty good.
+<a href="https://www.watchnationpro.com/huawei-gt-2-review">Huawei GT 2</a> is the successor of Huawei GT, is apt for people who look for fitness tracking and sporty style. Coming with a price tag between $250 to $279 and loaded with its Lite OS, Huawei has added some more features that are missing in Huawei GT. The Kirin Chip supports fitness tracking well and the built in GPS feature is excellent. The fitness features like heart rate monitoring sensor is on par to the industry standards. The sleep tracking and stress management tracking are also pretty good.
 
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnphuaweigt2" blank="true" %}
 
@@ -532,7 +532,7 @@ As it has 5 ATM water resistance, Swimming and swim tracking is another option y
 ### ✅No. 6 Fossil Sport
 {% include image.html img="fossil-sport.webp" align="right" %}
 
-<a href="https://www.watchnationpro.com/fossil-sport-review">Fossil Sport</a> is very affordable and comes in two different case sizes, 41mm and 43mm with sports style design. The silicone strap of Fossil Sport is awesome in style and sweat-friendly. The 41mm watch faces looks good in small wrists. The Fossil straps are available in many colors.
+<a href="https://www.watchnationpro.com/fossil-sport-review">Fossil Sport</a> is very affordable smartwatch with a price tag of around $230 and comes in two different case sizes, 41mm and 43mm with sports style design. The silicone strap of Fossil Sport is awesome in style and sweat-friendly. The 41mm watch faces looks good in small wrists. The Fossil straps are available in many colors.
 
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpfossilsport" blank="true" %}
 
@@ -588,7 +588,7 @@ Untethered built in GPS is convenient for people who wish to keep their phones a
 ### ✅No. 7 Kate Spade Scallop 2
 {% include image.html img="kate-spade-scallop-2.webp" align="right" %}
 
-<a href="https://www.watchnationpro.com/kate-spade-scallop-2-review">Kate spade scallop 2</a> has an AMOLED display with fashion style design and attractive looks like Michael Kors access and covers almost all the features of Fossil watches. The Kate spade scallop 2 watch runs on Wear OS like the first version of Kate spade scallop.
+<a href="https://www.watchnationpro.com/kate-spade-scallop-2-review">Kate spade scallop 2</a> has an AMOLED display with fashion style design and attractive looks like Michael Kors access and covers almost all the features of Fossil watches. The Kate spade scallop 2 watch runs on Wear OS like the first version of Kate spade scallop and comes with a price tag of around $270.
 
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpkatespade" blank="true" %}
 
@@ -636,9 +636,6 @@ The “Choose your looks" App helps you pick the right watch face from a variety
  </div>
 
 {% include section-cta.html button_text="READ OUR FULL REVIEW HERE" button_url="/kate-spade-scallop-2-review/" blank="true" %}
-
-## WatchNationPro.com's Motto
-
 
 ## Buying Guide To Buy Smartwatch for Women
 
