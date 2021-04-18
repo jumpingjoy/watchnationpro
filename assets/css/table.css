@@ -101,5 +101,5 @@
 			}
       #prolistimage {
         line-height: 1.5em;
-        list-style-image: url('protick.png');
+        list-style-image: url(protick.png);
       }
