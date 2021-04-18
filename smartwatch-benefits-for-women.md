@@ -50,23 +50,15 @@ schemadotorg:
 
 ---
 {% include image.html img="smartwatch-for-women.webp" alt="Alt for image" caption="Smartwatch for women" align="center" %}
+Do you know that 25% of women have responded favourably towards using smartwatch compared to only 18% of men? Look at the following infographic to understand how women’s smartwatch are increasingly using smartwatches<a href="https://www.alliedmarketresearch.com/smartwatch-market">(1)</a> year on year based on the sales statistics on smartwatches.
+
+![Smartwatch-infographic]({{site.baseurl}}/uploads/smartwatch-infographic.webp)
+Womens watches 2020 had higher sales than womens watches 2019. Are you looking for the best smartwatches for women reviews? smartwatch for girls can help you be better at work and family life.
 
 # Fitness watches for Women: Fitness Smartwatch Benefits <br> Excel at your Work, Family life and health
 
 Are you searching for the best solution to monitor and take care of your fitness and safety factors as a woman?
 When you neglect your health for years of age, factors can result in decreased health, obesity, or decreased heart function.
-
-<div class="w3-light-grey">
-  <div class="w3-container w3-green" style="width:25%">25%</div>
-</div><br>
-
-<div class="w3-light-grey">
-  <div class="w3-container w3-red" style="width:50%">50%</div>
-</div><br>
-
-<div class="w3-light-grey">
-  <div class="w3-container w3-blue" style="width:75%">75%</div>
-</div><br>
 
 But there is finally an answer by buying the best smartwatch for women!
 You can ensure that you have the best smartwatch for health, which can be the best apple smartwatch that gives you the ultimate experience, or an android fitness watch that suits your budget?!
