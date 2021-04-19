@@ -569,12 +569,12 @@ If you have been searching for the best cost, click through our verified supplie
    </tr>
    <tr>
      <td class = "content-left">
-      <ul>
-        <li>✅Excellent build quality</li>
-        <li>✅Useful health monitoring tools</li>
-        <li>✅Great display, touch response</li>
-        <li>✅Reliable fitness tracking</li>
-        <li>✅Decent battery life</li>
+      <ul id="protick">
+        <li>Excellent build quality</li>
+        <li>Useful health monitoring tools</li>
+        <li>Great display, touch response</li>
+        <li>Reliable fitness tracking</li>
+        <li>Decent battery life</li>
       </ul>
      </td>
      <td class = "content-right r-bor">
@@ -589,7 +589,7 @@ If you have been searching for the best cost, click through our verified supplie
    </tbody>
  </table>
  </div>
- 
+
 The primary consideration to buy Apple Watch Series 6 is that despite having the new sensors packed with the latest technologies which makes you feel like a tick-box exercise, you cannot find a better smartwatch models on the market. It is just that this time around, it offers many features you’ll want, along with many that you aren’t aware you’d wish to, plus lots that you’ll never use.
 
 Apple watch models are available with the snug fit, the rich haptic feedback, silent smooth notification sounds, intuitive UIs of watchOS 7, and fantastic color rendition, battery life and faster charging. The apples watch has all that it takes to be the best out of Apple’s factory yet.

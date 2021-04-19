@@ -257,7 +257,7 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
    </tr>
    <tr>
      <td class = "content-left">
-      <ul id="prolistimage">
+      <ul id="protick">
         <li>Excellent build quality</li>
         <li>Useful health monitoring tools</li>
         <li>Great display, touch response</li>
@@ -327,11 +327,11 @@ Along with built in GPS, activity tracking, heart rate tracking monitors, ECG mo
    </tr>
    <tr>
      <td class = "content-left">
-      <ul>
-        <li>✅Traditional watch design, superb build quality</li>
-        <li>✅Crisp AMOLED display</li>
-        <li>✅Decent battery life</li>
-        <li>✅Assorted fitness features</li>
+      <ul id="protick">
+        <li>Traditional watch design, superb build quality</li>
+        <li>Crisp AMOLED display</li>
+        <li>Decent battery life</li>
+        <li>Assorted fitness features</li>
       </ul>
      </td>
      <td class = "content-right r-bor">
@@ -390,14 +390,14 @@ The built in GPS tracking of <a href="https://www.watchnationpro.com/garmin-venu
     </tr>
     <tr>
       <td class = "content-left">
-       <ul>
-         <li>✅Crisp OLED screen with an always-on display</li>
-         <li>✅Garmin Pay support is convenient</li>
-         <li>✅Music storage is standard</li>
-         <li>✅5-day battery life</li>
-         <li>✅Unique breathwork exercises</li>
-         <li>✅Accurate fitness and health tracking</li>
-         <li>✅Useful and accurate sleep tracking</li>
+       <ul id="protick">
+         <li>Crisp OLED screen with an always-on display</li>
+         <li>Garmin Pay support is convenient</li>
+         <li>Music storage is standard</li>
+         <li>5-day battery life</li>
+         <li>Unique breathwork exercises</li>
+         <li>Accurate fitness and health tracking</li>
+         <li>Useful and accurate sleep tracking</li>
        </ul>
       </td>
       <td class = "content-right r-bor">
@@ -450,13 +450,13 @@ The GPS tracking helps you track gps location on your runs and travels. It's a w
    </tr>
    <tr>
      <td class = "content-left">
-      <ul>
-        <li>✅High-end, premium design</li>
-        <li>✅Improved quick-release straps</li>
-        <li>✅(Mostly) accurate GPS and heart rate sensors</li>
-        <li>✅Skin temp sensor provides useful data</li>
-        <li>✅Detailed sleep tracking</li>
-        <li>✅~6-day battery life</li>
+      <ul id="protick">
+        <li>High-end, premium design</li>
+        <li>Improved quick-release straps</li>
+        <li>(Mostly) accurate GPS and heart rate sensors</li>
+        <li>Skin temp sensor provides useful data</li>
+        <li>Detailed sleep tracking</li>
+        <li>~6-day battery life</li>
       </ul>
      </td>
      <td class = "content-right r-bor">
@@ -504,12 +504,12 @@ As it has 5 ATM water resistance, Swimming and swim tracking is another option y
    </tr>
    <tr>
      <td class = "content-left">
-      <ul>
-        <li>✅Great battery life</li>
-        <li>✅Looks gorgeous</li>
-        <li>✅Sharp AMOLED display</li>
-        <li>✅Much improved performance over last year</li>
-        <li>✅Affordable</li>
+      <ul id="protick">
+        <li>Great battery life</li>
+        <li>Looks gorgeous</li>
+        <li>Sharp AMOLED display</li>
+        <li>Much improved performance over last year</li>
+        <li>Affordable</li>
       </ul>
      </td>
      <td class = "content-right r-bor">
@@ -562,12 +562,12 @@ Untethered built in GPS is convenient for people who wish to keep their phones a
    </tr>
    <tr>
      <td class = "content-left">
-      <ul>
-        <li>✅Lightweight, durable design</li>
-        <li>✅Crisp OLED display</li>
-        <li>✅Rotating crown with two customizable buttons</li>
-        <li>✅Decently priced</li>
-        <li>✅GPS, heart rate sensor, NFC</li>
+      <ul id="protick">
+        <li>Lightweight, durable design</li>
+        <li>Crisp OLED display</li>
+        <li>Rotating crown with two customizable buttons</li>
+        <li>Decently priced</li>
+        <li>GPS, heart rate sensor, NFC</li>
       </ul>
      </td>
      <td class = "content-right r-bor">
@@ -616,11 +616,11 @@ The “Choose your looks" App helps you pick the right watch face from a variety
    </tr>
    <tr>
      <td class = "content-left">
-      <ul>
-        <li>✅Great updated design</li>
-        <li>✅NFC for mobile payments</li>
-        <li>✅Swim-proof body</li>
-        <li>✅Heart rate sensor and GPS</li>
+      <ul id="protick">
+        <li>Great updated design</li>
+        <li>NFC for mobile payments</li>
+        <li>Swim-proof body</li>
+        <li>Heart rate sensor and GPS</li>
       </ul>
      </td>
      <td class = "content-right r-bor">

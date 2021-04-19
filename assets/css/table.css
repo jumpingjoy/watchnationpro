@@ -99,7 +99,7 @@
 			.tooltip:hover .tooltiptext {
   			visibility: visible;
 			}
-      #prolistimage {
+      #protick {
         line-height: 1.5em;
         list-style-image: url(/uploads/protick.png);
       }
