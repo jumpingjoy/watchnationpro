@@ -266,11 +266,11 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
       </ul>
      </td>
      <td class = "content-right r-bor">
-     <ul>
-       <li>❌Spo2 reading can be improved</li>
-       <li>❌Expensive</li>
-       <li>❌Sleep tracking is basic</li>
-       <li>❌No third-party watch faces</li>
+     <ul id="consx">
+       <li>Spo2 reading can be improved</li>
+       <li>Expensive</li>
+       <li>Sleep tracking is basic</li>
+       <li>No third-party watch faces</li>
      </ul>
      </td>
    </tr>
@@ -335,10 +335,10 @@ Along with built in GPS, activity tracking, heart rate tracking monitors, ECG mo
       </ul>
      </td>
      <td class = "content-right r-bor">
-      <ul>
-        <li>❌Slow to charge, no fast charging</li>
-        <li>❌Poor selection of third-party apps</li>
-        <li>❌Unreliable blood oxygen measurement</li>
+      <ul id="consx">
+        <li>Slow to charge, no fast charging</li>
+        <li>Poor selection of third-party apps</li>
+        <li>Unreliable blood oxygen measurement</li>
       </ul>
      </td>
    </tr>
@@ -401,9 +401,9 @@ The built in GPS tracking of <a href="https://www.watchnationpro.com/garmin-venu
        </ul>
       </td>
       <td class = "content-right r-bor">
-       <ul>
-         <li>❌Touchscreen can be finicky</li>
-         <li>❌High price</li>
+       <ul id="consx">
+         <li>Touchscreen can be finicky</li>
+         <li>High price</li>
        </ul>
       </td>
     </tr>
@@ -460,10 +460,10 @@ The GPS tracking helps you track gps location on your runs and travels. It's a w
       </ul>
      </td>
      <td class = "content-right r-bor">
-      <ul>
-        <li>❌Bad inductive button</li>
-        <li>❌EDA and ECG sensors needs refining</li>
-        <li>❌Fitbit OS still needs work</li>
+      <ul id="consx">
+        <li>Bad inductive button</li>
+        <li>EDA and ECG sensors needs refining</li>
+        <li>Fitbit OS still needs work</li>
       </ul>
      </td>
    </tr>
@@ -513,13 +513,13 @@ As it has 5 ATM water resistance, Swimming and swim tracking is another option y
       </ul>
      </td>
      <td class = "content-right r-bor">
-      <ul>
-        <li>❌Limited third-party app support with Huawei Health</li>
-        <li>❌Large footprint on wrist</li>
-        <li>❌No Qi charging</li>
-        <li>❌No NFC outside of China</li>
-        <li>❌Limited software functionality</li>
-        <li>❌Erratic heart rate sensor</li>
+      <ul id="consx">
+        <li>Limited third-party app support with Huawei Health</li>
+        <li>Large footprint on wrist</li>
+        <li>No Qi charging</li>
+        <li>No NFC outside of China</li>
+        <li>Limited software functionality</li>
+        <li>Erratic heart rate sensor</li>
       </ul>
      </td>
    </tr>
@@ -571,11 +571,11 @@ Untethered built in GPS is convenient for people who wish to keep their phones a
       </ul>
      </td>
      <td class = "content-right r-bor">
-      <ul>
-        <li>❌Performance can be laggy</li>
-        <li>❌Wear OS has its fair share of bugs</li>
-        <li>❌Battery life is still just okay</li>
-        <li>❌Heart rate sensor could be more accurate</li>
+      <ul id="consx">
+        <li>Performance can be laggy</li>
+        <li>Wear OS has its fair share of bugs</li>
+        <li>Battery life is still just okay</li>
+        <li>Heart rate sensor could be more accurate</li>
       </ul>
      </td>
    </tr>
@@ -624,10 +624,10 @@ The “Choose your looks" App helps you pick the right watch face from a variety
       </ul>
      </td>
      <td class = "content-right r-bor">
-      <ul>
-        <li>❌New button is questionable design update</li>
-        <li>❌Snapdragon 2100</li>
-        <li>❌Likely short battery life</li>
+      <ul id="consx">
+        <li>New button is questionable design update</li>
+        <li>Snapdragon 2100</li>
+        <li>Likely short battery life</li>
       </ul>
      </td>
    </tr>
