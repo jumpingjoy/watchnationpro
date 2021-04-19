@@ -226,14 +226,13 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
 <b>Pricing</b>
 <div class="w3-light-grey"><div class="w3-container w3-orange" style="width:70%">7.0 Rating</div></div>
 <b>Design</b>
-<div class="w3-light-grey"><div class="w3-container w3-green" style="width:75%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 <b>Comfortness</b>
-<div class="w3-light-grey"><div class="w3-container w3-green" style="width:75%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 <b>Battery</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 <b>After Sales Customer Support</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
-<br>
 
 <div class = "scroll">
  <table>
