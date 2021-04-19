@@ -427,6 +427,17 @@ Fitbit Sense consists of advanced fitness tracker  when compared to Fitbit versa
 
 The GPS tracking helps you track gps location on your runs and travels. It's a waterproof model that allows you to swim.
 
+<b>Pricing</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
+<b>Design</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
+<b>Comfortness</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
+<b>Battery</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
+<b>After Sales Customer Support</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
+
 <div class = "scroll">
  <table>
    <tr>
@@ -480,6 +491,17 @@ The GPS tracking helps you track gps location on your runs and travels. It's a w
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnphuaweigt2" blank="true" %}
 
 As it has 5 ATM water resistance, Swimming and swim tracking is another option you can enjoy with this watch. Above all, this model is greatly praised for its battery life (around two weeks of battery life).
+
+<b>Pricing</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
+<b>Design</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
+<b>Comfortness</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:70%">7.0 Rating</div></div>
+<b>Battery</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:100%">10.0 Rating</div></div>
+<b>After Sales Customer Support</b>
+<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:60%">6.0 Rating</div></div>
 
 <div class = "scroll">
  <table>
@@ -539,6 +561,17 @@ Fossil Sport runs on Wear OS and provides smartphone notifications and alerts li
 
 Untethered built in GPS is convenient for people who wish to keep their phones at home and involve in running, cycling or any other travelling activity. The GPS feature works accurately. The fitness features like activity tracking, swim-proof, heart rate monitor is worth mentioning of Fossil Sport. The performance of heart rate sensor monitor in Fossil Sport is moderate.
 
+<b>Pricing</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
+<b>Design</b>
+<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:70%">7.0 Rating</div></div>
+<b>Comfortness</b>
+<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:70%">7.0 Rating</div></div>
+<b>Battery</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:60%">6.0 Rating</div></div>
+<b>After Sales Customer Support</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
+
 <div class = "scroll">
  <table>
    <tr>
@@ -592,6 +625,17 @@ Untethered built in GPS is convenient for people who wish to keep their phones a
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpkatespade" blank="true" %}
 
 The “Choose your looks" App helps you pick the right watch face from a variety of watch faces that matches women best clothes and accessories. NFC for Google pay is a notable one. Kate Spade Scallop has ambient light sensor which adjusts the brightness, and has decent battery life.
+
+<b>Pricing</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
+<b>Design</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
+<b>Comfortness</b>
+<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:70%">7.0 Rating</div></div>
+<b>Battery</b>
+<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:50%">5.0 Rating</div></div>
+<b>After Sales Customer Support</b>
+<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:40%">4.0 Rating</div></div>
 
 <div class = "scroll">
  <table>
