@@ -93,10 +93,10 @@ While there are many great smartwatches for women currently on the market, no ot
      <td class = "content-left">
      <b>Apple Watch Series 6</b>
       {% include image.html img="apple-watch-series-6.webp" align="center" %}
+      {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Overall Performance Watch
-       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
      </td>
    </tr>
  </table>
