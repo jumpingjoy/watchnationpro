@@ -69,39 +69,6 @@ schemadotorg:
 
 While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6 - the top seller among <a href= "https://www.watchnationpro.com/">best smartwatches for women</a>.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
 
-<div class = "scroll">
- <table>
-   <tr>
-     <th colspan = "2" class = "top">
-       Best Smartwatches for Women
-     </th>
-   </tr>
-   <colgroup>
-   <col span="1" style="width: 30%;">
-   <col span="1" style="width: 30%;">
-   </colgroup>
-   <tbody>
-   <tr>
-     <td class = "left">
-       Product
-     </td>
-     <td class = "right r-bor">
-       Category
-     </td>
-   </tr>
-   <tr>
-     <td class = "content-left">
-     <b>Apple Watch Series 6</b>
-      {% include image.html img="apple-watch-series-6.webp" align="center" %}
-      {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
-     </td>
-     <td class = "content-right r-bor">
-       Best Overall Performance Watch
-     </td>
-   </tr>
- </table>
- </div>
-
 ## What are the Key Features of Apple Watch Series 6 and its Performance?
 
 <div class = "scroll">
