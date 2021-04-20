@@ -69,6 +69,39 @@ schemadotorg:
 
 While there are many great smartwatches for women currently on the market, no other brand has been ranked as the number one smartwatch as often as the Apple Watch Series 6 - the top seller among <a href= "https://www.watchnationpro.com/">best smartwatches for women</a>.  In 9 of 10 of the online reviews available, Apple Watch Series 6 comes out on top.
 
+<div class = "scroll">
+ <table>
+   <tr>
+     <th colspan = "2" class = "top">
+       Best Smartwatches for Women
+     </th>
+   </tr>
+   <colgroup>
+   <col span="1" style="width: 30%;">
+   <col span="1" style="width: 30%;">
+   </colgroup>
+   <tbody>
+   <tr>
+     <td class = "left">
+       Product
+     </td>
+     <td class = "right r-bor">
+       Category
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+     <b>Apple Watch Series 6</b>
+      {% include image.html img="apple-watch-series-6.webp" align="center" %}
+     </td>
+     <td class = "content-right r-bor">
+       Best Overall Performance Watch
+       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+     </td>
+   </tr>
+ </table>
+ </div>
+
 ## What are the Key Features of Apple Watch Series 6 and its Performance?
 
 <div class = "scroll">
@@ -229,14 +262,14 @@ Apple watch series 6 is compatible with iPhone 6s or later versions and with iOS
 
 #### How effectively is the connectivity of Apple watch series 6 work?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Connectivity Performance - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 4G connection from eSIM or WiFi is very reliable. LTE performance is too good experimentally. Bluetooth earphones can be paired when being outdoors for attending and initiating calls and listening to music. To sync and pair Apple Watch with iPhone, use the Apple Watch app, downloaded from the App Store app on iPhone. By pairing the watch with iPhone through this app, users can customize watch faces, notifications, and alerts, more apps' on watch data in iPhone.
 
 #### How is the battery life of Apple watch series 6 work?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Battery Life Performance - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 - **Always-on display enabled:** Close to two full days on one charge.
@@ -257,14 +290,14 @@ We can look at the smart features that are used very frequently in a smartwatch.
 
 #### How is the display screen browsing and scrolling experience in the Apple watch series 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Browsing/Scrolling Functions - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 Crown lets you zoom-in and zoom-out. You can scroll manually by dragging a finger on the screen. You can swipe left, right, up, and down to see different screens.
 
 #### How does the clock function work in Apple watch 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Clock Functions - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 Apple watch series 6 comes with a variety of watch faces. Each watch's faces can be customized too. The watch face displays time, metrics of different activities, and other details on the home screen.
@@ -287,14 +320,14 @@ Apart from this watch face, I would like to mention some more watch faces you ca
 
 #### How does finding watch/phone work in Apple watch 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Finding Watch/Phone Function - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 Find My Phone feature is available in the Apple Watch Series 6. If you have paired your iPhone with an Apple watch, You can find your phone using the "Find My Phone" feature. The same does for the watch also if the watch is lost.
 
 #### How good is audio calls/recording quality in Apple watch 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Audio Call Functions - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 In-built LTE allows to initiate calls from the watch, and the call quality is top-notch. You can control the volume of the smartphone music using this watch.
@@ -305,21 +338,21 @@ Apples Watch models touch response is so comfortable for handling incoming calls
 
 #### How is the video call or video recording quality of the Apple watch 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Video Call Function - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 If your iPhone is paired with a watch, you can receive or make video calls to any device. The video quality depends upon the speed of the WiFi connection.
 
 #### How easy is it to access notifications in the Apple watch series 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Access Notification Function - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 We found it very easy to access notifications. Press and hold on the watch face; it will take you to the notification center. Swipe down to see all the notifications. You can read a notification wholly by swiping left. You can see the "more" button. Tap it to read the notification thoroughly. Haptic function vibrates, and sounds you can easily hear.
 
 #### How easy to type and send messages and alerts in Apple watch 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Ease of Sending Messages/Alerts - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 In messaging, no other watches can beat the Apple Watch till now. Yes. Lot of options to reply and send messages. You can see the messages from notifications. Use the digital crown to see the full message. To reply, You can send a phrase from a set of phrases that are saved earlier and customizable in the Apple Watch app in the paired iPhone. Otherwise, you can use the audio option in two ways. If you want to send a personalized message, unlike standard phrases, use the audio button to tell your message, and it will be automatically transcribed into the selected languages. You can set the languages in the settings. Punctuation marks can also be dictated.
@@ -330,14 +363,14 @@ Use the mike button and record your reply and send it directly. One more option 
 
 #### How good is the GPS Navigation Feature in the Apple Watch series 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>GPS Navigation Performance - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 GPS does not require standing around to lock-on is amazing. If you switch on GPS, the battery life struggles to last a whole marathon if you don’t turn something off. Also, if you are taking your iPhone out for running or cycling, the Apple Watch uses the smartphone’s GPS to save battery, which can have accuracy issues.
 
 #### How good is the payment feature in the Apple Watch series 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Payment Functions - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 The apple's new payment feature enables you to make payment you without using your card or mobile for payments.
@@ -356,14 +389,14 @@ We can have a look at the safety; emergency tracking features in Apple Watch Ser
 
 #### How well does fall detection work in Apple watch series 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Fall detection Performance - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 The hard fall feature is available from the Apple watch series 4. Apple watch series 6 also has a hard fall detector. When it finds a hard fall, It sends alerts, activates an alarm, taps you on the wrist. If there is some movement in your body, it will show you emergency services to contact. If there is no movement, it will automatically connect to emergency services. Otherwise, you can tap on “I’m OK” or tap on close in the left-corner or dismiss the alert using a digital crown.
 
 #### How does emergency SOS safety feature work in Apple watch series 6
 
-<b>Hardware Performance - Our Rating</b>
+<b>Emergency SOS/Safety Features - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 The emergency slider is available for help in any danger. Press the side button and one of the volume buttons to get the emergency slider. You can reach emergency services by dragging the emergency SOS slider.
@@ -374,28 +407,28 @@ The emergency slider is available for help in any danger. Press the side button 
 
 #### How good is menstrual Tracking in Apple watch series 6?
 
-<b>Hardware Performance - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<b>Menstrual Tracking Performance - Our Rating</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 Menstrual tracking is an important health feature for women. You can turn on the periods prediction, fertility prediction in your Apple health app. You can receive notifications on your watch about upcoming periods in the Apple health app. For tracking purpose, you can log your daily information on the health app such as any symptoms, mood swing, etc.,
 
 #### How good is Heart rate tracking in Apple watch series 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Heart Rate Tracking Performance - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 Using the Heart rate app, you can measure your heart rate at any time. You can get to know resting, workout, breathe, walking, and recovery rates throughout the day in the app. However, turn on heart rate notifications, so if your heart’s beats per minute (BPM) are below or above the normal count, a push notification will be given to alert you.
 
 #### How well is body stress monitored in Apple watch series 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Body Stress Monitoring Performance - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 Stress monitoring features detect whether the person wearing this watch is going through any stress or a panic attack. If so, it will suggest some breathing exercises and other guidance according to the stress level monitored.
 
 #### How good is oxygen absorption Tracking in Apple watch series 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Oxygen Absorption Tracking Performance - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 Blood oxygen monitoring is a new feature for Apple in Apple Watch 6 for the first time. An optical heart sensor has been redesigned to measure your blood oxygen and display in blood oxygen app. However, the blood oxygen monitoring calculated can’t be used for medical use but fitness and wellness purposes.
@@ -404,14 +437,14 @@ You must update your iPhone’s later version of iOS and also Apple watch 6 to t
 
 #### How well is sleep monitored in Apple watch series 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Sleep Monitoring Performance - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 The sleep tracking feature available in apple watch 6 analyses and records your sleeping patterns. The sleep app is connected with the Clock, which has settings of bedtime (customizable). This feature monitors your sleep tracking if you wear it during sleep that helps in treatment of sleep related diseases like sleep apnea. The app shows results such as average sleep time, bedtime. You can see a bar graph that displays the sleep tracking data for a week or month. The light green marks in the graph show bedtimes, and dark green marks indicate sleep times. However, it does not provide any other advanced sleep tracking info such as sleep stages such as light sleep, REM sleep, Deep sleep, time taken for each stage, etc. In this case, the Apple watch has to improve the sleep tracking feature considerably.
 
 #### How well are the steps counted in the Apple watch series 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Steps Counter Performance - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 The activity app counts the steps. You can access this feature easily through the rolling digital crown. It will take you to the activity app.  you can see the step count by scrolling down using the same digital crown.
@@ -422,8 +455,8 @@ The activity app counts the steps. You can access this feature easily through th
 
 #### How well are gym activities tracked in Apple watch series 6?
 
-<b>Hardware Performance - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<b>Gym Activities Tracking Performance - Our Rating</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 You can use the Workout app present in apple watches for all kinds of exercise, indoor and outdoor. The default workouts available in Apple watches are Walk, Running, Cycling, Elliptical, Rower, Stair Stepper, HIIT, Hiking, Yoga, Functional Strength Training, Dance, Cooldown, Core training, Swimming, etc. You can also add custom workout profiles manually as per your interest and needs. GPS is useful for outdoor gym activities.
 
@@ -436,14 +469,14 @@ If you are using a wheelchair manually, you can use wheelchair walk pace and out
 
 #### How well the running Activity is monitored on Apple watch series 6?
 
-<b>Performance during Running - Our Rating</b>
+<b>Running Activity Tracker Performance - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:80%">8.0 Rating</div></div>
 
 There is an option for indoor runs such as treadmill run and outdoor run options to specify metrics based on that. While running, blood oxygen level is a common fitness parameter that must be measured frequently for runners and find ways to maintain blood oxygen saturation level at periodic intervals.
 
 #### How good is the Auto/Manual Lap in Apple watch series 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Lap Counter/Tracker Performance - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:70%">7.0 Rating</div></div>
 
 You can add a lap in any workout by tapping double time on the screen. While tapping double time on the screen, you can get the segment summary on the screen metrics such as each lap or distance.
@@ -457,49 +490,49 @@ Auto-scrolling is not available in Apple Watch Series 6. You can use the digital
 
 #### How well activity history is saved in Apple watch series 6?
 
-<b>Performance of Activity History Functions - Our Rating</b>
+<b>Activity History Save Functions - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 Yes. In the Fitness App, You can see the activity data and details of the current day.
 
 #### How well can the training data be customized in the Apple watch series 6?
 
-<b>Hardware Performance - Our Rating</b>
+<b>Traing Data Customization Functions - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 Yes. In the workout of watch app on your iPhone, you can customize by tapping on “Customize” to edit.
 
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
 
-### Apple watch series 6 Review: Sports Activity Tracking
+### Apple watch series 6 Review: Athletic Sports Activity Tracking
 
 {% include image.html img="sports-activity-tracking-women.webp" alt="Alt for image" caption="sports-activity-tracking-women" align="center" %}
 
 #### How well the running Activity is monitored in Apple watch series 6?
 
-<b>Performance During Running - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<b> Athletic Running Tracking Performance - Our Rating</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 There is an option for indoor runs such as treadmill run and outdoor run options to specify metrics based on that. Even though blood oxygen level is a common fitness tool, it is very helpful to runners, too, specifically.
 
 #### How well the cycling activity is monitored in Apple watch series 6?
 
-<b>Performance During Cycling - Our Rating</b>
+<b>Athletic Cycling Tracking Performance - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 Cycling mode in the fitness tracker enables you to track cycling activity data such as distance, speed, heart rate, and cool-down heart rate even after the Activity ends. Overall the functions are pretty basic only.
 
 #### How well the swimming activity is tracked in the Apple watch series 6?
 
-<b>Performance During Swimming- Our Rating</b>
+<b>Athletic Swimming Tracking Performance - Our Rating</b>
 <div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
 
 Under ISO standard, a water resistance rating of 50 meters is guaranteed. So you can take it not only for the pool even for ocean swimming too. Please check Water Lock before getting into swimming to prevent your watch touch screen’s activation. If you have selected swim mode, it automatically activates Watch Lock.
 
 #### How well the outdoor activities can be tracked in the Apple watch series 6?
 
-<b>Performance at Ourdoor activities - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<b>Outdoor Activities Tracking Performance - Our Rating</b>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 Features such as Barometer, always-ON Altimeter, Emergency charging, Daylight tracking, Rugged Strap, Weather, Compass, Follow routes are very helpful in outdoor activities such as hiking, mountaineering, biking, etc.
 
