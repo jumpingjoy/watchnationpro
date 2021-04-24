@@ -44,14 +44,14 @@
       /*css for right column of 2nd row start here. code between .right{} ar discuss in comments below */
       .right{
           text-align:center;
-          background-color:#4A90E2;
+          background-color:#fbaf36;
           padding-top:10px;
           padding-bottom:10px;
       }
       /*css for middle column or column between left and right of 2nd row start here. code between .middle {} ar discuss in comments below */
       .middle {
           text-align:center;
-          background-color:#4A90E2;
+          background-color:#fbaf36;
           padding-top:10px;
           padding-bottom:10px;
       }

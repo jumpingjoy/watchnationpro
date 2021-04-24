@@ -7,7 +7,7 @@
 }
 #button { /* this is css of button */
           background-color: #F9F9F9;
-          color: #4A90E2;
+          color: #fbaf36;
           cursor: pointer;
           padding: 10px;
           width: 250px;
@@ -22,6 +22,6 @@
       width:325px;
         }
   .ToC_link { /* Css of link tag */
-            color: #4A90E2;
+            color: #fbaf36;
             text-decoration: none;
         }
