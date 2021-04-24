@@ -1,87 +1,6 @@
 ---
 title: What is the Best Smartwatches for Women and girls? Reviews, Ratings & Buying Guide
 sidebar: right
-description: Find Out Which is the BEST Smartwatches for Women and girls on the market in 2021. See Which Ones Have FREE...shipping. Womens smartwatch helps ladies be better at family, work, health, sports, and smartwatch apps. But, not all are designed the same. We've reviewed and found that...
-schemadotorg:
-- "@context": https://schema.org
-  "@graph":
-  - "@type": Organization
-    "@id": https://watchnationpro.com/#organization
-    url: https://watchnationpro.com/
-    name: WatchNationPro
-    sameAs: []
-  - "@type": WebSite
-    "@id": https://watchnationpro.com/#website
-    url: https://watchnationpro.com/
-    name: WatchNationPro
-    publisher:
-      "@id": https://watchnationpro.com/#organization
-  - "@type": WebPage
-    "@id": https://watchnationpro.com/#webpage
-    url: https://watchnationpro.com/
-    inLanguage: en-US
-    name: 'What is the Best Smartwatches for Women and girls? Reviews, Ratings & Buying Guide'
-    keywords: ["smartwatch for women", "smartwatch for ladies"]
-    isPartOf:
-      "@id": https://watchnationpro.com/#website
-    breadcrumb:
-      "@id": https://watchnationpro.com/#breadcrumblist
-    description: Find Out Which is the BEST Smartwatches for Women and girls on the market in 2021. See Which Ones Have FREE...shipping. Womens smartwatch helps ladies be better at family, work, health, sports, and smartwatch apps. But, not all are designed the same. We've reviewed and found that...
-    datePublished: '2021-12-28T12:01:19+00:00'
-    dateModified: '2021-05-07T04:28:43+00:00'
-  - "@type": BreadcrumbList
-    "@id": https://watchnationpro.com/#breadcrumblist
-    itemListElement:
-    - "@type": ListItem
-      position: 1
-      item:
-        "@type": WebPage
-        "@id": https://watchnationpro.com/#webpage
-        url: https://watchnationpro.com/
-        name: WatchNationPro
-    - "@type": ListItem
-      position: 2
-      item:
-        "@type": WebPage
-        "@id": https://watchnationpro.com/#webpage
-        url: https://watchnationpro.com/
-        name: 'Apple Watch Series 6 Review vs SE vs 3'
-- "@context": http://schema.org
-  "@type": ItemList
-  name: What's the Best Smartwatches for Women and girls? Reviews, Ratings & Buying Guide
-  description: Find Out Which is the BEST Smartwatches for Women and girls on the market in 2021. See Which Ones Have FREE...shipping. Womens smartwatch helps ladies be better at family, work, health, sports, and smartwatch apps. But, not all are designed the same. We've reviewed and found that...
-  itemListElement:
-  - "@type": ListItem
-    position: 1
-    item:
-      "@type": Product
-      name: Apple Watch Series 6
-      url: https://www.watchnationpro.com/apple-watch-series-6-review/
-  - "@type": ListItem
-    position: 2
-    item:
-      "@type": Product
-      name: Samsung Watch Active 3
-      url: https://www.watchnationpro.com/samsung-galaxy-watch-3-review/
-  - "@type": ListItem
-    position: 3
-    item:
-      "@type": Product
-      name: Garmin Venu
-      url: https://www.watchnationpro.com/garmin-venu-review/
-  - "@type": ListItem
-    position: 4
-    item:
-      "@type": Product
-      name: Fitbit Sense
-      url: https://www.watchnationpro.com/fitbit-sense-review/
-  - "@type": ListItem
-    position: 5
-    item:
-      "@type": Product
-      name: Huawei GT 2
-      url: https://www.watchnationpro.com/huawei-gt-2-review/
-
 ---
 <div class = "scroll">
  <table>
@@ -202,3 +121,155 @@ schemadotorg:
  </ul>
  [/su_list][/su_box][/su_column]
  [/su_row]
+
+
+
+###tablw 2
+<!-- read all the comment. it will help you to add column your self-->
+<div class = "scroll">
+<!-- scroll class is for the scroll bar and the scroll effect. if don't want this feature you can remove the "class = "scroll. and to to css and find .scroll. there also have some comments how you remove scroll."" -->
+<table>
+
+
+    <tr><!-- this is the row for title of your table. i is a single column.read the second comment -->
+        <th colspan = "3" class = "top">
+            some title
+        </th>
+        <!-- when you add extra column you have to change colspan here. like you can see colspan = 3 here because there have 3 column. when you and one more column colspan will be 4. on last table where there is 2 column calspan was 2 -->
+    </tr>
+
+
+
+  <colgroup>
+  <col span="1" style="width: 100px;"><!-- for left column -->
+  <col span="1" style="width: 100px;"><!-- for second column -->
+  <col span="1" style="width: 150px;"><!-- for right column -->
+  </colgroup>
+  <!-- i change the measurement to px from %. so that you can change the width freely. you can also follow  the next comment  method. also read the next comment. i mention there how you add extra column  -->
+
+  <!-- this is for the width of column. you can change the size of column from here. total width will be 100%. like here 30%+ 30%+ 40%= 100%. you can change the width of column as you want. when you want to add a extra column copy "<col span="1" style="width: %;">" and past in middel of <colgroup></colgroup>. put <col "span="1" style="width: %;">" before the laft <col>. by this you can create a new column before the last column. -->
+
+
+
+    <tbody>
+    <tr><!-- this row is for the title of column -->
+        <td class = "left"> <!--left column of title-->
+            some title
+        </td>
+        <td class = "middle"><!-- middle column of title. when you add new column copy
+  the  "<td  class="middle">...</td>"
+  tag and past in before right or left tag. read next comments  -->
+            some title
+        </td>
+        <td class = "right r-bor"><!-- right column of title -->
+            some title
+        </td>
+    </tr>
+
+
+
+    <tr><!-- this is the 3rd row which is one is occupied all the column. when you add a new column change the colspan like i say in 2nd commemt.read next comment. -->
+        <td class = "row3 r-bor" colspan="3">
+        some title
+        </td>
+    </tr>
+
+
+    <tr><!-- row of Rating Reference -->
+        <td class = "content-left"><!-- left column-->
+            <div align = "right">
+                <p class = "tip tooltip">
+                    ?
+                    <span class = "tooltiptext">
+                        put you tip here
+                    </span>
+                </p>
+            </div>
+        </td>
+        <td class = "content-middle"><!-- middle column. when you add new column copy
+  the  "<td  class="content-middle">...</td>"
+  tag and past in before right or left tag. same for rest of the row. -->
+            middle column
+        </td>
+        <td class = "content-right r-bor"><!-- right column-->
+            Rating Reference: <br/>
+            Our rating:<br/>
+            &#9733;&#9733;&#9733;&#9733;&#9733; &#124; &#128526;
+            </br>
+            &#9733;&#9733;&#9733;&#9733;&#9734; &#124; &#128578;
+            </br>
+            &#9733;&#9733;&#9733;&#9734;&#9734; &#124; &#128528
+            </br>
+            &#9733;&#9733;&#9734;&#9734;&#9734; &#124; &#128543;
+            </br>
+            &#9733;&#9734;&#9734;&#9734;&#9734; &#124; &#128557;
+        </td>
+    </tr>
+
+
+
+    <tr>
+        <td class = "content-left">
+        left colum
+            <div align = "right">
+                <p class = "tip tooltip">
+                    ?
+                    <span class = "tooltiptext">
+                        put you tip here
+                    </span>
+                </p>
+            </div>
+        </td>
+        <td class = "content-middle">
+            middle column
+        </td>
+        <td class = "content-right r-bor">
+            right colum
+        </td>
+    </tr>
+
+
+
+    <tr>
+        <td class = "content-left">
+            left colum
+            <div align = "right">
+                <p class = "tip tooltip">
+                    ?
+                    <span class = "tooltiptext">
+                        put you tip here
+                    </span>
+                </p>
+            </div>
+        </td>
+        <td class = "content-middle">
+            middle column
+        </td>
+        <td class = "content-right r-bor">
+            right colum
+        </td>
+    </tr>
+
+
+    <tr>
+        <td class = "content-left">
+            left colum
+            <div align = "right">
+                <p class = "tip tooltip">
+                    ?
+                    <span class = "tooltiptext">
+                        put you tip here
+                    </span>
+                </p>
+            </div>
+        </td>
+        <td class = "content-middle">
+            middle column
+        </td>
+        <td class = "content-right r-bor">
+            right colum
+        </td>
+    </tr>
+    </tbody>
+</table>
+</div>

@@ -265,7 +265,7 @@ Crown lets you zoom-in and zoom-out. You can scroll manually by dragging a finge
 #### How does the clock function work in Apple watch 6?
 
 <b>Clock Functions - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 Apple watch series 6 comes with a variety of watch faces. Each watch's faces can be customized too. The watch face displays time, metrics of different activities, and other details on the home screen.
 For example, the Activity analog watch face shows the Activity progress and the analog watch in the display.
@@ -288,14 +288,14 @@ Apart from this watch face, I would like to mention some more watch faces you ca
 #### How does finding watch/phone work in Apple watch 6?
 
 <b>Finding Watch/Phone Function - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 Find My Phone feature is available in the Apple Watch Series 6. If you have paired your iPhone with an Apple watch, You can find your phone using the "Find My Phone" feature. The same does for the watch also if the watch is lost.
 
 #### How good is audio calls/recording quality in Apple watch 6?
 
 <b>Audio Call Functions - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 In-built LTE allows to initiate calls from the watch, and the call quality is top-notch. You can control the volume of the smartphone music using this watch.
 
@@ -306,21 +306,21 @@ Apples Watch models touch response is so comfortable for handling incoming calls
 #### How is the video call or video recording quality of the Apple watch 6?
 
 <b>Video Call Function - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 If your iPhone is paired with a watch, you can receive or make video calls to any device. The video quality depends upon the speed of the WiFi connection.
 
 #### How easy is it to access notifications in the Apple watch series 6?
 
 <b>Access Notification Function - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 We found it very easy to access notifications. Press and hold on the watch face; it will take you to the notification center. Swipe down to see all the notifications. You can read a notification wholly by swiping left. You can see the "more" button. Tap it to read the notification thoroughly. Haptic function vibrates, and sounds you can easily hear.
 
 #### How easy to type and send messages and alerts in Apple watch 6?
 
 <b>Ease of Sending Messages/Alerts - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 In messaging, no other watches can beat the Apple Watch till now. Yes. Lot of options to reply and send messages. You can see the messages from notifications. Use the digital crown to see the full message. To reply, You can send a phrase from a set of phrases that are saved earlier and customizable in the Apple Watch app in the paired iPhone. Otherwise, you can use the audio option in two ways. If you want to send a personalized message, unlike standard phrases, use the audio button to tell your message, and it will be automatically transcribed into the selected languages. You can set the languages in the settings. Punctuation marks can also be dictated.
 
@@ -331,14 +331,14 @@ Use the mike button and record your reply and send it directly. One more option 
 #### How good is the GPS Navigation Feature in the Apple Watch series 6?
 
 <b>GPS Navigation Performance - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 GPS does not require standing around to lock-on is amazing. If you switch on GPS, the battery life struggles to last a whole marathon if you don’t turn something off. Also, if you are taking your iPhone out for running or cycling, the Apple Watch uses the smartphone’s GPS to save battery, which can have accuracy issues.
 
 #### How good is the payment feature in the Apple Watch series 6?
 
 <b>Payment Functions - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 The apple's new payment feature enables you to make payment you without using your card or mobile for payments.
 
@@ -357,14 +357,14 @@ We can have a look at the safety; emergency tracking features in Apple Watch Ser
 #### How well does fall detection work in Apple watch series 6?
 
 <b>Fall detection Performance - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 The hard fall feature is available from the Apple watch series 4. Apple watch series 6 also has a hard fall detector. When it finds a hard fall, It sends alerts, activates an alarm, taps you on the wrist. If there is some movement in your body, it will show you emergency services to contact. If there is no movement, it will automatically connect to emergency services. Otherwise, you can tap on “I’m OK” or tap on close in the left-corner or dismiss the alert using a digital crown.
 
 #### How does emergency SOS safety feature work in Apple watch series 6
 
 <b>Emergency SOS/Safety Features - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 The emergency slider is available for help in any danger. Press the side button and one of the volume buttons to get the emergency slider. You can reach emergency services by dragging the emergency SOS slider.
 
@@ -382,21 +382,21 @@ Menstrual tracking is an important health feature for women. You can turn on the
 #### How good is Heart rate tracking in Apple watch series 6?
 
 <b>Heart Rate Tracking Performance - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 Using the Heart rate app, you can measure your heart rate at any time. You can get to know resting, workout, breathe, walking, and recovery rates throughout the day in the app. However, turn on heart rate notifications, so if your heart’s beats per minute (BPM) are below or above the normal count, a push notification will be given to alert you.
 
 #### How well is body stress monitored in Apple watch series 6?
 
 <b>Body Stress Monitoring Performance - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 Stress monitoring features detect whether the person wearing this watch is going through any stress or a panic attack. If so, it will suggest some breathing exercises and other guidance according to the stress level monitored.
 
 #### How good is oxygen absorption Tracking in Apple watch series 6?
 
 <b>Oxygen Absorption Tracking Performance - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 Blood oxygen monitoring is a new feature for Apple in Apple Watch 6 for the first time. An optical heart sensor has been redesigned to measure your blood oxygen and display in blood oxygen app. However, the blood oxygen monitoring calculated can’t be used for medical use but fitness and wellness purposes.
 
@@ -405,14 +405,14 @@ You must update your iPhone’s later version of iOS and also Apple watch 6 to t
 #### How well is sleep monitored in Apple watch series 6?
 
 <b>Sleep Monitoring Performance - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 The sleep tracking feature available in apple watch 6 analyses and records your sleeping patterns. The sleep app is connected with the Clock, which has settings of bedtime (customizable). This feature monitors your sleep tracking if you wear it during sleep that helps in treatment of sleep related diseases like sleep apnea. The app shows results such as average sleep time, bedtime. You can see a bar graph that displays the sleep tracking data for a week or month. The light green marks in the graph show bedtimes, and dark green marks indicate sleep times. However, it does not provide any other advanced sleep tracking info such as sleep stages such as light sleep, REM sleep, Deep sleep, time taken for each stage, etc. In this case, the Apple watch has to improve the sleep tracking feature considerably.
 
 #### How well are the steps counted in the Apple watch series 6?
 
 <b>Steps Counter Performance - Our Rating</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:90%">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
 The activity app counts the steps. You can access this feature easily through the rolling digital crown. It will take you to the activity app.  you can see the step count by scrolling down using the same digital crown.
 

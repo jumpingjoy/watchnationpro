@@ -1,109 +1,125 @@
 .scroll::-webkit-scrollbar {
-  		width: 10px;
-		}
-		.scroll::-webkit-scrollbar-track {
-  		background: #f1f1f1;
-		}
-		.scroll::-webkit-scrollbar-thumb {
-  		background: #888;
-		}
-		.scroll::-webkit-scrollbar-thumb:hover {
-  		background: #555;
-		}
-		.scroll {
-			height: 100%;
-  		width: 100%;
-  		overflow-y: scroll;
-		}
-		table {
-			width :100%;
-			border:10px solid #C3C3C3;
-			border-collapse: collapse;
-		}
-		.r-bor{
-			border-right:10px solid #C3C3C3;
-		}
-		.top {
-			text-align:left;
-			background-color:#C3C3C3;
-			padding:10px;
-		}
-		.left{
-			text-align:center;
-			background-color:#000000;
-			color:#ffffff;
-			padding-top:10px;
-			padding-bottom:10px;
-		}
-		.right{
-			text-align:center;
-			background-color:#4A90E2;
-      color:#ffffff;
-			padding-top:10px;
-			padding-bottom:10px;
-		}
-		.row2{
-			text-align:center;
-			background-color:#F5A623;
-			padding-top:10px;
-			padding-bottom:10px;
-		}
-		.content-right{
-			border-left: 1px solid #C3C3C3;
-			border-bottom: 1px solid #C3C3C3;
-			padding: 10px;
-		}
-		.content-left{
-			border-bottom: 1px solid #C3C3C3;
-			padding: 10px;
-		}
-		.tooltip{
-			position: relative;
-			display: inline-block;
-		}
-		.tip{
-	   		text-align:center;
-	   		color:#ffffff;
-	   		width:20px;
-	   		height: 20px;
-	   		background-color: #555555;
-	     border-radius:50%;
-	   }
-	   .tooltip {
-  			position: relative;
-  			display: inline-block;
-			}
-			.tooltip .tooltiptext {
-  			visibility: hidden;
-  			width: 120px;
-  			background-color: black;
-  			color: #fff;
-  			text-align: center;
-  			border-radius: 6px;
-  			padding: 5px 0;
-  			position: absolute;
-  			z-index: 1;
-  			top: -5px;
-  			left: 110%;
-			}
-			.tooltip .tooltiptext::after {
-  			content: "";
-  			position: absolute;
-  			top: 50%;
-  			right: 100%;
-  			margin-top: -5px;
-  			border-width: 5px;
-  			border-style: solid;
-  			border-color: transparent black transparent transparent;
-			}
-			.tooltip:hover .tooltiptext {
-  			visibility: visible;
-			}
-      #protick {
-        line-height: 1.5em;
-        list-style-image: url(/uploads/protick.png);
+        width: 10px;
       }
-      #consx {
-        line-height: 1.5em;
-        list-style-image: url(/uploads/consx.png);
+      .scroll::-webkit-scrollbar-track {
+        background: #f1f1f1;
       }
+      .scroll::-webkit-scrollbar-thumb {
+        background: #888;
+      }
+      .scroll::-webkit-scrollbar-thumb:hover {
+        background: #555;
+      }
+      .scroll {
+          height: 500px;
+         width: 100%;
+        overflow-y: scroll;
+      }
+      /* all the css code above is for the scrill effect and scroll bar. you can remove these code if you don't want this */
+      table {
+          width :100%;
+          border:10px solid #C3C3C3;
+          border-collapse: collapse;
+      }
+      /* above code is for table border.keed width:100%; you can change the
+       border:10px(width) solid(border style) #c3c3c3(border color); */
+      .r-bor{
+          border-right:10px solid #C3C3C3;
+      }
+      /* css for right border*/
+      /* css for top row star here. code between .top{} ar discuss in comments below */
+      .top {
+          text-align:left;
+          background-color:#C3C3C3;
+          padding:10px;
+      }
+      /*css for left column of 2nd row start here. code between .left{} ar discuss in comments below */
+      .left{
+          text-align:center;
+          background-color:#000000;
+          color:#ffffff;
+          padding-top:10px;
+          padding-bottom:10px;
+      }
+      /*css for right column of 2nd row start here. code between .right{} ar discuss in comments below */
+      .right{
+          text-align:center;
+          background-color:#4A90E2;
+          padding-top:10px;
+          padding-bottom:10px;
+      }
+      /*css for middle column or column between left and right of 2nd row start here. code between .middle {} ar discuss in comments below */
+      .middle {
+          text-align:center;
+          background-color:#4A90E2;
+          padding-top:10px;
+          padding-bottom:10px;
+      }
+      /* css for the 3rd title row start here.
+      text align for which side will be the text.padding for distant of text from border */
+      .row3{
+          text-align:right;
+          background-color:#F5A623;
+          padding:10px;
+      }
+      /* css for right content column start here. border for the narrow border-left and bottom between column and row.padding for distant of text from border*/
+      .content-right{
+          border-left: 1px solid #C3C3C3;
+          border-bottom: 1px solid #C3C3C3;
+          padding: 10px;
+      }
+      /*css for left content column left start here.text align for which side will be the text. border-bottom for the narrow border between row.padding for distant of text from border*/
+      .content-left{
+          text-align: center;
+          border-bottom: 1px solid #C3C3C3;
+          padding: 10px;
+      }
+      /* start css for middle column or column between left and right column of content row . text align for which side will be the text. border for the narrow border between column and row.padding for distant of text from border*/
+      .content-middle{
+          text-align: center;
+          border: 1px solid #C3C3C3;
+          padding: 10px;
+          }
+          /* css for tooltip start here . if you dont want tooltip you can remove rest of the css code. you also have to remove <p class ="tip tooltip> from html"  */
+      .tooltip{
+          position: relative;
+          display: inline-block;
+      }
+      .tip{
+             text-align: center;
+             color:#ffffff;
+             width:20px;
+             height: 20px;
+             background-color: #555555;
+       border-radius:50%;
+     }
+     .tooltip {
+            position: relative;
+            display: inline-block;
+          }
+          .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 120px;
+            background-color: black;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px 0;
+            position: absolute;
+            z-index: 1;
+            top: -5px;
+            left: 110%;
+          }
+          .tooltip .tooltiptext::after {
+            content: "";
+            position: absolute;
+            top: 50%;
+            right: 100%;
+            margin-top: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: transparent black transparent transparent;
+          }
+          .tooltip:hover .tooltiptext {
+            visibility: visible;
+          }
