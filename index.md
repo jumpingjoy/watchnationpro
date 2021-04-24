@@ -424,7 +424,7 @@ Fitbit Sense comes with a price tag of around $280 to $330, having bands made of
 
 Fitbit Sense consists of advanced fitness tracker  when compared to Fitbit versa 3 and Fitbit Versa 2. ECG sensor, optical heart rate monitoring sensor to track pulses, Stress monitoring app EDA are the highlights in Fitbit Sense similar to Fitbit versa series.
 
-<a href="https://www.watchnationpro.com/fitbit-sense-review">Fitbit Sense</a>has an excellent battery, around six days of battery life. The time taken to charge is less, approximately 12 minutes only. Similar to Fitbit Versa 2, it has Fitbit Pay. You can add your card details to Fitbit Pay to the Fitbit Pay app.
+<a href="https://www.watchnationpro.com/fitbit-sense-review">Fitbit Sense</a> has an excellent battery, around six days of battery life. The time taken to charge is less, approximately 12 minutes only. Similar to Fitbit Versa 2, it has Fitbit Pay. You can add your card details to Fitbit Pay to the Fitbit Pay app.
 
 The GPS tracking helps you track gps location on your runs and travels. It's a waterproof model that allows you to swim.
 
@@ -438,6 +438,7 @@ The GPS tracking helps you track gps location on your runs and travels. It's a w
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 <b>After Sales Customer Support</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
+<br>
 
 <div>
  <table>
@@ -503,6 +504,7 @@ As it has 5 ATM water resistance, Swimming and swim tracking is another option y
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:100%">10.0 Rating</div></div>
 <b>After Sales Customer Support</b>
 <div class="w3-light-grey"><div class="w3-container w3-orange" style="width:60%">6.0 Rating</div></div>
+<br>
 
 <div>
  <table>
@@ -572,6 +574,7 @@ Untethered built in GPS is convenient for people who wish to keep their phones a
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:60%">6.0 Rating</div></div>
 <b>After Sales Customer Support</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
+<br>
 
 <div>
  <table>
@@ -637,6 +640,7 @@ The “Choose your looks" App helps you pick the right watch face from a variety
 <div class="w3-light-grey"><div class="w3-container w3-orange" style="width:50%">5.0 Rating</div></div>
 <b>After Sales Customer Support</b>
 <div class="w3-light-grey"><div class="w3-container w3-orange" style="width:40%">4.0 Rating</div></div>
+<br>
 
 <div>
  <table>
