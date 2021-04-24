@@ -234,7 +234,6 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
 <b>After Sales Customer Support</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 
-<div class = "scroll">
  <table>
    <tr>
      <th colspan = "2" class = "top">
@@ -275,7 +274,6 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
    </tr>
    </tbody>
  </table>
- </div>
 
 {% include section-cta.html button_text="READ OUR FULL REVIEW HERE" button_url="/apple-watch-series-6-review/" blank="true" %}
 
