@@ -121,7 +121,7 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
 
 ​We have provided a list of the best smartwatches for women in the following table from the women's smartwatches available in the market. You can also check out our detailed best smartwatches for women reviews to buy the one that suits you today.
 
-<div class = "scroll">
+<div>
  <table>
    <tr>
      <th colspan = "2" class = "top">
@@ -233,7 +233,9 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 <b>After Sales Customer Support</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
+<br>
 
+<div>
  <table>
    <tr>
      <th colspan = "2" class = "top">
@@ -274,6 +276,7 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
    </tr>
    </tbody>
  </table>
+</div>
 
 {% include section-cta.html button_text="READ OUR FULL REVIEW HERE" button_url="/apple-watch-series-6-review/" blank="true" %}
 
@@ -302,7 +305,7 @@ Along with built in GPS, activity tracking, heart rate tracking monitors, ECG mo
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:70%">7.0 Rating</div></div>
 <br>
 
-<div class = "scroll">
+<div>
  <table>
    <tr>
      <th colspan = "2" class = "top">
@@ -365,7 +368,7 @@ The built in GPS tracking of <a href="https://www.watchnationpro.com/garmin-venu
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:70%">7.0 Rating</div></div>
 <br>
 
- <div class = "scroll">
+ <div>
   <table>
     <tr>
       <th colspan = "2" class = "top">
@@ -436,7 +439,7 @@ The GPS tracking helps you track gps location on your runs and travels. It's a w
 <b>After Sales Customer Support</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
 
-<div class = "scroll">
+<div>
  <table>
    <tr>
      <th colspan = "2" class = "top">
@@ -501,7 +504,7 @@ As it has 5 ATM water resistance, Swimming and swim tracking is another option y
 <b>After Sales Customer Support</b>
 <div class="w3-light-grey"><div class="w3-container w3-orange" style="width:60%">6.0 Rating</div></div>
 
-<div class = "scroll">
+<div>
  <table>
    <tr>
      <th colspan = "2" class = "top">
@@ -570,7 +573,7 @@ Untethered built in GPS is convenient for people who wish to keep their phones a
 <b>After Sales Customer Support</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
 
-<div class = "scroll">
+<div>
  <table>
    <tr>
      <th colspan = "2" class = "top">
@@ -635,7 +638,7 @@ The “Choose your looks" App helps you pick the right watch face from a variety
 <b>After Sales Customer Support</b>
 <div class="w3-light-grey"><div class="w3-container w3-orange" style="width:40%">4.0 Rating</div></div>
 
-<div class = "scroll">
+<div>
  <table>
    <tr>
      <th colspan = "2" class = "top">
