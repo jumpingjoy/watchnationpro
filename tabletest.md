@@ -10,7 +10,7 @@ sidebar: right
 <div><!-- scroll class is for the scroll bar and the scroll effect. if don't want this feature, remove the "class = "scroll. css and find .scroll. there also have some comments how you remove scroll."" -->
 <table>
     <tr><!-- this is the row for title of your table. i is a single column.read the second comment -->
-        <th colspan = "3" class = "top">table title</th>
+        <th colspan = "3" class = "top"></th>
         <!-- when you add extra column you have to change colspan here. like you can see colspan = 3 here because there have 3 column. when you and one more column colspan will be 4. on last table where there is 2 column calspan was 2 -->
     </tr>
 
@@ -44,10 +44,10 @@ sidebar: right
         <td class = "content-left">
         <b>Apple Watch Series 6</b>
          {% include image.html img="apple-watch-series-6.webp" align="center" %}
-         {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
         </td>
     <!-- middle column. when you add new column, copy "<td  class="content-middle">...</td>" tag and paste in before right or left tag. -->
         <td class = "content-middle">Best Overall Performance</td>
+         {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
     <!-- right column-->
         <td class = "content-right r-bor">$749.00 to $1,499.00</td>
     </tr>
@@ -55,79 +55,79 @@ sidebar: right
     <tr><!-- row -->
     <!-- left column-->
         <td class = "content-left">
-        <b>Apple Watch Series 6</b>
-         {% include image.html img="apple-watch-series-6.webp" align="center" %}
-         {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+        <b>Samsung Galaxy Watch 3</b>
+        {% include image.html img="samsung-galaxy-active-3.webp" align="center" %}
+        {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpsamsunggalaxy3" blank="true" %}
         </td>
     <!-- middle column. when you add new column, copy "<td  class="content-middle">...</td>" tag and paste in before right or left tag. -->
-        <td class = "content-middle">Best Overall Performance</td>
+        <td class = "content-middle">Best Smartwatch for Fitness Enthusiast</td>
     <!-- right column-->
-        <td class = "content-right r-bor">$749.00 to $1,499.00</td>
+        <td class = "content-right r-bor">$400 to $479</td>
     </tr>
 
     <tr><!-- row -->
     <!-- left column-->
         <td class = "content-left">
-        <b>Apple Watch Series 6</b>
-         {% include image.html img="apple-watch-series-6.webp" align="center" %}
-         {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+        <b>Garmin Venu</b>
+        {% include image.html img="garmin-venu.webp" align="center" %}
+        {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpgarminvenu" blank="true" %}
         </td>
     <!-- middle column. when you add new column, copy "<td  class="content-middle">...</td>" tag and paste in before right or left tag. -->
-        <td class = "content-middle">Best Overall Performance</td>
+        <td class = "content-middle">Best Multisport Smartwatch for Women</td>
     <!-- right column-->
-        <td class = "content-right r-bor">$749.00 to $1,499.00</td>
+        <td class = "content-right r-bor">~$300</td>
     </tr>
 
     <tr><!-- row -->
     <!-- left column-->
         <td class = "content-left">
-        <b>Apple Watch Series 6</b>
-         {% include image.html img="apple-watch-series-6.webp" align="center" %}
-         {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+        <b>Fitbit Sense</b>
+        {% include image.html img="fitbit-sense.webp" align="center" %}
+        {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpfitbitsense" blank="true" %}
         </td>
     <!-- middle column. when you add new column, copy "<td  class="content-middle">...</td>" tag and paste in before right or left tag. -->
-        <td class = "content-middle">Best Overall Performance</td>
+        <td class = "content-middle">Best Fitbit Smartwatch for Women</td>
     <!-- right column-->
-        <td class = "content-right r-bor">$749.00 to $1,499.00</td>
+        <td class = "content-right r-bor">$280 to $330</td>
     </tr>
 
     <tr><!-- row -->
     <!-- left column-->
         <td class = "content-left">
-        <b>Apple Watch Series 6</b>
-         {% include image.html img="apple-watch-series-6.webp" align="center" %}
-         {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+        <b>Huawei GT 2</b>
+        {% include image.html img="huawei-gt-2.webp" align="center" %}
+          {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnphuaweigt2" blank="true" %}
         </td>
     <!-- middle column. when you add new column, copy "<td  class="content-middle">...</td>" tag and paste in before right or left tag. -->
-        <td class = "content-middle">Best Overall Performance</td>
+        <td class = "content-middle">Best Battery Smartwatch for Women</td>
     <!-- right column-->
-        <td class = "content-right r-bor">$749.00 to $1,499.00</td>
+        <td class = "content-right r-bor">$250 to $279</td>
     </tr>
 
     <tr><!-- row -->
     <!-- left column-->
         <td class = "content-left">
-        <b>Apple Watch Series 6</b>
-         {% include image.html img="apple-watch-series-6.webp" align="center" %}
-         {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+        <b>Fossil Sport</b>
+        {% include image.html img="fossil-sport.webp" align="center" %}
+        {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpfossilsport" blank="true" %}
         </td>
     <!-- middle column. when you add new column, copy "<td  class="content-middle">...</td>" tag and paste in before right or left tag. -->
-        <td class = "content-middle">Best Overall Performance</td>
+        <td class = "content-middle">Best Low Priced WearOS Sports Smartwatch for Women</td>
     <!-- right column-->
-        <td class = "content-right r-bor">$749.00 to $1,499.00</td>
+        <td class = "content-right r-bor">~ $230</td>
     </tr>
 
     <tr><!-- row -->
     <!-- left column-->
         <td class = "content-left">
-        <b>Apple Watch Series 6</b>
-         {% include image.html img="apple-watch-series-6.webp" align="center" %}
-         {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+        <b>Kate Spade Scallop 2</b>
+        {% include image.html img="kate-spade-scallop-2.webp" align="center" %}
+        {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpkatespade" blank="true" %}
         </td>
     <!-- middle column. when you add new column, copy "<td  class="content-middle">...</td>" tag and paste in before right or left tag. -->
-        <td class = "content-middle">Best Overall Performance</td>
+        <td class = "content-middle">Best Fashionable Smartwatch for Women</td>
     <!-- right column-->
-        <td class = "content-right r-bor">$749.00 to $1,499.00</td>
+        <td class = "content-right r-bor">~ $270</td>
     </tr>
 
     </tbody>

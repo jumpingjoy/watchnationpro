@@ -185,7 +185,7 @@ Besides the best smartwatch reviews for women, we provide in-depth information o
      <td class = "content-left">
        <b>Huawei GT 2</b>
        {% include image.html img="huawei-gt-2.webp" align="center" %}
-         {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnphuaweigt2" blank="true" %}
+       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnphuaweigt2" blank="true" %}
      </td>
      <td class = "content-right r-bor">
        Best Battery Smartwatch for Women
