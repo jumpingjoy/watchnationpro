@@ -123,3 +123,11 @@
           .tooltip:hover .tooltiptext {
             visibility: visible;
           }
+          #protick {
+            line-height: 1.5em;
+            list-style-image: url(/uploads/protick.png);
+          }
+          #consx {
+            line-height: 1.5em;
+            list-style-image: url(/uploads/consx.png);
+          }
