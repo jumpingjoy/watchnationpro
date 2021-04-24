@@ -129,11 +129,9 @@ sidebar: right
 <div class = "scroll">
 <!-- scroll class is for the scroll bar and the scroll effect. if don't want this feature you can remove the "class = "scroll. and to to css and find .scroll. there also have some comments how you remove scroll."" -->
 <table>
-
-
     <tr><!-- this is the row for title of your table. i is a single column.read the second comment -->
         <th colspan = "3" class = "top">
-            some title
+            table title
         </th>
         <!-- when you add extra column you have to change colspan here. like you can see colspan = 3 here because there have 3 column. when you and one more column colspan will be 4. on last table where there is 2 column calspan was 2 -->
     </tr>
@@ -153,24 +151,16 @@ sidebar: right
 
     <tbody>
     <tr><!-- this row is for the title of column -->
-        <td class = "left"> <!--left column of title-->
-            some title
-        </td>
-        <td class = "middle"><!-- middle column of title. when you add new column copy
-  the  "<td  class="middle">...</td>"
-  tag and past in before right or left tag. read next comments  -->
-            some title
-        </td>
-        <td class = "right r-bor"><!-- right column of title -->
-            some title
-        </td>
+        <td class = "left">product</td><!--left column of title-->
+        <td class = "middle">Price</td><!-- middle column of title. when you add new column copy the  "<td  class="middle">...</td>" tag and past in before right or left tag. read next comments  -->
+        <td class = "right r-bor">No. of features</td>
     </tr>
 
 
 
     <tr><!-- this is the 3rd row which is one is occupied all the column. when you add a new column change the colspan like i say in 2nd commemt.read next comment. -->
         <td class = "row3 r-bor" colspan="3">
-        some title
+        orange line
         </td>
     </tr>
 

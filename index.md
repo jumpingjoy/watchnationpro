@@ -96,13 +96,13 @@ We do not baffle the readers with women’s tech suits features and generic opin
 * How does each feature perform in terms of 10 ratings denoted by our rating reference? For example, you can see the following rating bar that denotes each of the feature performs:
 
 <b>Smartwatch Pricing</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:75%">7.5 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:75%">7.5</div></div>
 <b>Smartwatch Design</b>
-<div class="w3-light-grey"><div class="w3-container w3-red" style="width:25%">2.5 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:70%">7.0</div></div>
 <b>Smartwatch Comfortness</b>
-<div class="w3-light-grey"><div class="w3-container w3-blue" style="width:75%">5.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-red" style="width:75%">5.0</div></div>
 <b>Smartwatch Battery</b>
-<div class="w3-light-grey"><div class="w3-container w3-green" style="width:50">9.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0</div></div>
 
 * The 10-star rating makes it easy for you to know quickly how every feature performs overall and compare it to other competitors.
 * Provide a detailed Buying Guide for buying the best ladies smartwatches
@@ -296,13 +296,13 @@ Along with built in GPS, activity tracking, heart rate tracking monitors, ECG mo
 <b>Pricing</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
 <b>Design</b>
-<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:80%">8.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
 <b>Comfortness</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:70%">7.0 Rating</div></div>
 <b>Battery</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
 <b>After Sales Customer Support</b>
-<div class="w3-light-grey"><div class="w3-container w3-green" style="width:70%">7.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:70%">7.0 Rating</div></div>
 <br>
 
 <div>
@@ -359,13 +359,13 @@ The built in GPS tracking of <a href="https://www.watchnationpro.com/garmin-venu
 <b>Pricing</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
 <b>Design</b>
-<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:80%">8.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
 <b>Comfortness</b>
-<div class="w3-light-grey"><div class="w3-container w3-green" style="width:70%">7.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:70%">7.0 Rating</div></div>
 <b>Battery</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
 <b>After Sales Customer Support</b>
-<div class="w3-light-grey"><div class="w3-container w3-green" style="width:70%">7.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:70%">7.0 Rating</div></div>
 <br>
 
  <div>
@@ -499,9 +499,9 @@ As it has 5 ATM water resistance, Swimming and swim tracking is another option y
 <b>Design</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0 Rating</div></div>
 <b>Comfortness</b>
-<div class="w3-light-grey"><div class="w3-container w3-green" style="width:70%">7.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:70%">7.0 Rating</div></div>
 <b>Battery</b>
-<div class="w3-light-grey"><div class="w3-container w3-green" style="width:100%">10.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-green" style="width:95%">9.5 Rating</div></div>
 <b>After Sales Customer Support</b>
 <div class="w3-light-grey"><div class="w3-container w3-orange" style="width:60%">6.0 Rating</div></div>
 <br>
@@ -571,7 +571,7 @@ Untethered built in GPS is convenient for people who wish to keep their phones a
 <b>Comfortness</b>
 <div class="w3-light-grey"><div class="w3-container w3-orange" style="width:70%">7.0 Rating</div></div>
 <b>Battery</b>
-<div class="w3-light-grey"><div class="w3-container w3-green" style="width:60%">6.0 Rating</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:60%">6.0 Rating</div></div>
 <b>After Sales Customer Support</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
 <br>
