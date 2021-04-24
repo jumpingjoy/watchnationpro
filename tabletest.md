@@ -157,24 +157,18 @@ sidebar: right
     </tr>
 
 
-
-    <tr><!-- this is the 3rd row which is one is occupied all the column. when you add a new column change the colspan like i say in 2nd commemt.read next comment. -->
-        <td class = "row3 r-bor" colspan="3">
-        orange line
-        </td>
+<!--
+    <tr><!-- this is the 2nd row which is one is occupied all the column. when you add a new column change the colspan like i say in 2nd commemt.read next comment.
+        <td class = "row3 r-bor" colspan="3">orange line</td>
     </tr>
+-->
 
 
     <tr><!-- row of Rating Reference -->
         <td class = "content-left"><!-- left column-->
-            <div align = "right">
-                <p class = "tip tooltip">
-                    ?
-                    <span class = "tooltiptext">
-                        put you tip here
-                    </span>
-                </p>
-            </div>
+        <b>Apple Watch Series 6</b>
+         {% include image.html img="apple-watch-series-6.webp" align="center" %}
+         {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
         </td>
         <td class = "content-middle"><!-- middle column. when you add new column copy
   the  "<td  class="content-middle">...</td>"
