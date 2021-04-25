@@ -100,7 +100,7 @@ We do not baffle the readers with women’s tech suits features and generic opin
 <b>Smartwatch Design</b>
 <div class="w3-light-grey"><div class="w3-container w3-orange" style="width:70%">7.0</div></div>
 <b>Smartwatch Comfortness</b>
-<div class="w3-light-grey"><div class="w3-container w3-red" style="width:75%">5.0</div></div>
+<div class="w3-light-grey"><div class="w3-container w3-orange" style="width:50%">5.0</div></div>
 <b>Smartwatch Battery</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:90%">9.0</div></div>
 
