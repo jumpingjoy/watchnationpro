@@ -139,21 +139,17 @@ sidebar: right
 <table role="table">
   <thead role="rowgroup">
     <tr role="row">
-      <th role="columnheader">First Name</th>
-      <th role="columnheader">Last Name</th>
-      <th role="columnheader">Job Title</th>
-      <th role="columnheader">Favorite Color</th>
-      <th role="columnheader">Wars or Trek?</th>
-      <th role="columnheader">Secret Alias</th>
-      <th role="columnheader">Date of Birth</th>
-      <th role="columnheader">Dream Vacation City</th>
-      <th role="columnheader">GPA</th>
-      <th role="columnheader">Arbitrary Data</th>
+      <th role="columnheader">Product</th>
+      <th role="columnheader">Category</th>
+      <th role="columnheader">Price Range</th>
     </tr>
   </thead>
   <tbody role="rowgroup">
     <tr role="row">
-      <td role="cell">James</td>
+      <td role="cell">        
+      <b>Apple Watch Series 6</b>
+      {% include image.html img="apple-watch-series-6.webp" align="center" %}
+      {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}</td>
       <td role="cell">Matman</td>
       <td role="cell">Chief Sandwich Eater</td>
       <td role="cell">Lettuce Green</td>
