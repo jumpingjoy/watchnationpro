@@ -149,6 +149,7 @@
         			position: absolute;
         			top: -9999px;
         			left: -9999px;
+              background-color:#fbaf36;
         		}
 
             tr {
@@ -156,7 +157,7 @@
             }
 
             tr:nth-child(odd) {
-              background: #ccc;
+              background: #000;
             }
 
         		td {
