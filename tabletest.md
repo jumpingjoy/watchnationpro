@@ -150,18 +150,18 @@ sidebar: right
       <b>Apple Watch Series 6</b>
       {% include image.html img="apple-watch-series-6.webp" align="center" %}
       {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}</td>
-      <td role="cell">Matman</td>
-      <td role="cell">Chief Sandwich Eater</td>
+      <td role="cell">Best Overall Performance</td>
+      <td role="cell">$749.00 to $1,499.00</td>
     </tr>
     <tr role="row">
       <td role="cell">The</td>
-      <td role="cell">Tick</td>
-      <td role="cell">Crimefighter Sorta</td>
+      <td role="cell">Best Overall Performance</td>
+      <td role="cell">$749.00 to $1,499.00</td>
     </tr>
     <tr role="row">
       <td role="cell">Jokey</td>
-      <td role="cell">Smurf</td>
-      <td role="cell">Giving Exploding Presents</td>
+      <td role="cell">Best Overall Performance</td>
+      <td role="cell">$749.00 to $1,499.00</td>
     </tr>
   </tbody>
 </table>

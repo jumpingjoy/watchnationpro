@@ -15,7 +15,7 @@
          width: 100%;
         overflow-y: scroll;
       }
-      /* all the css code above is for the scrill effect and scroll bar. you can remove these code if you don't want this */
+      /* all the css code above is for scroll effect and scroll bar. you can remove these code if you don't want this */
       table {
           width :100%;
           border:10px solid #C3C3C3;
