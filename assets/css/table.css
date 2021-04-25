@@ -168,13 +168,10 @@
   		position: absolute;
   		top: -9999px;
   		left: -9999px;
-  	}
-    
-    th {
       background: #fbaf36;
       color: white;
       font-weight: bold;
-    }
+  	}
 
   	tr { border: 1px solid #ccc; }
 

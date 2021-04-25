@@ -139,19 +139,25 @@ sidebar: right
 <table>
 	<thead>
 	<tr>
-		<th>First Name</th>
-		<th>Last Name</th>
-		<th>Job Title</th>
+		<th>Product</th>
+		<th>Category</th>
+		<th>Price Range</th>
 	</tr>
 	</thead>
 	<tbody>
 	<tr>
-		<td>James</td>
+		<td>     <b>Apple Watch Series 6</b>
+          {% include image.html img="apple-watch-series-6.webp" align="center" %}
+          {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+    </td>
 		<td>Matman</td>
 		<td>Chief Sandwich Eater</td>
 	</tr>
 	<tr>
-		<td>The</td>
+		<td>     <b>Apple Watch Series 6</b>
+          {% include image.html img="apple-watch-series-6.webp" align="center" %}
+          {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+    </td>
 		<td>Tick</td>
 		<td>Crimefighter Sorta</td>
 	</tr>
