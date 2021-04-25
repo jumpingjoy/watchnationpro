@@ -149,7 +149,9 @@
         			position: absolute;
         			top: -9999px;
         			left: -9999px;
-              background: #fbaf36;
+              text-align:center;
+              background-color:#fbaf36;
+              color:#ffffff;
         		}
 
             tr {
