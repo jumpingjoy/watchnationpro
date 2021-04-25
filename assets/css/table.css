@@ -18,7 +18,7 @@
       /* all the css code above is for scroll effect and scroll bar. you can remove these code if you don't want this */
       table {
           width :100%;
-          border:10px solid #C3C3C3;
+          border:5px solid #fbaf36;
           border-collapse: collapse;
       }
       /* above code is for table border.keed width:100%; you can change the
