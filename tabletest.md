@@ -136,32 +136,24 @@ sidebar: right
 
 
 ## table
-<table role="table">
-  <thead role="rowgroup">
-    <tr role="row">
-      <th role="columnheader">Product</th>
-      <th role="columnheader">Category</th>
-      <th role="columnheader">Price Range</th>
-    </tr>
-  </thead>
-  <tbody role="rowgroup">
-    <tr role="row">
-      <td role="cell">        
-      <b>Apple Watch Series 6</b>
-      {% include image.html img="apple-watch-series-6.webp" align="center" %}
-      {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}</td>
-      <td role="cell">Best Overall Performance</td>
-      <td role="cell">$749.00 to $1,499.00</td>
-    </tr>
-    <tr role="row">
-      <td role="cell">The</td>
-      <td role="cell">Best Overall Performance</td>
-      <td role="cell">$749.00 to $1,499.00</td>
-    </tr>
-    <tr role="row">
-      <td role="cell">Jokey</td>
-      <td role="cell">Best Overall Performance</td>
-      <td role="cell">$749.00 to $1,499.00</td>
-    </tr>
-  </tbody>
+<table>
+	<thead>
+	<tr>
+		<th>First Name</th>
+		<th>Last Name</th>
+		<th>Job Title</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td>James</td>
+		<td>Matman</td>
+		<td>Chief Sandwich Eater</td>
+	</tr>
+	<tr>
+		<td>The</td>
+		<td>Tick</td>
+		<td>Crimefighter Sorta</td>
+	</tr>
+	</tbody>
 </table>
