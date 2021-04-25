@@ -150,12 +150,14 @@
         			top: -9999px;
         			left: -9999px;
               text-align:center;
-              background-color:#fbaf36;
-              color:#ffffff;
+
         		}
 
             tr {
               margin: 0 0 1rem 0;
+              background-color:#fbaf36;
+              color:#ffffff;
+              border: 1px;
             }
 
             tr:nth-child(odd) {
