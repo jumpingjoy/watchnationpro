@@ -185,8 +185,8 @@ sidebar: right
  <table>
  	<thead>
  	<tr>
- 		<th>Comparison</th>
- 		<th><b>Apple Watch Series 6</b>
+ 		<th class="left">Comparison</th>
+ 		<th class="middle"><b>Apple Watch Series 6</b>
     {% include image.html img="apple-watch-series-6.webp" align="center" %}</th>
  		<th><b>Samsung Galaxy Watch 3</b>
     {% include image.html img="samsung-galaxy-active-3.webp" align="center" %}</th>
