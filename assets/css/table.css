@@ -41,13 +41,6 @@
           padding-top:10px;
           padding-bottom:10px;
       }
-      /*css for right column of 2nd row start here. code between .right{} ar discuss in comments below */
-      .right{
-          text-align:center;
-          background-color:#fbaf36;
-          padding-top:10px;
-          padding-bottom:10px;
-      }
       /*css for middle column or column between left and right of 2nd row start here. code between .middle {} ar discuss in comments below */
       .middle {
           text-align:center;
@@ -55,6 +48,14 @@
           padding-top:10px;
           padding-bottom:10px;
       }
+      /*css for right side column . code between .right{} discuss in comments below */
+      .right{
+          text-align:center;
+          background-color:#fbaf36;
+          padding-top:10px;
+          padding-bottom:10px;
+      }
+
       /* css for the 3rd title row start here.
       text align for which side will be the text.padding for distant of text from border */
       .row3{
@@ -152,6 +153,10 @@
           color: limegreen;
           font-size: 30px;
           }
+          .wrong {
+          color: red;
+          font-size: 30px;
+          }
 
 
 @media (max-width: 32rem) {
@@ -178,31 +183,4 @@
   text-transform: uppercase;
   letter-spacing: 2px;
 }
-}
-
-/*
-Feature comparison CSS below
-*/
-@media screen and (max-width: 768px) {
-  .tr_flex {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-around;
-  }
-
-  .td_flex, .th_flex {
-    display: block;
-    width: 33%;
-  }
-
-  .th_flex:first-child,
-  .td_flex:first-child {
-    text-align: center;
-    background: #efefef;
-    width: 100%;
-  }
-
-  .th_flex:first-child {
-    display: none;
-  }
 }

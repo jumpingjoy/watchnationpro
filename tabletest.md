@@ -201,14 +201,14 @@ sidebar: right
 
   <tr>
  		<td>Feature 2</td>
- 		<td>&mdash;</td>
+ 		<td class="wrong">&#9747;</td>
  		<td>&#10004;</td>
  	</tr>
 
   <tr>
      <td>Feature 3</td>
      <td>&#10004;</td>
-     <td>&mdash;</td>
+     <td>&#9747;</td>
    </tr>
 
    <tr>
