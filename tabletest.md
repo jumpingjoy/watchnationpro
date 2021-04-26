@@ -178,3 +178,61 @@ sidebar: right
    </tbody>
  </table>
  </div>
+
+
+## Comparison table
+
+ <table>
+ 	<thead>
+ 	<tr>
+ 		<th>Comparison</th>
+ 		<th><b>Apple Watch Series 6</b>
+    {% include image.html img="apple-watch-series-6.webp" align="center" %}</th>
+ 		<th><b>Samsung Galaxy Watch 3</b>
+    {% include image.html img="samsung-galaxy-active-3.webp" align="center" %}</th>
+ 	</tr>
+ 	</thead>
+ 	<tbody>
+ 	<tr>
+ 		<td>Feature 1</td>
+ 		<td>&#10004;</td>
+ 		<td>&#10004;</td>
+ 	</tr>
+
+  <tr>
+ 		<td>Feature 2</td>
+ 		<td>&mdash;</td>
+ 		<td>&#10004;</td>
+ 	</tr>
+
+  <tr>
+     <td>Feature 3</td>
+     <td>&#10004;</td>
+     <td>&mdash;</td>
+   </tr>
+
+   <tr>
+  		<td>Feature 4</td>
+  		<td>&#10004;</td>
+  		<td>&#10004;</td>
+  	</tr>
+
+    <tr>
+   		<td>Feature 5</td>
+   		<td>&#10004;</td>
+   		<td>&#10004;</td>
+   	</tr>
+
+    <tr>
+   		<td>Feature 6</td>
+   		<td>&#10004;</td>
+   		<td>&#10004;</td>
+   	</tr>
+
+    <tr>
+   		<td>Feature 7</td>
+   		<td>&#10004;</td>
+   		<td>&#10004;</td>
+   	</tr>
+ 	</tbody>
+ </table>
