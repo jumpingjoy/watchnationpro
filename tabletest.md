@@ -83,3 +83,18 @@ sidebar: right
   </tr>
 	</tbody>
 </table>
+
+
+## another tests
+<table class="table">
+  <tr>
+    <th class="table__heading">Name</th>
+    <th class="table__heading">Type</th>
+    <th class="table__heading">Grade</th>
+  </tr>
+  <tr class="table__row">
+    <td class="table__content" data-heading="Name">Gizmo</td>
+    <td class="table__content" data-heading="Type">Robot</td>
+    <td class="table__content" data-heading="Grade">A+</td>
+  </tr>
+</table>
