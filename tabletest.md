@@ -195,8 +195,8 @@ sidebar: right
  	<tbody>
  	<tr>
  		<td>Feature 1</td>
- 		<td>&#10004;</td>
- 		<td>&#10004;</td>
+ 		<td class="check">&#10004;</td>
+ 		<td class="check">&#10004;</td>
  	</tr>
 
   <tr>
