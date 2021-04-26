@@ -24,7 +24,7 @@
       /* above code is for table border.keed width:100%; you can change the
        border:10px(width) solid(border style) #c3c3c3(border color); */
       .r-bor{
-          border-right:10px solid #C3C3C3;
+          border-right:5px solid #fbaf36;
       }
       /* css for right border*/
       /* css for top row star here. code between .top{} ar discuss in comments below */
@@ -149,7 +149,7 @@
             text-align: left;
           }
 
-    
+
 @media (max-width: 32rem) {
 .table__heading {
   display: none;
