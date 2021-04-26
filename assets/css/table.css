@@ -180,13 +180,13 @@
 Feature comparison CSS below
 */
 @media screen and (max-width: 768px) {
-  tr {
+  .tr_flex {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
   }
 
-  td, th {
+  .td_flex, .th_flex {
     display: block;
     width: 33%;
   }
