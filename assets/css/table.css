@@ -191,8 +191,8 @@ Feature comparison CSS below
     width: 33%;
   }
 
-  th:first-child,
-  td:first-child {
+  .th_flex:first-child,
+  .td_flex:first-child {
     text-align: center;
     background: #efefef;
     width: 100%;
