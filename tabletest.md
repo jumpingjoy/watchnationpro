@@ -115,19 +115,19 @@ sidebar: right
       <td class ="td_flex">&#10004;</td>
       <td class ="td_flex">&#10004;</td>
     </tr>
-    <tr>
+    <tr class="tr_flex">
       <td class ="td_flex">Feature 2</td>
       <td class ="td_flex">&mdash;</td>
       <td class ="td_flex">&#10004;</td>
       <td class ="td_flex">&#10004;</td>
     </tr>
-    <tr>
+    <tr class="tr_flex">
       <td class ="td_flex">Feature 3</td>
       <td class ="td_flex">&mdash;</td>
       <td class ="td_flex">&mdash;</td>
       <td class ="td_flex">&#10004;</td>
     </tr>
-    <tr>
+    <tr class="tr_flex">
       <td class ="td_flex">Feature 4</td>
       <td class ="td_flex">&mdash;</td>
       <td class ="td_flex">&mdash;</td>
@@ -135,3 +135,46 @@ sidebar: right
     </tr>
   </tbody>
 </table>
+
+
+### transparent
+<div>
+ <table>
+   <tr>
+     <th colspan = "4" class = "top">
+       Pros and Cons of Samsung Galaxy Watch 3
+     </th>
+   </tr>
+   <colgroup>
+   <col span="1" style="width: 50%;">
+   <col span="1" style="width: 50%;">
+   </colgroup>
+   <tbody>
+   <tr>
+     <td class = "left">
+       Pros
+     </td>
+     <td class = "right r-bor">
+       Cons
+     </td>
+   </tr>
+   <tr>
+     <td class = "content-left">
+      <ul id="protick">
+        <li>Traditional watch design, superb build quality</li>
+        <li>Crisp AMOLED display</li>
+        <li>Decent battery life</li>
+        <li>Assorted fitness features</li>
+      </ul>
+     </td>
+     <td class = "content-right r-bor">
+      <ul id="consx">
+        <li>Slow to charge, no fast charging</li>
+        <li>Poor selection of third-party apps</li>
+        <li>Unreliable blood oxygen measurement</li>
+      </ul>
+     </td>
+   </tr>
+   </tbody>
+ </table>
+ </div>

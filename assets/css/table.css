@@ -198,7 +198,7 @@ Feature comparison CSS below
     width: 100%;
   }
 
-  th:first-child {
+  .th_flex:first-child {
     display: none;
   }
 }
