@@ -127,10 +127,12 @@
           #protick {
             line-height: 1.5em;
             list-style-image: url(/uploads/protick.png);
+            text-align: left;
           }
           #consx {
             line-height: 1.5em;
             list-style-image: url(/uploads/consx.png);
+            text-align: left;
           }
           /*
           Generic Styling, for Desktops/Laptops
@@ -152,10 +154,12 @@
           .check {
           color: limegreen;
           font-size: 30px;
+          text-align: center;
           }
           .wrong {
           color: red;
           font-size: 30px;
+          text-align: center;
           }
 
 
