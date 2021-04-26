@@ -98,3 +98,40 @@ sidebar: right
     <td class="table__content" data-heading="Grade">A+</td>
   </tr>
 </table>
+
+<table>
+  <thead>
+    <tr>
+      <th>&nbsp;</th>
+      <th>Product 1</th>
+      <th>Product 2</th>
+      <th>Product 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Feature 1</td>
+      <td>&#10004;</td>
+      <td>&#10004;</td>
+      <td>&#10004;</td>
+    </tr>
+    <tr>
+      <td>Feature 2</td>
+      <td>&mdash;</td>
+      <td>&#10004;</td>
+      <td>&#10004;</td>
+    </tr>
+    <tr>
+      <td>Feature 3</td>
+      <td>&mdash;</td>
+      <td>&mdash;</td>
+      <td>&#10004;</td>
+    </tr>
+    <tr>
+      <td>Feature 4</td>
+      <td>&mdash;</td>
+      <td>&mdash;</td>
+      <td>&#10004;</td>
+    </tr>
+  </tbody>
+</table>
