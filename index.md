@@ -242,7 +242,7 @@ It has a **case depth of 10.74** which **suits small writs of women**. The best 
      <td class = "left">
        Pros
      </td>
-     <td class = "blue-cons">
+     <td class = "cons-blue">
        Cons
      </td>
    </tr>
