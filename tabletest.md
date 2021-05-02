@@ -20,7 +20,7 @@ sidebar: right
      <td class = "left">
        Pros
      </td>
-     <td class = "right r-bor">
+     <td class = "cons-blue r-bor">
        Cons
      </td>
    </tr>
