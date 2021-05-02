@@ -41,20 +41,7 @@
           padding-top:10px;
           padding-bottom:10px;
       }
-      .pros-black{
-          text-align:center;
-          background-color:#000000;
-          color:#ffffff;
-          padding-top:10px;
-          padding-bottom:10px;
-      }
-      .cons-blue {
-          text-align:center;
-          background-color:#005575;
-          color:#ffffff;
-          padding-top:10px;
-          padding-bottom:10px;
-      }
+
       /*css for middle column or column between left and right of 2nd row start here. code between .middle {} ar discuss in comments below */
       .middle {
           text-align:center;
@@ -69,7 +56,20 @@
           padding-top:10px;
           padding-bottom:10px;
       }
-
+      .pros-black{
+          text-align:center;
+          background-color:#000000;
+          color:#ffffff;
+          padding-top:10px;
+          padding-bottom:10px;
+      }
+      .cons-blue {
+          text-align:center;
+          background-color:#005575;
+          color:#ffffff;
+          padding-top:10px;
+          padding-bottom:10px;
+      }
 
       /* css for the 3rd title row start here.
       text align for which side will be the text.padding for distant of text from border */

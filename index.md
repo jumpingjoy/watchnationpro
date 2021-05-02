@@ -309,7 +309,7 @@ Along with built in GPS, activity tracking, heart rate tracking monitors, ECG mo
    </colgroup>
    <tbody>
    <tr>
-     <td class = "left">
+     <td class = "pros-black">
        Pros
      </td>
      <td class = "right r-bor">
