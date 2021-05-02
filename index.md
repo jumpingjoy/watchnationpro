@@ -274,15 +274,15 @@ It has a **case depth of 10.74** which **suits small writs of women**. The best 
 ### ✅No.2 Samsung Galaxy Watch 3
 {% include image.html img="samsung-galaxy-active-3.webp" align="right" %}
 
-Top brand Samsung Galaxy watch has released another version to its Samsung galaxy range of smartwatch series called <a href="https://www.watchnationpro.com/samsung-galaxy-watch-3-review">Samsung Galaxy Watch 3</a>.
+Top brand Samsung has **released another version** to its Samsung galaxy range of smartwatch series called <a href="https://www.watchnationpro.com/samsung-galaxy-watch-3-review">Samsung Galaxy Watch 3</a>.
 
-Similar to galaxy watch active 2, the latest model comes with AMOLED screen display in two sizes, 40mm and 44mm for a price range of $400 to $479.
+**Similar to galaxy watch active 2**, the latest model comes with **AMOLED screen display** in **two sizes: 40mm and 44mm** for a price range of **$400 to $479**.
 
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpsamsunggalaxy3" blank="true" %}
 
-In case you are an google Android user and are not comfortable with Wear OS, Samsung galaxy active 3 is the best choice for you since it can connect to google assistant. Even though it does not have a rotating bezel, it comes with good touch sensitivity. The battery life is better than the previous galaxy watch active 2.
+In case **if you are an google Android user**, and are **not comfortable with Wear OS**, the Samsung galaxy active 3 is the **best choice for you since it can connect to google assistant**. Even though it does not have a rotating bezel, it comes with good touch sensitivity. The **battery life is better than the previous galaxy watch active 2**.
 
-Along with built in GPS, activity tracking, heart rate tracking monitors, ECG monitors to provide data on heart rates and act as heart rate monitor. The heart rate monitoring functionalities of Samsung Galaxy Active 3 watch is moderately accurate, and fall detection is available in Active 3.
+Along with built in GPS, the activity tracking, heart rate tracking monitors, ECG monitors provides data on heart rates . The heart rate monitoring functionalities of Samsung Galaxy Active 3 watch is moderately accurate, and comes along with fall detection feature.
 
 <b>Pricing</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
