@@ -26,6 +26,9 @@
       .r-bor{
           border-right:5px solid #fbaf36;
       }
+      .blue-cons{
+          border-right:5px solid #005575;
+      }
       /* css for right border*/
       /* css for top row star here. code between .top{} ar discuss in comments below */
       .top {
