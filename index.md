@@ -312,7 +312,7 @@ Along with built in GPS, activity tracking, heart rate tracking monitors, ECG mo
      <td class = "pros-black">
        Pros
      </td>
-     <td class = "right r-bor">
+     <td class = "cons-blue">
        Cons
      </td>
    </tr>
@@ -372,10 +372,10 @@ The built in GPS tracking of <a href="https://www.watchnationpro.com/garmin-venu
     </colgroup>
     <tbody>
     <tr>
-      <td class = "left">
+      <td class = "pros-black">
         Pros
       </td>
-      <td class = "right r-bor">
+      <td class = "cons-blue">
         Cons
       </td>
     </tr>
@@ -444,10 +444,10 @@ The GPS tracking helps you track gps location on your runs and travels. It's a w
    </colgroup>
    <tbody>
    <tr>
-     <td class = "left">
+     <td class = "pros-black">
        Pros
      </td>
-     <td class = "right r-bor">
+     <td class = "cons-blue">
        Cons
      </td>
    </tr>
@@ -510,10 +510,10 @@ As it has 5 ATM water resistance, Swimming and swim tracking is another option y
    </colgroup>
    <tbody>
    <tr>
-     <td class = "left">
+     <td class = "pros-black">
        Pros
      </td>
-     <td class = "right r-bor">
+     <td class = "cons-blue">
        Cons
      </td>
    </tr>
@@ -580,10 +580,10 @@ Untethered built in GPS is convenient for people who wish to keep their phones a
    </colgroup>
    <tbody>
    <tr>
-     <td class = "left">
+     <td class = "pros-black">
        Pros
      </td>
-     <td class = "right r-bor">
+     <td class = "cons-blue">
        Cons
      </td>
    </tr>
@@ -646,10 +646,10 @@ The “Choose your looks" App helps you pick the right watch face from a variety
    </colgroup>
    <tbody>
    <tr>
-     <td class = "left">
+     <td class = "pros-black">
        Pros
      </td>
-     <td class = "right r-bor">
+     <td class = "cons-blue">
        Cons
      </td>
    </tr>
