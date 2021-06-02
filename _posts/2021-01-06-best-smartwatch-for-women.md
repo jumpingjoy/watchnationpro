@@ -1,5 +1,5 @@
 ---
-title: Best Smartwatches for Women
+title: Smartwatches for Women
 description:  We tested out various smartwatches for women. Find out the FREE...
 image: https://source.unsplash.com/j0Deh-kkkFo/1000x750
 categories: [smartwatch-for-family-members]
