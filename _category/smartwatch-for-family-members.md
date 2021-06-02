@@ -1,4 +1,4 @@
 ---
-tag: Smartwatch for Family Members
+tag: smartwatch-for-family-members
 permalink: "/category/smartwatch-for-family-members/"
 ---
