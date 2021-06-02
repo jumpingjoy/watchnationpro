@@ -1,4 +1,4 @@
 ---
-tag: General
+tag: general
 permalink: "/category/general/"
 ---
