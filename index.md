@@ -136,15 +136,23 @@ We have categorized
    Construction workers
    Engineers
    Businessman
+   finance and bankers
+   IT professional
+   Media professional
    </td>
    <td>You can also need smartwatches to monitor your family members health when they are not feeling well or affected by any diseases. The activities may vary as per their hobbies and profession.</td>
  </tr>
  <tr>
    <td>
    <b>Sports Usage</b>
+   split it by land, water, air
    Travellers
    Hikers
    Kayaking
+   Professionl Runners and Marathon
+   Swimmers
+   cycling
+   Golfers
    </td>
    <td>Hobby usage. You can also need smartwatches to monitor your family members health when they are not feeling well or affected by any diseases. The activities may vary as per their hobbies and profession.</td>
  </tr>
@@ -154,10 +162,7 @@ We have categorized
 
 ### ✅Professional athletes and Fitness Freaks
 sports usage
-Professionl Runners and Marathon
-Swimmers
-cycling
-Golfers
+
 
 ### ✅Why Do Working Professional Need A Smartwatch?
 
