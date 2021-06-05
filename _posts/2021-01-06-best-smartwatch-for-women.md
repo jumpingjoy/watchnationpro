@@ -41,6 +41,8 @@ You may find it challenging to handle your kid, your office bag, and your mobile
 #### 4. Is your Smartwatch too tight or loose on your wrist, or looks odd with your clothes?
 {% include image.html img="misfit-watch.webp" alt="misfit-watch" caption="Misfit Watch?" align="right" %}
 
+asdfasdfasdfasdf
+
 #### 5. Difficulty with irregular cycles?: Get reminded of menstrual dates with a smartwatch
 {% include image.html img="menstruation.webp" alt="menstruation" caption="Tracking Menstrual Cycle" align="right" %}
 You can be missing your reminder on your menstrual cycle’s dates. Stress management is difficult  during the menstrual time, resulting in decreased work productivity during office hours. If menstrual hygiene is not properly maintained may lead to medical complications such as uterine fibroids, endometriosis, PMDD, menorrhagia, etc. If a gadget like a girls smartwatch can assist you, you can pre-plan your leaves and rest at home to maintain your hygiene.
