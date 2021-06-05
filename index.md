@@ -97,40 +97,60 @@ We have categorized
  <thead>
  <tr>
    <th>Who Needs smartwatch?</th>
-   <th>Category</th>
+   <th>Why do they need smartwatch</th>
  </tr>
  </thead>
  <tbody>
  <tr>
-   <td><b>Why do they Need smartwatch?</b></td>
-   <td>Best Overall Performance</td>
+   <td>
+   Men
+   Women
+   Toddlers
+   kids
+   Teens
+   elderly
+   Pets
+   </td>
+   <td>general usage. You can also need smartwatches to monitor your family members health when they are not feeling well or affected by any diseases. The activities may vary as per their hobbies and profession.</td>
+ </tr>
+ <tr>
+   <td>
+   <b>General Usage for Family</b>
+   Men
+   Women
+   Toddlers
+   kids
+   Teens and college students
+   elderly
+   Pets
+   </td>
+   <td>general usage. You can also need smartwatches to monitor your family members health when they are not feeling well or affected by any diseases. The activities may vary as per their hobbies and profession.</td>
+ </tr>
+ <tr>
+   <td>
+   <b>Professional Usage</b>
+   Firefighters
+   Doctors
+   Nurses
+   Military
+   Construction workers
+   Engineers
+   Businessman
+   </td>
+   <td>You can also need smartwatches to monitor your family members health when they are not feeling well or affected by any diseases. The activities may vary as per their hobbies and profession.</td>
+ </tr>
+ <tr>
+   <td>
+   <b>Sports Usage</b>
+   Travellers
+   Hikers
+   Kayaking
+   </td>
+   <td>Hobby usage. You can also need smartwatches to monitor your family members health when they are not feeling well or affected by any diseases. The activities may vary as per their hobbies and profession.</td>
  </tr>
  </tbody>
 </table>
 </div>
-
-### ✅Family Members: General usage
-
-general usage
-Men
-Women
-Toddlers
-kids
-Teens
-elderly
-Pets
-
-### ✅Why Do Family Members Need A Smartwatch?
-
-You can also need smartwatches to monitor your family members health when they are not feeling well or affected by any diseases. The activities may vary as per their hobbies and profession.
-
-### ✅Working Professionals
-Firefighters
-Doctors
-Nurses
-Military
-Construction workers
-Engineers
 
 ### ✅Professional athletes and Fitness Freaks
 sports usage
