@@ -210,6 +210,8 @@ When you look at smartwatches, what is the first thing you notice on a smartwatc
  </thead>
  <tbody>
  <tr>
+ </tr>
+ <tr>
    <td>Round shaped</td>
    <td>Has bezzel, no sharp edges, goes good on skin</td>
  </tr>
@@ -230,45 +232,95 @@ When you look at smartwatches, what is the first thing you notice on a smartwatc
    <td>Always-On display might be a necessary feature for older or elderly people who might find it difficult to switch on display every time they needs it. The downside of always on display is that it might drain the battery quite quickly.</td>
  </tr>
  <tr>
- <td>Dust and Scratch Resistance</td>
- <td>Our daily smartwatch use will involve contact with dust or water on a rainy day which may damage the smartwatch display or casing. The smartwatch must be water-resistant as well as dust resistant so that the smartwatch is well protected against damage by water or dust. Ensure that smartwatch display and casing is scratch-resistant.</td>
+   <td>Hybrid Display</td>
+   <td>Hybrid display is less maintanance free</td>
  </tr>
  <tr>
- <td>Water Resistance</td>
- <td>Some of the best water resistance smartwatches currently available in the market can sustain to about 50 meters depth in water.</td>
+   <td>Display Customization</td>
+   <td>faces available..can be changed?</td>
+ </tr>
+ <tr>
+   <td>Dust and Scratch Resistance</td>
+   <td>Our daily smartwatch use will involve contact with dust or water on a rainy day which may damage the smartwatch display or casing.  dust resistant so that the smartwatch is well protected against damage by water or dust. Ensure that smartwatch display and casing is scratch-resistant.Some of the materials that is scratch resistance are gorilla glass.Also mention fingerprint magnet.</td>
+ </tr>
+ <tr>
+   <td>Water Resistance</td>
+   <td>Some of the best water resistance smartwatches currently available in the market can sustain to about 50 meters depth in water.</td>
  </tr>
  </tbody>
 </table>
 </div>
 
-#### Check for Dust and Scratch Resistance
+### Check the Strap/Band Features
 
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Band Feature</th>
+   <th>Benefits</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td>Strap/Band Fitness and Comfortness</td>
+   <td>Check the different kinds of materials in which bands are available and its strenght to withstand stress. Ensure that the display fits your wrist. Special care to be taken when you are a man or women with small wrist. If you do not get the right fit, it will look unfit and uncomfortable.</td>
+ </tr>
+ <tr>
+   <td>Strap/Band Durability</td>
+   <td>Check the different kinds of materials in which bands are available and its strenght to withstand stress.If the case and band material of a smartwatch are good then the smartwatch will last lo9nmgb as c compared to other smartwatches.</td>
+ </tr>
+ <tr>
+   <td>Strap lock mechanism</td>
+   <td>option to lock, unlockloose and tighten around wrist.</td>
+ </tr>
+ <tr>
+   <td>Strap/Band Customization</td>
+   <td>easily changable? can get in market</td>
+ </tr>
+ </tbody>
+</table>
+</div>
 
-### ✅How is the Smartwatch Case and Band Durability?
-
-If the case and band material of a smartwatch are good then the smartwatch will last lo9nmgb as c compared to other smartwatches.
-
-At the time of selecting a smartwatch for hunting and fishing consider this factor so that your smartwatch will last long.
-
-### ✅How comfortable is the smartwatch on the wrist?
-Ensure that the display fits your wrist. Special care to be taken when you are a man or women with small wrist. If you do not get the right fit, it will look unfit and uncomfortable.
-
-### ✅How is the  Smartwatch Connected to SmartPhone?
-
-#### Check Compatible of the smartwatch with Mobile OS
-
+### ✅How is the  Smartwatch Connected to Smartphone?
 The Operating system in smartwatches must be compatible with your smartphone’s OS. Otherwise, you may not have access to few functions.
 
-##### Check the smartwatch compatibility with Android OS?
-The Google Wear OS runs on many smartwatches such as LG, Fossil, etc. The Wear OS is more compatible with android smartphones. The downside of Wear OS is that its compatibility is limited with Apple devices.
+#### Check Compatible of the smartwatch with Smartphone
 
-When the Wear OS smartwatch is connected with Android, Google Assistant helps you convert speech-to-text and is very convenient to answer emails and texts. Note that Wear OS speech-to-text features will not work with iPhone.
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Operating System</th>
+   <th>Benefit</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td>Check the smartwatch compatibility with Android OS</td>
+   <td>The Google Wear OS runs on many smartwatches such as LG, Fossil, etc. The Wear OS is more compatible with android smartphones. The downside of Wear OS is that its compatibility is limited with Apple devices.
+   When the Wear OS smartwatch is connected with Android, Google Assistant helps you convert speech-to-text and is very convenient to answer emails and texts. Note that Wear OS speech-to-text features will not work with iPhone.</td>
+ </tr>
+ <tr>
+   <td>Check the smartwatch compatibility with Apple iOS</td>
+   <td>Apple Watch works only with iPhone.</td>
+ </tr>
+ <tr>
+   <td>Check the Compatibility with both Android/iOS</td>
+   <td>Fossil watches are designed to be compatible with your smartphone. Samsung galaxy watch active 2 and Tizen powered galaxy watch can work with multiple Android and iPhone mobiles. The fitbit versa 3 works equally well with Android and iPhone.</td>
+ </tr>
+ </tbody>
+</table>
+</div>
 
-##### Check the smartwatch compatibility with Apple iOS?
-Apple Watch works only with iPhone.
+##### ?
 
-##### Check the Compatibility with both Android/iOS?
-Fossil watches are designed to be compatible with your smartphone. Samsung galaxy watch active 2 and Tizen powered galaxy watch can work with multiple Android and iPhone mobiles. The fitbit versa 3 works equally well with Android and iPhone.
+
+##### ?
+
+
+##### ?
+
 
 ### ✅What is the Stylish Design of the smartwatch?
 All of us prefer colors best designs, watch faces appearance and colors. Look whether the smartwatch you choose has different watch face with customization options. Check whether you can change the watch strap to suit various events and outfit.
