@@ -229,21 +229,26 @@ When you look at smartwatches, what is the first thing you notice on a smartwatc
    <td>Always On Display</td>
    <td>Always-On display might be a necessary feature for older or elderly people who might find it difficult to switch on display every time they needs it. The downside of always on display is that it might drain the battery quite quickly.</td>
  </tr>
+ <tr>
+ <td>Dust and Scratch Resistance</td>
+ <td>Our daily smartwatch use will involve contact with dust or water on a rainy day which may damage the smartwatch display or casing. The smartwatch must be water-resistant as well as dust resistant so that the smartwatch is well protected against damage by water or dust. Ensure that smartwatch display and casing is scratch-resistant.</td>
+ </tr>
+ <tr>
+ <td>Water Resistance</td>
+ <td>Some of the best water resistance smartwatches currently available in the market can sustain to about 50 meters depth in water.</td>
+ </tr>
  </tbody>
 </table>
 </div>
 
 #### Check for Dust and Scratch Resistance
-Our daily smartwatch use will involve contact with dust or water on a rainy day which may damage the smartwatch display or casing. The smartwatch must be water-resistant as well as dust resistant so that the smartwatch is well protected against damage by water or dust. Ensure that smartwatch display and casing is scratch-resistant.
+
 
 ### ✅How is the Smartwatch Case and Band Durability?
 
 If the case and band material of a smartwatch are good then the smartwatch will last lo9nmgb as c compared to other smartwatches.
 
 At the time of selecting a smartwatch for hunting and fishing consider this factor so that your smartwatch will last long.
-
-#### Check for Water Resistance
-Some of the best water resistance smartwatches currently available in the market can sustain to about 50 meters depth in water.
 
 ### ✅How comfortable is the smartwatch on the wrist?
 Ensure that the display fits your wrist. Special care to be taken when you are a man or women with small wrist. If you do not get the right fit, it will look unfit and uncomfortable.
