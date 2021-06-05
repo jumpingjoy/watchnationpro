@@ -108,6 +108,7 @@ We have categorized
     <li>men<li>
     <li>men<li>
     <ul>
+   </td>
    <td>
    <ul>
    <li>safety while travelling<li>
