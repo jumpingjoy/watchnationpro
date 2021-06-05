@@ -170,12 +170,40 @@ You must be feeling the need to buy a smartwatch because it offers some things t
 
 As a leading source for the best smartwatch reviews on the web, we believe you should know about all the significant features when searching out the products.  So,  here is a glossary of the most common features you should familiarize yourself with and also know the basics of how to select smartwatch.
 
-### ✅Smartwatch Price
+### ✅What is the Price of the Smartwatch?
 Quality of the smartwatch is related to the price. Generally, we may perceive that higher the smartwatch price, better the quality of the smartwatch. But, this may not be true in all the cases.
 
 You may get a good quality smartwatch in a an affordable low price too. This depends on the ability to select the smartwatch based on the features required.
 
-### ✅Smartwatch Brand
+#### Check Your Budget
+You can check out some of our list of smartwatches that may suit your budget.
+
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Budget Category</th>
+   <th>Price range</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td>Luxury</td>
+   <td>falls above $500</td>
+ </tr>
+ <tr>
+   <td>Mid-ranged budget</td>
+   <td>between $500 to $250</td>
+ </tr>
+ <tr>
+   <td>Best Low-ranged budget</td>
+   <td>below $250, you can go for some chinese smartwatches</td>
+ </tr>
+ </tbody>
+</table>
+</div>
+
+### ✅What is the Smartwatch Brand?
 
 
 ### ✅How is the Smartwatch Display and Casing?
