@@ -96,26 +96,20 @@ We have categorized
 <table>
  <thead>
  <tr>
-   <th>Who Needs Smartwatches</th>
-   <th>Why do they Need a Smartwatch?</th>
+   <th>Product</th>
+   <th>Category</th>
+   <th>Price Range</th>
  </tr>
  </thead>
  <tbody>
  <tr>
    <td>
-    <b>Family</b>
-    <ul>
-    <li>men<li>
-    <li>men<li>
-    <ul>
-   </td>
-   <td>
-   <ul>
-   <li>safety while travelling<li>
-   <li>health<li>
-   <li>communication<li>
-   <ul>
-   </td>
+    <b>Apple Watch Series 6</b>
+    {% include image.html img="apple-watch-series-6.webp" align="center" %}
+    {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+    </td>
+   <td>Best Overall Performance</td>
+   <td>$749.00 to $1,499.00</td>
  </tr>
 
  <tr>
@@ -125,7 +119,58 @@ We have categorized
     {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpsamsunggalaxy3" blank="true" %}
     </td>
    <td>Best Smartwatch for Fitness Enthusiast</td>
+   <td>$400 to $479</td>
  </tr>
+
+  <tr>
+    <td>
+    <b>Garmin Venu</b>
+    {% include image.html img="garmin-venu.webp" align="center" %}
+    {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpgarminvenu" blank="true" %}
+    </td>
+    <td>Best Multisport Smartwatch</td>
+    <td>~$300</td>
+  </tr>
+
+  <tr>
+    <td>
+    <b>Fitbit Sense</b>
+    {% include image.html img="fitbit-sense.webp" align="center" %}
+    {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpfitbitsense" blank="true" %}
+    </td>
+    <td>Best Fitness Smartwatch</td>
+    <td>$280 to $330</td>
+  </tr>
+
+  <tr>
+    <td>
+    <b>Huawei GT 2</b>
+    {% include image.html img="huawei-gt-2.webp" align="center" %}
+    {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnphuaweigt2" blank="true" %}
+    </td>
+    <td>Best Battery Smartwatch</td>
+    <td>$250 to $279</td>
+  </tr>
+
+  <tr>
+    <td>
+      <b>Fossil Sport</b>
+      {% include image.html img="fossil-sport.webp" align="center" %}
+      {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpfossilsport" blank="true" %}
+    </td>
+    <td>Best Low Priced WearOS Sports Smartwatch</td>
+    <td>~ $230</td>
+  </tr>
+
+  <tr>
+    <td>
+    <b>Kate Spade Scallop 2</b>
+    {% include image.html img="kate-spade-scallop-2.webp" align="center" %}
+    {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpkatespade" blank="true" %}
+    </td>
+    <td>Best Feminine Designed Smartwatch</td>
+    <td>~ $270</td>
+  </tr>
  </tbody>
 </table>
 </div>
