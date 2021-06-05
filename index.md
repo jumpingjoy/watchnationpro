@@ -107,18 +107,6 @@ You must be feeling the need to buy a smartwatch because it offers some things t
  <tbody>
  <tr>
    <td>
-   Men
-   Women
-   Toddlers
-   kids
-   Teens
-   elderly
-   Pets
-   </td>
-   <td>general usage. You can also need smartwatches to monitor your family members health when they are not feeling well or affected by any diseases. The activities may vary as per their hobbies and profession.</td>
- </tr>
- <tr>
-   <td>
    <b>General Usage for Family</b>
    Men
    Women
@@ -210,28 +198,43 @@ You can check out some of our list of smartwatches that may suit your budget.
 
 When you look at smartwatches, what is the first thing you notice on a smartwatch? Obviously, the display, style and the watch face!! Right?
 
-#### Check the Display Shape
-* Is it a square or round smartwatch display?
-* Is it a hybrid smartwatch model?
+#### Check the Display and Casing Features
 
-
-
-Benefits of display shape:
-
-#### Check Display Always On Feature
-
-* Does it have always on display?
-
-Benefits of Always on Feature:
-
-Always-On display might be a necessary feature for older or elderly people who might find it difficult to switch on display every time they needs it. The downside of always on display is that it might drain the battery quite quickly.
-
-#### Check for the Display Size and Clarity
-* Is it visible under bright sunlight?
-* Is it bright enough when viewed in the dark?
-* View the watch from different angles and a different distance from your eyes and ensure that
-  * the size is big enough for the elements in the display to be clearly visible
-  * clarity is uncompromised
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Display and case Feature</th>
+   <th>Benefit</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td>Round shaped</td>
+   <td>Has bezzel, no sharp edges, goes good on skin</td>
+ </tr>
+ <tr>
+   <td>Square shaped</td>
+   <td>fits formal look</td>
+ </tr>
+ <tr>
+   <td>Size</td>
+   <td>the size is big enough for the elements in the display to be clearly visible</td>
+ </tr>
+ <tr>
+   <td>Clarity</td>
+   <td>Is it visible under bright sunlight?
+   Is it bright enough when viewed in the dark?
+   View the watch from different angles and a different distance from your eyes and ensure that
+   clarity is uncompromised</td>
+ </tr>
+ <tr>
+   <td>Always On Display</td>
+   <td>Always-On display might be a necessary feature for older or elderly people who might find it difficult to switch on display every time they needs it. The downside of always on display is that it might drain the battery quite quickly./td>
+ </tr>
+ </tbody>
+</table>
+</div>
 
 #### Check for Dust and Scratch Resistance
 Our daily smartwatch use will involve contact with dust or water on a rainy day which may damage the smartwatch display or casing. The smartwatch must be water-resistant as well as dust resistant so that the smartwatch is well protected against damage by water or dust. Ensure that smartwatch display and casing is scratch-resistant.
