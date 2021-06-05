@@ -223,10 +223,7 @@ When you look at smartwatches, what is the first thing you notice on a smartwatc
  </tr>
  <tr>
    <td>Clarity</td>
-   <td>Is it visible under bright sunlight?
-   Is it bright enough when viewed in the dark?
-   View the watch from different angles and a different distance from your eyes and ensure that
-   clarity is uncompromised</td>
+   <td>Is it visible under bright sunlight.Is it bright enough when viewed in the dark.View the watch from different angles and a different distance from your eyes and ensure that clarity is uncompromised</td>
  </tr>
  <tr>
    <td>Always On Display</td>
