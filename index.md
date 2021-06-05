@@ -227,7 +227,7 @@ When you look at smartwatches, what is the first thing you notice on a smartwatc
  </tr>
  <tr>
    <td>Always On Display</td>
-   <td>Always-On display might be a necessary feature for older or elderly people who might find it difficult to switch on display every time they needs it. The downside of always on display is that it might drain the battery quite quickly./td>
+   <td>Always-On display might be a necessary feature for older or elderly people who might find it difficult to switch on display every time they needs it. The downside of always on display is that it might drain the battery quite quickly.</td>
  </tr>
  </tbody>
 </table>
