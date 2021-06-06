@@ -367,7 +367,11 @@ Proximity sensor helps in increased battery life. It checks whether the user wea
  </tr>
  <tr>
    <td>Social Media Applications</td>
-   <td>facebook messenger, instagram etc</td>
+   <td>Some of his want to instantly see the notifications of Facebook, WhatsApp, Twitter, or any other social  media notification on the go.
+
+   Samsung smartwatches nearly show the messages and activities useful when you are engaged in some other activity.
+
+   You must know that only a few watches are always connected, and many manufacturers claim their products to be constantly connected. But that is not the case. Standalone smartwatches which have provision to insert SIM card and with good data plan are the truly independent smartwatches and are found to be on the expensive side.</td>
  </tr>
  <tr>
    <td>Mailing application</td>
@@ -431,7 +435,12 @@ Check whether you have a smartwatch that makes calls. You don’t need to take y
  </tr>
  <tr>
    <td>Voice calling application</td>
-   <td>You may need to install for a separate voice calling application for your smartwatch \
+   <td>You may need to install for a separate voice calling application for your smartwatch
+  to have the advantage of a calling option.</td>
+ </tr>
+ <tr>
+   <td>Voice recording application</td>
+   <td>You may need to install for a separate voice recording application for your smartwatch
   to have the advantage of a calling option.</td>
  </tr>
  <tr>
@@ -574,58 +583,87 @@ Check for the following travelling/navigation facilities and its related sensors
 ### ✅Does smartwatch have health/fitness tracker features?
 
 Check whether the following fitness sensors are available in the smartwatch.
-#### 1. Miss your health?: Use Smartwatch health Tracking Features
-{% include image.html img="women-missing-exercise.webp" alt="Women-missing-exercise" caption="Missing Exercise?" align="left" %}
-You may not find time to exercise due to household things and caring for family and children which may lead to obesity. More than one-third of adults present in the US are obese. Obesity is known to have caused more deaths than being underweight. You can have smartwatch which can and the health tracking features of the smartwatch can provide you workouts statistics.
-Walking
-running
-Swimming
-Sleeping monitoring
-Menstrual Tracking
-oxygen
-heartbeat/pulse
-exercise
-care during sickness
 
-#### Skin Temperature Sensor
-Body or the skin temperature are related to a person fitness and these parameters help with the fitness tracking. The skin temperature sensor tracks the body temperature and indicates even a slight change in the body temperature to alert you of falling sickness like fever and allergies. And also, it helps in tracking menstrual phases.
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Feature</th>
+   <th>Benefit</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td>Nutrition Logs</td>
+   <td>You may not find time to exercise due to household things and caring for family and children which may lead to obesity. More than one-third of adults present in the US are obese. Obesity is known to have caused more deaths than being underweight.</td>
+ </tr>
+ <tr>
+   <td>Exercise Logs</td>
+   <td>You can have smartwatch which can and the health tracking features of the smartwatch can provide you workouts statistics.
+   Walking
+   running
+   Swimming
+   Sleeping monitoring
+   Menstrual Tracking
+   oxygen
+   heartbeat/pulse
+   exercise
+   care during sickness</td>
+ </tr>
+ <tr>
+   <td>Skin Temperature Sensor</td>
+   <td>Body or the skin temperature are related to a person fitness and these parameters help with the fitness tracking. The skin temperature sensor tracks the body temperature and indicates even a slight change in the body temperature to alert you of falling sickness like fever and allergies. And also, it helps in tracking menstrual phases.</td>
+ </tr>
+ <tr>
+   <td>Sleep Tracking sensor</td>
+   <td>The sleep tracking features or function tracks the sleep cycle everyday and provides you relevant sleep data. Some of the smartwatch have advanced sleep data which we have covered in our smartwatch reviews.</td>
+ </tr>
+ <tr>
+   <td>Heart Rate Monitor/Sensor</td>
+   <td>It calculates the heartbeats per minute. The light emitted by the sensor on the wrist is reflected with less light after reaching the blood vessels. The heart rate sensor functions to provide data regarding heart rate during usual routine and fitness workouts.</td>
+ </tr>
+ <tr>
+   <td>ECG Sensor</td>
+   <td>It is an advanced sensor available to detects the minute electrical impulse from the heartbeat. The ECG sensor detects these minute electrical signals using electrodes.</td>
+ </tr>
+ <tr>
+   <td>Bioimpedance Sensor</td>
+   <td>It sends a low amount of electricity on the skin to measure the resistance of skin. Using the resistance calculation measurements, it presents heart rate, sleep rate, respiration rate, and many more.</td>
+ </tr>
+ <tr>
+   <td>SPO2 Monitor</td>
+   <td>The blood oxygen sensor measures the blood oxygen levels using the color of blood. The blood oxygen monitoring sensor traces the color change by reflecting red and infrared light from the blood through your wrist.</td>
+ </tr>
+ <tr>
+   <td>Ambient Light Sensor</td>
+   <td>The brightness of the display light is adjusted according to the ambient light. The sensor tracks the light of the ambiance which helps in saving the battery.</td>
+ </tr>
+ <tr>
+   <td>UV Sensor</td>
+   <td>It senses the UV rays and their harmfulness. If you are going on a sunny day, it will sense the UV and will indicate whether it is harmful or not.</td>
+ </tr>
+ </tbody>
+</table>
+</div>
 
-#### Sleep Tracking sensor
-The sleep tracking features or function tracks the sleep cycle everyday and provides you relevant sleep data. Some of the smartwatch have advanced sleep data which we have covered in our smartwatch reviews.
+### ✅Can you Find Key, Phone or using smartwatch?
 
-#### Heart Rate Monitor/Sensor
-It calculates the heartbeats per minute. The light emitted by the sensor on the wrist is reflected with less light after reaching the blood vessels. The heart rate sensor functions to provide data regarding heart rate during usual routine and fitness workouts.
+Losing a key or your phone can be highly frustrating. Losing these essential objects seems to happen right before any important occasion for which you cannot be late.
 
-#### ECG Sensor
-It is an advanced sensor available to detects the minute electrical impulse from the heartbeat. The ECG sensor detects these minute electrical signals using electrodes.
+A smartwatch can help you during this situation and take you out of the inconvenience of searching for it.
 
-#### Bioimpedance Sensor
-It sends a low amount of electricity on the skin to measure the resistance of skin. Using the resistance calculation measurements, it presents heart rate, sleep rate, respiration rate, and many more.
+Fossil smartwatches have a "find phone" feature with which you can connect your phone or any other device, and you can make it ring using your watch as per your wish.
 
-#### Electrodermal Activity Tracking Sensor
-Your stress level can be found using sensors like heart rate sensors, skin temperature sensors, and ECG. And also, it tracks tiny electrical changes in the sweat to track the stress.
-
-#### SPO2 Monitor
-The blood oxygen sensor measures the blood oxygen levels using the color of blood. The blood oxygen monitoring sensor traces the color change by reflecting red and infrared light from the blood through your wrist.
+Just press a few buttons, and your lost object can be located easily.
 
 ### ✅Can smartwatch detect whether I am wearing it or not?
 Proximity sensor helps in increased battery saving. It checks whether the user wears the smartwatch or not. If you are not wearing it, it will turn on the display screen and background functions to save the battery. If you are wearing it, it will turn on the display screen.
 
 ### ✅What are the entertainment facilities available?
 
-* Video recording
 * Video and movie playing
-* Audio recording
 * Music
 * Gaming
-
-## Benefits of Using Smartwatch
-
-
-
-## Benefits of smartwatches
-
-Smartwatches are loaded with the features discussed above and they provide advantage to all of us in daily and specialised activities.
 
 ## Top Brands of Smartwatches
 

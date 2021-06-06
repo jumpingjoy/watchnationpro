@@ -129,14 +129,6 @@ Fossil smartwatches have a "find phone" feature with which you can connect your 
 
 Just press a few buttons, and your lost object can be located easily.
 
-### ✅instant social media notification access
-
-Some of his want to instantly see the notifications of Facebook, WhatsApp, Twitter, or any other social  media notification on the go.
-
-Samsung smartwatches nearly show the messages and activities useful when you are engaged in some other activity.
-
-You must know that only a few watches are always connected, and many manufacturers claim their products to be constantly connected. But that is not the case. Standalone smartwatches which have provision to insert SIM card and with good data plan are thetruly independe nt smartwatches and are found to be on the expensive side.
-
 ## Final Thoughts
 {% include section-ad.html image="recommended-watch.webp" alt="Recommended Smartwatch for women" width="" url="https://geni.us/wnpapple" blank="true" %}
 As you are gaining more knowledge about smartwatches, the benefits of smartwatches for women cannot be overstated! Hence, if you think you are ready to try and purchase a smartwatch, you have found the right place here and making the right choice.
