@@ -299,21 +299,19 @@ The Operating system in smartwatches must be compatible with your smartphone’s
  <tr>
    <td>Check the smartwatch compatibility with Android OS</td>
    <td>The Google Wear OS runs on many smartwatches such as LG, Fossil, etc. The Wear OS is more compatible with android smartphones. The downside of Wear OS is that its compatibility is limited with Apple devices.
-   When the Wear OS smartwatch is connected with Android, Google Assistant helps you convert speech-to-text and is very convenient to answer emails and texts. Note that Wear OS speech-to-text features will not work with iPhone.</td>
+   When the Wear OS smartwatch is connected with Android, Google Assistant helps you convert speech-to-text and is very convenient to answer emails and texts. Note that Wear OS speech-to-text features will not work with iPhone.Samsung smartwatch models have thousands of android watch apps available currently including best apps Android.</td>
  </tr>
  <tr>
    <td>Check the smartwatch compatibility with Apple iOS</td>
-   <td>Apple Watch works only with iPhone.</td>
+   <td>Apple Watch works only with iPhone. Apple watch consists of more than Twenty thousand apps.</td>
  </tr>
  <tr>
    <td>Check the Compatibility with both Android/iOS</td>
    <td>Fossil watches are designed to be compatible with your smartphone. Samsung galaxy watch active 2 and Tizen powered galaxy watch can work with multiple Android and iPhone mobiles. The fitbit versa 3 works equally well with Android and iPhone.</td>
  </tr
  <tr>
-   <td>Check the smartwatch apps availability from App stores </td>
-   <td>How many Apps are available in smartwatch for usage?Samsung smartwatch models have thousands of android watch apps available currently including best apps Android.
-* Apple watch consists of more than Twenty thousand apps.
-* Look whether you can do third party app selection and have access to third party app.</td>
+   <td>Check the smartwatch apps availability from third-parties</td>
+   <td>How many Apps are available in smartwatch for usage.Look whether you can do third party app selection and have access to third party app.</td>
  </tr>
  </tbody>
 </table>
@@ -333,7 +331,7 @@ All of us prefer colors best designs, watch faces appearance and colors. Look wh
  <tbody>
  <tr>
    <td>Aesthetic Design</td>
-   <td>The power of beauty is vividly illustrated by the success of companies like Apple. Competing on price and product features is no longer enough.</td>
+   <td>The power of beauty is vividly illustrated by the success of companies like Apple. Competing on price and product features is no longer enough.includes color variants</td>
  </tr>
  <tr>
    <td>Emotional Appeal Design</td>
@@ -349,8 +347,6 @@ All of us prefer colors best designs, watch faces appearance and colors. Look wh
 
 ### ✅Does the Smartwatch have proximity sensor?
 Proximity sensor helps in increased battery life. It checks whether the user wears the smartwatch or not. If you are not wearing it, it will turn off the display screen and background functions to save the battery. If you are wearing it, it will turn on the display screen.
-
-
 
 ### ✅Can You Send/Receive Message in smartwatch?
 
@@ -418,44 +414,164 @@ help you get reminded of your exercises and workouts
 ### ✅Is it a smartwatch you can talk on?
 Check whether you have a smartwatch that makes calls. You don’t need to take your smartphone from your pocket or bag as they come with a dial pad.
 
-Ensure you buy a smartwatch with a speaker and microphone and look to be the best smartwatch to answer calls.
-
-You may have to pay for a separate data plan for your smartwatch to which might have a price around $10 per month if you want it to have the advantage of a calling option.
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Feature</th>
+   <th>Benefit</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td>Speaker</td>
+   <td>speaker to hear the other person talking</td>
+ </tr>
+ <tr>
+   <td>Microphone</td>
+   <td>To convert your speech as digital signals for the other person to hear.</td>
+ </tr>
+ <tr>
+   <td>Voice calling application</td>
+   <td>You may need to install for a separate voice calling application for your smartwatch \
+  to have the advantage of a calling option.</td>
+ </tr>
+ <tr>
+   <td>Calling Data Plan</td>
+   <td>You may have to pay for a separate data plan for your smartwatch to which might have a price around $10 per month if you want it to have the advantage of a calling option.</td>
+ </tr>
+ </tbody>
+</table>
+</div>
 
 ### ✅Can You Make Video Calls with smartwatch?
-Some smartwatches are designed with inbuilt cameras . You can shoot video from your wrist or attend video calling for meeting purposes when they have the following sensors:
 
-* Camera
-* Microphone to record and transmit voice
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Feature</th>
+   <th>Benefit</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td>Camera</td>
+   <td>Some smartwatches are designed with inbuilt cameras . You can shoot video from your wrist or attend video calling for meeting purposes when they have the following sensors.</td>
+ </tr>
+ <tr>
+   <td>Microphone</td>
+   <td>To convert your speech as digital signals for the other person to hear.</td>
+ </tr>
+ <tr>
+   <td>Video Calling Application</td>
+   <td>You may need to install for a video calling application for your smartwatch
+  to have the advantage of a video calling option.</td>
+ </tr>
+ <tr>
+   <td>Video Recording Application</td>
+   <td>You may need to install for a separate video recording application for your smartwatch
+  to have the advantage of a calling option.</td>
+ </tr>
+ <tr>
+   <td>Data Plan</td>
+   <td>You may have to pay for a separate data plan for your smartwatch to which might have a price around $10 per month if you want it to have the advantage of a calling option.</td>
+ </tr>
+ </tbody>
+</table>
+</div>
 
 ### ✅Can You Make Payments Using Smartwatch?
-You can use your smartwatches (with NFC chips) to pay even if your mobile phone is switched off.
+You can use your smartwatches to pay even if your mobile phone is switched off.
+
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Feature</th>
+   <th>Benefit</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td>NFC sensor</td>
+   <td>Some smartwatches are designed with inbuilt cameras . You can shoot video from your wrist or attend video calling for meeting purposes when they have the following sensors.</td>
+ </tr>
+ <tr>
+   <td>Payment Application</td>
+   <td>You may need to install for a payment application for your smartwatch
+  to have the advantage of a payment option.</td>
+ </tr>
+ <tr>
+   <td>Data Plan</td>
+   <td>You may have to pay for a separate data plan for your smartwatch to which might have a price around $10 per month if you want it to have the advantage of a payment option.</td>
+ </tr>
+ </tbody>
+</table>
+</div>
 
 Apple pay is enabled in all the Apple Watch models. Apple pay works even if you do not have your phone with you or do not have an LTE connection. Samsung Pay is also equally good and available in its latest models.
 
 Even fitness watches like Garmin and Fitbit versa 3 have mobile payments.
 
-### ✅Does the smartwatch have GPS Navigation Facilities?
+### ✅Does the smartwatch have Travelling/Navigation Facilities?
 
-Check for the following GPS navigation facilities and its related sensors in the smartwatch.
+Check for the following travelling/navigation facilities and its related sensors in the smartwatch.
 
-#### Compass
-Compass helps in finding the right direction.
-
-#### GPS Trackers
-GPS trackers function provides the gps location of the wearable, and it helps in calculating your running rate, the distance you walk or step and provides data as an activity tracker.
-
-#### Magnetometer
-It works with GPS to ensure the exact location of the wearables using coordinates.
-
-#### Altimeter
-An altimeter measures height or changes in height. So it can calculate the calorie count using the calculation given by the altimeter while climbing stairs or steps.
-
-#### Ambient Light Sensor
-The brightness of the display light is adjusted according to the ambient light. The sensor tracks the light of the ambiance which helps in saving the battery.
-
-#### UV Sensor
-It senses the UV rays and their harmfulness. If you are going on a sunny day, it will sense the UV and will indicate whether it is harmful or not.
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Feature</th>
+   <th>Benefit</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td>Compass</td>
+   <td>Compass helps in finding the right direction.</td>
+ </tr>
+ <tr>
+   <td>Compass application</td>
+   <td>You may have to pay for a separate data plan for your smartwatch to which might have a price around $10 per month if you want it to have the advantage of a payment option.</td>
+ </tr>
+ <tr>
+   <td>GPS Tracker</td>
+   <td>You may need to install for a payment application for your smartwatch
+  to have the advantage of a payment option.</td>
+ </tr>
+ <tr>
+   <td>GPS tracker Application</td>
+   <td>You may need to install a GPS tracker application for your smartwatch
+  to have the advantage of a payment option.</td>
+ </tr>
+ <tr>
+   <td>Data Plan</td>
+   <td>You may have to pay for a separate data plan for your smartwatch to which might have a price around $10 per month if you want it to have the advantage of a payment option.</td>
+ </tr>
+ <tr>
+   <td>Magnetometer</td>
+   <td>It works with GPS to ensure the exact location of the wearables using coordinates.</td>
+ </tr>
+ <tr>
+   <td>Magnetometer Application</td>
+   <td>It works with GPS to ensure the exact location of the wearables using coordinates.</td>
+ </tr>
+ <tr>
+   <td>Altimeter</td>
+   <td>An altimeter measures height or changes in height. So it can calculate the calorie count using the calculation given by the altimeter while climbing stairs or steps.</td>
+ </tr>
+ <tr>
+   <td>Ambient Light Sensor</td>
+   <td>The brightness of the display light is adjusted according to the ambient light. The sensor tracks the light of the ambiance which helps in saving the battery.</td>
+ </tr>
+ <tr>
+   <td>UV Sensor</td>
+   <td>It senses the UV rays and their harmfulness. If you are going on a sunny day, it will sense the UV and will indicate whether it is harmful or not.</td>
+ </tr>
+ </tbody>
+</table>
+</div>
 
 ### ✅Does smartwatch have health/fitness tracker features?
 
