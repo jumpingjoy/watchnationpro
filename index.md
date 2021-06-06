@@ -193,6 +193,33 @@ You can check out some of our list of smartwatches that may suit your budget.
 
 ### ✅What is the Smartwatch Brand?
 
+### How is the Design of the smartwatch?
+All of us prefer colors best designs, watch faces appearance and colors. Look whether the smartwatch you choose has different watch face with customization options. Check whether you can change the watch strap to suit various events and outfit.
+
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Design Aspect</th>
+   <th>Benefit</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td>Aesthetic Design</td>
+   <td>The power of beauty is vividly illustrated by the success of companies like Apple. Competing on price and product features is no longer enough.includes color variants</td>
+ </tr>
+ <tr>
+   <td>Emotional Appeal Design</td>
+   <td>Apple Watch works only with iPhone.</td>
+ </tr>
+ <tr>
+   <td>User Experience Design</td>
+   <td>Design is not just about the object created, but also about the way that creation makes us feel, think, or learn. It’s about the human response to the things we make for the world.</td>
+ </tr>
+ </tbody>
+</table>
+</div>
 
 ### ✅How is the Smartwatch Display and Casing?
 
@@ -314,34 +341,7 @@ You must check the compatibility of the smartwatch with the smartphone you are u
  </tbody>
 </table>
 </div>
-
-### ✅What is the Stylish Design of the smartwatch?
-All of us prefer colors best designs, watch faces appearance and colors. Look whether the smartwatch you choose has different watch face with customization options. Check whether you can change the watch strap to suit various events and outfit.
-
-<div>
-<table>
- <thead>
- <tr>
-   <th>Design Aspect</th>
-   <th>Benefit</th>
- </tr>
- </thead>
- <tbody>
- <tr>
-   <td>Aesthetic Design</td>
-   <td>The power of beauty is vividly illustrated by the success of companies like Apple. Competing on price and product features is no longer enough.includes color variants</td>
- </tr>
- <tr>
-   <td>Emotional Appeal Design</td>
-   <td>Apple Watch works only with iPhone.</td>
- </tr>
- <tr>
-   <td>User Experience Design</td>
-   <td>Design is not just about the object created, but also about the way that creation makes us feel, think, or learn. It’s about the human response to the things we make for the world.</td>
- </tr>
- </tbody>
-</table>
-</div>
+You must know that only a few watches are always connected, and many manufacturers claim their products to be constantly connected. But that is not the case. Standalone smartwatches which have provision to insert SIM card and with good data plan are the truly independent smartwatches and are found to be on the expensive side.
 
 ### ✅Does the Smartwatch have proximity sensor?
 Proximity sensor helps in increased battery life. It checks whether the user wears the smartwatch or not. If you are not wearing it, it will turn off the display screen and background functions to save the battery. If you are wearing it, it will turn on the display screen.
@@ -367,11 +367,8 @@ Proximity sensor helps in increased battery life. It checks whether the user wea
  </tr>
  <tr>
    <td>Social Media Applications</td>
-   <td>Some of his want to instantly see the notifications of Facebook, WhatsApp, Twitter, or any other social  media notification on the go.
-
-   Samsung smartwatches nearly show the messages and activities useful when you are engaged in some other activity.
-
-   You must know that only a few watches are always connected, and many manufacturers claim their products to be constantly connected. But that is not the case. Standalone smartwatches which have provision to insert SIM card and with good data plan are the truly independent smartwatches and are found to be on the expensive side.</td>
+   <td>Some of his want to instantly see the notifications of Facebook, WhatsApp, Twitter, or any other social  media notification on the go. Samsung smartwatches nearly show the messages and activities useful when you are engaged in some other activity.
+   </td>
  </tr>
  <tr>
    <td>Mailing application</td>
@@ -389,14 +386,13 @@ Proximity sensor helps in increased battery life. It checks whether the user wea
 
 ### ✅Can you organize reminders/calenders using your smartwatches?
 
-Smartwatches have alert reminders, calendar (which can synchronize with Google assistant or calender to remind you about all your meetings and other events)
-help you get reminded of your exercises and workouts
+Smartwatches have alert reminders, calendar (which can synchronize with Google assistant or calender to remind you about all your meetings and other events) help you get reminded of your exercises and workouts
 
 <div>
 <table>
  <thead>
  <tr>
-   <th>Reminders</th>
+   <th>Reminders Feature</th>
    <th>Benefit</th>
  </tr>
  </thead>
@@ -522,8 +518,7 @@ Apple pay is enabled in all the Apple Watch models. Apple pay works even if you 
 Even fitness watches like Garmin and Fitbit versa 3 have mobile payments.
 
 ### ✅Does the smartwatch have Travelling/Navigation Facilities?
-
-Check for the following travelling/navigation facilities and its related sensors in the smartwatch.
+You can check the travelling/naviation related sensors of the smartwatch.
 
 <div>
 <table>
@@ -576,9 +571,38 @@ Check for the following travelling/navigation facilities and its related sensors
    <td>UV Sensor</td>
    <td>It senses the UV rays and their harmfulness. If you are going on a sunny day, it will sense the UV and will indicate whether it is harmful or not.</td>
  </tr>
+ <tr>
+   <td>Vibration to direct navigation</td>
+   <td>Some smartwatches like Apple watch which can deliver different vibrations on your wrist to instruct you to turn left or right. Smartwatches allows you to avoid looking at your smartphone frequently. and enjoy the scenery instead of looking at a map on the smartphone.</td>
+ </tr>
  </tbody>
 </table>
 </div>
+
+### ✅Does the smartwatch have Vibration Facilities?
+You can check the vibration sensor that works for the following scenarios:
+
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Vibration Feature</th>
+   <th>Benefit</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td>Vibration during message/alerts/notifications</td>
+   <td>You get notified using vibration for messages/alerts/notifications.</td>
+ </tr>
+ <tr>
+   <td>Vibration to direct navigation</td>
+   <td>Some smartwatches like Apple watch which can deliver different vibrations on your wrist to instruct you to turn left or right. Smartwatches allows you to avoid looking at your smartphone frequently. and enjoy the scenery instead of looking at a map on the smartphone.</td>
+ </tr>
+ </tbody>
+</table>
+</div>
+
 
 ### ✅Does smartwatch have health/fitness tracker features?
 
