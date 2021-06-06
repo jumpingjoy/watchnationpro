@@ -101,22 +101,23 @@ You must be feeling the need to buy a smartwatch because it offers some things t
  <thead>
  <tr>
    <th>Who Needs smartwatch?</th>
-   <th>Why do they need smartwatch</th>
+   <th>Why do you need smartwatch?</th>
  </tr>
  </thead>
  <tbody>
  <tr>
-   <td>
-   <b>General Usage for Family</b>
-   Men
-   Women
-   Toddlers
-   kids
-   Teens and college students
-   elderly
-   Pets
-   </td>
-   <td>general usage. You can also need smartwatches to monitor your family members health when they are not feeling well or affected by any diseases. The activities may vary as per their hobbies and profession.</td>
+   <td><b>General Usage</b></td>
+   <td>You can also need smartwatches to monitor your family members general wellbeing and use. If you are wishing to get started as a beginner or play any of the following roles in a family, browse through the following to get started with:
+   <ul>
+   <li>Smartwatch for Men</li>
+   <li>Smartwatch for Women</li>
+   <li>Smartwatch for Toddlers</li>
+   <li>Smartwatch for kids</li>
+   <li>Smartwatch for Teens and college students</li>
+   <li>Smartwatch for elderly</li>
+   <li>Smartwatch for Pets</li>
+   </ul>
+   when they are not feeling well or affected by any diseases. The activities may vary as per their hobbies and profession.</td>
  </tr>
  <tr>
    <td>
@@ -603,7 +604,6 @@ You can check the vibration sensor that works for the following scenarios:
 </table>
 </div>
 
-
 ### ✅Does smartwatch have health/fitness tracker features?
 
 Check whether the following fitness sensors are available in the smartwatch.
@@ -701,8 +701,6 @@ A smartwatch can help you during this situation and take you out of the inconven
 * Video and movie playing
 * Music
 * Gaming
-
-## Top Brands of Smartwatches
 
 ## Our Top Picks - Best Smartwatches
 
