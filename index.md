@@ -313,15 +313,6 @@ The Operating system in smartwatches must be compatible with your smartphone’s
 </table>
 </div>
 
-##### ?
-
-
-##### ?
-
-
-##### ?
-
-
 ### ✅What is the Stylish Design of the smartwatch?
 All of us prefer colors best designs, watch faces appearance and colors. Look whether the smartwatch you choose has different watch face with customization options. Check whether you can change the watch strap to suit various events and outfit.
 
