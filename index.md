@@ -283,9 +283,7 @@ When you look at smartwatches, what is the first thing you notice on a smartwatc
 </div>
 
 ### ✅How is the Smartwatch Connected to Smartphone?
-The Operating system in smartwatches must be compatible with your smartphone’s OS. Otherwise, you may not have access to few functions.
-
-#### Check Compatible of the smartwatch with Smartphone
+You must check the compatibility of the smartwatch with the smartphone you are using.The Operating system in smartwatches must be compatible with your smartphone’s OS. Otherwise, you may not have access to few functions.
 
 <div>
 <table>
@@ -308,7 +306,7 @@ The Operating system in smartwatches must be compatible with your smartphone’s
  <tr>
    <td>Check the Compatibility with both Android/iOS</td>
    <td>Fossil watches are designed to be compatible with your smartphone. Samsung galaxy watch active 2 and Tizen powered galaxy watch can work with multiple Android and iPhone mobiles. The fitbit versa 3 works equally well with Android and iPhone.</td>
- </tr
+ </tr>
  <tr>
    <td>Check the smartwatch apps availability from third-parties</td>
    <td>How many Apps are available in smartwatch for usage.Look whether you can do third party app selection and have access to third party app.</td>
