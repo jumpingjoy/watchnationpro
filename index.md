@@ -107,7 +107,7 @@ You must be feeling the need to buy a smartwatch because it offers some things t
  <tbody>
  <tr>
    <td><b>General Usage</b></td>
-   <td>You can also need smartwatches to monitor your family members general wellbeing and use. If you are wishing to get started as a beginner or play any of the following roles in a family, browse through the following to get started with:
+   <td>You will  need smartwatches to safeguard your family members general wellbeing. If you are wishing to get started as a beginner or play any of the following roles in a family, browse through the following smartwatches for your family general usage to get started with:
    <ul>
    <li>Smartwatch for Men</li>
    <li>Smartwatch for Women</li>
@@ -117,23 +117,42 @@ You must be feeling the need to buy a smartwatch because it offers some things t
    <li>Smartwatch for elderly</li>
    <li>Smartwatch for Pets</li>
    </ul>
-   when they are not feeling well or affected by any diseases. The activities may vary as per their hobbies and profession.</td>
+   The general usage and activities may vary as per their hobbies and profession. We are covering these sections in detail below in this article.
+   </td>
  </tr>
  <tr>
-   <td>
-   <b>Professional Usage</b>
-   Firefighters
-   Doctors
-   Nurses
-   Military
-   Construction workers
-   Engineers
-   Businessman
-   finance and bankers
-   IT professional
-   Media professional
+   <td><b>Professional Work</b></td>
+   <td>You will need smartwatches to ease/assist you while working.If you are wishing to buy a smartwatch to assist during your professional work, click on any of the following profession which suits you:
+   <ul>
+    <li>Smartwatch for Firefighters</li>
+    <li>Smartwatch for Doctors</li>
+    <li>Smartwatch for Nurses</li>
+    <li>Smartwatch for Military</li>
+    <li>Smartwatch for Construction workers</li>
+    <li>Smartwatch for Engineers</li>
+    <li>Smartwatch for Businessman</li>
+    <li>Smartwatch for finance and bankers</li>
+    <li>Smartwatch for IT professional</li>
+    <li>Smartwatch for Media professional</li>
+    </ul>
    </td>
-   <td>You can also need smartwatches to monitor your family members health when they are not feeling well or affected by any diseases. The activities may vary as per their hobbies and profession.</td>
+ </tr>
+ <tr>
+   <td><b>Professional/hobby Sports</b></td>
+   <td>You will need smartwatches to ease/assist you while you train/get involved in professional/hobby sports. If you are wishing to buy a smartwatch to assist during your professional/hobby sports, click on any of the following sports related roles which suits you:
+   <ul>
+    <li>Smartwatch for Physical Sports on Land</li>
+    <li>Smartwatch for Motorized Sports on Land</li>
+    <li>Smartwatch for Physical Sports in water</li>
+    <li>Smartwatch for motorized Sports on water</li>
+    <li>Smartwatch for Physical Sports on snow/ice</li>
+    <li>Smartwatch for mptorized Sports on snow/ice</li>
+    <li>Smartwatch for air sports</li>
+    <li>Smartwatch for finance and bankers</li>
+    <li>Smartwatch for IT professional</li>
+    <li>Smartwatch for Media professional</li>
+    </ul>
+   </td>
  </tr>
  <tr>
    <td>
@@ -194,7 +213,7 @@ You can check out some of our list of smartwatches that may suit your budget.
 
 ### ✅What is the Smartwatch Brand?
 
-### How is the Design of the smartwatch?
+### ✅How is the Design of the smartwatch?
 All of us prefer colors best designs, watch faces appearance and colors. Look whether the smartwatch you choose has different watch face with customization options. Check whether you can change the watch strap to suit various events and outfit.
 
 <div>
@@ -279,7 +298,7 @@ When you look at smartwatches, what is the first thing you notice on a smartwatc
 </table>
 </div>
 
-### Check the Strap/Band Features
+#### Check the Strap/Band Features
 
 <div>
 <table>
@@ -343,6 +362,37 @@ You must check the compatibility of the smartwatch with the smartphone you are u
 </table>
 </div>
 You must know that only a few watches are always connected, and many manufacturers claim their products to be constantly connected. But that is not the case. Standalone smartwatches which have provision to insert SIM card and with good data plan are the truly independent smartwatches and are found to be on the expensive side.
+
+### Check the Strap/Band Features
+
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Band Feature</th>
+   <th>Benefits</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td>Strap/Band Fitness and Comfortness</td>
+   <td>Check the different kinds of materials in which bands are available and its strenght to withstand stress. Ensure that the display fits your wrist. Special care to be taken when you are a man or women with small wrist. If you do not get the right fit, it will look unfit and uncomfortable.</td>
+ </tr>
+ <tr>
+   <td>Strap/Band Durability</td>
+   <td>Check the different kinds of materials in which bands are available and its strenght to withstand stress.If the case and band material of a smartwatch are good then the smartwatch will last lo9nmgb as c compared to other smartwatches.</td>
+ </tr>
+ <tr>
+   <td>Strap lock mechanism</td>
+   <td>option to lock, unlockloose and tighten around wrist.</td>
+ </tr>
+ <tr>
+   <td>Strap/Band Customization</td>
+   <td>easily changable? can get in market</td>
+ </tr>
+ </tbody>
+</table>
+</div>
 
 ### ✅Does the Smartwatch have proximity sensor?
 Proximity sensor helps in increased battery life. It checks whether the user wears the smartwatch or not. If you are not wearing it, it will turn off the display screen and background functions to save the battery. If you are wearing it, it will turn on the display screen.
