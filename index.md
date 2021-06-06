@@ -647,17 +647,30 @@ Check whether the following fitness sensors are available in the smartwatch.
 </div>
 
 ### ✅Can you Find Key, Phone or using smartwatch?
-
 Losing a key or your phone can be highly frustrating. Losing these essential objects seems to happen right before any important occasion for which you cannot be late.
 
 A smartwatch can help you during this situation and take you out of the inconvenience of searching for it.
 
-Fossil smartwatches have a "find phone" feature with which you can connect your phone or any other device, and you can make it ring using your watch as per your wish.
-
-Just press a few buttons, and your lost object can be located easily.
-
-### ✅Can smartwatch detect whether I am wearing it or not?
-Proximity sensor helps in increased battery saving. It checks whether the user wears the smartwatch or not. If you are not wearing it, it will turn on the display screen and background functions to save the battery. If you are wearing it, it will turn on the display screen.
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Feature</th>
+   <th>Benefit</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td>Find a phone feature</td>
+   <td>Fossil smartwatches have a "find phone" feature with which you can connect your phone or any other device, and you can make it ring using your watch as per your wish.</td>
+ </tr>
+ <tr>
+   <td>Find a key/other objects</td>
+   <td>Some smartwatches have a "find object" feature with which you can connect your phone or any other device, and you can make it ring using your watch as per your wish.</td>
+ </tr>
+ </tbody>
+</table>
+</div>
 
 ### ✅What are the entertainment facilities available?
 
@@ -668,6 +681,50 @@ Proximity sensor helps in increased battery saving. It checks whether the user w
 ## Top Brands of Smartwatches
 
 ## Our Top Picks - Best Smartwatches
+
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Product</th>
+   <th>Category</th>
+   <th>Price Range</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td>
+    <b>Apple Watch Series 6</b>
+    {% include image.html img="apple-watch-series-6.webp" align="center" %}
+    {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+    </td>
+   <td>Best Overall Performance</td>
+   <td>$749.00 to $1,499.00</td>
+ </tr>
+
+ <tr>
+   <td>
+    <b>Samsung Galaxy Watch 3</b>
+    {% include image.html img="samsung-galaxy-active-3.webp" align="center" %}
+    {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpsamsunggalaxy3" blank="true" %}
+    </td>
+   <td>Best Smartwatch for Fitness Enthusiast</td>
+   <td>$400 to $479</td>
+ </tr>
+
+  <tr>
+    <td>
+    <b>Garmin Venu</b>
+    {% include image.html img="garmin-venu.webp" align="center" %}
+    {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpgarminvenu" blank="true" %}
+    </td>
+    <td>Best Multisport Smartwatch</td>
+    <td>~$300</td>
+  </tr>
+ </tbody>
+</table>
+</div>
+
 
 Of course! Performance tests have proven smartwatches are the unsurpassed solution that improves lifestyle apart from smartphones.
 
