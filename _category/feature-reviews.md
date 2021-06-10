@@ -1,4 +1,4 @@
 ---
-tag: feature-reviews
-permalink: "/category/general/"
+tag: smartwatch-feature-reviews
+permalink: "/category/smartwatch-feature-reviews/"
 ---

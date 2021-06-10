@@ -1,4 +1,4 @@
 ---
-tag: model-comparison
-permalink: "/category/model-comparison/"
+tag: smartwatch-model-comparison
+permalink: "/category/smartwatch-model-comparison/"
 ---
