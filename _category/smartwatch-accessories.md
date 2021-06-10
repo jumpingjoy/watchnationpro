@@ -1,4 +1,4 @@
 ---
-tag: smartwatch-model-reviews
-permalink: "/category/smartwatch-model-reviews/"
+tag: smartwatch-accessories
+permalink: "/category/smartwatch-accessories/"
 ---

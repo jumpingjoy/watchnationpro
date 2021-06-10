@@ -2,11 +2,11 @@
 page:
   - widget: recent
     title: RECENT ARTICLES
-    count: 5
+    count: 3
 
   - widget: categories
     title: CATEGORIES
-    count: 8
+    count: 10
 
   - widget: authors
     title: CONTRIBUTORS
