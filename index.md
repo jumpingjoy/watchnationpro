@@ -106,14 +106,14 @@ You must be feeling the need to buy a smartwatch because it offers some things t
  </thead>
  <tbody>
  <tr>
-   <td><b>General Usage</b></td>
+   <td><b>Family Members</b></td>
    <td>You will  need smartwatches to safeguard your family members general wellbeing. If you are wishing to get started as a beginner or play any of the following roles in a family, browse through the following smartwatches for your family general usage to get started with:
    <ul>
    <li>Smartwatch for Men</li>
-   <li>Smartwatch for Women</li>
+   <a href="https://watchnationpro.com/smartwatch-for-women/"><li>Smartwatch for Women</li></a>
    <li>Smartwatch for Toddlers</li>
    <li>Smartwatch for kids</li>
-   <li>Smartwatch for Teens and college students</li>
+   <li>Smartwatch for Teens/college students</li>
    <li>Smartwatch for elderly</li>
    <li>Smartwatch for Pets</li>
    </ul>
@@ -157,7 +157,7 @@ You must be feeling the need to buy a smartwatch because it offers some things t
 
 > You might be any of the above and read on the full guide to know what kind of a smartwatch you can choose and what are the best benefits that you can get with them.
 
-## Quick List - Best Smartwatches for General Usage
+## Quick List - Best Smartwatches
 
 Some of the well known smartwatch brands in the market that is suitable for most of the high-mid range budget is found below.
 
@@ -226,7 +226,7 @@ We have provided a **list of the best smartwatches** available in the market.
 </table>
 </div>
 
-## 5 Best Smartwatch for General Usage
+## 5 Best Smartwatches
 
 ### ✅No.1 Apple Watch Series
 
