@@ -6,7 +6,7 @@ page:
 
   - widget: categories
     title: CATEGORIES
-    count: 10
+    count: 12
 
   - widget: authors
     title: CONTRIBUTORS
