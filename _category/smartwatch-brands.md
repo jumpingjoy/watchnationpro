@@ -1,4 +1,4 @@
 ---
-tag: smartwatch-brands
-permalink: "/category/smartwatch-brands/"
+tag: brands
+permalink: "/category/brands/"
 ---
