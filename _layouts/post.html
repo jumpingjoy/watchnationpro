@@ -52,6 +52,27 @@ layout: default
       {% endif %}
 
     </div>
+
+<!--TOC test below this-->
+
+<div class="uk-width-1-4@m uk-flex-first@m table-of-content">
+  <div class="postition-sticky">
+
+
+  <h4>Table of Content
+    <a class="toc-menu-toggle"  uk-toggle="target: #toggle-usage" href="#"><svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" data-svg="navbar-toggle-icon"><rect y="9" width="20" height="2"></rect><rect y="3" width="20" height="2"></rect><rect y="15" width="20" height="2"></rect></svg></a>
+
+  </h4>
+  <div>
+    <div hidden aria-hidden="true" id="toggle-usage">
+      {% include toc.html html=content h_max=2 %}
+    </div>
+  </div>
+</div>
+</div>
+
+<!--TOC test above this-->
+
     <div class="content-primary uk-position-relative uk-margin-large-bottom">
       <hr class="uk-margin-large-bottom">
 

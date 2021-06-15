@@ -65,9 +65,7 @@ You must be feeling the need to buy a smartwatch because it offers some things t
  </tr>
  <tr>
    <td><b>Women who attends events</b></td>
-   <td>Is your Smartwatch looking odd with your clothes?
-
-   You may go to a party, and feel embarrassed when someone notices your watch look odd to your wrist size or outfits. Some do not have the option to change the watch band options or strap according to the outfits.
+   <td>Is your Smartwatch looking odd with your clothes?  You may go to a party, and feel embarrassed when someone notices your watch look odd to your wrist size or outfits. Some do not have the option to change the watch band options or strap according to the outfits.
    </td>
  </tr>
  </tbody>
