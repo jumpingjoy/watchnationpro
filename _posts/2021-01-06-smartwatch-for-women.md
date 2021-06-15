@@ -1,7 +1,7 @@
 ---
-title: Smartwatches for Women
+title: Smartwatch for Women
 description:  We tested out various smartwatches for women. Find out the FREE...
-image: apple-watch-6.webp
+image: smartwatch-for-women.webp
 categories: [smartwatch-for-family-members]
 tags: [featured]
 hidden: true
