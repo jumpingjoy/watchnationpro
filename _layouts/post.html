@@ -14,7 +14,7 @@ layout: default
   <div class="uk-container uk-container-small uk-margin-large-bottom">
     <div class="uk-cover-container">
       <img src="{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ site.uploads | absolute_url }}{{ page.image }}{% endif %}" alt="{{ page.title }}" data-uk-cover>
-      <canvas width="1000" height="500"></canvas>
+      <canvas width="700" height="350"></canvas>
     </div>
   </div>
   {% endif %}
@@ -61,25 +61,6 @@ layout: default
 
       {% if page.share %}
         <div class="share-side uk-position-absolute uk-visible@m" data-uk-scrollspy="cls: uk-animation-fade; target: .share; repeat: true">
-          <!--TOC test below this-->
-
-          <div class="uk-width-1-4@m uk-flex-first@m table-of-content">
-            <div class="postition-sticky">
-
-
-            <h4>Table of Content
-              <a class="toc-menu-toggle"  uk-toggle="target: #toggle-usage" href="#"><svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" data-svg="navbar-toggle-icon"><rect y="9" width="20" height="2"></rect><rect y="3" width="20" height="2"></rect><rect y="15" width="20" height="2"></rect></svg></a>
-
-            </h4>
-            <div>
-              <div hidden aria-hidden="true" id="toggle-usage">
-                {% include toc.html html=content h_max=2 %}
-              </div>
-            </div>
-          </div>
-          </div>
-
-          <!--TOC test above this-->
           <div class="share" data-uk-sticky="offset: 150; bottom: .content-primary;">{% include share.html %}</div>
         </div>
       {% endif %}
