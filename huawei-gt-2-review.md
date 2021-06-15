@@ -354,7 +354,7 @@ You can find all the outdoor activities' modes such as biking, mountaineering, e
 
 Huawei GT 2 is Huawei's GT smartwatch's successor as Huawei is filled with in-house hardware in both smartwatches. The improvements are given in software and increasing the performance. Huawei's own Lite OS has to work on some features. However, it delivers good fitness tracking and health tracking with good battery life. Those looking for more variants in terms of designs, colors, sports features can look at Huawei's GT variants. It serves adequate performance for the price. Still, there are many other smartwatches in Fitbit, Samsung that scores high while comparing few additional features; it is up to you to choose the one that suits most of your requirements in one watch.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7WP0PF8lxGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/7WP0PF8lxGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Where can I buy this product?
 
@@ -370,14 +370,14 @@ The Huawei Watch GT 2 is an awesome-looking smartwatch that has very good batter
 
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnphuaweigt2" blank="true" %}
 
-If you feel that this watch is not a best fit for you, we have reviewed other <u><a href= "https://www.watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
+If you feel that this watch is not a best fit for you, we have reviewed other <u><a href= "https://watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
 
 ### Post Author
 #### Sarah Hollen
 {% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
-Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://www.watchnationpro.com/about-us/">here</a>.
+Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://watchnationpro.com/about-us/">here</a>.
 
-<b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
+<b><a href="https://watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
 
 <a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
 <a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>

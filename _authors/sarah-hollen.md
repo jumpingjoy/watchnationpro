@@ -6,7 +6,7 @@ bio:            Writer at WatchNationPro, technology and fitness enthusiast, avi
 email:          me@mysite.com
 website:        https://watchnationpro.com
 twitter:        https://twitter.com/WatchPro
-facebook:       https://www.facebook.com/Watchnationpro-102256021952797
+facebook:       https://facebook.com/Watchnationpro-102256021952797
 ---
 
 Hey guys, I’m Sarah! Ever since I was a kid, ​my dad introduced me to playing sports such as tennis, badminton, and baseball. Since that time, I learned that being physically active is very crucial in maintaining a healthy body.

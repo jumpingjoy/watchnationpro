@@ -361,7 +361,7 @@ Apps for outdoor activities such as running, walking, Biking, etc., are availabl
 ## How does it work?
 
 Garmin Venu comes from the well-known brand of Garmin with sensible features for women.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7INBkApiD9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/7INBkApiD9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Where can I buy this product?
 
@@ -377,14 +377,14 @@ The whole exercise of the writing this Garmin Venu review is to know who this de
 The Venu is not the best smartwatch you can buy if you are looking for anything other than fitness. It’s a very good fitness wearable watch<a href="https://en.wikipedia.org/wiki/Wearable_technology">2</a>, and the addition of the OLED is a step in the right direction (touchscreen issues aside).
 <!--external link inserted above-->
 
-If you feel that the cost is over the board, we have reviewed other <u><a href= "https://www.watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
+If you feel that the cost is over the board, we have reviewed other <u><a href= "https://watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
 
 ### Post Author
 #### Sarah Hollen
 {% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
-Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://www.watchnationpro.com/about-us/">here</a>.
+Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://watchnationpro.com/about-us/">here</a>.
 
-<b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
+<b><a href="https://watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
 
 <a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
 <a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>

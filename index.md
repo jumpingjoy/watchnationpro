@@ -56,37 +56,37 @@ schemadotorg:
     item:
       "@type": Product
       name: Apple Watch Series 6
-      url: https://www.watchnationpro.com/apple-watch-series-6-review/
+      url: https://watchnationpro.com/apple-watch-series-6-review/
   - "@type": ListItem
     position: 2
     item:
       "@type": Product
       name: Samsung Watch Active 3
-      url: https://www.watchnationpro.com/samsung-galaxy-watch-3-review/
+      url: https://watchnationpro.com/samsung-galaxy-watch-3-review/
   - "@type": ListItem
     position: 3
     item:
       "@type": Product
       name: Garmin Venu
-      url: https://www.watchnationpro.com/garmin-venu-review/
+      url: https://watchnationpro.com/garmin-venu-review/
   - "@type": ListItem
     position: 4
     item:
       "@type": Product
       name: Fitbit Sense
-      url: https://www.watchnationpro.com/fitbit-sense-review/
+      url: https://watchnationpro.com/fitbit-sense-review/
   - "@type": ListItem
     position: 5
     item:
       "@type": Product
       name: Huawei GT 2
-      url: https://www.watchnationpro.com/huawei-gt-2-review/
+      url: https://watchnationpro.com/huawei-gt-2-review/
 
 ---
 {% include image.html img="apple-watch-6.webp" alt="Alt for image" caption="" align="center" %}
 As a man or woman, you might know how to buy a normal watch ⌚and its types and how to select them. But, choosing a **smartwatch** is difficult as these smartwatches consists of many features, style and technical specifications which can be a bit overwhelming for a beginner.
 
-We at WatchNationPro will **help you select the best smartwatch**, we have come up with this **ultimate site** for everything related to the best smart watches. You might wonder <a href="https://www.watchnationpro.com/why-watchnationpro/">Why WatchNationPro.com</a>? It is because
+We at WatchNationPro will **help you select the best smartwatch**, we have come up with this **ultimate site** for everything related to the best smart watches. You might wonder <a href="https://watchnationpro.com/why-watchnationpro/">Why WatchNationPro.com</a>? It is because
 we, at watchnationpro.com, strive hard to provide detailed expert opinions for all the context in which you can use smartwatch to squeeze maximum benefits on using a smartwatch.
 
 ## Who and Why Anyone Needs a Smartwatch?
@@ -232,7 +232,7 @@ We have provided a **list of the best smartwatches** available in the market.
 
 {% include image.html img="apple-watch-series-6.webp" align="right" %}
 
-<a href="https://www.watchnationpro.com/apple-watch-series-6-review/">Apple Watch Series 6</a> is one of the best smartwatch out there in the market for men and women. Apple Watch Series 6 has a **stylish design** and comes with **two size options** available in 40mm & 44mm sizes like series 5. The watch is available within a **price range of $749.00 to $1,499.00** based on the features and size.
+<a href="https://watchnationpro.com/apple-watch-series-6-review/">Apple Watch Series 6</a> is one of the best smartwatch out there in the market for men and women. Apple Watch Series 6 has a **stylish design** and comes with **two size options** available in 40mm & 44mm sizes like series 5. The watch is available within a **price range of $749.00 to $1,499.00** based on the features and size.
 
 It has a **case depth of 10.74** which also **suits small writs of men, women or teens**. The best sellers smartwatch is loaded with awesome aesthetics design, style options, and features.
 
@@ -298,7 +298,7 @@ It has a **case depth of 10.74** which also **suits small writs of men, women or
 ### ✅No.2 Samsung Galaxy Watch
 {% include image.html img="samsung-galaxy-active-3.webp" align="right" %}
 
-Top brand Samsung has **released another version** to its Samsung galaxy range of smartwatch series called <a href="https://www.watchnationpro.com/samsung-galaxy-watch-3-review">Samsung Galaxy Watch 3</a>.
+Top brand Samsung has **released another version** to its Samsung galaxy range of smartwatch series called <a href="https://watchnationpro.com/samsung-galaxy-watch-3-review">Samsung Galaxy Watch 3</a>.
 
 **Similar to galaxy watch active 2**, the latest model comes with **AMOLED screen display** in **two sizes: 40mm and 44mm** for a price range of **$400 to $479**.
 
@@ -369,7 +369,7 @@ Garmin Venu is the first company to release its **first AMOLED  screen (with alw
 
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpgarminvenu" blank="true" %}
 
-The **built in GPS tracking** of <a href="https://www.watchnationpro.com/garmin-venu-review">Garmin Venu</a> is tested to be **accurate** that provides data on location and navigation. New **features related to breathing and respiration** are quite impressive. Garmin Venu has **five days of battery life** and consists of **storage for music files**. The proprietary **Garmin Pay app** serves pretty well for **contactless mobile payments**.
+The **built in GPS tracking** of <a href="https://watchnationpro.com/garmin-venu-review">Garmin Venu</a> is tested to be **accurate** that provides data on location and navigation. New **features related to breathing and respiration** are quite impressive. Garmin Venu has **five days of battery life** and consists of **storage for music files**. The proprietary **Garmin Pay app** serves pretty well for **contactless mobile payments**.
 
 <b>Pricing</b>
 <div class="w3-light-grey"><div class="w3-container w3-green" style="width:80%">8.0 Rating</div></div>
@@ -439,7 +439,7 @@ Fitbit Sense comes with a **price tag of around $280 to $330**, having bands mad
 
 ECG sensor, optical heart rate monitoring sensor to track pulses, stress monitoring app EDA are the highlights in Fitbit Sense similar to Fitbit versa series.
 
-<a href="https://www.watchnationpro.com/fitbit-sense-review">Fitbit Sense</a> has an **excellent battery (around six days of battery life)**. The **time taken to charge is less, approximately 12 minutes only**. Similar to Fitbit Versa 2, it has Fitbit Pay. You can add your card details to Fitbit Pay to the Fitbit Pay app.
+<a href="https://watchnationpro.com/fitbit-sense-review">Fitbit Sense</a> has an **excellent battery (around six days of battery life)**. The **time taken to charge is less, approximately 12 minutes only**. Similar to Fitbit Versa 2, it has Fitbit Pay. You can add your card details to Fitbit Pay to the Fitbit Pay app.
 
 The GPS tracking helps you **track gps location** on your runs and travels. It's a **waterproof model** that allows you to swim carefree.
 
@@ -503,7 +503,7 @@ The GPS tracking helps you **track gps location** on your runs and travels. It's
 ### ✅No. 5 Huawei GT 2
 {% include image.html img="huawei-gt-2.webp" align="right" %}
 
-<a href="https://www.watchnationpro.com/huawei-gt-2-review">Huawei GT 2</a> is the **successor of Huawei GT**, is apt for people who look for fitness tracking and sporty style. Coming with a **price tag between $250 to $279** and loaded with **Lite OS**, Huawei has added some more features that are missing in Huawei GT. The **Kirin Chip** supports fitness tracking well and the built in GPS feature is excellent. The fitness features like **heart rate monitoring sensor is on par** to the industry standards. The **sleep tracking** and **stress management tracking are also pretty good**.
+<a href="https://watchnationpro.com/huawei-gt-2-review">Huawei GT 2</a> is the **successor of Huawei GT**, is apt for people who look for fitness tracking and sporty style. Coming with a **price tag between $250 to $279** and loaded with **Lite OS**, Huawei has added some more features that are missing in Huawei GT. The **Kirin Chip** supports fitness tracking well and the built in GPS feature is excellent. The fitness features like **heart rate monitoring sensor is on par** to the industry standards. The **sleep tracking** and **stress management tracking are also pretty good**.
 
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnphuaweigt2" blank="true" %}
 
@@ -1208,7 +1208,7 @@ The products of the above brands do have a very good reputation in the market to
 
 Of course! Performance tests have proven smartwatches are the unsurpassed solution that improves lifestyle apart from smartphones.
 
-The people who are using the smartwatch showed significant <a href="https://www.watchnationpro.com/smartwatch-for-women-benefits/">benefits</a> in work, family, and health factors and overall improvements to the lifestyle compared to the control group.
+The people who are using the smartwatch showed significant <a href="https://watchnationpro.com/smartwatch-for-women-benefits/">benefits</a> in work, family, and health factors and overall improvements to the lifestyle compared to the control group.
 The best place to buy a smartwatch is directly from the manufacturer or on Amazon, because of the following reasons:
 
 * Ensures you avoid a counterfeit product
@@ -1265,9 +1265,9 @@ Features like long battery life, water-resistant, other devices compatibility, A
 ### Post Author
 #### Sarah Hollen
 {% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
-Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://www.watchnationpro.com/about-us/">here</a>.
+Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://watchnationpro.com/about-us/">here</a>.
 
-<b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
+<b><a href="https://watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
 
 <a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
 <a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>

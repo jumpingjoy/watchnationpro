@@ -290,7 +290,7 @@ Apps for outdoor activities such as running, walking, Biking, etc., are availabl
 ## How does it work?
 
 Kate Spade Scallop 2 comes from the well-known and traditional Kate Spade loaded with fashionable features for women.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sPPQ_B0orog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/sPPQ_B0orog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Where can I buy this product?
 
@@ -310,14 +310,14 @@ Smart features such as GPS, an In-built heart rate sensor, NFC for Google Pay ar
 
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpkatespade" blank="true" %}
 
-If you feel that this watch does not suit your need, we have reviewed other <u><a href= "https://www.watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
+If you feel that this watch does not suit your need, we have reviewed other <u><a href= "https://watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
 
 ### Post Author
 #### Sarah Hollen
 {% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
-Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://www.watchnationpro.com/about-us/">here</a>.
+Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://watchnationpro.com/about-us/">here</a>.
 
-<b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
+<b><a href="https://watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
 
 <a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
 <a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>

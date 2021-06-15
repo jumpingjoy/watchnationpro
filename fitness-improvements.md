@@ -82,7 +82,7 @@ schemadotorg:
 
 ## Dangers and Facts about Calorie and Obesity
 
-<a href="https://www.healthline.com/health/obesity-facts#6.-Obesity-causes-more-deaths-than-being-underweight." target="_blank">High calorie and obesity</a> is can lead to medical complications and its increasing year on year.
+<a href="https://healthline.com/health/obesity-facts#6.-Obesity-causes-more-deaths-than-being-underweight." target="_blank">High calorie and obesity</a> is can lead to medical complications and its increasing year on year.
 
 * Americans are eating 23% percent more calories than what they did in 1970.
 * More than one-third of adults present in the US are obese.
@@ -94,7 +94,7 @@ schemadotorg:
 
 ## Dangers and Facts about Heart Disease
 
-<a href="https://www.rainn.org/statistics/victims-sexual-violence" target="_blank">Heart disease</a> is the leading cause of death for women, men, and counts of most racial and ethnic groups in the US.
+<a href="https://rainn.org/statistics/victims-sexual-violence" target="_blank">Heart disease</a> is the leading cause of death for women, men, and counts of most racial and ethnic groups in the US.
 
 * In the US, a person dies every 36 seconds in US because of cardiovascular disease.
 * Each year, about 655,000 Americans die from heart disease. That’s one person in every four deaths die because of heart disease.
@@ -117,7 +117,7 @@ Physicians diagnosed her with hyperthyroidism, a condition in which the thyroid 
 
 "I'm not someone who checks their heart rate randomly," Hendershot says. "So I'm very confident that I would not have been able to discover it with no Apple Watch."
 
-Have a look at other stories on <a href="https://www.cnet.com/news/apple-watch-lifesaving-health-features-read-5-peoples-stories/" target="_blank">how smartwatch saved many people's life</a>
+Have a look at other stories on <a href="https://cnet.com/news/apple-watch-lifesaving-health-features-read-5-peoples-stories/" target="_blank">how smartwatch saved many people's life</a>
 
 ## Apple Health: How to Use for Fitness Tacking?
 
@@ -138,26 +138,26 @@ You can download it on your Apple Watch, which makes it a fantastic overview of 
 
 You can set up the Apple Health in Apple watch by following the procedure given in this video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IGsRxmC40Bw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/IGsRxmC40Bw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Samsung Health: How to Use for Fitness Tracking?
 
-You can You can follow the instruction provided in <a href="https://www.samsung.com/au/support/mobile-devices/setup-womens-health/" target="_blank"><u>Samsung Health Fitness Tracking</u></a> to track your periods cycle given in this video:
+You can You can follow the instruction provided in <a href="https://samsung.com/au/support/mobile-devices/setup-womens-health/" target="_blank"><u>Samsung Health Fitness Tracking</u></a> to track your periods cycle given in this video:
 
-You can follow the instruction provided <a href="https://www.samsung.com/au/support/mobile-devices/using-samsung-health-app-on-wearable/" target="_blank">here</a>
+You can follow the instruction provided <a href="https://samsung.com/au/support/mobile-devices/using-samsung-health-app-on-wearable/" target="_blank">here</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0UQ6xz0_wPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/0UQ6xz0_wPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Final Thoughts
 
-Our advice is to utilize the tracker to get a month to see where you're at now, what is possible, and what you may want to achieve in the long run. So much is said for continuously improving and upgrading; perhaps you just want to watch, monitor, or merely for things to stay how they are and to aim for more balance instead. Along with fitness, safety precautions is also another major <a href= "https://www.watchnationpro.com/smartwatch-for-women-benefits/">benefit for women</a> that can be achieved through smartwatches.
+Our advice is to utilize the tracker to get a month to see where you're at now, what is possible, and what you may want to achieve in the long run. So much is said for continuously improving and upgrading; perhaps you just want to watch, monitor, or merely for things to stay how they are and to aim for more balance instead. Along with fitness, safety precautions is also another major <a href= "https://watchnationpro.com/smartwatch-for-women-benefits/">benefit for women</a> that can be achieved through smartwatches.
 
 ### Post Author
 #### Sarah Hollen
 {% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
-Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://www.watchnationpro.com/about-us/">here</a>.
+Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://watchnationpro.com/about-us/">here</a>.
 
-<b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
+<b><a href="https://watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
 
 <a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
 <a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>

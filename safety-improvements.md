@@ -81,7 +81,7 @@ schemadotorg:
 
 ## Dangers and Facts about Falling
 
-<a href="https://www.cdc.gov/homeandrecreationalsafety/falls/adultfalls.html" target="_blank">Falling</a> is considered more dangerous which can bring a family to a standstill.
+<a href="https://cdc.gov/homeandrecreationalsafety/falls/adultfalls.html" target="_blank">Falling</a> is considered more dangerous which can bring a family to a standstill.
 
 * One out of five falls causes a very severe injury such as head injury or broken bones.
 * Over 95% of hip fractures are due to falling, generally by falling sideways.
@@ -94,7 +94,7 @@ schemadotorg:
 ### Case Study: How Apple Watch Saved the life
 Have a look at the following video on how the apple watch saved life during an emergency.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvmqqh1xIs4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/jvmqqh1xIs4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Dangers and Facts about Stalking and Sexual Violence
 
@@ -103,7 +103,7 @@ Have a look at the following video on how the apple watch saved life during an e
 * Strangers are reported as the perpetrator of stalking in less than 25% of stalking cases. (CDC, 2014)
 * 88% of female stalking survivors said that the person stalking them was male. (CDC, 2014)
 
-<a href="https://www.rainn.org/statistics/victims-sexual-violence" target="_blank">Sexual violence</a> is yet another problems women face in terms of safety.
+<a href="https://rainn.org/statistics/victims-sexual-violence" target="_blank">Sexual violence</a> is yet another problems women face in terms of safety.
 
 * On an average, there are 433,648 victims of rape and sexual assault (age 12 or older) each year in the United States.
 * One out of every six American women is the victim of an attempted or completed rape in her lifetime (14.8% completed, 2.8% attempted)
@@ -114,26 +114,26 @@ Have a look at the following video on how the apple watch saved life during an e
 
 You can set up the fall detection in Apple watch by following the procedure given in this video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eooh2jLA2sQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/eooh2jLA2sQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### How to Use the SOS Emergency Feature in Apple Watch?
 
 You can follow the instruction provided <a href="https://support.apple.com/en-us/HT206983" target="_blank">here</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rcqxl4s_dow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/rcqxl4s_dow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Safety Features in Samsung Watch
 
 ### How to Use the Fall Detection Feature in Samsung Watch?
-You can follow the instruction provided <a href="https://www.tizenhelp.com/ecg-fall-detection-on-galaxy-watch/" target="_blank">here</a>
+You can follow the instruction provided <a href="https://tizenhelp.com/ecg-fall-detection-on-galaxy-watch/" target="_blank">here</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mO-dmEVrnLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/mO-dmEVrnLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### How to Use the SOS Emergency Feature in Samsung Watch?
 
 You can follow the <a href="https://support.apple.com/en-us/HT206983" target="_blank">Enable SOS Emergency Feature in Samsung Watch</a> here.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8WJ4Mnjbtik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/8WJ4Mnjbtik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What Precautions or Tips Women Must Take When Having Safety Issues?
 
@@ -160,14 +160,14 @@ Whether you have a drop sensor or not, you'll find things you can do to stop fal
 
 ## Final Thoughts
 
-Ensuring safety is also a critical factor that makes the life of women better. Smartwatch can make it better to have <a href= "https://www.watchnationpro.com/smartwatch-for-women-benefits/">benefit for women</a> that can be got by using smartwatches.
+Ensuring safety is also a critical factor that makes the life of women better. Smartwatch can make it better to have <a href= "https://watchnationpro.com/smartwatch-for-women-benefits/">benefit for women</a> that can be got by using smartwatches.
 
 ### Post Author
 #### Sarah Hollen
 {% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
-Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://www.watchnationpro.com/about-us/">here</a>.
+Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://watchnationpro.com/about-us/">here</a>.
 
-<b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
+<b><a href="https://watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
 
 <a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
 <a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>

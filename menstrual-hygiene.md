@@ -89,7 +89,7 @@ Perimenopausal
 As per WomensHealth.gov, heavy period with pain or irregularity affect 14 percent of females. Moreover, a 2012 study has found that 32 to 40 percent of people who have periods report that the pain is so severe and tend to miss school, college, or work.
 
 ### What are the period-related Medical Conditions?
-The most common <a href="https://www.healthline.com/health/facts-statistics-menstruation#Cost" target="_blank">Menstrual related health conditions</a> include the following:
+The most common <a href="https://healthline.com/health/facts-statistics-menstruation#Cost" target="_blank">Menstrual related health conditions</a> include the following:
 
 * Endometriosis
 * Uterine fibroid
@@ -103,7 +103,7 @@ Remember when Apple HealthKit launched in 2014 claiming to provide "your entire 
 
 The backlash was swift as consumers predicted the iPhone maker for overlooking the needs of the female half of its client base. Apple learned from its mistakes.
 
-When iOS 9 rolled out a year after, it upgraded the HealthKit program to <a href="https://www.macstories.net/stories/apples-cycle-tracking-a-personal-review/">track menstrual period</a> also.   
+When iOS 9 rolled out a year after, it upgraded the HealthKit program to <a href="https://macstories.net/stories/apples-cycle-tracking-a-personal-review/">track menstrual period</a> also.   
 
 The Apple Health app now lets women input their reproductive health data, such as:
 * Menstruation cycles
@@ -117,9 +117,9 @@ Basal body temperature helps you to have an educated guess on your ovulation per
 
 Cycle tracking is enabled when you have defined your gender as a female in your profile.
 
-You can You can follow the instruction provided in <a href="https://www.samsung.com/au/support/mobile-devices/setup-womens-health/" target="_blank">set up and use Apple Health Cycle tracking App </a> to track your periods cycle given in this video:
+You can You can follow the instruction provided in <a href="https://samsung.com/au/support/mobile-devices/setup-womens-health/" target="_blank">set up and use Apple Health Cycle tracking App </a> to track your periods cycle given in this video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j4NyCEHKrPg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/j4NyCEHKrPg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Read the Detailed review of How the Period tracker performs.
 
@@ -128,7 +128,7 @@ Samsung Health has partnered with Glow to forecast your upcoming fertile windows
 * You can download it in your Samsung Watch, which provides you an overview of your general period-related data.
 * Follow the Samsung set up women's health guide to learn how to set up and use Women's Health via the Samsung Health app.
 
-You can follow the instruction provided <a href="https://www.samsung.com/au/support/mobile-devices/setup-womens-health/" target="_blank">here</a>
+You can follow the instruction provided <a href="https://samsung.com/au/support/mobile-devices/setup-womens-health/" target="_blank">here</a>
 
 ## Fitbit Versa App: How to use?
 Fitbit is taking on Apple with the Versa, its new smartwatch about half its Apple Watch price. It is designed with girls in mind, adding on female health tracking like:
@@ -140,7 +140,7 @@ Fitbit is taking on Apple with the Versa, its new smartwatch about half its Appl
 
 Click on the <a href="https://help.fitbit.com/articles/en_US/Help_article/2332.htm" target="_blank"><u>Fitbit Versa App instruction</u></a> provided.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ceBCk97eak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/2ceBCk97eak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 7 Period Tracking Apps (free) for Both iOS and Android
 
@@ -187,14 +187,14 @@ Using two pads is not better than using one. Some women who experience heavy flo
 while altering your sanitary pad is vital, it is also essential to wear something cozy nowadays. Tight thongs or underwear made of cloth that doesn't allow your skin to breathe will also lead to infections. Adhere to clean and comfortable cotton knickers that don't adhere to your skin.
 
 ## Final Thoughts
-The menstrual cycle is an important health factor that needs utmost care, and everything has been kept in check to have a healthy lifestyle. Apart from tracking the menstrual cycle, there are other <a href= "https://www.watchnationpro.com/smartwatch-for-women-benefits/">smartwatch benefits for women</a> that must be considered to have a better life.
+The menstrual cycle is an important health factor that needs utmost care, and everything has been kept in check to have a healthy lifestyle. Apart from tracking the menstrual cycle, there are other <a href= "https://watchnationpro.com/smartwatch-for-women-benefits/">smartwatch benefits for women</a> that must be considered to have a better life.
 
 ### Post Author
 #### Sarah Hollen
 {% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
-Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://www.watchnationpro.com/about-us/">here</a>.
+Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://watchnationpro.com/about-us/">here</a>.
 
-<b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
+<b><a href="https://watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
 
 <a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
 <a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>

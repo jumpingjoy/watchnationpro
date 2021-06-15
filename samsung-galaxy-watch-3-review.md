@@ -367,7 +367,7 @@ Accelerometer, Barometer, Ambient light sensor, and more are more helpful in out
 
 ## How does it work?
 Samsung Galaxy Watch 3 comes from the well-known brand Samsung, loaded with sensible features for women.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jdPp0JkY89c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/jdPp0JkY89c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Where can I buy this product?
 
@@ -380,17 +380,17 @@ If you have been searching for the best cost, click through our verified supplie
 ## Final Words:
 The Samsung Galaxy Watch 3 is standing out in the wearable market. There are huge number of stylish smartwatches and outstanding fitness trackers to choose, and Samsung has a balance between the two.  
 
-The fact is that the Galaxy Watch 3 is more expensive than the Galaxy Watches and Wear OS Fossil options before it. The Samsung Galaxy Watch 3 looks to be more leaning towards lifestyle than fitness <a href="https://www.healthline.com/health/fitness-exercise">(1)</a>. We cant suggest to replace Apple Watch with an Android one at the same price. But if you have an Android phone, especially a smartphone made by Samsung—and want an extension of it on your wrist, you will not find anything more stylish and powerful smartwatch than the Galaxy Watch 3.
+The fact is that the Galaxy Watch 3 is more expensive than the Galaxy Watches and Wear OS Fossil options before it. The Samsung Galaxy Watch 3 looks to be more leaning towards lifestyle than fitness <a href="https://healthline.com/health/fitness-exercise">(1)</a>. We cant suggest to replace Apple Watch with an Android one at the same price. But if you have an Android phone, especially a smartphone made by Samsung—and want an extension of it on your wrist, you will not find anything more stylish and powerful smartwatch than the Galaxy Watch 3.
 <!--external link inserted above-->
 
-If you feel that the cost is over the board, we have reviewed other cost effective<u><a href= "https://www.watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
+If you feel that the cost is over the board, we have reviewed other cost effective<u><a href= "https://watchnationpro.com/">best smartwatches for women</a><u> which you can check out.
 
 ### Post Author
 #### Sarah Hollen
 {% include image.html img="sarah-hollen.webp" alt="Sarah-Hollen" caption="Sarah Hollen" align="left" %}
-Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://www.watchnationpro.com/about-us/">here</a>.
+Sarah Hollen is the main author of WatchNationPro. She is also a technology and fitness enthusiast. She spends her time reading, playing tennis and doing exercise. You can find more about her <a href="https://watchnationpro.com/about-us/">here</a>.
 
-<b><a href="https://www.watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
+<b><a href="https://watchnationpro.com/authors/sarah-hollen/">See author's posts</a></b>
 
 <a href="{{ author.twitter }}" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
 <a href="{{ author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>
