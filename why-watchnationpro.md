@@ -28,4 +28,4 @@ We have knowledgeable **recommendations for all types and preferences**, and we 
 
 Besides the best smartwatch reviews, we **provide in-depth information** on the products and provide a **comprehensive comparison between a product and its competitors**. Our reviews explain the technical details in detail and provide you a highly reputable place to purchase the products. We strive to be your source for information and a top spot for smartwatch reviews.
 
-We will cover all the types of activities, roles, professions in our website and learn how smartwatches help resolve these challenges and benefit all of us. You can check out our page on <a href="https://watchnationpro.com/>"What is the Best Smartwatches? Reviews, Ratings & Buying Guide</a> to get started with.
+We will cover all the types of activities, roles, professions in our website and learn how smartwatches help resolve these challenges and benefit all of us. You can check out our page on <a href="https://watchnationpro.com">What is the Best Smartwatches? Reviews, Ratings & Buying Guide</a> to get started with.
