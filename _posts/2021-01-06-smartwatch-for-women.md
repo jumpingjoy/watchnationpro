@@ -9,57 +9,74 @@ author: sarah hollen
 ---
 Womens watches need some special features to make your life experience easier than ever.
 
-Here we have listed the best smartwatch for women with all the necessary facilities required in for household and outdoor activities.
+Here we have listed the best smartwatch for women with all the necessary facilities required for household and outdoor activities of women and ladies.
 
 Here are some of the important facilities that make a watch great for women;
 
-GPS and compass
-The sun and moon phase
-Compatibility with Android and iOS devices
-Altimeter, barometer, and all other necessary sensors
-Water-resistance
+* Menstrual trackers
+* Health trackers
+* Water-resistance
+* GPS and compass
 
-These are the features that must be included in every outdoor hunting and fishing watch that makes them best.
+## Who and Why a Women Needs a Smartwatch?
+Many women or ladies love to wear a watch for the functional aspect or to look fashionable. What generally looks great on anyone's wrist.
 
-### Why do you need a womens smartwatch?
-To better understand the benefits of smartwatches, we must know about the various challenges that ladies and elderly women face in day-to-day life and learn how smartwatches help resolve these challenges.
+Nowadays, watches are becoming less popular due to the advancement in smartphones. No one feels the need to buy a watch when their smartphones tell time, has an alarm with a synchronized calendar. Therefore we can see a decline in watch sales for the last few years.
 
-#### 1. Miss your health?: Use Smartwatch health Tracking Features
-{% include image.html img="women-missing-exercise.webp" alt="Women-missing-exercise" caption="Missing Exercise?" align="left" %}
-You may not find time to exercise due to household things and caring for family and children which may lead to obesity. More than one-third of adults present in the US are obese. Obesity is known to have caused more deaths than being underweight. You can have smartwatch which can help you get reminded of your exercises and workouts, and the health tracking features of the smartwatch can provide you workouts statistics.
+You must be feeling the need to buy a smartwatch because it offers some things that a smartphone cannot offer. You will be looking at what these smartwatches can offer extra in this article.
 
-#### 2. Do you travel alone and some strangers stalk you?: Emergency SOS alert your friends/family and police
-{% include image.html img="stranger-danger.webp" alt="Stranger danger" caption="dangers of stranger?" align="right" %}
-You may be stalked by someone when you return from the office or travel alone. __ number of women are reported to stalk daily. — number of women are kidnapped and raped daily world over. Safety is the most important concern for women and ensures all precautions are taken care of while traveling. GPS tracking and navigation in smartwatch can help you during need.
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Who Needs smartwatch?</th>
+   <th>Why do you need smartwatch?</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td><b>Women with Menstrual problems</b></td>
+   <td>Difficulty with irregular cycles?: Get reminded of menstrual dates with a smartwatch. You can be missing your reminder on your menstrual cycle’s dates. Stress management is difficult  during the menstrual time, resulting in decreased work productivity during office hours. If menstrual hygiene is not properly maintained may lead to medical complications such as uterine fibroids, endometriosis, PMDD, menorrhagia, etc. If a gadget like a girls smartwatch can assist you, you can pre-plan your leaves and rest at home to maintain your hygiene.
+   </td>
+ </tr>
+ <tr>
+   <td><b>Women with health/fitness issues</b></td>
+   <td>You may not find time to exercise due to household things and caring for family and children which may lead to obesity. More than one-third of adults present in the US are obese. Obesity is known to have caused more deaths than being underweight. You can have smartwatch which can help you get reminded of your exercises and workouts, and the health tracking features of the smartwatch can provide you workouts statistics.
+   </td>
+ </tr>
+ <tr>
+   <td><b>Women who travels</b></td>
+   <td> Do you travel alone and some strangers stalk you?: Emergency SOS alert your friends/family and police. You may be stalked by someone when you return from the office or travel alone. __ number of women are reported to stalk daily. — number of women are kidnapped and raped daily world over. Safety is the most important concern for women and ensures all precautions are taken care of while traveling. GPS tracking and navigation in smartwatch can help you during need. GPS can let your family know where you are.
+   </td>
+ </tr>
+ <tr>
+   <td><b>Women who multitask</b></td>
+   <td>Are you a working person who multitask? Whenever you are working or driving, you might find it difficult to take calls through mobile might be difficult for you. You may avoid using the phone to the maximum. You may find it challenging to handle your kid, your office bag, and your mobile phone at the same time amid congestion. Even if you use your earphone headset, you might find it challenging to handle it. While using a headset, you cannot initiate calls through the headset.
+   </td>
+ </tr>
+ <tr>
+   <td><b>Women with thin wrist</b></td>
+   <td>If you wear your watch too tight, you may have the following problems:
 
-#### 3. Do you find it difficult to hold a smartphone and multi-task?: Avoid using the phone to the maximum
-{% include image.html img="multitasking-women.webp" alt="multitasking-women" caption="Finding difficult to multitask?" align="left" %}
-Are you a working person who travels frequently? Whenever you are traveling, you might find it difficult to take calls through mobile might be difficult for you.
+   - Limits your wrist’s ability to move freely.
+   - Restrict blood flow in your arms and get marks on your wrists.
+   - Wearing a watch tight increases the stress on the bracelet and the risk of breaking is high
+   </td>
+ </tr>
+ <tr>
+   <td><b>Women who attends events</b></td>
+   <td>Is your Smartwatch looking odd with your clothes?
 
-You may find it challenging to handle your kid, your office bag, and your mobile phone at the same time amid congestion. Even if you use your earphone headset, you might find it challenging to handle it. While using a headset, you cannot initiate calls through the headset. GPS can let your family know where you are.
+   You may go to a party, and feel embarrassed when someone notices your watch look odd to your wrist size or outfits. Some do not have the option to change the watch band options or strap according to the outfits.
+   </td>
+ </tr>
+ </tbody>
+</table>
+</div>
 
-#### 4. Is your Smartwatch too tight or loose on your wrist, or looks odd with your clothes?
-{% include image.html img="misfit-watch.webp" alt="misfit-watch" caption="Misfit Watch?" align="right" %}
+## Quick List - Best Smartwatches for women in 2021
 
-asdfasdfasdfasdf
-
-#### 5. Difficulty with irregular cycles?: Get reminded of menstrual dates with a smartwatch
-{% include image.html img="menstruation.webp" alt="menstruation" caption="Tracking Menstrual Cycle" align="right" %}
-You can be missing your reminder on your menstrual cycle’s dates. Stress management is difficult  during the menstrual time, resulting in decreased work productivity during office hours. If menstrual hygiene is not properly maintained may lead to medical complications such as uterine fibroids, endometriosis, PMDD, menorrhagia, etc. If a gadget like a girls smartwatch can assist you, you can pre-plan your leaves and rest at home to maintain your hygiene.
-
-If you wear your watch too tight, you may have the following problems:
-
-- Limits your wrist’s ability to move freely.
-- Restrict blood flow in your arms and get marks on your wrists.
-- Wearing a watch tight increases the stress on the bracelet and the risk of breaking is high
-
-You may go to a party, and feel embarrassed when someone notices your watch look odd to your wrist size or outfits. Some do not have the option to change the watch band options or strap according to the outfits.
-
-Do you face any other difficulty as a man, woman, kid, or elderly person that can be solved through a smartwatch?
-
-## Quick List of Top Rated Smartwatches for women in 2021
-
-​We have provided a **list of the best smartwatches** available in the market.
+​We have provided a **list of the best smartwatches for women** available in the market.
 
 <div>
 <table>
