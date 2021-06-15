@@ -1,5 +1,5 @@
 ---
 tag: features
 permalink: "/category/features/"
-weight: 5
+weight: 6
 ---

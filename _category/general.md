@@ -1,5 +1,5 @@
 ---
 tag: general
 permalink: "/category/general/"
-weight: 6
+weight: 10
 ---

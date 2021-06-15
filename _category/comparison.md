@@ -1,5 +1,5 @@
 ---
 tag: comparison
 permalink: "/category/comparison/"
-weight: 4
+weight: 7
 ---
