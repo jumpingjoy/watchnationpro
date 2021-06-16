@@ -349,7 +349,7 @@ The **built in GPS tracking** of <a href="https://watchnationpro.com/garmin-venu
 
 Fitbit Sense is **well known for its fitness features and health tracking** features backed by all the sensors that are not available in other models like Versa 2.
 
-Fitbit Sense comes with a **price tag of around $280 to $330**, having bands made of with **2 kinds of stainless steel**. It has **AMOLED style** display with 40mm size case. Fitbit Sense consists of **advanced fitness trackers** when compared to Fitbit versa 3 and Fitbit Versa 2  like **heart rate monitor, sleep tracking and sleep metrics, health trackers, and menstrual cycle tracking**.
+Fitbit Sense comes with a **price tag of around $280 to $330**, having bands made of with **2 kinds of stainless steel**. It has **AMOLED style** display with 40mm size case. Fitbit Sense consists of **advanced fitness trackers** when compared to Fitbit versa 3 and Fitbit Versa 2  like **heart rate monitor, sleep tracking and sleep metrics, health trackers**.
 
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpfitbitsense" blank="true" %}
 
