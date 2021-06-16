@@ -71,7 +71,8 @@ While there are many great smartwatches currently on the market, no other brand 
 
 ## What are the Key Features of Apple Watch Series 6 and its Performance?
 
-<div class = "scroll">
+
+<div>
  <table>
    <tr>
      <th colspan = "2" class = "top">
@@ -84,10 +85,10 @@ While there are many great smartwatches currently on the market, no other brand 
    </colgroup>
    <tbody>
    <tr>
-     <td class = "left">
+     <td class = "pros-black">
        Pros
      </td>
-     <td class = "right r-bor">
+     <td class = "cons-blue">
        Cons
      </td>
    </tr>
@@ -112,7 +113,7 @@ While there are many great smartwatches currently on the market, no other brand 
    </tr>
    </tbody>
  </table>
- </div>
+</div>
 
 ### Apple Watch Series 6 Review: Quick and Important Factors Checked
 
