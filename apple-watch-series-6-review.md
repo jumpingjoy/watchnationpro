@@ -515,7 +515,7 @@ If you have been searching for the best cost, click through our verified supplie
 
 {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
 
-## Final Words:
+## Final Words
 
 The primary consideration to buy Apple Watch Series 6 is that despite having the new sensors packed with the latest technologies which makes you feel like a tick-box exercise, you cannot find a better smartwatch models on the market. It is just that this time around, it offers many features you’ll want, along with many that you aren’t aware you’d wish to, plus lots that you’ll never use.
 
