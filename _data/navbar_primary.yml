@@ -23,14 +23,14 @@ center:
         url: /kate-spade-scallop-2-review/
 
   - title: Smartwatch Benefits
-    url: /smartwatch-benefits-for-women/
+    url: /smartwatch-benefits/
     dropdown:
       - title: Menstrual Hygiene
-        url: /smartwatch-benefits-for-women/menstrual-hygiene/
+        url: /smartwatch-benefits/menstrual-hygiene/
       - title: Fitness Improvements
-        url: /smartwatch-benefits-for-women/fitness-improvements/
+        url: /smartwatch-benefits/fitness-improvements/
       - title: Safety Improvements
-        url: /smartwatch-benefits-for-women/safety-improvements/
+        url: /smartwatch-benefits/safety-improvements/
 
   - title: Where To Buy
     url: /where-to-buy-smartwatch/

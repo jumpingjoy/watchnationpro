@@ -2,10 +2,10 @@
 title: How to Use Smartwatches to Improve Ladies Fitness
 description:  We tested out various Fitness related smartwatch apps available. Find out the FREE...
 sidebar: right
-permalink: /smartwatch-benefits-for-women/fitness-improvements/
+permalink: /smartwatch-benefits/fitness-improvements/
 schemadotorg:
 - "@context": http://schema.org/
-  mainEntityOfPage: https://watchnationpro.com/smartwatch-benefits-for-women/fitness-improvements/
+  mainEntityOfPage: https://watchnationpro.com/smartwatch-benefits/fitness-improvements/
   "@type": Article
   headline: 'How to Use Smartwatches to Improve Ladies Fitness'
   datePublished: '2020-09-17'
@@ -40,19 +40,19 @@ schemadotorg:
     publisher:
       "@id": https://watchnationpro.com/#organization
   - "@type": WebPage
-    "@id": https://watchnationpro.com/smartwatch-benefits-for-women/fitness-improvements/#webpage
-    url: https://watchnationpro.com/smartwatch-benefits-for-women/fitness-improvements/
+    "@id": https://watchnationpro.com/smartwatch-benefits/fitness-improvements/#webpage
+    url: https://watchnationpro.com/smartwatch-benefits/fitness-improvements/
     inLanguage: en-US
     name: 'How to Use Smartwatches to Improve Ladies Fitness'
     isPartOf:
       "@id": https://watchnationpro.com/#website
     breadcrumb:
-      "@id": https://watchnationpro.com/smartwatch-benefits-for-women/fitness-improvements/#breadcrumblist
+      "@id": https://watchnationpro.com/smartwatch-benefits/fitness-improvements/#breadcrumblist
     description: We tested out various Fitness related smartwatch apps available. Find out the FREE...
     datePublished: '2020-12-28T12:02:42+00:00'
     dateModified: '2021-05-14T00:53:16+00:00'
   - "@type": BreadcrumbList
-    "@id": https://watchnationpro.com/smartwatch-benefits-for-women/fitness-improvements/#breadcrumblist
+    "@id": https://watchnationpro.com/smartwatch-benefits/fitness-improvements/#breadcrumblist
     itemListElement:
     - "@type": ListItem
       position: 1
@@ -65,15 +65,15 @@ schemadotorg:
       position: 2
       item:
         "@type": WebPage
-        "@id": https://watchnationpro.com/smartwatch-benefits-for-women/
-        url: https://watchnationpro.com/smartwatch-benefits-for-women/
+        "@id": https://watchnationpro.com/smartwatch-benefits/
+        url: https://watchnationpro.com/smartwatch-benefits/
         name: 'How to Use Smartwatches to Improve Ladies Fitness'
     - "@type": ListItem
       position: 3
       item:
         "@type": WebPage
-        "@id": https://watchnationpro.com/smartwatch-benefits-for-women/fitness-improvements/
-        url: https://watchnationpro.com/smartwatch-benefits-for-women/fitness-improvements/
+        "@id": https://watchnationpro.com/smartwatch-benefits/fitness-improvements/
+        url: https://watchnationpro.com/smartwatch-benefits/fitness-improvements/
         name: 'How to Use Smartwatches to Improve Ladies Fitness'
 
 ---

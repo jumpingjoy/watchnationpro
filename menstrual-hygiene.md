@@ -2,10 +2,10 @@
 title: Track Menstrual Cycle to Maintain Hygiene
 description:  There is a limited choice of good menstrual trackers in the market. Find out the FREE...
 sidebar: right
-permalink: /smartwatch-benefits-for-women/menstrual-hygiene/
+permalink: /smartwatch-benefits/menstrual-hygiene/
 schemadotorg:
 - "@context": http://schema.org/
-  mainEntityOfPage: https://watchnationpro.com/smartwatch-benefits-for-women/safety-improvements/
+  mainEntityOfPage: https://watchnationpro.com/smartwatch-benefits/safety-improvements/
   "@type": Article
   headline: 'Track Menstrual Cycle to Maintain Hygiene'
   datePublished: '2020-09-17'
@@ -40,19 +40,19 @@ schemadotorg:
     publisher:
       "@id": https://watchnationpro.com/#organization
   - "@type": WebPage
-    "@id": https://watchnationpro.com/smartwatch-benefits-for-women/menstrual-hygiene/#webpage
-    url: https://watchnationpro.com/smartwatch-benefits-for-women/menstrual-hygiene/
+    "@id": https://watchnationpro.com/smartwatch-benefits/menstrual-hygiene/#webpage
+    url: https://watchnationpro.com/smartwatch-benefits/menstrual-hygiene/
     inLanguage: en-US
     name: 'Track Menstrual Cycle to Maintain Hygiene'
     isPartOf:
       "@id": https://watchnationpro.com/#website
     breadcrumb:
-      "@id": https://watchnationpro.com/smartwatch-benefits-for-women/menstrual-hygiene/#breadcrumblist
+      "@id": https://watchnationpro.com/smartwatch-benefits/menstrual-hygiene/#breadcrumblist
     description: There is a limited choice of good menstrual trackers in the market. Find out the FREE...
     datePublished: '2020-12-28T12:02:42+00:00'
     dateModified: '2021-05-14T00:53:16+00:00'
   - "@type": BreadcrumbList
-    "@id": https://watchnationpro.com/smartwatch-benefits-for-women/menstrual-hygiene/#breadcrumblist
+    "@id": https://watchnationpro.com/smartwatch-benefits/menstrual-hygiene/#breadcrumblist
     itemListElement:
     - "@type": ListItem
       position: 1
@@ -65,15 +65,15 @@ schemadotorg:
       position: 2
       item:
         "@type": WebPage
-        "@id": https://watchnationpro.com/smartwatch-benefits-for-women/
-        url: https://watchnationpro.com/smartwatch-benefits-for-women/
+        "@id": https://watchnationpro.com/smartwatch-benefits/
+        url: https://watchnationpro.com/smartwatch-benefits/
         name: 'Track Menstrual Cycle to Maintain Hygiene'
     - "@type": ListItem
       position: 3
       item:
         "@type": WebPage
-        "@id": https://watchnationpro.com/smartwatch-benefits-for-women/menstrual-hygiene/
-        url: https://watchnationpro.com/smartwatch-benefits-for-women/menstrual-hygiene/
+        "@id": https://watchnationpro.com/smartwatch-benefits/menstrual-hygiene/
+        url: https://watchnationpro.com/smartwatch-benefits/menstrual-hygiene/
         name: 'Track Menstrual Cycle to Maintain Hygiene'
 
 ---
