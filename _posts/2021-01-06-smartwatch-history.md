@@ -1,14 +1,12 @@
 ---
 title: History of Smartwatch
 description:  History of smartwatch
-image: https://source.unsplash.com/j0Deh-kkkFo/1000x750
+image: history-of-smartwatch.webp
 categories: [general]
 tags: [featured]
 hidden: true
 author: sarah hollen
 ---
-History
-
 A digital watch was introduced in history in 1972 for the first time by the Pulsar company. After that, another watch with memory was introduced in 1982 by the Seiko company.
 
 Along with computers, Seiko designed computers in the form of watches with external keyboard 1983 using wireless docking to transfer data from the keyboard to the wearable watch. Seiko released RC series watches. RC-1000 is the first wristwatch that can interface with a computer.

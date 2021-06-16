@@ -106,9 +106,9 @@ You must be feeling the need to buy a smartwatch because it offers some things t
    <td><b>Family Members</b></td>
    <td>You will  need smartwatches to safeguard your family members general wellbeing. If you are wishing to get started as a beginner or play any of the following roles in a family, browse through the following smartwatches for your family general usage to get started with:
    <ul>
-   <a href="https://watchnationpro.com/smartwatch-for-men/"><li>Smartwatch for Men</li></a>
-   <a href="https://watchnationpro.com/smartwatch-for-women/"><li>Smartwatch for Women</li></a>
-   <li>Smartwatch for Toddlers</li>
+   <a href="https://watchnationpro.com/smartwatch-for-men/"><li>Smartwatch for men</li></a>
+   <a href="https://watchnationpro.com/smartwatch-for-women/"><li>Smartwatch for women</li></a>
+   <li>Smartwatch for baby and toddlers</li>
    <li>Smartwatch for kids</li>
    <li>Smartwatch for Teens/college students</li>
    <li>Smartwatch for elderly</li>
