@@ -71,7 +71,6 @@ While there are many great smartwatches currently on the market, no other brand 
 
 ## What are the Key Features of Apple Watch Series 6 and its Performance?
 
-
 <div>
  <table>
    <tr>
