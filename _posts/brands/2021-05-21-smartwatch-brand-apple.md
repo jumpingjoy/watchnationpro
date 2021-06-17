@@ -1,5 +1,5 @@
 ---
-title: Apple
+title: Smartwatch Brand Apple And its History
 description: History of Apple and its line of smartwatches
 image: apple-watch-6.webp
 categories: [brands]
