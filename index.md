@@ -1154,7 +1154,7 @@ But if you go an expert or read an article that is written by a smartwatch exper
 
 Here are some of the best brand of smartwatches that have very good quality:
 
-Apple
+* <a href="https://watchnationpro.com/smartwatch-brand-apple/>Apple</a>
 Samsung
 Fitbit
 Garmin
