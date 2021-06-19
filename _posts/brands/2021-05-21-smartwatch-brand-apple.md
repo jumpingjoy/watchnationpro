@@ -8,11 +8,64 @@ hidden: true
 author: sarah hollen
 ---
 
+## Why You Must Choose Apple Watch Brand
 The Apple Watch has been constantly evolving since it was launched in 2015. More than 33 million Apple Watches have been sold since then, making it the single most successful watch in the world.
 
 Five years is a long time in terms of technology and since 2015, Apple has released a new watch annually. The design has been refined and the features have certainly become more and more advanced.
 
 The Apple Watch has health and fitness at the core, but that’s not all it does. So, let’s dive into its history.
+
+## Quick List - Best Apple Smartwatches
+
+<div>
+<table>
+ <thead>
+ <tr>
+   <th>Product</th>
+   <th>Category</th>
+   <th>Price Range</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+   <td>
+    <b>Apple Watch Series 6</b>
+    {% include image.html img="apple-watch-series-6.webp" align="center" %}
+    {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+    </td>
+   <td>Best Overall Performance</td>
+   <td>$749.00 to $1,499.00</td>
+ </tr>
+
+ <tr>
+   <td>
+    <b>Apple Watch Series 5</b>
+    {% include image.html img="samsung-galaxy-active-3.webp" align="center" %}
+    {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+    </td>
+   <td>Best Smartwatch for Fitness Enthusiast</td>
+   <td>$400 to $479</td>
+ </tr>
+
+  <tr>
+    <td>
+    <b>Apple Watch SE</b>
+    {% include image.html img="garmin-venu.webp" align="center" %}
+    {% include section-ad.html image="CTA-best-price.png" alt="Click for best price" width="" url="https://geni.us/wnpapple" blank="true" %}
+    </td>
+    <td>Best Multisport Smartwatch</td>
+    <td>~$300</td>
+  </tr>
+
+ </tbody>
+</table>
+</div>
+
+## 5 Best Apple Smartwatches
+
+You can find the review of latest <a href="https://watchnationpro.com/apple-watch-series-6-review/>apple watch series</a> and their differences here.
+
+## History of Apple watches
 
 ### The Pioneering Apple Watch of 2015
 The first release features three versions. One was known as the ‘everyman edition’ and was made of stainless steel. The other was the Sport version which had wristbands to appeal to a more sporty audience, made of aluminium. The last was the Apple Watch Edition and this was made of no less than 18 carat gold.
@@ -33,29 +86,30 @@ The next year saw the Series 3 launched. In this version, the biggest differenti
 
 Other benefits included:
 
-Calls and voicemail
-Text messages
-Reminders and alerts
-Map features
-Music streaming
+* Calls and voicemail
+* Text messages
+* Reminders and alerts
+* Map features
+* Music streaming
 
 ### Series 4 (2018)
 The Series 4 had some major improvements, including a larger display at either 40mm or 44mm sizing, rather than the old 38mm or 42mm.
 
 The other big enhancement was the move to an electronic heart sensor (ECG), allowing wearers to know their heart rate at any time. Sure, this wasn’t a wildly new innovation but it had the ability to detect an unusually low or high heart rate, or other odd symptoms – potentially life-saving.
 
-Series 5 (2019)
+### Series 5 (2019)
 The Series 5 is undisputedly the best smartwatch in the world. It took everything that was good in the Series 3 and 4 and formed them into one sensational timepiece.
 
 It looks amazing and offers incredible fitness features to match. Its notifications are slick and the app offering is better than ever. More branded non-native apps are appearing over time and the integration is seamless. Apple Pay is also now more widely accepted than ever.
 
 Benefits:
 
-The titanium edition is the more durable version ever
-Incredibly in-depth fitness and health tracking
-32GB storage built-in
-Always-on screen is a revelation for screen readability in all lighting
-Series 6 (2020)
+* The titanium edition is the more durable version ever
+* Incredibly in-depth fitness and health tracking
+* 32GB storage built-in
+* Always-on screen is a revelation for screen readability in all lighting
+
+### Series 6 (2020)
 The Series 6 was released in September last year. It maintained Apple’s reign as the most popular smartwatch manufacturer on earth. Adding to the excitement was the release of a new iPhone 12 model alongside the watch.
 
 Countup watch face on Apple watch 6
@@ -71,7 +125,6 @@ It’ll be offered in 4 models which are essentially all aluminium but either ce
 
 If you’re not sure which Apple watch is best for you then we have created an easy comparison of all Apple offerings from the first generation to the Series 6 and SE. Check it out here.
 
-## Quick List of Apple Brand Smartwatch
 
 ## Sales Network
 
@@ -97,12 +150,29 @@ How is the brand resale value
 
 ## FAQ
 
-### What is the history of Apple Brand Smartwatches?
+### Why is apple watch so expensive?
 
-A digital watch was introduced in history in 1972 for the first time by the Pulsar company. After that, another watch with memory was introduced in 1982 by the Seiko company.
-
-### What are the advantages of using apple watch?
+### What are the advantages of using apple brand?
 
 ### What are the disadvantages of using apple watch?
 
-### Why is apple watch so expensive?
+<ul uk-accordion>
+    <li>
+        <a class="uk-accordion-title" href="#">Item 1</a>
+        <div class="uk-accordion-content">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+    </li>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">Item 2</a>
+        <div class="uk-accordion-content">
+            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor reprehenderit.</p>
+        </div>
+    </li>
+    <li>
+        <a class="uk-accordion-title" href="#">Item 3</a>
+        <div class="uk-accordion-content">
+            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat proident.</p>
+        </div>
+    </li>
+</ul>
