@@ -1228,20 +1228,36 @@ Also, we have included some particular picks for girls and boys in terms of desi
 
 ## FAQs - Smartwatches
 
-### What is a smartwatch?
-A smartwatch can be considered as a Mini smartphone or a Minicomputer in this 21st century which is highly wearable.
+<ul uk-accordion>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">What is a smartwatch?</a>
+        <div class="uk-accordion-content">
+            <p>A smartwatch can be considered as a Mini smartphone or a Minicomputer in this 21st century which is highly wearable.
 
-Even though laptops and smartphones are handheld devices, you can’t hold laptops & smartphones all the time when you are doing other tasks and monitor activity levels.
+            Even though laptops and smartphones are handheld devices, you can’t hold laptops & smartphones all the time when you are doing other tasks and monitor activity levels.
 
-Smartwatches are lightweight and compact. Smartwatch is suitable to track all the activities as it is connected with your body always.
+            Smartwatches are lightweight and compact. Smartwatch is suitable to track all the activities as it is connected with your body always.</p>
+        </div>
+    </li>
+
+    <li>
+        <a class="uk-accordion-title" href="#">What are the types of smartwatches, and How does it work?</a>
+        <div class="uk-accordion-content">
+            <p>There are two types or kinds of smartwatches available in the market:
+
+            * Smartwatches working connected with smartphones
+            * Standalone Smartwatches (That works independently without smartphones)</p>
+        </div>
+    </li>
+</ul>
+
+###
+
 
 ### Is a smartwatch expensive?
 
-### What are the types of smartwatches, and How does it work?
-There are two types or kinds of smartwatches available in the market:
+###
 
-* Smartwatches working connected with smartphones
-* Standalone Smartwatches (That works independently without smartphones)
 
 #### Smartwatches Working Connected with Smartphones
 This kind of smartwatch is connected to smartphones through Bluetooth. These smartwatches are loaded with necessary sensors and continuously interacts with smartphones.
