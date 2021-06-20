@@ -1243,10 +1243,10 @@ Also, we have included some particular picks for girls and boys in terms of desi
         <a class="uk-accordion-title" href="#">What are the types of smartwatches, and How does it work?</a>
         <div class="uk-accordion-content">
             <p>There are two types or kinds of smartwatches available in the market:
-
+            <ul>
             <li>Smartwatches working connected with smartphones</li>
             <li>Standalone Smartwatches (That works independently without smartphones)</li>
-
+            </ul
             <b>Smartwatches Working Connected with Smartphones</b>
             This kind of smartwatch is connected to smartphones through Bluetooth. These smartwatches are loaded with necessary sensors and continuously interacts with smartphones.
 
