@@ -1246,7 +1246,7 @@ Also, we have included some particular picks for girls and boys in terms of desi
             <ul>
             <li>Smartwatches working connected with smartphones</li>
             <li>Standalone Smartwatches (That works independently without smartphones)</li>
-            </ul
+            </ul>
             <b>Smartwatches Working Connected with Smartphones</b>
             This kind of smartwatch is connected to smartphones through Bluetooth. These smartwatches are loaded with necessary sensors and continuously interacts with smartphones.
 
