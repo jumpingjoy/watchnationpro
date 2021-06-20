@@ -1228,39 +1228,64 @@ Also, we have included some particular picks for girls and boys in terms of desi
 
 ## FAQs - Smartwatches
 
-### What is a smartwatch?
-A smartwatch can be considered as a Mini smartphone or a Minicomputer in this 21st century which is highly wearable.
+<ul uk-accordion>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">What is a smartwatch?</a>
+        <div class="uk-accordion-content">
+            <p>A smartwatch can be considered as a Mini smartphone or a Minicomputer in this 21st century which is highly wearable.
 
-Even though laptops and smartphones are handheld devices, you can’t hold laptops & smartphones all the time when you are doing other tasks and monitor activity levels.
+            Even though laptops and smartphones are handheld devices, you can’t hold laptops & smartphones all the time when you are doing other tasks and monitor activity levels.
 
-Smartwatches are lightweight and compact. Smartwatch is suitable to track all the activities as it is connected with your body always.
+            Smartwatches are lightweight and compact. Smartwatch is suitable to track all the activities as it is connected with your body always.</p>
+        </div>
+    </li>
+    <li>
+        <a class="uk-accordion-title" href="#">What are the types of smartwatches, and How does it work?</a>
+        <div class="uk-accordion-content">
+            <p>There are two types or kinds of smartwatches available in the market:
 
-### Is a smartwatch expensive?
+            <li>Smartwatches working connected with smartphones</li>
+            <li>Standalone Smartwatches (That works independently without smartphones)</li>
 
-### What are the types of smartwatches, and How does it work?
-There are two types or kinds of smartwatches available in the market:
+            <b>Smartwatches Working Connected with Smartphones</b>
+            This kind of smartwatch is connected to smartphones through Bluetooth. These smartwatches are loaded with necessary sensors and continuously interacts with smartphones.
 
-* Smartwatches working connected with smartphones
-* Standalone Smartwatches (That works independently without smartphones)
+            For example, users can take calls on their mobile phones, and users can operate their smartwatch to attend phone calls using the touchscreen or button present on the smartwatches. And also, it enables users to access gps location, texts and messages, emails, media.
 
-#### Smartwatches Working Connected with Smartphones
-This kind of smartwatch is connected to smartphones through Bluetooth. These smartwatches are loaded with necessary sensors and continuously interacts with smartphones.
+            <b>Standalone Smartwatches (Working independently without Smartphones)</b>
+            Standalone Smartwatches are exclusively tech designed to work independently without connecting to a smartphone. They have exclusive in-built sensors that can work with high accuracy mostly used in medical or healthcare, sports, and security forces.
 
-For example, users can take calls on their mobile phones, and users can operate their smartwatch to attend phone calls using the touchscreen or button present on the smartwatches. And also, it enables users to access gps location, texts and messages, emails, media.
+            For example, Fitness Band wearables for Healthcare may not have features like calling functions, smartphone notifications, music, etc.</p>
+        </div>
+    </li>
+    <li>
+        <a class="uk-accordion-title" href="#">Is a smartwatch expensive?</a>
+        <div class="uk-accordion-content">
+            <p>Smartwatches are not much expensive and available in various affordable price ranges. The number of features of the smartwatch and its accuracy is directly proportional to the smartwatch price.</p>
+        </div>
+    </li>
 
-#### Standalone Smartwatches (Working independently without Smartphones)
-Standalone Smartwatches are exclusively tech designed to work independently without connecting to a smartphone. They have exclusive in-built sensors that can work with high accuracy mostly used in medical or healthcare, sports, and security forces.
+    <li>
+        <a class="uk-accordion-title" href="#">How smartwatch is different from standalone fitness bands?</a>
+        <div class="uk-accordion-content">
+            <p>The only difference between the two is that smartwatches can be connected with smartphones and operated, whereas standalone watches can be operated independently. This model is suitable for fitness enthusiasts.</p>
+        </div>
+    </li>
 
-For example, Fitness Band wearables for Healthcare may not have features like calling functions, smartphone notifications, music, etc.
+    <li>
+        <a class="uk-accordion-title" href="#">What is a hybrid watch?</a>
+        <div class="uk-accordion-content">
+            <p>You can choose to select hybrid smartwatch if you need since this hybrid smartwatch models has traditional classic look with advanced digital features.</p>
+        </div>
+    </li>
 
-### How smartwatch is different from standalone fitness bands?
-The only difference between the two is that smartwatches can be connected with smartphones and operated, whereas standalone watches can be operated independently. This model is suitable for fitness enthusiasts.
-
-### What is a hybrid watch?
-You can choose to select hybrid smartwatch if you need since this hybrid smartwatch models has traditional classic look with advanced digital features.
-
-### What are the must-have features in a smartwatch?
-Features like long battery life, water-resistant, other devices compatibility, ABC sensors, sunrise and sunset time, tough body, etc. Without these facilities, the outdoor tasks can face a little bit of difficulty.
+    <li>
+        <a class="uk-accordion-title" href="#">What are the must-have features in a smartwatch?</a>
+        <div class="uk-accordion-content">
+            <p>Features like long battery life, water-resistant, other devices compatibility, ABC sensors, sunrise and sunset time, tough body, etc. Without these facilities, the outdoor tasks can face a little bit of difficulty.</p>
+        </div>
+    </li>
+</ul>
 
 ### Post Author
 #### Sarah Hollen
