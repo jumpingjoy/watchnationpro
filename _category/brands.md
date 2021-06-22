@@ -1,5 +1,5 @@
 ---
 tag: brands
 permalink: "/category/brands/"
-weight: 4
+weight: 2
 ---
