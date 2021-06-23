@@ -98,7 +98,7 @@ You must be feeling the need to buy a smartwatch because it offers some things t
  <thead>
  <tr>
    <th>Who Needs smartwatch?</th>
-   <th>Why do you need smartwatch?</th>
+   <th>What is the context of need for a smartwatch?</th>
  </tr>
  </thead>
  <tbody>
