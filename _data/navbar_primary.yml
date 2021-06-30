@@ -22,8 +22,16 @@ center:
       - title: Kate Spade Scallop 2
         url: /kate-spade-scallop-2-review/
 
+<<<<<<< HEAD
   - title: hearing aid Benefits
     url: /hearing aid-benefits/
+=======
+  - title: Brands
+    url: /category/brands/
+
+  - title: Smartwatch Benefits
+    url: /smartwatch-benefits/
+>>>>>>> b308c9f742257cf91391b42a0760431cd768907b
     dropdown:
       - title: Menstrual Hygiene
         url: /hearing aid-benefits/menstrual-hygiene/
