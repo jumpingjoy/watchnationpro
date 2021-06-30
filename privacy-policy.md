@@ -1,49 +1,49 @@
 ---
-title: Privacy Policy | WatchNationPro
-description:  This is WatchNationPro's privacy policy page.
+title: Privacy Policy | auralgadgets
+description:  This is auralgadgets's privacy policy page.
 sidebar: none
 schemadotorg:
 - "@context": https://schema.org
   "@graph":
   - "@type": Organization
-    "@id": https://watchnationpro.com/#organization
-    url: https://watchnationpro.com/
-    name: WatchNationPro
+    "@id": https://auralgadgets.com/#organization
+    url: https://auralgadgets.com/
+    name: auralgadgets
     sameAs: []
   - "@type": WebSite
-    "@id": https://watchnationpro.com/#website
-    url: https://watchnationpro.com/
-    name: WatchNationPro
+    "@id": https://auralgadgets.com/#website
+    url: https://auralgadgets.com/
+    name: auralgadgets
     publisher:
-      "@id": https://watchnationpro.com/#organization
+      "@id": https://auralgadgets.com/#organization
   - "@type": WebPage
-    "@id": https://watchnationpro.com/privacy-policy/#webpage
-    url: https://watchnationpro.com/privacy-policy/
+    "@id": https://auralgadgets.com/privacy-policy/#webpage
+    url: https://auralgadgets.com/privacy-policy/
     inLanguage: en-US
     name: Privacy Policy
     isPartOf:
-      "@id": https://watchnationpro.com/#website
+      "@id": https://auralgadgets.com/#website
     breadcrumb:
-      "@id": https://watchnationpro.com/privacy-policy/#breadcrumblist
-    description: This is WatchNationPro's privacy policy page.
+      "@id": https://auralgadgets.com/privacy-policy/#breadcrumblist
+    description: This is auralgadgets's privacy policy page.
     datePublished: '2021-04-17T08:23:36+00:00'
     dateModified: '2021-08-10T06:36:35+00:00'
   - "@type": BreadcrumbList
-    "@id": https://watchnationpro.com/privacy-policy/#breadcrumblist
+    "@id": https://auralgadgets.com/privacy-policy/#breadcrumblist
     itemListElement:
     - "@type": ListItem
       position: 1
       item:
         "@type": WebPage
-        "@id": https://watchnationpro.com/
-        url: https://watchnationpro.com/
-        name: WatchNationPro
+        "@id": https://auralgadgets.com/
+        url: https://auralgadgets.com/
+        name: auralgadgets
     - "@type": ListItem
       position: 2
       item:
         "@type": WebPage
-        "@id": https://watchnationpro.com/privacy-policy/
-        url: https://watchnationpro.com/privacy-policy/
+        "@id": https://auralgadgets.com/privacy-policy/
+        url: https://auralgadgets.com/privacy-policy/
         name: Privacy Policy
 
 ---
