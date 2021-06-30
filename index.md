@@ -81,6 +81,58 @@ schemadotorg:
       "@type": Product
       name: Huawei GT 2
       url: https://watchnationpro.com/huawei-gt-2-review/
+      "@context": https://schema.org
+      "@type": WebPage
+      "@id": https://watchnationpro.com/#ContentSchema
+      headline: What are the Best Smartwatches? Reviews, Ratings & Buying Guide
+      url: https://watchnationpro.com/
+      about:
+      - "@type": Thing
+        name: Smartwatches
+        sameAs: https://en.wiki.../Smartwatch
+      - "@type": Thing
+        name: Reviews
+        sameAs: https://en.wiki.../Review
+      - "@type": Thing
+        name: Ratings
+        sameAs: https://en.wiki.../Evaluation
+      mentions:
+      - "@type": Thing
+        name: market
+        sameAs: https://en.wiki.../Market_(economics)
+      - "@type": Thing
+        name: men
+        sameAs: https://en.wiki.../Man
+      - "@type": Thing
+        name: health
+        sameAs: https://en.wiki.../Health
+      - "@type": Thing
+        name: woman
+        sameAs: https://en.wiki.../Woman
+      - "@type": Thing
+        name: choosing
+        sameAs: https://en.wiki.../Choice
+      - "@type": Thing
+        name: calendar
+        sameAs: https://en.wiki.../Calendar
+      - "@type": Thing
+        name: sales
+        sameAs: https://en.wiki.../Sales
+      - "@type": Thing
+        name: smartphone
+        sameAs: https://en.wiki.../Smartphone
+      - "@type": Thing
+        name: article
+        sameAs: https://en.wiki.../Article_(publishing)
+      - "@type": Thing
+        name: Sports
+        sameAs: https://en.wiki.../Sport
+      - "@type": Thing
+        name: feature
+        sameAs: https://en.wiki.../Variable_and_attribute_(research)
+      - "@type": Thing
+        name: Specifications
+        sameAs: https://en.wiki.../Requirement
 
 ---
 {% include image.html img="smartwatch-reviews.webp" alt="Alt for image" caption="" align="center" %}
@@ -118,10 +170,9 @@ You must be feeling the need to buy a smartwatch because it offers some things t
    </td>
  </tr>
  <tr>
-   <td><b>Professional Work</b></td>
+   <td><b>Working Professional</b></td>
    <td>You will need smartwatches to ease/assist you while working. If you are wishing to buy a smartwatch to assist during your professional work, click on any of the following profession which suits you:
    <ul>
-    <li>Smartwatch for Firefighters</li>
     <li>Smartwatch for Doctors</li>
     <li>Smartwatch for Nurses</li>
     <li>Smartwatch for Military</li>
@@ -131,11 +182,14 @@ You must be feeling the need to buy a smartwatch because it offers some things t
     <li>Smartwatch for finance and bankers</li>
     <li>Smartwatch for IT professional</li>
     <li>Smartwatch for Media professional</li>
+    <li>Smartwatch for Chefs/cooks</li>
+    <li>Smartwatch for Fire and Safety Professionals</li>
+    <li>Smartwatch for Law Enforcement Professionals</li>
     </ul>
    </td>
  </tr>
  <tr>
-   <td><b>Sports</b></td>
+   <td><b>Sports Professionals</b></td>
    <td>You will need smartwatches to ease/assist you while you train/get involved in professional/hobby sports. If you are wishing to buy a smartwatch to assist during your professional/hobby sports, click on any of the following sports related roles which suits you:
    <ul>
     <li>Smartwatch for Physical Sports on Land</li>
