@@ -3,6 +3,49 @@ title: What are the Best Smartwatches? Reviews, Ratings & Buying Guide
 sidebar: right
 description: Find Out Which is the BEST Smartwatch on the market in 2021. See Which Ones Have FREE...shipping. Smartwatch helps men, ladies and kids to be better at family, work, health, sports, and more. But, not all are designed the same. We've reviewed and found that...
 schemadotorg:
+- "@context": https://schema.org
+  "@graph":
+  - "@type": Organization
+    "@id": https://watchnationpro.com/#organization
+    url: https://watchnationpro.com/
+    name: WatchNationPro
+    sameAs: []
+  - "@type": WebSite
+    "@id": https://watchnationpro.com/#website
+    url: https://watchnationpro.com/
+    name: WatchNationPro
+    publisher:
+      "@id": https://watchnationpro.com/#organization
+  - "@type": WebPage
+    "@id": https://watchnationpro.com/#webpage
+    url: https://watchnationpro.com/
+    inLanguage: en-US
+    name: 'What is the Best Smartwatches? Reviews, Ratings & Buying Guide'
+    keywords: ["smartwatch for all", "reviews of smartwatch for all"]
+    isPartOf:
+      "@id": https://watchnationpro.com/#website
+    breadcrumb:
+      "@id": https://watchnationpro.com/#breadcrumblist
+    description: Find Out Which is the BEST Smartwatches on the market in 2021. See Which Ones Have FREE...shipping. Smartwatch helps men, ladies and kids to be better at family, work, health, sports, and more. But, not all are designed the same. We've reviewed and found that...
+    datePublished: '2021-06-18T12:01:19+00:00'
+    dateModified: '2021-06-20T04:28:43+00:00'
+  - "@type": BreadcrumbList
+    "@id": https://watchnationpro.com/#breadcrumblist
+    itemListElement:
+    - "@type": ListItem
+      position: 1
+      item:
+        "@type": WebPage
+        "@id": https://watchnationpro.com/#webpage
+        url: https://watchnationpro.com/
+        name: WatchNationPro
+    - "@type": ListItem
+      position: 2
+      item:
+        "@type": WebPage
+        "@id": https://watchnationpro.com/#webpage
+        url: https://watchnationpro.com/
+        name: 'Apple Watch Series 6 Review vs SE vs 3'
 - "@context": http://schema.org
   "@type": ItemList
   name: What's the Best Smartwatches? Reviews, Ratings & Buying Guide
